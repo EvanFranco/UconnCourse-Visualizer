@@ -16,7 +16,7 @@ JSON file entries should also be able to be updated easily in the future, in cas
 | Course Description | `string` | `"Introduction to computing logic, algorithmic thinking, computing processes, a programming language and computing environment. Knowledge obtained in this course enables use of the computer as an instrument to solve computing problems. Representative problems from science, mathematics, and engineering will be solved."` |
 | Credit Count | `int` | `3` |
 | Enrollment Requirement Description | `string` | `"May not be taken out of sequence after passing CSE 1729 or 2050."` |
-| Restrictions (more info below) | `{ <Restriction Type> : [<Course Name(s)/Credit Count/Major Name/School Name>] }` | `{ 4 : ["CSE 2050"] }` |
+| Restrictions (more info below) | `{ <Restriction Type> : [<Course Name(s)/Credit Count/Major Name/School Name>] }` | `{ 4 : [["CSE 2050"]] }` |
 | Content Areas | `[string]` | `["CA1", "CA3"]` |
 | Topic of Inquiry | `[string]` | `["TOI1", "TOI4"]`
 | Skill Code (more info below) | `[char]` | `['W']`
@@ -28,16 +28,17 @@ JSON file entries should also be able to be updated easily in the future, in cas
 ### Restriction Types
 > Use enum to abstract identifier
 
-| Restriction Type | Identifier | Example |
-| --- | --- | --- |
-| Prerequisite | 1 | Course A credit is required to take Course B |
-| Concurrent Prerequisite | 2 | Course A is required for Course B, but both may be taken at the same time for credit | 
-| Co-requisite | 3 | Course A must be taken at the same time as Course B | 
-| Block | 4 | Course A cannot be taken after taking Course B |
-| Year/Credit Block | 5 | Course A cannot be taken after X credit amount |
-| Recommendation | 6 | Course A is recommended for taking Course B |
-| Major Restriction | 7 | Course A is only available to students of majors X, Y, Z |
-| School Restriction | 8 | Course A is only available to students in school X |
+For choice requirements, like MATH 2410Q / MATH 2143Q for [ECE 2001](https://catalog.uconn.edu/search/?P=ECE%202001), list requirements as ["Course A", "Course B"] for a singular requirement. This is equivilent to the "Choice" formatting for course pack requirements (listed below). This also means that singular course requirements should be enclosed as [["Course Name"]] for consistency.
+| Restriction Type | Identifier | Example | Example Implementation
+| --- | --- | --- | --- |
+| Prerequisite | 1 | Course A credit is required to take Course B | ` { 1 : [["CSE 1010"]] } `
+| Concurrent Prerequisite | 2 | Course A is required for Course B, but both may be taken at the same time for credit | `{ 2: [["MATH 2410Q", "MATH 2143Q"], ["PHYS 1402Q", "PHYS 1502Q", "PHYS 1602Q", "PHYS 1230", "PHYS 1530"]] }` (taken from [ECE 2001](https://catalog.uconn.edu/search/?P=ECE%202001))
+| Co-requisite | 3 | Course A must be taken at the same time as Course B | `{ 3 : [["MATH 1132Q"]]`
+| Block | 4 | Course A cannot be taken after taking Course B | ` { 4 : [["CSE 2050"]] } `
+| Year/Credit Block | 5 | Course A cannot be taken after X credit amount | `{ 5 : 75 }`
+| Recommendation | 6 | Course A is recommended for taking Course B | ` { 6 : [["MATH 2110Q"]] } `
+| Major Restriction | 7 | Course A is only available to students of majors X, Y, Z | ` { 7 : ["Electrical Engineering"] } `
+| School Restriction | 8 | Course A is only available to students in school X | `{ 8 : ["College of Engineering"] }`
 
 ### Skill Codes
 | Code Type | Identifier | Example |
@@ -50,7 +51,7 @@ JSON file entries should also be able to be updated easily in the future, in cas
 
 Effectively, majors and minors are sets of courses for a student to take for a degree. So, Majors, Minors, Concentrations are represented as course packs, and each have a credit requirement (number of credits needed to achieve)
 Majors and minors also inherit course requirements from the Common Curriculum and the School which they are a part of (example: College of Engineering for Computer Science). 
-A user major/major + concentration/minor selection should correspond to a course pack object that tells the flowchart generator which courses to connect.
+A user major/major + concentration/minor selection should correspond to course pack objects that tell the flowchart generator which courses to connect.
 
 ### Course Packs
 
