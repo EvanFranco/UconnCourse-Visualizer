@@ -1,34 +1,40 @@
 # Courses
 
-Courses should be represented in a database-like format for easy connections (for requirements/schedule building) and filtering (for generic requirements, like a CA or TOI requirement) capabilities. A possible (easy) way of doing this would be creating a giant master JSON file with all of the fields listed below in them (like in the [ilefa/husky repo](https://github.com/ilefa/husky/blob/master/courses.json)). 
+Courses should be represented in a database-like format for easy connections (for requirements/schedule building) and filtering (for generic requirements, like a CA or TOI requirement) capabilities. A possible (easy) way of doing this would be creating a giant master JSON file containing a list of courses with all of the fields listed below, structured like in the [ilefa/husky repository.](https://github.com/ilefa/husky/blob/master/courses.json) The main differences from the ilefa json file for the course visualizer would be including separated subject code from course number (for easy filtering/organization) and more specific prerequisite information (for easier flowchart connection). 
 
-> Note: I personally don't know how easy filtering by name/code/etc would be with a JSON file. A SQL database (possibly implemented as an SQLite database) would be a good way to enable filtering for generic elective requirements.
+JSON file entries should also be able to be updated easily in the future, in case the visualizer is passed off to the UCONN advising team, and they need to add more courses or edit existing courses for the visualizer. 
+
 
 ### Fields
 
 | Field | Type | Example |
 | --- | --- | --- | 
 | Course Name | `string` | `"CSE 1010"` |
-| Subject Code | `string` | `"CSE"` |
+| Department Code | `string` | `"CSE"` |
+| Course Number | `int` | `1010` |
 | Course Title | `string` | `"Intro to Computing for Engineers"` |
+| Course Description | `string` | `"Introduction to computing logic, algorithmic thinking, computing processes, a programming language and computing environment. Knowledge obtained in this course enables use of the computer as an instrument to solve computing problems. Representative problems from science, mathematics, and engineering will be solved."` |
 | Credit Count | `int` | `3` |
-| Restrictions | `{ <Restriction (int)> : <Course Name> } ` | `{ 4 : "CSE 2050" } ` |
-| Content Areas | `[string]` | `["CA1, CA3]` |
+| Enrollment Requirement Description | `string` | `"May not be taken out of sequence after passing CSE 1729 or 2050."` |
+| Restrictions (more info below) | `{ <Restriction Type> : [<Course Name(s)/Credit Count/Major Name/School Name>] }` | `{ 4 : ["CSE 2050"] }` |
+| Content Areas | `[string]` | `["CA1", "CA3"]` |
 | Topic of Inquiry | `[string]` | `["TOI1", "TOI4"]`
-| Skill Code | `[char]` | `["W"]`
+| Skill Code (more info below) | `[char]` | `['W']`
 | Lab | `bool` | `true`
+
+> Course name, department code, course number, course title, course description, credit count, enrollment requirement description, CA/TOI, and skill code can likely be scraped easily from the UCONN course catalog website, as they are all formatted consistently. Labs are marked with TOI6-L. Enrollment requirement description is the literal listed restrictions on the UCONN course catalog, while restrictions are standardized by codes (listed below) for easy connections between courses. Restrictions need to be formatted specially, because requirements are formatted differently in text for each course, even if falling under a few certain categories, thus the text after "Enrollment Requirements:" for each course would not be very helpful for connecting courses.
 
 
 ### Restriction Types
-> Use enum to abstract away identifier
+> Use enum to abstract identifier
 
 | Restriction Type | Identifier | Example |
 | --- | --- | --- |
-| Requirement | 1 | Course A credit is required to take Course B |
-| Concurrent Requirement | 2 | Course A is required for Course B, but both may be taken at the same time for credit | 
+| Prerequisite | 1 | Course A credit is required to take Course B |
+| Concurrent Prerequisite | 2 | Course A is required for Course B, but both may be taken at the same time for credit | 
 | Co-requisite | 3 | Course A must be taken at the same time as Course B | 
 | Block | 4 | Course A cannot be taken after taking Course B |
-| Year Block | 5 | Course A cannot be taken after X credit amount |
+| Year/Credit Block | 5 | Course A cannot be taken after X credit amount |
 | Recommendation | 6 | Course A is recommended for taking Course B |
 | Major Restriction | 7 | Course A is only available to students of majors X, Y, Z |
 | School Restriction | 8 | Course A is only available to students in school X |
