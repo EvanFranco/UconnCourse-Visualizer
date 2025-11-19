@@ -1,0 +1,22 @@
+{
+    "name": "LING 2850",
+    "dept_code": "LING",
+    "id_number": "2850",
+    "title": "Introduction to Sociolinguistics of the Deaf Community",
+    "description": "Sociolinguistics, demographics of the Deaf community; study of Deaf subgroups with different sociological, linguistic and cultural backgrounds; sociolinguistic integration of community members with the larger population in their cultural/ethnic community. Knowledge of American Sign Language not required. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

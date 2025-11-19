@@ -1,0 +1,21 @@
+{
+    "name": "LING 1030",
+    "dept_code": "LING",
+    "id_number": "1030",
+    "title": "The Diversity of Languages",
+    "description": "Overview of world languages and language families. Typological classifications of linguistic properties: what can we expect in the structure of a language? Unity and diversity of language systems. Mechanisms of language change and variation. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

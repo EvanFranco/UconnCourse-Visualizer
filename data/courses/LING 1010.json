@@ -1,0 +1,20 @@
+{
+    "name": "LING 1010",
+    "dept_code": "LING",
+    "id_number": "1010",
+    "title": "Language and Mind",
+    "description": "Discussion of nature-nurture debate with specific reference to language acquisition. Pros and cons of Chomsky's Innateness Hypothesis. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

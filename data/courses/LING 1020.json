@@ -1,0 +1,23 @@
+{
+    "name": "LING 1020",
+    "dept_code": "LING",
+    "id_number": "1020",
+    "title": "Language and Environment",
+    "description": "Effects of geography, society, and politics on language use and variation (sociolinguistics). The geographical spread, growth and death of languages (language ecology). CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

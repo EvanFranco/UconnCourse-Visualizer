@@ -1,0 +1,21 @@
+{
+    "name": "LING 2040",
+    "dept_code": "LING",
+    "id_number": "2040",
+    "title": "The Evolution of Language",
+    "description": "A critical survey of both older and current theories about the evolution of the human capacity for language.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

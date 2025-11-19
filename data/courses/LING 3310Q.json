@@ -1,0 +1,28 @@
+{
+    "name": "LING 3310Q",
+    "dept_code": "LING",
+    "id_number": "3310Q",
+    "title": "Phonology",
+    "description": "The analysis of sound patterns in language within a generative framework: distinctive features, segmental and prosodic analysis, word formation, the theory of markedness.",
+    "credits": "3",
+    "requirement_description": "LING 2010Q; open to juniors or higher.",
+    "restrictions": {
+        "prereq": [
+            [
+                "LING 2010Q"
+            ]
+        ],
+        "credit_range": [
+            85,
+            null
+        ]
+    },
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

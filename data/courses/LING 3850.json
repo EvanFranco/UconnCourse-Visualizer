@@ -1,0 +1,22 @@
+{
+    "name": "LING 3850",
+    "dept_code": "LING",
+    "id_number": "3850",
+    "title": "Cultural and Linguistic Variation in the Deaf Community",
+    "description": "Language and cultural models used in the Deaf community. Critical examination of demographic subgroups of the Deaf community and their linguistic background.",
+    "credits": "3",
+    "requirement_description": "LING 2850.",
+    "restrictions": {
+        "prereq": [
+            [
+                "LING 2850"
+            ]
+        ]
+    },
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}
