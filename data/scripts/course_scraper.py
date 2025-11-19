@@ -2,59 +2,17 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-class Course:
-    
-    def __init__(self, name, dept_code, id_number, title, credits):
-        self.name = name
-        self.dept_code = dept_code
-        self.id_number = id_number
-        self.title = title
+from course_obj import Course, get_dict
+from identifiers import TOI_IDS, CA_IDS, SEMESTERS_TO_COURSES
         
-        self.description = ""
-        self.credits = credits
-        self.requirement_description = "No requirements to take this course."
-        self.restrictions = {}
-        self.content_areas = []
-        self.tois = []
-        self.skill_codes = []
-        self.lab = False
-        
-        # add these to spec doc!
-        self.honors_credit = False
-        self.max_credit_repeats = 0 # None (null) if no limit exists, 0 if none allowed, # if there is a specified limit
-    
-    def print_restriction_desc(self):
-        print(f"Restriction description: {self.requirement_description}\n")
-        
-
 url = "https://catalog.uconn.edu/undergraduate/courses/ling"
 page = requests.get(url)
 content = page.text
 html = BeautifulSoup(content, "lxml")
 
-TOI_IDS = ("TOI1", "TOI2", "TOI3", "TOI4", "TOI5", "TOI6", "TOI6L")
-CA_IDS = ("CA1", "CA2", "CA3", "CA3LAB", "CA4", "CA4INT")
-
-# https://policy.uconn.edu/2011/06/02/undergraduate-earned-credits-semester-standing/ 
-SEMESTERS_TO_COURSES = {
-    1: 11,
-    2: 23,
-    3: 39,
-    4: 53,
-    5: 69, # nice
-    6: 85,
-    7: 99,
-    8: 116,
-    9: 133,
-    10: None
-}
-
 courses = []
 
 content_area = html.find_all('div', class_='courseblock')
-
-def get_dict(obj):
-    return obj.__dict__
 
 def get_courses():
     courses = input("Enter course IDs, separated by &&. Enter course OR with \"||\" \n\t")
@@ -185,8 +143,13 @@ def detect_requirements(current_course: Course):
 
     sections = get_sections(desc)
 
+    for section in sections:
+        if "Recommended preparation:" in section:
+            pass
+
     # if no code in number, inherit last detected code
     # detect or
+    # detect or equivilent
     # detect Recommended preparation:
     # detect Not open to students
     # detect Not open for credit 
@@ -205,7 +168,7 @@ for course_block in content_area:
 
         # note: credit count can be variable (ex. 1-3 credits) - code in lower & upper bounds
         credit_count_unformatted = cols[0].find('span', class_="text detail-hours_html margin--tiny text--semibold text--big")
-        credit_count = credit_count_unformatted.find('strong').get_text(strip=True).lstrip("(").rstrip(" Credits)").rstrip(" Credit")
+        credit_count = credit_count_unformatted.find('strong').get_text(strip=True).lstrip("(").rstrip(" Credits)").rstrip(" Credit)")
 
         split_name = name.split()
 
