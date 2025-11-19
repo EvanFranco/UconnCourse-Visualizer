@@ -26,19 +26,18 @@ JSON file entries should also be able to be updated easily in the future, in cas
 
 
 ### Restriction Types
-> Use enum to abstract identifier
 
 For choice requirements, like MATH 2410Q / MATH 2143Q for [ECE 2001](https://catalog.uconn.edu/search/?P=ECE%202001), list requirements as ["Course A", "Course B"] for a singular requirement. This is equivilent to the "Choice" formatting for course pack requirements (listed below). This also means that singular course requirements should be enclosed as [["Course Name"]] for consistency.
 | Restriction Type | Identifier | Example | Example Implementation
 | --- | --- | --- | --- |
-| Prerequisite | 1 | Course A credit is required to take Course B | ` { 1 : [["CSE 1010"]] } `
-| Concurrent Prerequisite | 2 | Course A is required for Course B, but both may be taken at the same time for credit | `{ 2: [["MATH 2410Q", "MATH 2143Q"], ["PHYS 1402Q", "PHYS 1502Q", "PHYS 1602Q", "PHYS 1230", "PHYS 1530"]] }` (taken from [ECE 2001](https://catalog.uconn.edu/search/?P=ECE%202001))
-| Co-requisite | 3 | Course A must be taken at the same time as Course B | `{ 3 : [["MATH 1132Q"]]`
-| Block | 4 | Course A cannot be taken after taking Course B | ` { 4 : [["CSE 2050"]] } `
-| Year/Credit Block | 5 | Course A cannot be taken after X credit amount | `{ 5 : 75 }`
-| Recommendation | 6 | Course A is recommended for taking Course B | ` { 6 : [["MATH 2110Q"]] } `
-| Major Restriction | 7 | Course A is only available to students of majors X, Y, Z | ` { 7 : ["Electrical Engineering"] } `
-| School Restriction | 8 | Course A is only available to students in school X | `{ 8 : ["College of Engineering"] }`
+| Prerequisite | `"prereq"` | Course A credit is required to take Course B | ` { 1 : [["CSE 1010"]] } `
+| Concurrent Prerequisite | `"concurrency"` | Course A is required for Course B, but both may be taken at the same time for credit | `{ 2: [["MATH 2410Q", "MATH 2143Q"], ["PHYS 1402Q", "PHYS 1502Q", "PHYS 1602Q", "PHYS 1230", "PHYS 1530"]] }` (taken from [ECE 2001](https://catalog.uconn.edu/search/?P=ECE%202001))
+| Co-requisite | `"coreq"` | Course A must be taken at the same time as Course B | `{ 3 : [["MATH 1132Q"]]`
+| Block | `"block"` | Course A cannot be taken after taking Course B | ` { 4 : [["CSE 2050"]] } `
+| Year/Credit Block | `"credit_limit"` | Course A cannot be taken after X credit amount | `{ 5 : 75 }`
+| Recommendation | `"recommend"` | Course A is recommended for taking Course B | ` { 6 : [["MATH 2110Q"]] } `
+| Major Restriction | `"only_major"` | Course A is only available to students of majors X, Y, Z | ` { 7 : ["Electrical Engineering"] } `
+| School Restriction | `"school"` | Course A is only available to students in school X | `{ 8 : ["College of Engineering"] }`
 
 ### Skill Codes
 | Code Type | Identifier | Example |
