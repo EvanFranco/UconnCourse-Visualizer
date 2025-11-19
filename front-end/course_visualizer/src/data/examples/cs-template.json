@@ -1,0 +1,26 @@
+{
+"majorName": "CS (Branching Example)",
+"catalog": {
+"MATH1131": { "id": "MATH1131", "name": "Calculus I", "credits": 4, "prereqs": [] },
+"MATH1132": { "id": "MATH1132", "name": "Calculus II", "credits": 4, "prereqs": ["MATH1131"] },
+"CSE1010": { "id": "CSE1010", "name": "Intro to Programming (Python)", "credits": 3, "prereqs": [] },
+"CSE1729": { "id": "CSE1729", "name": "Intro to Data Structures", "credits": 3, "prereqs": ["CSE1010"] },
+"CSE2050": { "id": "CSE2050", "name": "Data Structures & OOP", "credits": 3, "prereqs": ["CSE1729", "MATH1131"] },
+"CSE2102": { "id": "CSE2102", "name": "Intro to Software Eng.", "credits": 3, "prereqs": ["CSE2050"] },
+"CSE2500": { "id": "CSE2500", "name": "Computational Prob/Stats", "credits": 3, "prereqs": ["MATH1132"] },
+"CSE3500": { "id": "CSE3500", "name": "Algorithms", "credits": 3, "prereqs": ["CSE2050", "CSE2500"] },
+"CSE4309": { "id": "CSE4309", "name": "Systems Programming", "credits": 3, "prereqs": ["CSE2050"] },
+"CSE3666": { "id": "CSE3666", "name": "Computer Architecture", "credits": 3, "prereqs": ["CSE2050"] },
+"CSE4705": { "id": "CSE4705", "name": "Intro to AI", "credits": 3, "prereqs": ["CSE3500"] },
+"CSE4820": { "id": "CSE4820", "name": "Intro to ML", "credits": 3, "prereqs": ["CSE3500"] },
+"CSEXXXX_A": { "id": "CSEXXXX_A", "name": "CS Elective A", "credits": 3, "prereqs": ["CSE2050"] },
+"CSEXXXX_B": { "id": "CSEXXXX_B", "name": "CS Elective B", "credits": 3, "prereqs": ["CSE2050"] },
+"CSEXXXX_C": { "id": "CSEXXXX_C", "name": "CS Elective C", "credits": 3, "prereqs": ["CSE2050"] }
+},
+"requirements": [
+{ "type": "allOf", "courses": ["MATH1131", "MATH1132", "CSE1010", "CSE1729", "CSE2050", "CSE2500", "CSE3500"] },
+{ "type": "choose", "count": 2, "from": ["CSEXXXX_A", "CSEXXXX_B", "CSEXXXX_C"] },
+{ "type": "choose", "count": 1, "from": ["CSE4705", "CSE4820"] },
+{ "type": "allOf", "courses": ["CSE4309", "CSE3666"] }
+]
+}
