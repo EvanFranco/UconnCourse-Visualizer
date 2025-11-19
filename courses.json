@@ -1,0 +1,444 @@
+[
+    {
+        "name": "LING 1010",
+        "dept_code": "LING",
+        "id_number": "1010",
+        "title": "Language and Mind",
+        "description": "Discussion of nature-nurture debate with specific reference to language acquisition. Pros and cons of Chomsky's Innateness Hypothesis. CA 1.",
+        "credits": "3",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [
+            "CA1"
+        ],
+        "tois": [
+            "TOI2"
+        ],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 1020",
+        "dept_code": "LING",
+        "id_number": "1020",
+        "title": "Language and Environment",
+        "description": "Effects of geography, society, and politics on language use and variation (sociolinguistics). The geographical spread, growth and death of languages (language ecology). CA 2. CA 4-INT.",
+        "credits": "3",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [
+            "CA2",
+            "CA4",
+            "CA4INT"
+        ],
+        "tois": [
+            "TOI3",
+            "TOI5"
+        ],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 1030",
+        "dept_code": "LING",
+        "id_number": "1030",
+        "title": "The Diversity of Languages",
+        "description": "Overview of world languages and language families. Typological classifications of linguistic properties: what can we expect in the structure of a language? Unity and diversity of language systems. Mechanisms of language change and variation. CA 2. CA 4.",
+        "credits": "3",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [
+            "CA2",
+            "CA4"
+        ],
+        "tois": [
+            "TOI5"
+        ],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 1793",
+        "dept_code": "LING",
+        "id_number": "1793",
+        "title": "Foreign Study",
+        "description": "Special topics taken in a foreign study program. Consent of Department Head or advisor may be required prior to the student's departure. May be repeated for credit.",
+        "credits": "1-3",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 1795",
+        "dept_code": "LING",
+        "id_number": "1795",
+        "title": "Special Topics Lecture",
+        "description": "Credits, prerequisites and hours as determined by the Senate Curricula and Course Committee.",
+        "credits": "3",
+        "requirement_description": "Prerequisites and recommended preparation vary.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 2010Q",
+        "dept_code": "LING",
+        "id_number": "2010Q",
+        "title": "The Science of Linguistics",
+        "description": "An introduction to the methods and major findings of linguistic research as applied to the sound systems of languages and the structure and meaning of words and sentences. CA 3.",
+        "credits": "3",
+        "requirement_description": "May not be taken out of sequence after passing LING 3110.",
+        "restrictions": {},
+        "content_areas": [
+            "CA3"
+        ],
+        "tois": [
+            "TOI6"
+        ],
+        "skill_codes": [
+            "Q"
+        ],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 2040",
+        "dept_code": "LING",
+        "id_number": "2040",
+        "title": "The Evolution of Language",
+        "description": "A critical survey of both older and current theories about the evolution of the human capacity for language.",
+        "credits": "3",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [
+            "CA1",
+            "CA3"
+        ],
+        "tois": [
+            "TOI6"
+        ],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 2793",
+        "dept_code": "LING",
+        "id_number": "2793",
+        "title": "Foreign Study",
+        "description": "Special topics taken in a foreign study program. Consent of Program Director required, normally to be granted before the student's departure. May count toward the major with consent of the advisor up to a maximum of six credits. May be repeated for credit.",
+        "credits": "1-15",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 2795",
+        "dept_code": "LING",
+        "id_number": "2795",
+        "title": "Special Topics",
+        "description": "Description for this course is blank.",
+        "credits": "1-3",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 2850",
+        "dept_code": "LING",
+        "id_number": "2850",
+        "title": "Introduction to Sociolinguistics of the Deaf Community",
+        "description": "Sociolinguistics, demographics of the Deaf community; study of Deaf subgroups with different sociological, linguistic and cultural backgrounds; sociolinguistic integration of community members with the larger population in their cultural/ethnic community. Knowledge of American Sign Language not required. CA 2. CA 4.",
+        "credits": "3",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [
+            "CA2",
+            "CA4"
+        ],
+        "tois": [
+            "TOI3",
+            "TOI5"
+        ],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3000Q",
+        "dept_code": "LING",
+        "id_number": "3000Q",
+        "title": "Introduction to Computational Linguistics",
+        "description": "Computational methods in linguistic analysis and natural language processing. Topics include the use of text corpora and other sources of linguistic data; morphological analysis, parsing and language modeling; applications in areas such as information retrieval and machine translation.",
+        "credits": "3",
+        "requirement_description": "Recommended preparation: At least one course in Linguistics or Computer Science.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [
+            "Q"
+        ],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3110",
+        "dept_code": "LING",
+        "id_number": "3110",
+        "title": "Experimental Linguistics",
+        "description": "Research methods and laboratory techniques for the study of language acquisition and/or sentence processing. Students design and conduct a study using a computer database of child speech.",
+        "credits": "3",
+        "requirement_description": "PSYC 1100; LING 2010Q; open to juniors or higher.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3310Q",
+        "dept_code": "LING",
+        "id_number": "3310Q",
+        "title": "Phonology",
+        "description": "The analysis of sound patterns in language within a generative framework: distinctive features, segmental and prosodic analysis, word formation, the theory of markedness.",
+        "credits": "3",
+        "requirement_description": "LING 2010Q; open to juniors or higher.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [
+            "Q"
+        ],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3410Q",
+        "dept_code": "LING",
+        "id_number": "3410Q",
+        "title": "Semantics",
+        "description": "Analysis of the semantics of natural languages in a generative framework: truth conditions, compositionality, quantification.",
+        "credits": "3",
+        "requirement_description": "LING 2010Q. Not open for credit for students who have passed LING 3510.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [
+            "Q"
+        ],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3511Q",
+        "dept_code": "LING",
+        "id_number": "3511Q",
+        "title": "Syntax",
+        "description": "Analysis of the syntax of natural languages in a generative framework: phrase structure, movement, syntactic operations and dependencies.",
+        "credits": "3",
+        "requirement_description": "LING 2010Q. Not open for credit for students who have passed LING 3510.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [
+            "Q"
+        ],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3610W",
+        "dept_code": "LING",
+        "id_number": "3610W",
+        "title": "Language and Culture",
+        "description": "The study of language, culture, and their relationship. Topics include the evolution of the human language capacity; the principles of historical language change including reconstruction of Indo-European and Native American language families; writing systems; linguistic forms such as Pidgins and Creoles arising from languages in contact; the interaction between language and political systems, the struggle for human rights, gender, ethnicity, and ethnobiology. CA 2. CA 4-INT.",
+        "credits": "3",
+        "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+        "restrictions": {},
+        "content_areas": [
+            "CA2",
+            "CA4",
+            "CA4INT"
+        ],
+        "tois": [
+            "TOI3",
+            "TOI5"
+        ],
+        "skill_codes": [
+            "W"
+        ],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3700W",
+        "dept_code": "LING",
+        "id_number": "3700W",
+        "title": "Field Methods in Linguistics",
+        "description": "Hands-on training in the investigation and analysis of an unfamiliar language from scratch through question and answer with a native-speaker linguistic consultant, and in writing scholarly papers documenting the linguistic phenomena that such investigations yield. May be repeated for a total of 6 credits.",
+        "credits": "3",
+        "requirement_description": "LING 3310Q or 3410Q or 3511Q; ENGL 1007 or 1010 or 1011.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [
+            "W"
+        ],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3789",
+        "dept_code": "LING",
+        "id_number": "3789",
+        "title": "Undergraduate Research",
+        "description": "Individual research-related work directed by a faculty member. May be repeated for credit.",
+        "credits": "1-3",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3793",
+        "dept_code": "LING",
+        "id_number": "3793",
+        "title": "Foreign Study",
+        "description": "Special topics taken in a foreign study program. Consent of Department Head required, normally to be granted prior to the student's departure. May count toward the major with the consent of the advisor. May be repeated for credit.",
+        "credits": "1-6",
+        "requirement_description": "Open to juniors or higher.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3795",
+        "dept_code": "LING",
+        "id_number": "3795",
+        "title": "Special Topics",
+        "description": "Description for this course is blank. May be repeated for credit.",
+        "credits": "1-3",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3798",
+        "dept_code": "LING",
+        "id_number": "3798",
+        "title": "Variable Topics",
+        "description": "Description for this course is blank. May be repeated for credit.",
+        "credits": "3",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3799",
+        "dept_code": "LING",
+        "id_number": "3799",
+        "title": "Independent Study",
+        "description": "Description for this course is blank. May be repeated for credit.",
+        "credits": "1-6",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3800",
+        "dept_code": "LING",
+        "id_number": "3800",
+        "title": "Structure of American Sign Language",
+        "description": "(Also offered asASLN 3800.) Linguistic analyses of American Sign Language focusing on the phonological, morphological, syntactic, and semantic levels.",
+        "credits": "3",
+        "requirement_description": "ASLN 1102 or LING 2010Q. Recommended preparation: Both ASLN 1102 and LING 2010Q.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 3850",
+        "dept_code": "LING",
+        "id_number": "3850",
+        "title": "Cultural and Linguistic Variation in the Deaf Community",
+        "description": "Language and cultural models used in the Deaf community. Critical examination of demographic subgroups of the Deaf community and their linguistic background.",
+        "credits": "3",
+        "requirement_description": "LING 2850.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 4500",
+        "dept_code": "LING",
+        "id_number": "4500",
+        "title": "Advanced Introduction to Syntax",
+        "description": "Concepts and tools of current syntactic theory. Syntactic features, lexical and functional categories, representation of phrase structure, argument structure, Case, movement, locality.",
+        "credits": "3",
+        "requirement_description": "LING 3511Q.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    },
+    {
+        "name": "LING 4793",
+        "dept_code": "LING",
+        "id_number": "4793",
+        "title": "Foreign Study",
+        "description": "Special topics taken in a foreign study program. Consent of Program Director required, normally to be granted before the student's departure. May count toward the major with consent of the advisor up to a maximum of six credits. May be repeated for credit.",
+        "credits": "1-6",
+        "requirement_description": "No requirements to take this course.",
+        "restrictions": {},
+        "content_areas": [],
+        "tois": [],
+        "skill_codes": [],
+        "lab": false,
+        "honors_credit": false
+    }
+]
