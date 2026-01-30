@@ -5,6 +5,8 @@ from bs4 import BeautifulSoup
 from course_obj import Course, get_dict
 from identifiers import TOI_IDS, CA_IDS, SEMESTERS_TO_COURSES
         
+# --- #
+
 url = "https://catalog.uconn.edu/undergraduate/courses/ling"
 page = requests.get(url)
 content = page.text
@@ -13,147 +15,6 @@ html = BeautifulSoup(content, "lxml")
 courses = []
 
 content_area = html.find_all('div', class_='courseblock')
-
-def get_courses():
-    courses = input("Enter course IDs, separated by &&. Enter course OR with \"||\" \n\t")
-    split_courses = courses.split("&&") 
-
-    course_arr = []
-
-    for i in split_courses:
-        course = i.strip()
-        options_arr = []
-        if ("||" in course):
-            options = course.split("||")
-
-            for i in options:
-                option = i.strip()
-                options_arr.append(option)
-
-        else:
-            options_arr.append(course)
-
-        course_arr.append(options_arr)
-    return course_arr
-
-def manual_set_requirements(current_course: Course):
-    print("--------------------------------------------------------------------------------------------------------------------------------------------")
-    print(f"\nAction needed for course {current_course.name}")
-    print(f"Restriction description: {current_course.requirement_description}\n")
-    
-    options_str = """
-    Select option to continue, or enter -1 to flag this course for a restriction review.
-    Enter "f" to exit restriction builder.
-    Enter the number to enter a new set of courses that fill that requirement, or enter "0" for no more restrictions.
-    1: prereq
-    2: concurrency
-    3: coreq
-    4: block
-    5: credit range
-    6: recommendation
-    7: major restriction
-    8: school restriction
-    """
-    print(options_str)
-    restriction_type = input()
-
-    while(restriction_type != "f"):
-        match int(restriction_type):
-            case -1:
-                current_course.restrictions["needs review"] = True
-                # also add to a list of courses to edit later
-            case 0:
-                break
-            case 1:
-                current_course.restrictions["prereq"] = get_courses()
-            case 2:
-                current_course.restrictions["concurrency"] = get_courses()
-            case 3:
-                current_course.restrictions["coreq"] = get_courses()
-            case 4:
-                current_course.restrictions["block"] = get_courses()
-            case 6:
-                current_course.restrictions["recommendation"] = get_courses()
-            case 5:
-                # add this to spec doc: range of credits is sometimes needed
-                limit = input("Enter credit range, separated by commas, or enter semester range, separated by \"-\" \n\t")
-                comma_sep = limit.split(",")
-
-                range = []
-                if len(comma_sep) == 2:
-                    range.append(int(comma_sep[0].strip()))
-                    range.append(int(comma_sep[1].strip()))
-
-                dash_sep = limit.split("-")
-                if len(dash_sep) == 2:
-                    range.append(SEMESTERS_TO_COURSES[int(dash_sep[0].strip())])
-                    range.append(SEMESTERS_TO_COURSES[int(dash_sep[1].strip())])
-                
-                current_course.restrictions["credit_range"] = (range[0], range[1])
-            case 7:
-                majs_in = input("Enter majors, separated by commas. If minor, add (minor) after the program name.\n\t")
-
-                majs = majs_in.split(",")
-
-                majs_arr = []
-
-                for i in majs:
-                    majs_arr.append(i.strip())
-                
-                current_course.restrictions["only_major"] = majs_arr
-            case 8:
-                schools_in = input("Enter schools, separated by commas.\n\t")
-
-                schools = schools_in.split(",")
-
-                schools_arr = []
-                
-                for i in schools:
-                    schools_arr.append(i.split())
-                
-                current_course.restrictions["school"] = schools_arr
-        
-
-        print("--------------------------------------------------------------------------------------------------------------------------------------------")
-        print(f"{current_course.name} Current restrictions: \n{json.dumps(current_course.restrictions, indent=4)}\n")
-        cont = input(f"Restriction description: {current_course.requirement_description} \nMore restrictions? Y/N\n\t")
-        if (cont == "N"):
-            break
-
-
-        print(options_str)
-        restriction_type = input()
-        # print current restrictions added
-
-def get_sections(desc: str):
-    semicolon_split = desc.split(";")
-    all_zones = []
-
-    for zone in semicolon_split:
-        if "." in zone:
-            period_split = zone.split(".")
-            all_zones.append(period_split)
-            continue
-        all_zones.append(zone)
-    
-    return all_zones
-
-def detect_requirements(current_course: Course):
-    desc = [current_course.requirement_description]
-
-    sections = get_sections(desc)
-
-    for section in sections:
-        if "Recommended preparation:" in section:
-            pass
-
-    # if no code in number, inherit last detected code
-    # detect or
-    # detect or equivilent
-    # detect Recommended preparation:
-    # detect Not open to students
-    # detect Not open for credit 
-
 
 for course_block in content_area:
 
@@ -164,7 +25,7 @@ for course_block in content_area:
         name = number_unformatted.find('strong').get_text(strip=True).strip(".")
 
         title_unformatted = cols[0].find('span', class_="text detail-title margin--tiny text--semibold text--big")
-        title = title_unformatted.find('strong').getText(strip=True).strip(".")
+        title = title_unformatted.find('strong').getText.strip(".")
 
         # note: credit count can be variable (ex. 1-3 credits) - code in lower & upper bounds
         credit_count_unformatted = cols[0].find('span', class_="text detail-hours_html margin--tiny text--semibold text--big")
@@ -200,7 +61,7 @@ for course_block in content_area:
             case "Enrollment Requirements":
                 current_course.requirement_description = ' '.join(data_description.strip().split()) # split and join removes weird \u character for spaces
                 # automatically detect some common formats here (detect_requirements())
-                manual_set_requirements(current_course)
+                # fixme: add gui for manually setting requirements
                 # todo: add json editor (meaning, open up existing scraped data, and edit the restrictions/other categories that way)
             
             case "Skill Codes":
