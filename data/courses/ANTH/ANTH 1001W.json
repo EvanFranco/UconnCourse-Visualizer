@@ -6,7 +6,15 @@
     "description": "An introduction to cultural anthropology, approached through the medium of ethnographic film. Particular attention is given to how films represent humans' varied beliefs and behavior.  CA 1. CA 4-INT.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1",
         "CA4",

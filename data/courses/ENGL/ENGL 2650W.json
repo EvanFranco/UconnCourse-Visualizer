@@ -6,7 +6,15 @@
     "description": "An interdisciplinary seminar designed to introduce students in multiple fields to the discipline of medical humanities by focusing not only on the reading of fictional, nonfictional, and scientific texts concerning medicine and illness but also on the writing of expository and creative work about medicine, illness, doctors, and health.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1",
         "CA4"

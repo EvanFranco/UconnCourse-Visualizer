@@ -6,7 +6,15 @@
     "description": "Simulation of the \"Moot Court\" experience. Students will develop legal writing and oral argumentation skills in relation to hypothetical appellate cases about free speech, religion, rights of the accused, separation of powers, and equal protection claims.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [

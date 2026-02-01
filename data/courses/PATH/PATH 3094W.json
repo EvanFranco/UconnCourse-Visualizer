@@ -6,7 +6,15 @@
     "description": "Majors may take this course in each semester of the senior year. May be repeated for credit.",
     "credits": "2",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [

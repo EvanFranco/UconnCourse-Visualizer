@@ -6,7 +6,15 @@
     "description": "Critical analysis of and community-based practice in writing for nonspecialist audiences about complex environmental phenomena and issues such as climate. Attention to questions of rhetoric, representation, and ethics.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [
         "TOI1",

@@ -6,7 +6,15 @@
     "description": "Exploration of definitions of capitalism in existing literature, its place(s) of origin, and the initial period of the genesis of capitalism from late medieval times. Examination of how capitalism has changed throughout time and space. Explanation of why some individuals and countries are rich while others are poor, as well as the impact of capitalism on global history, notions of time, slavery, class, race, gender, law, and the contemporary world. Formerly offered as HIST 2845W. CA 1. CA 4.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1",
         "CA4"

@@ -6,7 +6,15 @@
     "description": "American literature from the beginnings: May include such writers as Poe, Emerson, Thoreau, Hawthorne, Melville, Whitman, Douglass, Stowe, Dickinson, Twain, and others. This course is strongly recommended for English majors. CA 1.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1"
     ],

@@ -6,7 +6,15 @@
     "description": "Uses historical documents focusing on a single incident in the past to reconstruct what happened and why.  Emphasizes development of historical research skills such as evaluating evidence, explaining cause and effect, and understanding events in their larger social, political, cultural, and economic contexts. CA 1.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1"
     ],

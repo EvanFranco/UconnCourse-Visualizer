@@ -6,7 +6,15 @@
     "description": "An exploration of the ways in which film can communicate complex cultural, historical, and political ideas. Topics may include film's ability to translate philosophical and religious ideas, portray accurate or revisionist history, play a role in subverting or critiquing the social and political status quo, and act as a chronicler of change. May be repeated for a total of 9 credits.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1"
     ],

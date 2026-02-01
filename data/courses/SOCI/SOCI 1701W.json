@@ -6,7 +6,15 @@
     "description": "Economic, political, social, and cultural processes in globalization. The world economy, the autonomy of nation-states, the role of the media, and the social and environmental problems of societies in a world context. CA 2. CA 4-INT.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA2",
         "CA4",

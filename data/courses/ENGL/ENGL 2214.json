@@ -6,7 +6,15 @@
     "description": "(Also offered as AFRA 2214.) Critical and historical examination of the literature of African American writers from Phyllis Wheatley to the present. CA 4.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA4"
     ],

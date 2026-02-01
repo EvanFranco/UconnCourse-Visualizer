@@ -6,7 +6,15 @@
     "description": "The literature of regions outside North America and Europe. Contents of the course will vary according to regional focus. CA 4-INT. May be repeated for credit.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA4",
         "CA4INT"

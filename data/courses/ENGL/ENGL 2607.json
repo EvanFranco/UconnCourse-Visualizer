@@ -6,7 +6,15 @@
     "description": "Introduction to literary writings about the sciences, including literary and scientific approaches to language and knowledge. May focus on a specific literary genre and/or scientific field. CA 1.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1"
     ],

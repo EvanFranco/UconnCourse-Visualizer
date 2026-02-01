@@ -6,7 +6,15 @@
     "description": "Italian cinema from the silent era to the present. Its genres, such as epic film, melodrama, comedy \"Italian-style,\" \"Spaghetti-Westerns,\" and political cinema. Cinema as a reflection on and comment upon the social and political contexts of Italian history from pre-fascist Italy to modernization and beyond. Taught in English. Films in Italian with English subtitles. CA 1. CA 4-INT.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1",
         "CA4",

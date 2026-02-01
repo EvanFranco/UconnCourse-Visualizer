@@ -6,7 +6,15 @@
     "description": "(Also offered as SOCI 2800W.) Sociological analyses of human rights issues in the United States, including economic, racial, and gender justice; prisoners' rights and capital punishment; the role of the United States in international human rights agreements and treaties; and struggles on behalf of human rights.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [

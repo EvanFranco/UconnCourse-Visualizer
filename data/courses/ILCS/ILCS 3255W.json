@@ -6,7 +6,15 @@
     "description": "Dante's poem as a unique synthesis of Medieval culture. Emphasizes its integration of ethics, political thought, and theology with poetic imagination. Taught in English. CA 1.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1"
     ],

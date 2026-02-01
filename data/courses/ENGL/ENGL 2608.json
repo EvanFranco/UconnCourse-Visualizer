@@ -6,7 +6,15 @@
     "description": "An introductory study of cinematic images of Indigenous peoples across historic, geographic, and generic categories. Particular attention will be paid to how cinema is an expression of Indigenous sovereignty and the ways colonialism shapes the film industry.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA4"
     ],

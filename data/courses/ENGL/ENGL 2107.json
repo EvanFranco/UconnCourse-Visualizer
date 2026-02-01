@@ -6,7 +6,15 @@
     "description": "Literature and culture of the British empire from 1600-1830. Focus on conquest, colonization, the institution of slavery, and resistance to empire. CA 1.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1"
     ],

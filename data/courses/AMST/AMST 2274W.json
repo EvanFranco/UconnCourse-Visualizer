@@ -6,7 +6,15 @@
     "description": "(Also offered as ENGL 2274W.) An interdisciplinary examination of the symbolic roles of disability and the social implications of those roles. CA 1. CA 4.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1",
         "CA4"

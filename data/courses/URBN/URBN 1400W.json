@@ -6,7 +6,15 @@
     "description": "Examination of urban issues and trends like race, gender, class, sexuality, place attachment, politics, economics, environmentalism, and social activism by interpreting the lyrics and videos of popular music. CA 2. CA 4.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA2",
         "CA4"

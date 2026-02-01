@@ -6,7 +6,15 @@
     "description": "Cinematic representations of Italian Americans in the works of major directors from the silent era to the present. Construction of and attempts to dislodge negative stereotypes of Italian American male and female immigrants. Taught in English. CA 1. CA 4.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1",
         "CA4"

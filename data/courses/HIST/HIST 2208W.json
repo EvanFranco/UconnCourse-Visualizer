@@ -6,7 +6,15 @@
     "description": "Historical perspectives on the social construction of scientific knowledge and technological systems, examining scales from the local to the global as well as the ramifications for society and the natural world. May focus on any country or world region. May be repeated once for credit with a change in topic. CA 1. CA 3. May be repeated for a total of 6 credits.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [
         "CA1",
         "CA3"

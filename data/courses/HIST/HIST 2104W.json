@@ -6,7 +6,15 @@
     "description": "What novels and other works of fiction reveal about major historical periods and themes in history. Variable topics. Formerly offered as HIST 3101W. May be repeated for a total of 9 credits.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [

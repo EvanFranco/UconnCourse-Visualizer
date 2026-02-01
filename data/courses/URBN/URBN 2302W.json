@@ -6,7 +6,15 @@
     "description": "An introduction to qualitative methods used in urban social research. Interdisciplinary techniques for data collection and analysis, including visual and narrative analysis, participant observation, interviewing, and archival research.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ENGL 1007",
+                "ENGL 1010",
+                "ENGL 1011"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [
