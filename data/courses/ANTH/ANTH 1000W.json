@@ -6,15 +6,7 @@
     "description": "An introduction to the anthropological understanding of human society through ethnographic case studies of selected peoples and cultures, exploring the richness and variety of human life. Encourages students to learn about different cultures and to apply their knowledge to make sense of their own society. CA 2. CA 4-INT.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA2",
         "CA4",

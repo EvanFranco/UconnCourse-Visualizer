@@ -6,15 +6,7 @@
     "description": "A transhistorical and global perspective on the history and literature of human migration. Engagement with literature and cultural productions such as fiction, film, and art about the conditions under which people migrate, whether voluntarily or through coercion, as well as the lived, quotidian experiences of such processes. CA 4-INT.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA4",
         "CA4INT"

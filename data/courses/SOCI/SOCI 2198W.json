@@ -6,15 +6,7 @@
     "description": "A variable topics course focusing on issues in the sociology of culture. Specific topics may include production of culture and the culture industry, popular culture, the sociology of the arts, cultural representation of deviance and social problems, women and culture, film and the developing world, material culture, and cultural constructions of social inequality. May be repeated for a total of 9 credits.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [],
     "tois": [],
     "skill_codes": [

@@ -6,15 +6,7 @@
     "description": "(Also offered as AMST 3267W.) How racism has been both reproduced and contradicted in the scientific imagination. Scientific texts and imaginative literature that explore the reparation of past harms and imagine new futures. CA 1. CA 4.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA1",
         "CA4"

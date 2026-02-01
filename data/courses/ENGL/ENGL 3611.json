@@ -6,15 +6,7 @@
     "description": "(Also offered as WGSS 3611.) Modern and contemporary works written by women from different countries. CA 4.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA4"
     ],

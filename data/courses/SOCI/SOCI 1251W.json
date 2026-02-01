@@ -6,15 +6,7 @@
     "description": "An examination of how institutional and organizational features of societies generate contemporary social problems, public policies for their alleviation, and questions of ethics and social justice. Topics may include substance use and misuse, mental illness, crime, social inequality, racism, gender disparities, climate change, and human rights. CA 2. CA 4.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA2",
         "CA4"

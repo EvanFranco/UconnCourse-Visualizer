@@ -6,15 +6,7 @@
     "description": "A design-focused course in which students creatively make use of contemporary Artificial Intelligence (AI) systems, such as by using them to author or co-author works of literature, and then critique these AI-created or co-created outputs in order to better understand the affordances and limitations of these systems. No technical knowledge or prior experience with AI expected.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [],
     "tois": [
         "TOI1"

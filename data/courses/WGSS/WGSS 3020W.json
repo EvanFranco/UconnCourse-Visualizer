@@ -6,15 +6,7 @@
     "description": "(Also offered as ENGL 3020W.) Critical analysis of and engaged practice in technical and professional communication and writing for both specialist and non-specialist audiences about complex topics. Attention to questions of rhetoric, representation, social justice, and ethics in contexts including, but not limited to, class, disability, gender, race, and sexuality.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [],
     "tois": [
         "TOI3",

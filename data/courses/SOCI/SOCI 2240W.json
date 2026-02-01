@@ -3,18 +3,10 @@
     "dept_code": "SOCI",
     "id_number": "2240W",
     "title": "Sociology of Race and Religion",
-    "description": "An introduction to the sociological study of race and religion. Centers on the social constructionist approach to race and religion within the context of North America. Topics may include the Black Church, segregation, theologies of liberation, immigration, identity formation, \u201cethnic\u201d religion, urban vs. rural practices of religion, diversity, racism, and social change. May be repeated for a total of 3 credits.",
+    "description": "An introduction to the sociological study of race and religion. Centers on the social constructionist approach to race and religion within the context of North America. Topics may include the Black Church, segregation, theologies of liberation, immigration, identity formation, “ethnic” religion, urban vs. rural practices of religion, diversity, racism, and social change. May be repeated for a total of 3 credits.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [],
     "tois": [],
     "skill_codes": [

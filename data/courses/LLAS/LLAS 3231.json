@@ -6,15 +6,7 @@
     "description": "(Also offered as WGSS 3259.) Topics in Latino literature and cultural studies with an emphasis on masculinity and male authors.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

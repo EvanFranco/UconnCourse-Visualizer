@@ -6,15 +6,7 @@
     "description": "An in-depth examination of our nation's quest toward a Culture of Health, with movement toward health equity by reducing disparities and improving social determinants of health for all members of our society. The principles of interprofessional collaborative practice will be applied as a method to strengthen this work with under-represented, diverse, and vulnerable populations, including enhancing cultural continuity for groups from outside the US. CA 4.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA4"
     ],

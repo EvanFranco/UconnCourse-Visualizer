@@ -6,15 +6,7 @@
     "description": "The role of the mind and its effects on subjective well-being (e.g., happiness, stress, depression, anxiety) and the physical body. The past history and current literature supporting the mind-body connection, assessment, and intervention. Implications for understanding mind body health relative to quality of life. CA 2.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA2"
     ],

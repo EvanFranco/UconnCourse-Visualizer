@@ -6,15 +6,7 @@
     "description": "An exploration of different aspects of Earth and environmental science involving human planetary impacts that hones the writing skills used for different modes of communication. Geoscience topics will involve climate change, natural hazards, natural resources, earth history, geo-education, and landscape interpretation. Modes of communication will include some combination of field notes, oral presentations, interviews, videos, podcasts, websites, essays, opinions, reviews, and technical articles.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [],
     "tois": [],
     "skill_codes": [

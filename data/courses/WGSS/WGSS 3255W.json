@@ -6,15 +6,7 @@
     "description": "Sexuality as a significant axis of citizenship. How sexual citizenship differs in national, historical, and international contexts. How its different constructions influence such issues as welfare, adoption, marriage, and immigration. CA 4-INT.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA4",
         "CA4INT"

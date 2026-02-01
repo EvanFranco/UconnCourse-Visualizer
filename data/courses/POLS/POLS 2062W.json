@@ -6,15 +6,7 @@
     "description": "Provides a thematic overview of privacy from a variety of disciplinary perspectives. Public policy, legal and ethical debates surrounding privacy and the impact of technology and scientific advances on how privacy is conceptualized, valued, enacted, and protected.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [],
     "tois": [],
     "skill_codes": [

@@ -6,15 +6,7 @@
     "description": "(Also offered as AAAS 2305, JAPN 2305.) Japanese literature across genres from 1868 to the present, studied in English translation. CA 1. CA 4-INT.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA1",
         "CA4",

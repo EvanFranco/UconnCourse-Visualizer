@@ -6,15 +6,7 @@
     "description": "Skills essential for the successful pursuit of a degree in English: textual analysis (close reading of poetry and prose), literary criticism and theory, research and citation methods, and critical writing about literature.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

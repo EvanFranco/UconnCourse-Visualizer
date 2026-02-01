@@ -6,15 +6,7 @@
     "description": "This and ENGL 1103 offer a study of European literature from ancient times to the present. ENGL 1101 considers ancient and medieval literature through Dante. CA 1.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA1"
     ],

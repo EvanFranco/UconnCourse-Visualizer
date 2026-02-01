@@ -6,15 +6,7 @@
     "description": "Drug taking as a social problem, the \"war on drugs,\" drug education, treatment and prevention approaches, the illegal drug market.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [],
     "tois": [],
     "skill_codes": [

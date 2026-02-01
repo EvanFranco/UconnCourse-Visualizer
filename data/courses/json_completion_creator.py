@@ -12,42 +12,54 @@ counter = 0
 # "Instructor consent."
 
 def detect_a_course(course_str: str):
+
     course_str = course_str.strip().strip(";").strip(".")
 
     course_parts = course_str.split(" ")
 
     if len(course_parts) != 2:
-        # print(f"Not a course: {course_str}. Not correct length.")
+        #print(f"Not a course: {course_str}. Not correct length.")
         return None
 
     if not(2 <= len(course_parts[0]) <= 4 and course_parts[0].isupper()):
-        # print(f"Not a course: {course_str}. Dept is not valid.")
-        return 1
+        #print(f"Not a course: {course_str}. Dept is not valid.")
+        return None
 
-    if not(3 <= len(course_parts[1]) <= 6 or course_parts[1][0:4].isnumeric()):
-        # print(f"Not a course: {course_str}. Code is not numeric.")
+    if not(3 <= len(course_parts[1]) <= 4 and course_parts[1][0:4].isnumeric()):
+        print(f"Not a course: {course_str}. Code is not numeric.")
         return None
 
     return f"{course_parts[0]} {course_parts[1]}"
 
-def detect_all_courses(jsonfile) -> bool:
 
-    req = jsonfile['requirement_description']
+def detect_all_courses(req_string: str, json_file):
 
-    print(req)
-    if req == "Open to juniors or higher.":
-        jsonfile['restrictions']["prereq"] = \
-            [
-                [
-                    "ENGL 1007",
-                    "ENGL 1010",
-                    "ENGL 1011"
-                ]
-            ]
+    detect_a_course(json_file['requirement_description'])
 
-        return True
+    # if " or " in req_string:
+    #     courses = req_string.split(" or ")
+    #
+    #     for i in courses:
+    #         print(f"Is a course: {detect_a_course(i)}")
+    #
+    # if " and " in req_string:
+    #     courses = req_string.split(" and ")
+    #
+    #     for i in courses:
+    #         print(f"Is a course: {detect_a_course(i)}")
 
-    return False
+
+    # string = detect_a_course(req_string_no_comma[0])
+    #
+    # if string is not None:
+    #     global counter
+    #     counter += 1
+    #
+    #     print(string, req_string_no_comma[1])
+    #     return [[string]]
+    #
+    # return None
+
 
 
 with open("not_completed_courses.json", "r") as jsonfile:
@@ -62,16 +74,19 @@ for i in courses_list:
         jsonfile = json.load(course)
         reqs = jsonfile['requirement_description']
 
-        overwrite = detect_all_courses(jsonfile)
+        req = detect_all_courses(reqs, jsonfile)
 
-        if overwrite:
-            with open(i, "w", encoding='utf-8') as writer:
-                json.dump(jsonfile, writer, indent=4)
 
-            output_courses_list.remove(i)
 
-            print("Resolved", jsonfile['title'])
-            counter += 1
+        # if (req is not None):
+        #     jsonfile['restrictions']["prereq"] = req
+        #
+        #     output_courses_list.remove(i)
+        #
+        #     with open(i, "w", encoding='utf-8') as writer:
+        #         json.dump(jsonfile, writer, indent=4)
+        #
+        #     print("Resolved", jsonfile['title'])
 
 
 with open("not_completed_courses.json", "w") as jsonfile:

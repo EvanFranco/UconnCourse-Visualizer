@@ -6,15 +6,7 @@
     "description": "Socially-embedded facets of well-being. Definitions and levels of well-being; relationship of well-being to social situations, social interactions, and social institutions.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [],
     "tois": [],
     "skill_codes": [

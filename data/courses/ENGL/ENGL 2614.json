@@ -6,15 +6,7 @@
     "description": "An introduction to the field of computer-generated literature. Students learn basic programming in order to create their own computer-generated works. No prior programming experience expected. CA 3.",
     "credits": "3",
     "requirement_description": "ENGL 1007 or 1010 or 1011.",
-    "restrictions": {
-        "prereq": [
-            [
-                "ENGL 1007",
-                "ENGL 1010",
-                "ENGL 1011"
-            ]
-        ]
-    },
+    "restrictions": {},
     "content_areas": [
         "CA3"
     ],
