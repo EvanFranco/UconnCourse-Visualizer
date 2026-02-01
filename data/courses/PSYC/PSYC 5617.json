@@ -6,7 +6,13 @@
     "description": "Research methods, theories and findings related to the impact of work duties and environmental conditions on occupational safety and health.",
     "credits": "3",
     "requirement_description": "PSYC 5615.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PSYC 5615"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

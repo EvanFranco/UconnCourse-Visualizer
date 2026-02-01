@@ -6,7 +6,13 @@
     "description": "Required of all M.A. candidates in the first year of study.  Introduction to quantitative methods of social research.  Topics include linear regression, including ANOVA and ANCOVA; hypothesis testing and model selection; regression diagnostics; non-linearity and functional form; path analysis; and factor analysis.",
     "credits": "3",
     "requirement_description": "SOCI 5201.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "SOCI 5201"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

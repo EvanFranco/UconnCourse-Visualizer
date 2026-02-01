@@ -6,7 +6,13 @@
     "description": "Principles of design are introduced. Fundamentals of project management, risk analysis, scheduling are covered. Effective technical presentation and writing techniques are introduced. Students conduct a design project through the semester.",
     "credits": "3",
     "requirement_description": "ME 2140.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ME 2140"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

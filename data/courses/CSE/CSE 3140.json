@@ -6,7 +6,13 @@
     "description": "Introduction to the design of secure systems. Explores issues that arise in multiple design phases to understand the limitations of the platform and the source of opportunities for attackers. Each unit will explore a system, its design, its vulnerabilities and how to exploit them, culminating with the creation, implementation and deployment of counter-measures to eliminate the vulnerabilities and nullify the threat.",
     "credits": "2",
     "requirement_description": "CSE 2050.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CSE 2050"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

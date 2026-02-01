@@ -6,7 +6,13 @@
     "description": "Basic concepts: entropy, mutual information, transmission rate and channel capacity. Coding for noiseless and noisy transmission. Universal and robust codes. Information-theoretic aspects of multiple-access communication systems. Source encoding, rate distortion approach.",
     "credits": "3",
     "requirement_description": "ECE 6111.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ECE 6111"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Introduction to prediction using time-series regression methods with non-seasonal and seasonal data. Smoothing methods for forecasting. Modeling and forecasting using univariate, autoregressive, moving average models.",
     "credits": "3",
     "requirement_description": "STAT 3445.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "STAT 3445"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

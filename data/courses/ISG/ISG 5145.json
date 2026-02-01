@@ -6,7 +6,13 @@
     "description": "Advanced career skills development toward effective practice in health care research, diagnostic and/or clinic settings. This course uses practice-based exploration of more complex clinical genetic counseling and builds upon foundational concepts found within ISG 5144. Either semester and summer. Online.",
     "credits": "1",
     "requirement_description": "ISG 5144.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ISG 5144"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

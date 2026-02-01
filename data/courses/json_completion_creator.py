@@ -3,6 +3,9 @@ import os
 
 counter = 0
 
+# Currently filtered easy requirements:
+# Single courses (ex. "CSE 1010." or "CSE 2050")
+
 def detect_a_course(course_str: str):
 
     course_str = course_str.strip().strip(";").strip(".")
@@ -59,7 +62,7 @@ courses_list = list(data)
 output_courses_list = courses_list[:]
 
 for i in courses_list:
-    with open(i, "r+", encoding='utf-8') as course:
+    with open(i, "r", encoding='utf-8') as course:
 
         jsonfile = json.load(course)
         reqs = jsonfile['requirement_description']
@@ -70,7 +73,9 @@ for i in courses_list:
             jsonfile['restrictions']["prereq"] = req
 
             output_courses_list.remove(i)
-            json.dump(i, course, indent=4)
+
+            with open(i, "w", encoding='utf-8') as writer:
+                json.dump(jsonfile, writer, indent=4)
 
             print("Resolved", jsonfile['title'])
 

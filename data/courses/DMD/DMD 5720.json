@@ -6,7 +6,13 @@
     "description": "Provides a working knowledge of the array of metrics and analytics needed to understand the digital consumer and measure the effectiveness of digital media marketing.",
     "credits": "3",
     "requirement_description": "DMD 5700.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "DMD 5700"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

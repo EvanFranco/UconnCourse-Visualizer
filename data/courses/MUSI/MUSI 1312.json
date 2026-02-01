@@ -6,7 +6,13 @@
     "description": "Devoted to the continuing development of musicianship skills, including sight singing, rhythmic reading, melodic and harmonic dictation, and aural comprehension of musical structure.",
     "credits": "1",
     "requirement_description": "MUSI 1311.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MUSI 1311"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

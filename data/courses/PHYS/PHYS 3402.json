@@ -6,7 +6,13 @@
     "description": "Applications of quantum mechanics, useful approximation methods, the variational method, the WKB method, scattering and other advanced topics.",
     "credits": "3",
     "requirement_description": "PHYS 3401.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PHYS 3401"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

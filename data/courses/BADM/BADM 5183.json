@@ -6,7 +6,13 @@
     "description": "Continuation of BADM 5182.",
     "credits": "1.5",
     "requirement_description": "BADM 5182.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "BADM 5182"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Hands-on experiments for traditional and modern plant breeding techniques, including artificial crossing/hybridization, polyploidy induction, plant tissue culture and transgenic plant production, and radiation- and genome editing-mediate mutagenesis.",
     "credits": "3",
     "requirement_description": "PLSC 5245.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PLSC 5245"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

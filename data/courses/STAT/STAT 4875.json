@@ -6,7 +6,13 @@
     "description": "Basic ideas, the empirical distribution function and its applications, uses of order statistics, one- two- and c-sample problems, rank correlation, efficiency.",
     "credits": "3",
     "requirement_description": "STAT 3445.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "STAT 3445"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

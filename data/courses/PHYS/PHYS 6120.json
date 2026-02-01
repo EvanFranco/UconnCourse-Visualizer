@@ -6,7 +6,13 @@
     "description": "Heitler-London and molecular orbital theories for diatomic molecules, semi-empirical methods of poly-atomic molecules.",
     "credits": "3",
     "requirement_description": "PHYS 6110.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PHYS 6110"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

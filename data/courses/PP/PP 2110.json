@@ -6,7 +6,13 @@
     "description": "Advanced exploration of the practice of survey research and questionnaire design.",
     "credits": "3",
     "requirement_description": "PP 2100",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PP 2100"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

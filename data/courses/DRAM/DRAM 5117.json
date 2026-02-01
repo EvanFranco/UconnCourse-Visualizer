@@ -6,7 +6,13 @@
     "description": "Seminar-based course. Meets with Arts Leadership and Cultural Management Studio I, II, III, and V. Case studies, and other forms of research, in arts administration. Leadership models and techniques. Research projects required.",
     "credits": "3",
     "requirement_description": "DRAM 5116.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "DRAM 5116"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Dynamics of small unit tactics, and branches of the Army. One weekend field training exercise.",
     "credits": "3",
     "requirement_description": "MISI 3301.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MISI 3301"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

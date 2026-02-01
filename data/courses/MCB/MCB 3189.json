@@ -6,7 +6,13 @@
     "description": "Participation in a clinical research study at a medical center (transportation to this off-campus site to be arranged by the student). May be repeated for credit.",
     "credits": "3",
     "requirement_description": "MCB 3100.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MCB 3100"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

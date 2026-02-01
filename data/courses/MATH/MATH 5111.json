@@ -6,7 +6,13 @@
     "description": "General theory of measure and Lebesgue integration, L^p-spaces.",
     "credits": "3",
     "requirement_description": "MATH 5110.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5110"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

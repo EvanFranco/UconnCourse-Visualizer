@@ -6,7 +6,13 @@
     "description": "Models for predictive analytics, model building, selection, estimation, validation and diagnostics, and limitations; actuarial applications, and communication of results.",
     "credits": "3",
     "requirement_description": "MATH 5637.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5637"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

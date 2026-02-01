@@ -6,7 +6,13 @@
     "description": "Algebraic integers, ideal class group, ramification, Frobenius elements in Galois groups, Dirichlet's unit theorem, localization, and completion. Further topics (zeta-functions, function fields, non-maximal orders) as time permits.",
     "credits": "3",
     "requirement_description": "MATH 5211.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5211"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

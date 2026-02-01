@@ -6,7 +6,13 @@
     "description": "An analysis of the politics of election administration. Topics include: the roles of state and local governments; the participation of candidates, political parties, and voters; convenience-voting options, new technologies, voter turnout, and voter errors; redistricting; voter suppression and voter fraud; and prospects for reform.",
     "credits": "3",
     "requirement_description": "POLS 1602.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "POLS 1602"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

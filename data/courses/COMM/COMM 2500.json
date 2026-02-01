@@ -6,7 +6,13 @@
     "description": "Introduction to theories of attitude formation, change and reinforcement. Research is used to evaluate past and present models of persuasion.",
     "credits": "3",
     "requirement_description": "COMM 1000.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "COMM 1000"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "In depth study of general principles of inorganic chemistry; the structure of the elements and of inorganic compounds; group theory; different approaches to understanding the chemical bond.",
     "credits": "3",
     "requirement_description": "CHEM 5324.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CHEM 5324"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

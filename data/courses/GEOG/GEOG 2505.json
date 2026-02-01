@@ -6,7 +6,13 @@
     "description": "Applications of geographic information systems. Particular attention to land use planning and resource management.",
     "credits": "3",
     "requirement_description": "GEOG 2500.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "GEOG 2500"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

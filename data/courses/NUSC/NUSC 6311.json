@@ -6,7 +6,13 @@
     "description": "Central and peripheral regulation of energy balance and how this affects body weight and risk for chronic disease. Relative contribution of genetic and metabolic factors, diet, and exercise on the pathophysiology of obesity.",
     "credits": "3",
     "requirement_description": "NUSC 5200.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "NUSC 5200"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

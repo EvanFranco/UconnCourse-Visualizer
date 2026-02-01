@@ -6,7 +6,13 @@
     "description": "Topics include, but are not restricted to, Computability Theory, Model Theory, and Set Theory. May be repeated for credit.",
     "credits": "3",
     "requirement_description": "MATH 5260.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5260"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

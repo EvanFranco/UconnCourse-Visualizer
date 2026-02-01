@@ -6,7 +6,13 @@
     "description": "Approximate integration, difference equations, solution of ordinary and partial differential equations.",
     "credits": "3",
     "requirement_description": "MATH 3510.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 3510"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

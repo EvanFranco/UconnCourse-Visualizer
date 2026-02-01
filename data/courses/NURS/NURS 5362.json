@@ -6,7 +6,13 @@
     "description": "This course is designed to enable students to put into practice the principles and skills needed for advanced health assessment of the neonate.",
     "credits": "3",
     "requirement_description": "NURS 5350.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "NURS 5350"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

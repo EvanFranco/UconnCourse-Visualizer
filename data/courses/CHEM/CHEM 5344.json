@@ -6,7 +6,13 @@
     "description": "Structure and mechanism. Such topics as chemical bonding, stereochemistry, conformation, molecular orbital theory and applications, acids and bases, and study of organic reaction mechanisms, including kinetics, substitutions, rearrangements and photochemical reactions.",
     "credits": "3",
     "requirement_description": "CHEM 5343.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CHEM 5343"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

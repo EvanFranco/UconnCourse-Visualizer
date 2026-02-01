@@ -6,7 +6,13 @@
     "description": "Topics include: predictability of asset prices, time series models of market microstructure, event study methodology, tests of asset pricing models and derivative pricing models, market efficiency, volatility of asset returns, and term structure interest rates.",
     "credits": "3",
     "requirement_description": "FNCE 5508.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "FNCE 5508"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Current topics in semantic research. May be repeated for a total of 12 credits.",
     "credits": "3",
     "requirement_description": "LING 5420.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "LING 5420"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

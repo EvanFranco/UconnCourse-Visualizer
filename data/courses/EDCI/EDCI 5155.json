@@ -6,7 +6,13 @@
     "description": "For prospective reading/language arts specialists. A laboratory course in planning and implementing remedial reading/language arts instruction for persons with severe or complex reading and writing disabilities.",
     "credits": "6",
     "requirement_description": "EDCI 5150.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "EDCI 5150"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

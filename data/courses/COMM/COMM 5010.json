@@ -6,7 +6,13 @@
     "description": "Conceptualization, theory construction, and review of communication methodologies. Students will write a proposal for independent research, thesis, or dissertation.",
     "credits": "3",
     "requirement_description": "COMM 5002.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "COMM 5002"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Introduction to publication design.",
     "credits": "3",
     "requirement_description": "ART 3110.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ART 3110"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

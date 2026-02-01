@@ -6,7 +6,13 @@
     "description": "Processes controlling the exchange of momentum, heat and mass across the air-sea interface.  Topics include atmospheric and oceanic stratification, wind-wave-current interaction, wave breaking, bubble generation, heat budgets, flux parameterizations and instrumentation.",
     "credits": "3",
     "requirement_description": "MARN 5060.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MARN 5060"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

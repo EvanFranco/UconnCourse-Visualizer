@@ -6,7 +6,13 @@
     "description": "A rigorous course in dynamic general equilibrium models. Emphasis on analytical techniques and numerical solution methods.",
     "credits": "3",
     "requirement_description": "ECON 5202.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ECON 5202"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

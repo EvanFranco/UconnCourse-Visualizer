@@ -6,7 +6,13 @@
     "description": "Advanced topics of contemporary interest. These include Riemann surfaces, Kleinian groups, entire functions, conformal mapping, several complex variables, and automorphic functions, among others. May be repeated for a total of 12 credits.",
     "credits": "3",
     "requirement_description": "MATH 5120.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5120"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

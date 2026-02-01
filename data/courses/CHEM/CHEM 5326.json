@@ -6,7 +6,13 @@
     "description": "Main group and transition metal compounds with inorganic and organic ligands; the study of the transition metals is in preparation for CHEM 5327.",
     "credits": "3",
     "requirement_description": "CHEM 5325.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CHEM 5325"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

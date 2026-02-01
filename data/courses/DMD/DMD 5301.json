@@ -6,7 +6,13 @@
     "description": "Students bring characters to life, applying core animation principles learned in DMD 5300 to visually convey weight, force, self-impulse, and emotion to bipedal CG characters. Students leverage principles of human mechanics and classic animation process to analyze and interpret reference footage. Best practices are learned using industry standard 3D software, resulting in appealing character animation that is mechanically sound and communicates emotion.",
     "credits": "3",
     "requirement_description": "DMD 5300.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "DMD 5300"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

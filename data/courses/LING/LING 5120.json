@@ -6,7 +6,13 @@
     "description": "Lectures and discussion of classic and current articles in first language acquisition; presentation of ongoing student research.",
     "credits": "3",
     "requirement_description": "LING 5110.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "LING 5110"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

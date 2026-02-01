@@ -6,7 +6,13 @@
     "description": "Further development of skills in music reading, sight singing, and dictation.",
     "credits": "3",
     "requirement_description": "MUSI 1011.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MUSI 1011"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

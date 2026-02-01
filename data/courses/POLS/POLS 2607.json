@@ -6,7 +6,13 @@
     "description": "An analysis of the aims, organization, and growth of parties in the United States.",
     "credits": "3",
     "requirement_description": "POLS 1602.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "POLS 1602"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

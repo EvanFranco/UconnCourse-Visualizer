@@ -6,7 +6,13 @@
     "description": "Introduction to computer programming in a structured programming language including fundamental elements of program design and analysis. Data and functional abstraction as tools for constructing correct, efficient, and intelligible programs for a variety of common computing problems.",
     "credits": "3",
     "requirement_description": "CSE 1010.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CSE 1010"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Aspects of musical structure and style in works from the 17th through the 19th centuries. Application of a variety of approaches to analysis.",
     "credits": "3",
     "requirement_description": "MUSI 3314.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MUSI 3314"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

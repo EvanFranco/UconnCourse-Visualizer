@@ -6,7 +6,13 @@
     "description": "Major topics in modern and contemporary Italian cinema. Taught in Italian.",
     "credits": "3",
     "requirement_description": "ILCS 1004.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ILCS 1004"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

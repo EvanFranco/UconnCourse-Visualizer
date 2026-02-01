@@ -6,7 +6,13 @@
     "description": "Continuing the work begun in EPSY 5308; to strengthen and extend helping skills.",
     "credits": "3",
     "requirement_description": "EPSY 5308.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "EPSY 5308"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

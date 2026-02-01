@@ -6,7 +6,13 @@
     "description": "Introduces synthesis and design of materials in the nanoscale.  Typical synthesis strategies of low dimensional materials including nanoparticles, nanowires, nanotubes and hierarchical nanostructures are presented and discussed.  The reasons behind growth mechanisms are interpreted and the nanoscale structure-properties relations are described.  Design strategies of multifunctional nanomaterials will be addressed as well.  Readings from modern scientific literature are assigned weekly for in-class discussions.",
     "credits": "3",
     "requirement_description": "MSE 2002.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MSE 2002"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Review of professional practice issues in speech language pathology. Covers a variety of clinical topics through discussion and case-based learning to in preparation for a career as a Speech-Language Pathologist.",
     "credits": "2",
     "requirement_description": "SLHS 5502.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "SLHS 5502"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "A continuation of the study and practice of techniques utilized in the performance of modern realists.",
     "credits": "3",
     "requirement_description": "DRAM 2701.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "DRAM 2701"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

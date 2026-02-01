@@ -6,7 +6,13 @@
     "description": "Selected topics (e.g., social influence, person perception, pro-social behavior) vary with each offering. May be repeated for credit.",
     "credits": "3",
     "requirement_description": "PSYC 2700.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PSYC 2700"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

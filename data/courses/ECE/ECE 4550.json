@@ -6,7 +6,13 @@
     "description": "Techniques useful for the grid modernization from a unique angle of microgrid design, analysis and operation. Smart inverters, microgrid architectures, distributed energy resources modeling, microgrid hierachical control, microgrid stability, fault management, resilient microgrids through programmable networks, reliable networked microgrids, and cyber security.",
     "credits": "3",
     "requirement_description": "ECE 3231.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ECE 3231"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

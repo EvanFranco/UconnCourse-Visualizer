@@ -6,7 +6,13 @@
     "description": "Advanced study of American Sign Language and Deaf culture.",
     "credits": "3",
     "requirement_description": "ASLN 1104",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ASLN 1104"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

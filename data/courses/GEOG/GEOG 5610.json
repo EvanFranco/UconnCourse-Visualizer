@@ -6,7 +6,13 @@
     "description": "Advanced study in the methods and practice of multidimensional statistics and spatial modeling.",
     "credits": "3",
     "requirement_description": "GEOG 5600.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "GEOG 5600"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

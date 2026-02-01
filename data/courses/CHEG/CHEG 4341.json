@@ -6,7 +6,13 @@
     "description": "Concepts and principles of energy and fuel resources, production and processing by applying energy and mass balances. Fundamentals of fuels processing in refinery and biorefinery processes and industrial (catalytic and non-catalytic) processes by constructing and analyzing systems level flow diagrams. Develop, solve and analyze chemical engineering systems and processes by applying fundamental concepts of thermodynamics and reaction kinetics as well as fundamental concepts from physics, biology, chemistry and mathematics. Analyze, propose solutions and present modern challenges in chemical engineering processes which involve fuel processing.",
     "credits": "3",
     "requirement_description": "CHEG 2111.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CHEG 2111"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

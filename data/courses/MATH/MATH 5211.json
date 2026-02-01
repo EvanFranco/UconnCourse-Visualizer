@@ -6,7 +6,13 @@
     "description": "Linear and multilinear algebra, Galois theory, category theory, and commutative algebra. ",
     "credits": "3",
     "requirement_description": "MATH 5210.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5210"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

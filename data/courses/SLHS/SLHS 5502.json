@@ -6,7 +6,13 @@
     "description": "Extensive review of clinical topics necessary for robust careers as Speech-Language Pathologists, with a focus on comprehensive assessment methods for communication and swallowing disorders across lifespans and settings. Practical skills in assessment strategy development, evaluative interviewing, and judicious selection of evaluative tools. Learners gain proficiency in communicating findings, crafting diagnostic and treatment plans, and establishing goals rooted in evidence-based practice and cultural awareness.",
     "credits": "2",
     "requirement_description": "SLHS 5501.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "SLHS 5501"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

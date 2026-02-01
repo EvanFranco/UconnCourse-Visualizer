@@ -6,7 +6,13 @@
     "description": "An analysis of strategy, communications, fundraising, and voter mobilization in contemporary political campaigns.",
     "credits": "3",
     "requirement_description": "POLS 1602.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "POLS 1602"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

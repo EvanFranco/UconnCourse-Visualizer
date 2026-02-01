@@ -6,7 +6,13 @@
     "description": "Army staff organization, unit administration and management, logistics, military intelligence, leadership seminar, the international system, and strategic doctrine. One weekend field training exercise.",
     "credits": "3",
     "requirement_description": "MISI 3302.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MISI 3302"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

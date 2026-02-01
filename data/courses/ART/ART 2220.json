@@ -6,7 +6,13 @@
     "description": "Fundamental skills required for animation.",
     "credits": "3",
     "requirement_description": "ART 1040.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ART 1040"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

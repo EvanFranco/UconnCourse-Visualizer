@@ -6,7 +6,13 @@
     "description": "Properties of nuclei and particles, conserved quantities, isospin, quark model, Fermi gas model, electroweak interaction, high energy scattering.",
     "credits": "3",
     "requirement_description": "PHYS 3401.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PHYS 3401"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

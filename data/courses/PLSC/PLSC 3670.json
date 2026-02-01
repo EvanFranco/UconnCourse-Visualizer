@@ -6,7 +6,13 @@
     "description": "Introduction to greenhouse crop management with emphasis on structures, environmental control systems, and management techniques used to control crop response. Formerly offered as SPSS 3670.",
     "credits": "3",
     "requirement_description": "PLSC 1120.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PLSC 1120"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Continued development of intermediate expressive and receptive skills in ASL.",
     "credits": "4",
     "requirement_description": "ASLN 1103.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ASLN 1103"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

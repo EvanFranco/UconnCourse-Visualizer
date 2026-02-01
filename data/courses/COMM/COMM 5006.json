@@ -6,7 +6,13 @@
     "description": "An introduction to quantitative content analysis methodology. Issues of operationalization, measurement, sampling, coder training and reliability are covered.",
     "credits": "3",
     "requirement_description": "COMM 5001.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "COMM 5001"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

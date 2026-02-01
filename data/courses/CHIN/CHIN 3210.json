@@ -6,7 +6,13 @@
     "description": "Development of high intermediate to advanced speaking and writing competency. Taught in Chinese.",
     "credits": "3",
     "requirement_description": "CHIN 1114.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CHIN 1114"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

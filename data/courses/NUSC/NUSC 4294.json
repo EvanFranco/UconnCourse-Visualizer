@@ -6,7 +6,13 @@
     "description": "Review, evaluation, and oral and written presentation of contemporary nutrition issues. May be repeated for credit.",
     "credits": "1",
     "requirement_description": "NUSC 2200.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "NUSC 2200"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

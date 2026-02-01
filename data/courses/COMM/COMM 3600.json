@@ -6,7 +6,13 @@
     "description": "An overview of new communication technologies. Topics include the uses, evolution, diffusion, operation, and effects of new communication technologies.",
     "credits": "3",
     "requirement_description": "COMM 2600.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "COMM 2600"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Child development and the effects of mass media on young children. Educational television, frightening media, violent television, computer games, the Internet and media policy.",
     "credits": "3",
     "requirement_description": "COMM 2300.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "COMM 2300"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Software engineering concepts including the software life cycle and other software-development process models. Specification techniques, design methodologies, performance analysis, and verification techniques. Team-oriented software design and development, and project management techniques.Use of appropriate design and debugging tools for a modern programming language. Homework and laboratory projects that emphasize design and the use/features of a modern programming language.",
     "credits": "3",
     "requirement_description": "CSE 2050",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CSE 2050"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

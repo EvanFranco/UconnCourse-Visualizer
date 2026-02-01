@@ -6,7 +6,13 @@
     "description": "An examination of current theories. Topics include: consideration of their continuities with classical theories, conceptual and measurement problems in testing and constructing current theories, and the interplay between theory and research.",
     "credits": "3",
     "requirement_description": "SOCI 5251.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "SOCI 5251"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

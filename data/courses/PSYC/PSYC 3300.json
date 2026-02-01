@@ -6,7 +6,13 @@
     "description": "Theory, research, treatment, and prevention in developmental psychopathology from infancy through adolescence.",
     "credits": "3",
     "requirement_description": "PSYC 2400.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PSYC 2400"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

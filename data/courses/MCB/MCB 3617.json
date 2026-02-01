@@ -6,7 +6,13 @@
     "description": "Molecular genetics of bacteria, archaebacteria, and their viruses. Transcription and replication of DNA, transformation, transduction, conjugation, genetic mapping, mutagenesis, regulation of gene expression, genome organization.",
     "credits": "4",
     "requirement_description": "MCB 2610.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MCB 2610"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

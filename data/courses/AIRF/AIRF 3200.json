@@ -6,7 +6,13 @@
     "description": "Advanced skills and knowledge in management and leadership. Special emphasis on enhancing leadership skills and communication.",
     "credits": "3",
     "requirement_description": "AIRF 3000.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "AIRF 3000"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

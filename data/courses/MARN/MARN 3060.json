@@ -6,7 +6,13 @@
     "description": "Circulation and mixing in estuaries and the inner continental shelf, including surface gravity waves, tides, and buoyancy and wind-driven circulation. Coastal sediments, geomorphology, and processes of sedimentation, erosion and bioturbation. Required field trips.",
     "credits": "3",
     "requirement_description": "MARN 3001.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MARN 3001"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

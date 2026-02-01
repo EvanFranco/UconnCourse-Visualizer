@@ -6,7 +6,13 @@
     "description": "Development of new nutrition products; regulations applicable to foods, medical foods, dietary supplements and ingredients; accurate and appropriate representation of scientific evidence for substantiating label claims and advertisements.",
     "credits": "3",
     "requirement_description": "NUSC 5200.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "NUSC 5200"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

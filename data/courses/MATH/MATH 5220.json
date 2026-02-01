@@ -6,7 +6,13 @@
     "description": "Semi-simple rings, Jacobson radical, density theory, Wedderburn's Theorem, representations and characters of groups, orthogonality relations, Burnside's theorem.",
     "credits": "3",
     "requirement_description": "MATH 5210.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5210"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

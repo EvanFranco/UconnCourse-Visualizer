@@ -6,7 +6,13 @@
     "description": "The basis, in theories of perception and learning, for design of complex human-machine systems.",
     "credits": "3",
     "requirement_description": "PSYC 5615.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PSYC 5615"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

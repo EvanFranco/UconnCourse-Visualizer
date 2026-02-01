@@ -6,7 +6,13 @@
     "description": "Advanced work in phonology. May be repeated for a total of 12 credits.",
     "credits": "3",
     "requirement_description": "LING 5320.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "LING 5320"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

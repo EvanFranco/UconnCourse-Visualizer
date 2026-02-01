@@ -6,7 +6,13 @@
     "description": "The fundamentals of visual communication design as applied to modern media. Topics include design principles, aesthetics, social media, intuitive design, typography, layout, photo editing, color theory, motion graphics, and informational graphics.",
     "credits": "3",
     "requirement_description": "JOUR 3030.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "JOUR 3030"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

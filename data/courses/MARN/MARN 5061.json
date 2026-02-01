@@ -6,7 +6,13 @@
     "description": "Ocean thermodynamics; dynamics of rotating; homogeneous fluids; ocean circulation; western boundary currents; the thermocline, oceanic fronts.",
     "credits": "3",
     "requirement_description": "MARN 5060.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MARN 5060"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

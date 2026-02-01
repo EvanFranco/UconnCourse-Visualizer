@@ -6,7 +6,13 @@
     "description": "An introduction to soil microorganisms through exploring how a diversity of fungi, bacteria, and other soil microbes behave in natural and extreme habitats across multiple scales of biological organization. We will relate microbial processes to global change drivers emphasizing responses to natural disasters and pollution, as well as discerning effects of microbial processes on mitigating threats and in addressing contemporary issues.",
     "credits": "3",
     "requirement_description": "PLSC 2120",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PLSC 2120"
+            ]
+        ]
+    },
     "content_areas": [
         "CA3"
     ],

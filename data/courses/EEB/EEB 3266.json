@@ -6,7 +6,13 @@
     "description": "Field-intensive study of diversity, ecology, physiology, behavior, adaptation and identification of the amphibians and reptiles of the region; herpetofaunal research methods. Field trips required.",
     "credits": "3",
     "requirement_description": "BIOL 1108.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "BIOL 1108"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

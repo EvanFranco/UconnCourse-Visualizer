@@ -6,7 +6,13 @@
     "description": "Designed to develop technical and managerial skills necessary for operating horse farms. Programs for herd health, hoof care, nutrition, breeding, foaling and record keeping will be included.",
     "credits": "3",
     "requirement_description": "SAAS 251.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "SAAS 251"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

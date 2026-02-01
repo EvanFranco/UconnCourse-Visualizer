@@ -6,7 +6,13 @@
     "description": "Overview of the factors affecting the design of products and the various processes used in their manufacture. An introduction to manufacturing processes and their capabilities and limitations. Value engineering, methods improvement and simplification techniques will be covered.",
     "credits": "3",
     "requirement_description": "MEM 2211.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MEM 2211"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

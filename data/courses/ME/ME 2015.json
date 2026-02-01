@@ -6,7 +6,13 @@
     "description": "Basic programming logic using programming languages common in industry. Application of programming to mechanical engineering problems.",
     "credits": "1",
     "requirement_description": "CSE 1010.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CSE 1010"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

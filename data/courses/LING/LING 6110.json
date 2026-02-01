@@ -6,7 +6,13 @@
     "description": "Experimental methods for first language acquisition research.",
     "credits": "3",
     "requirement_description": "LING 5110.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "LING 5110"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

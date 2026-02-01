@@ -6,7 +6,13 @@
     "description": "General concepts in fish ecology such as distribution, feeding, bioenergetics, growth, larval fish ecology, biotic interactions, life history evolution and other contemporary research topics.",
     "credits": "3",
     "requirement_description": "MARN 3014.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MARN 3014"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

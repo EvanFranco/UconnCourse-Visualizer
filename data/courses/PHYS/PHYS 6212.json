@@ -6,7 +6,13 @@
     "description": "Crystal structure; lattice vibrations; electronic band structure of solids; transport theory; basic properties of metals, semi-conductors and insulators; magnetism; super-conductivity.",
     "credits": "3",
     "requirement_description": "PHYS 6211.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PHYS 6211"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

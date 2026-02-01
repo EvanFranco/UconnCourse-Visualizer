@@ -6,7 +6,13 @@
     "description": "Investigation of black-and-white and color intaglio techniques.",
     "credits": "3",
     "requirement_description": "ART 2510.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ART 2510"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

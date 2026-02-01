@@ -6,7 +6,13 @@
     "description": "Transition metal chemistry; organometallic and coordination compounds of the transition elements, including the lanthanides and actinides; selected topics in bioinorganic chemistry.",
     "credits": "3",
     "requirement_description": "CHEM 5326.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CHEM 5326"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

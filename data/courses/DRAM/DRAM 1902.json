@@ -6,7 +6,13 @@
     "description": "Additional vocal and articulation/phonetics skills applied to the performance of both realistic and elevated language in dramatic literature.",
     "credits": "3",
     "requirement_description": "DRAM 1901.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "DRAM 1901"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Further grammar study. Practice in composition involving the use of everyday vocabulary and idiomatic expressions. Readings and films relevant to Israeli culture and history. May be repeated for credit.",
     "credits": "3",
     "requirement_description": "HEJS 3251.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "HEJS 3251"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

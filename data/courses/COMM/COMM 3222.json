@@ -6,7 +6,13 @@
     "description": "Impact of race, ethnicity, and culture on interpersonal interactions. Surveys key theories and empirical works of past and current race relations in the U.S., negotiation of identity, and ways identity is communicated in various personal relationships.",
     "credits": "3",
     "requirement_description": "COMM 2200.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "COMM 2200"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

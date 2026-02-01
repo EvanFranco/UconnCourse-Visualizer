@@ -6,7 +6,13 @@
     "description": "Students develop the skills required for the analysis and presentation of current literature and research problems. May be repeated for a total of 4 credits.",
     "credits": "1",
     "requirement_description": "NUSC 5100.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "NUSC 5100"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

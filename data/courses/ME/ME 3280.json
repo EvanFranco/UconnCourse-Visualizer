@@ -6,7 +6,13 @@
     "description": "Review of fundamental fluids and thermodynamics.  Introduction to compressible flow concepts.  Theory, design and performance of centrifugal and axial flow machinery including turbines, blowers, fans, compressors, superchargers, pumps, fluid couplings and torque converters. A detailed study of the mechanics of the transfer of energy between a fluid and a rotor.  Preparation for practical design of turbomachinery.",
     "credits": "3",
     "requirement_description": "ME 3250.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ME 3250"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

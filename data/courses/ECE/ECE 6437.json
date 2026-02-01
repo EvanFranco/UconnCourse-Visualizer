@@ -6,7 +6,13 @@
     "description": "Computational methods for optimization in static and dynamic problems. Ordinary function minimization, linear programming, gradient methods and conjugate direction search, nonlinear problems with constraints. Extension of search methods to optimization of dynamic systems, dynamic programming.",
     "credits": "3",
     "requirement_description": "ECE 5101.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ECE 5101"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

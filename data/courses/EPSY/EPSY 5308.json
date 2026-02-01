@@ -6,7 +6,13 @@
     "description": "Contemporary theories and practices of essential helping skills.",
     "credits": "3",
     "requirement_description": "EPSY 5307.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "EPSY 5307"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

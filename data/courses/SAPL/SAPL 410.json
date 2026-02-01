@@ -6,7 +6,13 @@
     "description": "Taxonomy, identification, ornamental characteristics, cultural requirements and landscape use of deciduous and evergreen woody plants most often utilized in landscapes of the northeastern United States and similar environs.",
     "credits": "3",
     "requirement_description": "SAPL 120.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "SAPL 120"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

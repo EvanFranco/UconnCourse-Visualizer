@@ -6,7 +6,13 @@
     "description": "Increasing communicative abilities in Modern Greek with stronger emphasis on vocabulary and grammar using examples from media, politics, and culture.",
     "credits": "4",
     "requirement_description": "MGRK 1103.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MGRK 1103"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

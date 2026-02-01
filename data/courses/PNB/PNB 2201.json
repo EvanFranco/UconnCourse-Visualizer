@@ -6,7 +6,13 @@
     "description": "Exploration of the role that gene regulation, transcript processing, protein production, and protein function play in the physiology of limb development. Emphasis placed on understanding and communicating primary literature, and experimental systems used in model organisms.",
     "credits": "2",
     "requirement_description": "PNB 1201.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PNB 1201"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

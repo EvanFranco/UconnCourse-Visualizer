@@ -6,7 +6,13 @@
     "description": "Application of information about human abilities and limitations to the design of systems, products, tools, computer interfaces, tasks, jobs, and environments for safe, comfortable and effective human use.",
     "credits": "3",
     "requirement_description": "PSYC 1100.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PSYC 1100"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

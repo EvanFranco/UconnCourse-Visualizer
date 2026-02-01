@@ -6,7 +6,13 @@
     "description": "Theoretical and clinical issues related to hearing aid candidacy and fitting with an emphasis on advanced signal processing strategies.",
     "credits": "3",
     "requirement_description": "SLHS 5351.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "SLHS 5351"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

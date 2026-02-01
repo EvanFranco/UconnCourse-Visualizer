@@ -6,7 +6,13 @@
     "description": "Students, working with a faculty supervisor, develop plans for an independent research project or review paper, execute the project, and complete a report. May be taken more than one semester. May be repeated for credit.",
     "credits": "1-6",
     "requirement_description": "HDFS 2004.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "HDFS 2004"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

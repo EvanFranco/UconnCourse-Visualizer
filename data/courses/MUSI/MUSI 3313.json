@@ -6,7 +6,13 @@
     "description": "Continuation of MUSI 1314.",
     "credits": "3",
     "requirement_description": "MUSI 1314.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MUSI 1314"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

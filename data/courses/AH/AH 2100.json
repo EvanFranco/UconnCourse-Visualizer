@@ -6,7 +6,13 @@
     "description": "Essential tools for professional development and workplace readiness, specifically for careers in health professions. Goal setting, resume building, interview preparation, networking, and self-assessment of strengths and career readiness competencies are covered.",
     "credits": "1",
     "requirement_description": "AH 1100.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "AH 1100"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

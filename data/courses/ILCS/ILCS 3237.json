@@ -6,7 +6,13 @@
     "description": "A survey of contemporary Italian political, social, economic and cultural life.",
     "credits": "3",
     "requirement_description": "ILCS 1004.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ILCS 1004"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

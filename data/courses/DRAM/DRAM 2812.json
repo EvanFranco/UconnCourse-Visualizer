@@ -6,7 +6,13 @@
     "description": "Developing and applying additional movement skills to different types and styles of dramatic expression.",
     "credits": "3",
     "requirement_description": "DRAM 2810.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "DRAM 2810"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

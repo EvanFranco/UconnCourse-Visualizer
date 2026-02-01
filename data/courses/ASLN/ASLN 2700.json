@@ -6,7 +6,13 @@
     "description": "The study of interpreting American Sign Language and English within a variety of settings with a primary focus on educational interpreting.",
     "credits": "3",
     "requirement_description": "ASLN 1102",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ASLN 1102"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

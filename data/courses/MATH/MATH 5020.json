@@ -6,7 +6,13 @@
     "description": "Advanced topics chosen from group theory, ring theory, number theory, Lie theory, combinatorics, commutative algebra, algebraic geometry, homological algebra, and representation theory. May be repeated for credit.",
     "credits": "3",
     "requirement_description": "MATH 5211.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5211"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

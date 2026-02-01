@@ -6,7 +6,13 @@
     "description": "Students work directly with a certified athletic trainer and are assigned to a specific athletic training practice setting. Involves providing day-to-day care for the participants, as well as administering treatments and rehabilitation under supervision of the preceptor. Students will be expected to be immersed daily into the role of the athletic trainer. May be repeated for a total of 3 credits.",
     "credits": "3",
     "requirement_description": "KINS 5201.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "KINS 5201"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

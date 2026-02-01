@@ -6,7 +6,13 @@
     "description": "Current topics in first language acquisition research. May be repeated for a total of 12 credits.",
     "credits": "3",
     "requirement_description": "LING 5110.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "LING 5110"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

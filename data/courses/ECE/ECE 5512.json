@@ -6,7 +6,13 @@
     "description": "Principles of distribution system planning, automation and real-time operation with applications. Concepts of AC/DC Electricity. Three-phase power distribution as well as DC and Hybrid circuits. Load flow calculations, fault analysis, and reliability evaluation. Distributed power resources. Distribution system protection and reconfiguration. Smart distribution technologies. Efficient and resilient energy utilization.",
     "credits": "3",
     "requirement_description": "ECE 3231.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ECE 3231"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

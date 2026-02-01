@@ -6,7 +6,13 @@
     "description": "Application of skills from ECON 5501 to writing and presenting a research paper developed in a third-semester Master of Science in Quantitative Economics course.",
     "credits": "1",
     "requirement_description": "ECON 5501.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ECON 5501"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

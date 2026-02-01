@@ -6,7 +6,13 @@
     "description": "Theories of meaning and reference. Formal treatment of meaning in a generative grammar.",
     "credits": "3",
     "requirement_description": "LING 5410.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "LING 5410"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

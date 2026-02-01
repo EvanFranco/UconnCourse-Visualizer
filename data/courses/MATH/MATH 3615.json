@@ -6,7 +6,13 @@
     "description": "Preparation for the financial mathematics actuarial examination, which tests a student's knowledge of the theory of interest and financial economics at an introductory level.",
     "credits": "1",
     "requirement_description": "MATH 2620.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 2620"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

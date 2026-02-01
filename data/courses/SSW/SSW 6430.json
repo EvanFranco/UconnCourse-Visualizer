@@ -6,7 +6,13 @@
     "description": "This course builds upon SSW 6414: Research V: Qualitative Research Methods and continues with qualitative methods, participant data collection, analysis, and dissemination. Students will develop in depth knowledge and experience in one methodology and approach through an applied project that builds from SSW 6414. Students will analyze and interpret qualitative data and learn how to contextualize it in the global context. Students will be coding, using qualitative software and exposed to new technologies, and best practices in writing and dissemination of qualitative data.",
     "credits": "4",
     "requirement_description": "SSW 6414.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "SSW 6414"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

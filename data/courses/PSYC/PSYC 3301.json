@@ -6,7 +6,13 @@
     "description": "History of clinical psychology as a profession; graduate training and ethical responsibilities; assessment and treatment of psychological disorders; and clinical sub-specialities.",
     "credits": "3",
     "requirement_description": "PSYC 2300.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PSYC 2300"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

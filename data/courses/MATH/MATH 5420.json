@@ -6,7 +6,13 @@
     "description": "Existence and uniqueness of solutions, stability and asymptotic behavior. If time permits: eigenvalue problems, dynamical systems, existence and stability of periodic solutions.",
     "credits": "3",
     "requirement_description": "MATH 5111.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5111"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

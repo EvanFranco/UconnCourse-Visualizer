@@ -6,7 +6,13 @@
     "description": "Speculative pedagogical and analytical thought on the music in theoretical treatises from antiquity to the twentieth century.",
     "credits": "3",
     "requirement_description": "MUSI 5302.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MUSI 5302"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

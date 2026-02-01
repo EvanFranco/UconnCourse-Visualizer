@@ -6,7 +6,13 @@
     "description": "This course introduces further concepts and methods of modern algebraic geometry, including schemes and cohomology.",
     "credits": "3",
     "requirement_description": "MATH 5320.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5320"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

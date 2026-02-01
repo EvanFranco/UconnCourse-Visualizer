@@ -6,7 +6,13 @@
     "description": "Kinematics and dynamics of particles. Motion relative to translating and rotating observers; inertial reference systems; central forces and orbits. Kinematics and dynamics of groups of particles and rigid bodies. Lagrangian description of motion.",
     "credits": "3",
     "requirement_description": "CE 2120.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CE 2120"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

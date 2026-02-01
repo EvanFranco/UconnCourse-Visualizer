@@ -6,7 +6,13 @@
     "description": "Fundamentals of radiative emission (black body behavior and Planck's law), surface properties (emissivity, absorptivity, reflectivity, and transmissivity), electromagnetic theory for prediciton of radiative properties, development of the methods of solution for radiant energy interchange between surfaces and in enclosures with and without absorbing, emitting, and scattering medi present.",
     "credits": "3",
     "requirement_description": "ME 5507.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ME 5507"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

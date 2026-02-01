@@ -6,7 +6,13 @@
     "description": "Advanced converter and inverter topologies for high efficiency applications. Non-ideal component characteristics. Necessary components such as gate drive circuits and magnetic component design (that are not covered in introductory power electronics courses).",
     "credits": "3",
     "requirement_description": "ECE 3211.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ECE 3211"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

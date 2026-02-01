@@ -6,7 +6,13 @@
     "description": "Taught online. An in-depth examination and application of the principles of exercise prescription for healthy populations with special considerations, and unique circumstances under which people exercise related to both athletic and clinical populations.  Students will advance their knowledge in prescribing exercise for healthy populations with special populations such as children and older adults, populations with unique considerations such as the spinal cord injured and amputee athletes, and unique exercise circumstances such as environmental considerations and wearable technologies, among others.",
     "credits": "3",
     "requirement_description": "KINS 5507.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "KINS 5507"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

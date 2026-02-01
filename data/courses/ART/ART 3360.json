@@ -6,7 +6,13 @@
     "description": "Continuing study in aqua media.",
     "credits": "3",
     "requirement_description": "ART 3350.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ART 3350"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

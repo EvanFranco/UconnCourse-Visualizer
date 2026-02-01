@@ -6,7 +6,13 @@
     "description": "Emphasis is placed on advanced principles of pharmacodynamics, pharmacotherapeutics, and pharmacologic management for the neonatal population as appropriate for the neonatal nurse practitioner role and scope of practice.",
     "credits": "3",
     "requirement_description": "NURS 5350.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "NURS 5350"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

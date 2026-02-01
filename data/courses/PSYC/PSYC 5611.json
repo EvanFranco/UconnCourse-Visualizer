@@ -6,7 +6,13 @@
     "description": "Major theoretical approaches to work motivation, and their implications for the design of work settings and the treatment of workers.",
     "credits": "3",
     "requirement_description": "PSYC 5613.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PSYC 5613"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

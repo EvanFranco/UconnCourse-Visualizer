@@ -6,7 +6,13 @@
     "description": "The study and practice of techniques for realism and naturalism typically used in performing works by the modern realists.",
     "credits": "3",
     "requirement_description": "DRAM 1702.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "DRAM 1702"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

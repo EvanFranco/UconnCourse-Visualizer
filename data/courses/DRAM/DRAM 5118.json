@@ -6,7 +6,13 @@
     "description": "Final in series of seminar-based courses.  Meets with Arts Administration Studio I, II, III, and IV.  Case studies, and other forms of research, in arts administration.  Leadership models and techniques.  Research projects required.",
     "credits": "3",
     "requirement_description": "DRAM 5117.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "DRAM 5117"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

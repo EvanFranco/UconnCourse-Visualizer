@@ -6,7 +6,13 @@
     "description": "Reading of Ancient Greek texts in the original. With a change in content, may be repeated for credit. Involves reading in Greek. May be repeated for credit.",
     "credits": "1-6",
     "requirement_description": "CAMS 1172.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CAMS 1172"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

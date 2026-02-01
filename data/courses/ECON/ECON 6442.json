@@ -6,7 +6,13 @@
     "description": "Labor demand and other applied topics in labor economics.",
     "credits": "3",
     "requirement_description": "ECON 6211.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ECON 6211"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Structural problem solving using fundamental data including spectroscopic and wet chemical techniques.",
     "credits": "3",
     "requirement_description": "CHEM 5343.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CHEM 5343"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

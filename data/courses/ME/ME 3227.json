@@ -6,7 +6,13 @@
     "description": "Application of the fundamentals of engineering mechanics, materials and manufacturing to the design and analysis of machine elements.",
     "credits": "3",
     "requirement_description": "CE 3110.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CE 3110"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Method and theory of experimental archaeology, including hands-on study of past human behavior through experimentation with modern material culture, and the execution of an experimental research project addressing an archaeological question.",
     "credits": "3",
     "requirement_description": "ANTH 2501.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ANTH 2501"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [
         "TOI6"

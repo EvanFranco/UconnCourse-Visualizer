@@ -6,7 +6,13 @@
     "description": "Contemporary theory of stochastic processes, including stopping times, stochastic integration, stochastic differential equations and Markov processes, Gaussian processes, and empirical and related processes with applications in asymptotic statistics. May be repeated for a total of 12 credits.",
     "credits": "3",
     "requirement_description": "MATH 5160.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5160"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

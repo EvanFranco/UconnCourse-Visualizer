@@ -6,7 +6,13 @@
     "description": "The provision of aural rehabilitation services to adults with hearing loss including auditory training, speechreading, auditory-visual integration, effective communication strategies, and Deaf culture.",
     "credits": "3",
     "requirement_description": "SLHS 5356.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "SLHS 5356"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

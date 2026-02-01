@@ -6,7 +6,13 @@
     "description": "This seminar is designed for students in nursing and other disciplines to achieve an advanced level of expertise in selected qualitative approaches. Expected course outcome is a completed qualitative project.",
     "credits": "3",
     "requirement_description": "NURS 6130.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "NURS 6130"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

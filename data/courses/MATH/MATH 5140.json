@@ -6,7 +6,13 @@
     "description": "Foundations of harmonic analysis developed through the study of Fourier series and Fourier transforms.",
     "credits": "3",
     "requirement_description": "MATH 5111.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5111"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

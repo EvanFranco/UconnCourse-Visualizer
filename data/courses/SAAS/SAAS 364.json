@@ -6,7 +6,13 @@
     "description": "Continued practical experience in common management practices is offered by working in the University facilities under supervision. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory).",
     "credits": "1",
     "requirement_description": "SAAS 363.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "SAAS 363"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

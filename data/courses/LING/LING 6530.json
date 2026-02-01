@@ -6,7 +6,13 @@
     "description": "Cross-linguistic study of syntactic structure; implications for linguistic theory. May be repeated for a total of 12 credits.",
     "credits": "3",
     "requirement_description": "LING 5520.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "LING 5520"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

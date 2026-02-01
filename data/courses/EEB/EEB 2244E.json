@@ -6,7 +6,13 @@
     "description": "Fundamental ecological dynamics of communities, populations, and ecosystems, including how humans impact the health and well-being of the natural world, the concept of ecosystem services, and the synergy between conservation of the biota and sustainability. Emphasis in discussion sections is on reading primary literature, problem-solving, scientific method, and sampling techniques.",
     "credits": "4",
     "requirement_description": "BIOL 1108.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "BIOL 1108"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [
         "TOI4"

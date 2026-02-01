@@ -6,7 +6,13 @@
     "description": "An introduction to quantum theory and its applications to atomic and molecular structure and spectroscopy.",
     "credits": "3",
     "requirement_description": "CHEM 3564.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CHEM 3564"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

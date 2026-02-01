@@ -6,7 +6,13 @@
     "description": "(Also offered as LLAS 3107.) Empirical and theoretical literature on psychological experiences of Latino Americans. Impact of race, culture, and ethnicity on psychological development.",
     "credits": "3",
     "requirement_description": "PSYC 1100.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PSYC 1100"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

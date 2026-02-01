@@ -6,7 +6,13 @@
     "description": "Harmonic analysis on Abelian and non-Abelian locally compact groups, Pontryagin duality, the Peter-Weyl theorem, various Fourier transforms and  connections to unitary representation theory.",
     "credits": "3",
     "requirement_description": "MATH 5111.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5111"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Coupling of angular momenta. Hartree-Fock theory of many electron atoms, fine structure and hyperfine structure. Introduction to group theory.",
     "credits": "3",
     "requirement_description": "PHYS 5402.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PHYS 5402"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

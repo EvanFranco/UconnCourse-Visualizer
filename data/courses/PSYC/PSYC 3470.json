@@ -6,7 +6,13 @@
     "description": "Selected topics (e.g., infant development, peer relations, cognitive development, and developmental psychobiology) that may vary with each offering. May be repeated for credit.",
     "credits": "3",
     "requirement_description": "PSYC 2400.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PSYC 2400"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

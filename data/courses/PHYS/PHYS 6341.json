@@ -6,7 +6,13 @@
     "description": "Local gauge invariance, Lagranian formulation, Noether currents, spontaneous breakdown of symmetry, Higgs mechanism and superconductivity, canonical quantization, Feynman diagrams, Green's functions.",
     "credits": "3",
     "requirement_description": "PHYS 5403.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "PHYS 5403"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

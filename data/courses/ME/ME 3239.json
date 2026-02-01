@@ -6,7 +6,13 @@
     "description": "Introduction to combustion processes and chemical kinetics. Mechanism of the formation of pollutants such as nitrogen oxides, carbon monoxide, soot, and unburned hydrocarbons in stationary and vehicular power plants.",
     "credits": "3",
     "requirement_description": "ME 2234.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ME 2234"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

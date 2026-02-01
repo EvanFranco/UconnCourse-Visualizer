@@ -3,10 +3,16 @@
     "dept_code": "MATH",
     "id_number": "5311",
     "title": "Introduction to Geometry and Topology II",
-    "description": "Smooth manifolds, vector fields, differential forms, de Rham cohomology, homology theory, singular (co)homology, Poincaré duality. May be repeated for a total of 12 credits.",
+    "description": "Smooth manifolds, vector fields, differential forms, de Rham cohomology, homology theory, singular (co)homology, Poincar\u00e9 duality. May be repeated for a total of 12 credits.",
     "credits": "3",
     "requirement_description": "MATH 5310.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5310"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

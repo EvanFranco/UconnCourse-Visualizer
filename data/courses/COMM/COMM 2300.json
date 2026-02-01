@@ -6,7 +6,13 @@
     "description": "An analysis of the roles of the mass media and of the effects they exert on individuals and society.",
     "credits": "3",
     "requirement_description": "COMM 1000.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "COMM 1000"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

@@ -6,7 +6,13 @@
     "description": "Introduction to Chinese phonetics, phonology, morphology, syntax, writing system, and sociolinguistic aspects. Taught in English.",
     "credits": "3",
     "requirement_description": "CHIN 1112.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "CHIN 1112"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

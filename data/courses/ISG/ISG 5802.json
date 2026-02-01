@@ -6,7 +6,13 @@
     "description": "The second in a series of three courses designed to support student-driven investigation of a capstone project consistent with the student's educational interest, career track and plan of study.",
     "credits": "1",
     "requirement_description": "ISG 5801.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ISG 5801"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

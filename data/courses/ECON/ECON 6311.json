@@ -6,7 +6,13 @@
     "description": "Large sample linear regression, time series analysis, maximum likelihood, GMM, and qualitative choice models.",
     "credits": "3",
     "requirement_description": "ECON 6310.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "ECON 6310"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

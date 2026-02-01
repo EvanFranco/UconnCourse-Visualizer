@@ -6,7 +6,13 @@
     "description": "Topics include: information asymmetry, agency, internal capital markets, governance, market microstructure, moral hazard / adverse selection. Concepts are applied in both corporate and financial institution settings.",
     "credits": "3",
     "requirement_description": "FNCE 5508.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "FNCE 5508"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

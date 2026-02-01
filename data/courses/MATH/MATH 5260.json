@@ -6,7 +6,13 @@
     "description": "Predicate calculus, completeness, compactness, Lowenheim-Skolem theorems, formal theories with applications to algebra, Godel's incompleteness theorem. Further topics chosen from: axiomatic set theory, model theory, recursion theory, computational complexity, automata theory and formal languages.",
     "credits": "3",
     "requirement_description": "MATH 5210.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5210"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],

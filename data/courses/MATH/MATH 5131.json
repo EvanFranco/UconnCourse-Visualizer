@@ -6,7 +6,13 @@
     "description": "Normed linear spaces and algebras, the theory of linear operators, spectral analysis. May be repeated for a total of 6 credits.",
     "credits": "3",
     "requirement_description": "MATH 5111.",
-    "restrictions": {},
+    "restrictions": {
+        "prereq": [
+            [
+                "MATH 5111"
+            ]
+        ]
+    },
     "content_areas": [],
     "tois": [],
     "skill_codes": [],
