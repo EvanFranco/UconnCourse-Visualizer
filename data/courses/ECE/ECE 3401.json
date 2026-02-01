@@ -3,7 +3,7 @@
     "dept_code": "ECE",
     "id_number": "3401",
     "title": "Digital Systems Design",
-    "description": "(Also offered as CSE\u00a03302.) Design and evaluation of control and data structures for digital systems. Hardware design languages are used to describe and design alternative register transfer level architectures and control units with a micro-programming emphasis. Consideration of computer architecture, memories, digital interfacing timing and synchronization, and microprocessor systems.",
+    "description": "(Also offered as CSE 3302.) Design and evaluation of control and data structures for digital systems. Hardware design languages are used to describe and design alternative register transfer level architectures and control units with a micro-programming emphasis. Consideration of computer architecture, memories, digital interfacing timing and synchronization, and microprocessor systems.",
     "credits": "3",
     "requirement_description": "CSE 2300W or 2301; open only to students in the School of Engineering and declared Computer Science minors.",
     "restrictions": {},

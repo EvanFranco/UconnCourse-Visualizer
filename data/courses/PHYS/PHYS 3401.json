@@ -3,7 +3,7 @@
     "dept_code": "PHYS",
     "id_number": "3401",
     "title": "Quantum Mechanics I",
-    "description": "Elementary Principles of quantum mechanics; solutions to the Schr\u00f6dinger equation for bound states and scattering in one dimension; general solution for central forces in two and three dimensions, orbital angular momentum and spin, and other fundamental quantum mechanical principles.",
+    "description": "Elementary Principles of quantum mechanics; solutions to the Schrödinger equation for bound states and scattering in one dimension; general solution for central forces in two and three dimensions, orbital angular momentum and spin, and other fundamental quantum mechanical principles.",
     "credits": "3",
     "requirement_description": "PHYS 2300; MATH 2110 and 2410 or MATH 2130 and 2420.",
     "restrictions": {},

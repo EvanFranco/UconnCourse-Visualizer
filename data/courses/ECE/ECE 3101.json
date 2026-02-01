@@ -3,7 +3,7 @@
     "dept_code": "ECE",
     "id_number": "3101",
     "title": "Signals and Systems",
-    "description": "(Also offered as ENGR\u00a03101.) Representation of signals in the time and frequency domains. Fourier series. Fourier and Laplace transform methods for analysis of linear systems. Introduction to state space models. Introduction to sampling and discrete systems analysis via z transforms.",
+    "description": "(Also offered as ENGR 3101.) Representation of signals in the time and frequency domains. Fourier series. Fourier and Laplace transform methods for analysis of linear systems. Introduction to state space models. Introduction to sampling and discrete systems analysis via z transforms.",
     "credits": "3",
     "requirement_description": "ECE 2000 or 2001W; open only to students in the School of Engineering. Recommended preparation: ECE 1401.",
     "restrictions": {},

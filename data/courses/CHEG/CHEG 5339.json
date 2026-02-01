@@ -3,7 +3,7 @@
     "dept_code": "CHEG",
     "id_number": "5339",
     "title": "Uncertainty Analysis, Robust Design, and Optimization",
-    "description": "(Also offered as SE\u00a05102.) Provides students with a thorough understanding of mathematical optimization and uncertainty analysis for the robust design of cyber-physical systems. Topics include optimization theory and practice, uncertainty modeling, sensitivity analysis, and formal and classical model-based robust design methodologies.",
+    "description": "(Also offered as SE 5102.) Provides students with a thorough understanding of mathematical optimization and uncertainty analysis for the robust design of cyber-physical systems. Topics include optimization theory and practice, uncertainty modeling, sensitivity analysis, and formal and classical model-based robust design methodologies.",
     "credits": "3",
     "requirement_description": "Recommended preparation: competency in numerical analysis and programming language (MATLAB).",
     "restrictions": {},

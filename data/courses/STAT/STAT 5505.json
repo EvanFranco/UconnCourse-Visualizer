@@ -3,7 +3,7 @@
     "dept_code": "STAT",
     "id_number": "5505",
     "title": "Applied Statistics I",
-    "description": "(Also offered as BIST\u00a05505.) Exploratory data analysis: stem-and leaf plots, Box-plots, symmetry plots, quantile plots, transformations, discrete and continuous distributions, goodness of fit tests, parametric and non-parametric inference for one sample and two sample problems, robust estimation, Monte Carlo inference, bootstrapping.",
+    "description": "(Also offered as BIST 5505.) Exploratory data analysis: stem-and leaf plots, Box-plots, symmetry plots, quantile plots, transformations, discrete and continuous distributions, goodness of fit tests, parametric and non-parametric inference for one sample and two sample problems, robust estimation, Monte Carlo inference, bootstrapping.",
     "credits": "3",
     "requirement_description": "Open to graduate students in Statistics and Biostatistics; others with permission.",
     "restrictions": {},

@@ -3,7 +3,7 @@
     "dept_code": "AH",
     "id_number": "3005",
     "title": "Biostatistics for Health Professions",
-    "description": "(Also offered as STAT\u00a03005.) Introduction to biostatistical techniques, concepts, and reasoning using in a broad range of biomedical and public health related scenarios. Specific topics include description of data, statistical hypothesis testing and its application to group comparisons, and tools for modeling different type of data, including categorical, and time-event, data. Emphasis on the distinction of these methods, their implementation using statistical software, and the interpretation of results applied to health sciences research questions and variables.",
+    "description": "(Also offered as STAT 3005.) Introduction to biostatistical techniques, concepts, and reasoning using in a broad range of biomedical and public health related scenarios. Specific topics include description of data, statistical hypothesis testing and its application to group comparisons, and tools for modeling different type of data, including categorical, and time-event, data. Emphasis on the distinction of these methods, their implementation using statistical software, and the interpretation of results applied to health sciences research questions and variables.",
     "credits": "3",
     "requirement_description": "A course in pre-calculus or higher; STAT 1000Q or 1100Q or higher. Open to CAHNR students and Statistics majors, juniors or higher; others with instructor consent. Not open to students who have passed PUBH 5409.",
     "restrictions": {},

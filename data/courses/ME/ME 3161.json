@@ -3,7 +3,7 @@
     "dept_code": "ME",
     "id_number": "3161",
     "title": "Introduction to Robotics",
-    "description": "(Also offered as ECE\u00a03161.) Fundamentals of mathematical modeling of robots commonly found in industrial and household domains. History of robots with multidisciplinary applications, robot classifications, coordinate frame transformations, modeling rigid body motions, forward and inverse kinematics, velocity kinematics. Course includes project work.",
+    "description": "(Also offered as ECE 3161.) Fundamentals of mathematical modeling of robots commonly found in industrial and household domains. History of robots with multidisciplinary applications, robot classifications, coordinate frame transformations, modeling rigid body motions, forward and inverse kinematics, velocity kinematics. Course includes project work.",
     "credits": "3",
     "requirement_description": "Corequisite: MATH 2210; Recommended preparation: ECE 1401 and either ECE 3101 or ME 3253 or ME 3254 or BME 3400.",
     "restrictions": {},

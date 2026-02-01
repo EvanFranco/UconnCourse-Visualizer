@@ -3,7 +3,7 @@
     "dept_code": "STAT",
     "id_number": "5545",
     "title": "Mathematical Statistics I",
-    "description": "(Also offered as BIST\u00a05545.) Introduction to probability theory, transformations and expectations, moment generating function, discrete and continuous distributions, joint and marginal distributions of random vectors, conditional distributions and independence, sums of random variables, order statistics, convergence of a sequence of random variables, the central limit theorem Formerly offered as BIST/STAT 5585.",
+    "description": "(Also offered as BIST 5545.) Introduction to probability theory, transformations and expectations, moment generating function, discrete and continuous distributions, joint and marginal distributions of random vectors, conditional distributions and independence, sums of random variables, order statistics, convergence of a sequence of random variables, the central limit theorem Formerly offered as BIST/STAT 5585.",
     "credits": "3",
     "requirement_description": "Open to graduate students in Statistics, others with permission.",
     "restrictions": {},

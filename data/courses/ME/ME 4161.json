@@ -3,7 +3,7 @@
     "dept_code": "ME",
     "id_number": "4161",
     "title": "Robotics Systems Laboratory",
-    "description": "(Also offered as ECE\u00a04161.) Hands on introduction to autonomous robotics emphasizing the synergy between hardware (microprocessors, sensors,\u202factuators), technology (optimization, control system, machine learning) and systems (integration, programming) to achieve perception, action, and behavior in real\u202fworld environment. Students will be able to apply principles of robot modeling, planning and control to the real-world platforms.",
+    "description": "(Also offered as ECE 4161.) Hands on introduction to autonomous robotics emphasizing the synergy between hardware (microprocessors, sensors, actuators), technology (optimization, control system, machine learning) and systems (integration, programming) to achieve perception, action, and behavior in real world environment. Students will be able to apply principles of robot modeling, planning and control to the real-world platforms.",
     "credits": "3",
     "requirement_description": "ECE/ME 3162; open only to students in the College of Engineering. Corequisite: ECE/ME 3163.",
     "restrictions": {},

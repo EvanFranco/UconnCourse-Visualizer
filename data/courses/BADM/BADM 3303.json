@@ -3,7 +3,7 @@
     "dept_code": "BADM",
     "id_number": "3303",
     "title": "Generative AI: Concepts and Applications",
-    "description": "(Also offered as OPIM\u00a03303.) Introduces generative AI, covering both its technical foundations and business applications. Students learn core concepts such as model training, inference, fine-tuning, prompt engineering, retrieval-augmented generation, and AI agents. Students gain hands-on experience applying these tools in text, image, and multimodal contexts and learn how to responsibly integrate them into business processes and innovation.",
+    "description": "(Also offered as OPIM 3303.) Introduces generative AI, covering both its technical foundations and business applications. Students learn core concepts such as model training, inference, fine-tuning, prompt engineering, retrieval-augmented generation, and AI agents. Students gain hands-on experience applying these tools in text, image, and multimodal contexts and learn how to responsibly integrate them into business processes and innovation.",
     "credits": "3",
     "requirement_description": "BADM 3103; Open only to non-business majors of junior or higher status. Not open for credit to students who have passed OPIM 4895 when offered as \"AI Literacy: Navigating the Future of Business.\"",
     "restrictions": {},

@@ -3,7 +3,7 @@
     "dept_code": "BME",
     "id_number": "6125",
     "title": "Digital Image Processing",
-    "description": "(Also offered as ECE\u00a06125.) Problems and applications in digital image processing, two-dimensional linear systems, shift invariance, 2-D Fourier transform analysis, matrix Theory, random images and fields, 2-D mean square estimation, optical imaging systems, image sampling and quantization, image transforms, DFT, FFT, image enhancement, two-dimensional spatial filtering, image restoration, image recognition, correlation, and statistical filters for image detection, nonlinear image processing, and feature extraction.",
+    "description": "(Also offered as ECE 6125.) Problems and applications in digital image processing, two-dimensional linear systems, shift invariance, 2-D Fourier transform analysis, matrix Theory, random images and fields, 2-D mean square estimation, optical imaging systems, image sampling and quantization, image transforms, DFT, FFT, image enhancement, two-dimensional spatial filtering, image restoration, image recognition, correlation, and statistical filters for image detection, nonlinear image processing, and feature extraction.",
     "credits": "3",
     "requirement_description": "No requirements to take this course.",
     "restrictions": {},

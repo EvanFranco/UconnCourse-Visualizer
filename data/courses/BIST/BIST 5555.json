@@ -3,7 +3,7 @@
     "dept_code": "BIST",
     "id_number": "5555",
     "title": "Mathematical Statistics II",
-    "description": "(Also offered as STAT\u00a05555.) The sufficiency principle, the likelihood principle, the invariance principle, point estimation, methods of evaluating point estimators, hypotheses testing, methods of evaluating tests, interval estimation, methods of evaluating interval estimators. Formerly offered as BIST/STAT 5685.",
+    "description": "(Also offered as STAT 5555.) The sufficiency principle, the likelihood principle, the invariance principle, point estimation, methods of evaluating point estimators, hypotheses testing, methods of evaluating tests, interval estimation, methods of evaluating interval estimators. Formerly offered as BIST/STAT 5685.",
     "credits": "3",
     "requirement_description": "BIST/STAT 5545.",
     "restrictions": {},

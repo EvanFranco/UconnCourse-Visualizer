@@ -3,7 +3,7 @@
     "dept_code": "MATH",
     "id_number": "5230",
     "title": "Algebraic Number Theory",
-    "description": "Algebraic integers, ideal class group, ramification, Frobenius elements in Galois groups, Dirichlet's unit theorem, localization, and completion.\u00a0Further topics (zeta-functions, function fields, non-maximal orders) as time permits.",
+    "description": "Algebraic integers, ideal class group, ramification, Frobenius elements in Galois groups, Dirichlet's unit theorem, localization, and completion. Further topics (zeta-functions, function fields, non-maximal orders) as time permits.",
     "credits": "3",
     "requirement_description": "MATH 5211.",
     "restrictions": {},

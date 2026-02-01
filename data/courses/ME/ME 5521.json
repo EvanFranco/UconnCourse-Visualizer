@@ -3,7 +3,7 @@
     "dept_code": "ME",
     "id_number": "5521",
     "title": "Finite Element Methods in Applied Mechanics II",
-    "description": "(Also offered as CE\u00a05166.) Formulation of finite elements methods for modal and transient analysis.  Development of implicit and explicit transient algorithms. Stability and accuracy analysis. Formulation of finite element methods for material and geometric nonlinearities. Development of nonlinear solution algorithms. Applications using commercial finite element code.",
+    "description": "(Also offered as CE 5166.) Formulation of finite elements methods for modal and transient analysis.  Development of implicit and explicit transient algorithms. Stability and accuracy analysis. Formulation of finite element methods for material and geometric nonlinearities. Development of nonlinear solution algorithms. Applications using commercial finite element code.",
     "credits": "3",
     "requirement_description": "Not open to students who have passed ME 5521.",
     "restrictions": {},

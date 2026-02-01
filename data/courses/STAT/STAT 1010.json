@@ -3,7 +3,7 @@
     "dept_code": "STAT",
     "id_number": "1010",
     "title": "Data Science and Society Using R",
-    "description": "(Also offered as DSDA\u00a01010.) Foundational principles and societal impacts of data science, exposing students to what data science can do and informing them about the knowledge needed for further study. Students will be introduced to the R statistical programming language. They will develop essential skills in data/computer/programming literacy, basic statistical analysis, and visualization while exploring real-world data science issues, preparing them for future studies and careers in data-driven workforce.",
+    "description": "(Also offered as DSDA 1010.) Foundational principles and societal impacts of data science, exposing students to what data science can do and informing them about the knowledge needed for further study. Students will be introduced to the R statistical programming language. They will develop essential skills in data/computer/programming literacy, basic statistical analysis, and visualization while exploring real-world data science issues, preparing them for future studies and careers in data-driven workforce.",
     "credits": "3",
     "requirement_description": "Not open to students who have passed STAT 3215Q or STAT 3675Q.",
     "restrictions": {},

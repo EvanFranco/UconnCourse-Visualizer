@@ -3,7 +3,7 @@
     "dept_code": "STAT",
     "id_number": "3965",
     "title": "Elementary Stochastic Processes",
-    "description": "(Also offered as MATH\u00a03170.) Conditional distributions, discrete and continuous time Markov chains, limit theorems for Markov chains, random walks, Poisson processes, compound and marked Poisson processes, and Brownian motion. Selected applications from actuarial science, biology, engineering, or finance.",
+    "description": "(Also offered as MATH 3170.) Conditional distributions, discrete and continuous time Markov chains, limit theorems for Markov chains, random walks, Poisson processes, compound and marked Poisson processes, and Brownian motion. Selected applications from actuarial science, biology, engineering, or finance.",
     "credits": "3",
     "requirement_description": "STAT 3345Q or 3375Q or MATH 3160.",
     "restrictions": {},
