@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5251",
+    "dept_code": "PSYC",
+    "id_number": "5251",
+    "title": "Neural Foundations of Learning and Memory",
+    "description": "Examination of the processes involved in habituation, conditioning, learning, and memory through a study of the neural elements and systems involved in their production and maintenance.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

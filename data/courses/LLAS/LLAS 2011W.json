@@ -1,0 +1,22 @@
+{
+    "name": "LLAS 2011W",
+    "dept_code": "LLAS",
+    "id_number": "2011W",
+    "title": "Introduction to Latino-American Writing and Research",
+    "description": "Students refine writing skills and learn how and where to conduct transnational academic research on the Latino-American experience. Interdisciplinary approaches, historical background of Latino American studies. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011 or instructor consent; open to sophomores or higher. Recommended preparation: 1000-level introductory course on Latino or Latin American Studies.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

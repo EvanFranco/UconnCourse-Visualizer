@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5010",
+    "dept_code": "MARN",
+    "id_number": "5010",
+    "title": "Biological Oceanography",
+    "description": "Structure and function of marine food webs, from primary producers to top trophic levels; interaction of marine organisms with the environment; energy and mass flow in food webs; elemental cycling; coupling between pelagic and benthic environments.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed MARN 4010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

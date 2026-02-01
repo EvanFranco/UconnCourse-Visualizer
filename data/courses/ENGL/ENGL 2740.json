@@ -1,0 +1,20 @@
+{
+    "name": "ENGL 2740",
+    "dept_code": "ENGL",
+    "id_number": "2740",
+    "title": "Creative Criticism",
+    "description": "Exploration of the intersections between literary criticism and creative production. After studying a variety of creative formats, including written essays, visual art, podcasts, and film, students will then produce their own creative works.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

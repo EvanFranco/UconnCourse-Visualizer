@@ -1,0 +1,16 @@
+{
+    "name": "STAT 4635",
+    "dept_code": "STAT",
+    "id_number": "4635",
+    "title": "Clinical Trials",
+    "description": "Basic concepts of clinical trial analysis; controls, randomization, blinding, surrogate endpoints, sample size calculations, sequential monitoring, side-effect evaluation and intention-to-treat analyses. Also, experimental designs including dose response study, multicenter trials, clinical trials for drug development, stratification, and cross-over trials.",
+    "credits": "3",
+    "requirement_description": "STAT 3115Q or STAT 3515Q",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

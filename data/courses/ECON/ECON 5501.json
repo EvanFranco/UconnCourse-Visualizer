@@ -1,0 +1,16 @@
+{
+    "name": "ECON 5501",
+    "dept_code": "ECON",
+    "id_number": "5501",
+    "title": "Writing and Communication for Economics and Business I",
+    "description": "Practice in written and oral communication of economic ideas. Development of skills and techniques for success in business and professional environments.",
+    "credits": "2",
+    "requirement_description": "Open to students in the Master of Science in Quantitative Economics program; others by consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

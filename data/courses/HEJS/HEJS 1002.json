@@ -1,0 +1,16 @@
+{
+    "name": "HEJS 1002",
+    "dept_code": "HEJS",
+    "id_number": "1002",
+    "title": "Elementary Modern Hebrew II",
+    "description": "More complex grammatical structures including the construct state, verb patterns, and more advanced vocabulary. Oral and written expression through study of videos and popular culture.",
+    "credits": "4",
+    "requirement_description": "HEJS 1001 or equivalent. Not open to students who have had three or more years of Hebrew in high school. May not be taken out of sequence after passing HEJS 1003 or 1004.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

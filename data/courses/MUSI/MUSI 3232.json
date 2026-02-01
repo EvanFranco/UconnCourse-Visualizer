@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3232",
+    "dept_code": "MUSI",
+    "id_number": "3232",
+    "title": "Instrumental Pedagogy and Literature",
+    "description": "One or two instrumental hours per week.",
+    "credits": "1",
+    "requirement_description": "MUSI 3222, which must be taken concurrently; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

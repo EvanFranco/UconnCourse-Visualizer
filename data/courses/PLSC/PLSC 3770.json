@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 3770",
+    "dept_code": "PLSC",
+    "id_number": "3770",
+    "title": "Hydroponic Crop Production",
+    "description": "Introduction of hydroponics and soilless cultivation with emphasis on its underlying technologies, commercial practices, and sciences. This course will offer a series of lectures and lab activities to facilitate student learning on the hydroponic crop production, including components of hydroponics, various types of hydroponics, and cultural practices to optimize crop production using hydroponics under a controlled environment.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: PLSC 3620, PLSC 3640, PLSC 3660 or PLSC 3670 or SAPL 620, SAPL 640, SAPL 660, or SAPL 670.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

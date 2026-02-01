@@ -1,0 +1,22 @@
+{
+    "name": "HEJS 3301",
+    "dept_code": "HEJS",
+    "id_number": "3301",
+    "title": "The Jewish Middle Ages",
+    "description": "Survey of sacred and secular literature in a wide variety of genres produced by Jews in the medieval period from major centers of European settlement. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

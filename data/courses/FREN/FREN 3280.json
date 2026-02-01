@@ -1,0 +1,19 @@
+{
+    "name": "FREN 3280",
+    "dept_code": "FREN",
+    "id_number": "3280",
+    "title": "Fiction and Nonfiction by Women",
+    "description": "Study of a range of topics related to female subjectivity and freedom in the context of feminism, the LGBTQ movement, postcolonialism, and critical race theory. Examples include autonomy, rebellion, justice, love, sexuality, motherhood, fantasy, anxiety, mortality, and other themes that women writing in French have explored over the centuries. Taught in French.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: FREN 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

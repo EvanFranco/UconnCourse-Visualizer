@@ -1,0 +1,21 @@
+{
+    "name": "CLCS 1110",
+    "dept_code": "CLCS",
+    "id_number": "1110",
+    "title": "Introduction to Film Studies",
+    "description": "Introduction to film and film studies. Tools for analyzing and reading film. Techniques and language of film. Film theories. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

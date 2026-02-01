@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5351",
+    "dept_code": "MEDS",
+    "id_number": "5351",
+    "title": "Fundamentals of Biophysics",
+    "description": "Fundamental biophysical, structural biology, and analytical approaches. Predicting protein structures and biophysical properties of macromolecules using AI and machine learning. Students will gain in-depth knowledge of the approaches highlighted in each module via lab demos and hands-on experiments. Additionally, students will immerse themselves in one/some of the techniques that they learn in their end-of-term projects.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MEDS 6448 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

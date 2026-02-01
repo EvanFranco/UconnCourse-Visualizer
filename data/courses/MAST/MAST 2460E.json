@@ -1,0 +1,23 @@
+{
+    "name": "MAST 2460E",
+    "dept_code": "MAST",
+    "id_number": "2460E",
+    "title": "Maritime Politics",
+    "description": "(Also offered as POLS\u00a02460E.) The political dimensions of the world\u2019s oceans. This course draws upon international relations theories to analyze states, international law, intergovernmental organizations, trade, and non-state actors with respect to the world's largest bodies of water. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

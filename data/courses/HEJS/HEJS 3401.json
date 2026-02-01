@@ -1,0 +1,22 @@
+{
+    "name": "HEJS 3401",
+    "dept_code": "HEJS",
+    "id_number": "3401",
+    "title": "Jewish American Literature and Culture",
+    "description": "(Also offered as ENGL\u00a03220.) Interdisciplinary study of literary and artistic productions by and about Jews in the United States. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

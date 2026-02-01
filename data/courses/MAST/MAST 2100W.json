@@ -1,0 +1,24 @@
+{
+    "name": "MAST 2100W",
+    "dept_code": "MAST",
+    "id_number": "2100W",
+    "title": "Ports of Passage",
+    "description": "A selection of readings concerning ports around the world. Interdisciplinary approach to the cultural and historical significance of the port as a setting of philosophical and commercial exchange. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CE 6740",
+    "dept_code": "CE",
+    "id_number": "6740",
+    "title": "Traffic Engineering II",
+    "description": "Driver, pedestrian and vehicle operating characteristics; microscopic and macroscopic representations of traffic flow; microscopic and macroscopic traffic stream models; safety analysis; traffic management; shock wave analysis; queueing analysis.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: CE 5740 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

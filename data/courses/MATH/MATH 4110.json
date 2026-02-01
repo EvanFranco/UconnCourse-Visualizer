@@ -1,0 +1,16 @@
+{
+    "name": "MATH 4110",
+    "dept_code": "MATH",
+    "id_number": "4110",
+    "title": "Introduction to Modern Analysis",
+    "description": "Metric spaces, sequences and series, continuity, differentiation, the Riemann-Stieltjes integral, functions of several variables.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed MATH 5110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

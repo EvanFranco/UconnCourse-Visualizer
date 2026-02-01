@@ -1,0 +1,16 @@
+{
+    "name": "LING 6120",
+    "dept_code": "LING",
+    "id_number": "6120",
+    "title": "Topics in Acquisition",
+    "description": "Current topics in first language acquisition research. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "LING 5110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

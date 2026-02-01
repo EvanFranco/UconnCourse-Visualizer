@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 1902",
+    "dept_code": "DRAM",
+    "id_number": "1902",
+    "title": "Voice and Speech II",
+    "description": "Additional vocal and articulation/phonetics skills applied to the performance of both realistic and elevated language in dramatic literature.",
+    "credits": "3",
+    "requirement_description": "DRAM 1901.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

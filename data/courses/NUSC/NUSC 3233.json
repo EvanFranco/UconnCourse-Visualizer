@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 3233",
+    "dept_code": "NUSC",
+    "id_number": "3233",
+    "title": "Food Composition and Preparation",
+    "description": "Study of the composition of food and the physical and chemical changes that occur during preparation and/or processing that affect taste, palatability, shelf-life, and nutrient content.",
+    "credits": "3",
+    "requirement_description": "NUSC 1165; Recommended preparation: CHEM 2241 or 2443. May not be taken out of sequence after passing NUSC 3271 or 3273.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

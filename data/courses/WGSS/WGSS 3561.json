@@ -1,0 +1,22 @@
+{
+    "name": "WGSS 3561",
+    "dept_code": "WGSS",
+    "id_number": "3561",
+    "title": "History of Women and Gender in the U.S. to 1850",
+    "description": "(Also offered as HIST\u00a03561.) Gender ideologies of indigenous and settler cultures, changing conditions of women's and men's lives as the U.S. became a nation, while emphasizing intersections with ethnicity, race, class, religion, and region.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

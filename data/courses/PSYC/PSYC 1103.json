@@ -1,0 +1,21 @@
+{
+    "name": "PSYC 1103",
+    "dept_code": "PSYC",
+    "id_number": "1103",
+    "title": "General Psychology II (Enhanced)",
+    "description": "Psychology as a social science. Research methodology, developmental, personality, clinical, abnormal and social psychology. Applications of theory, writing, and demonstrations during discussion periods. CA 2.",
+    "credits": "4",
+    "requirement_description": "PSYC 1100; Not open for credit to students who have passed PSYC 1101. May not be taken concurrently with PSYC 1101.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5",
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CE 4750",
+    "dept_code": "CE",
+    "id_number": "4750",
+    "title": "Pavement Design",
+    "description": "Analysis and design of flexible and rigid pavements; testing and characterization of paving materials.",
+    "credits": "3",
+    "requirement_description": "CE 3110 and 3520; enrollment in the School of Engineering. This course and CE 5750 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3300",
+    "dept_code": "ANTH",
+    "id_number": "3300",
+    "title": "Medical Anthropology",
+    "description": "An introduction to the theory, method, and content of medical anthropology.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

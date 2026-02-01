@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 3120",
+    "dept_code": "CHEG",
+    "id_number": "3120",
+    "title": "Transport Phenomena I",
+    "description": "Overall mass, energy, and momentum balances; fluid flow phenomena; theoretical and empirical relationships for design of incompressible fluid-flow systems. Conductive heat transfer; heat transfer coefficients and design of heat exchange systems. Radiation heat transfer, evaporation.",
+    "credits": "4",
+    "requirement_description": "MATH 2110Q and 2410Q; CHEM 1128Q; CHEG 2103 and 2111; open only to School of Engineering students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

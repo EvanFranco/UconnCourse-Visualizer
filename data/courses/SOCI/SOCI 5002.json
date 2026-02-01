@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 5002",
+    "dept_code": "SOCI",
+    "id_number": "5002",
+    "title": "Proseminar",
+    "description": "Part two of a required year-long seminar for all M.A. candidates in the first year of study. Provides an orientation to graduate education and offers students opportunities for professional development. Topics include strategies for successful graduate education; advice on mentoring and networking; starting a thesis project, presenting research, applying for grants, and publishing. Reviews various career opportunities for professional sociologists and provides guidance on how to best prepare for the job market.",
+    "credits": "1.5",
+    "requirement_description": "SOCI 5001 or Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

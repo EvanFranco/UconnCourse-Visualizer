@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 6341",
+    "dept_code": "PHYS",
+    "id_number": "6341",
+    "title": "Quantum Theory of Fields I",
+    "description": "Local gauge invariance, Lagranian formulation, Noether currents, spontaneous breakdown of symmetry, Higgs mechanism and superconductivity, canonical quantization, Feynman diagrams, Green's functions.",
+    "credits": "3",
+    "requirement_description": "PHYS 5403.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

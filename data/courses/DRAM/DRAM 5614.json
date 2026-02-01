@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5614",
+    "dept_code": "DRAM",
+    "id_number": "5614",
+    "title": "Puppet Production Seminar",
+    "description": "In-depth discussion of production processes of current puppet performances involving Puppet Arts students and analysis of other puppet events on and off campus for synthesizing learning and promoting professional development. May be repeated for a total of 6 credits.",
+    "credits": "1",
+    "requirement_description": "DRAM 5614 prereq",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3252",
+    "dept_code": "PSYC",
+    "id_number": "3252",
+    "title": "Drugs and Behavior Laboratory",
+    "description": "Techniques employed in the experimental investigation of drug action. Laboratory exercises illustrate behavioral and neural effects of various psychoactive pharmacological agents such as stimulants, antipsychotics, antidepressants, antiparkinsonian drugs, anxiolytics, sedative/hypnotics.",
+    "credits": "3",
+    "requirement_description": "PSYC 2100Q and 2201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 4308",
+    "dept_code": "FNCE",
+    "id_number": "4308",
+    "title": "Introduction to Algorithmic Trading",
+    "description": "Quantitative trading models implemented on computer systems for automatic execution. Examines popular trading strategies. Emphasizes hands-on experience; students will use the Matlab platform to write, backtest, and refine strategies.",
+    "credits": "3",
+    "requirement_description": "FNCE 3101 for Business majors or MATH 3650 for Mathematics Actuarial Science Finance majors; FNCE 3302 or 3303 for Business majors or MATH 3660 for Mathematics Actuarial Science Finance majors; open only to Business majors or Mathematics Actuarial Science Finance majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

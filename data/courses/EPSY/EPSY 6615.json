@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6615",
+    "dept_code": "EPSY",
+    "id_number": "6615",
+    "title": "Structural Equation Modeling",
+    "description": "An introduction to structural equation modeling. Develop, modify, and interpret a variety of structural equation models commonly used in social science research. Linear models with only observed variables (path analysis), latent variable models without causal paths (confirmatory factor analysis), and latent variable models with causal paths (structural equation modeling). Conceptual understanding, application, and interpretation of structural equation models.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

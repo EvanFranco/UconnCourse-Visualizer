@@ -1,0 +1,16 @@
+{
+    "name": "CE 5610",
+    "dept_code": "CE",
+    "id_number": "5610",
+    "title": "Advanced Reinforced Concrete Structures",
+    "description": "Behavior and design of reinforced concrete for flexure, shear, torsion, bond, and axial loads; two way slabs; beam-column joints; general flexure theory; seismic considerations; review of design specifications.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

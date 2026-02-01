@@ -1,0 +1,16 @@
+{
+    "name": "NURS 6125",
+    "dept_code": "NURS",
+    "id_number": "6125",
+    "title": "Quantitative Methods for Design and Analysis in Nursing Research III",
+    "description": "Third course in a three-semester sequence that focuses on the study and application of quantitative research methods from design through statistical analysis for experimental, quasi-experimental, and non-experimental designs in nursing and healthcare. Techniques of data analysis appropriate to study designs of varying complexity will be explored as well as emerging innovations in research methods. The theory and methods of meta-analysis will be introduced.",
+    "credits": "3",
+    "requirement_description": "NURS 6123; open to students not in the Nursing PhD program with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

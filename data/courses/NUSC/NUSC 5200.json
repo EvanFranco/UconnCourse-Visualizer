@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5200",
+    "dept_code": "NUSC",
+    "id_number": "5200",
+    "title": "Macronutrient Metabolism",
+    "description": "The digestion, absorption/transport and metabolism of carbohydrates, protein/amino acids and lipids; their functions, metabolic pathways and interrelationships; mechanisms regulating their metabolism; methodologies for studying metabolism and assessing nutrient requirements in man and animals.",
+    "credits": "3",
+    "requirement_description": "MCB 2000 or equivalent; open only to Nutrition Sciences students, instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

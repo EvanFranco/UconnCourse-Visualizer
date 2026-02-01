@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 6200",
+    "dept_code": "ENGL",
+    "id_number": "6200",
+    "title": "Seminar in Children's Literature",
+    "description": "Major authors, themes, or literary movements in American or British children's literature. May be repeated for a total of 15 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

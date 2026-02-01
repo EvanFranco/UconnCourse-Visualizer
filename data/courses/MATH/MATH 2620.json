@@ -1,0 +1,16 @@
+{
+    "name": "MATH 2620",
+    "dept_code": "MATH",
+    "id_number": "2620",
+    "title": "Financial Mathematics I",
+    "description": "Fundamental concepts of financial mathematics, with applications in calculating present and accumulated values for various streams of cash flows as a basis for future use in: reserving, valuation, pricing, duration calculation, asset/liability management, investment income, capital budgeting and valuing contingent cash flows.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q or 1152Q or 2141Q. May not be taken out of sequence after passing MATH 3615, 3620, 3630, 3634, 3650, 3660. Not open for credit to students who have passed MATH 5620.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

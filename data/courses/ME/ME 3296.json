@@ -1,0 +1,16 @@
+{
+    "name": "ME 3296",
+    "dept_code": "ME",
+    "id_number": "3296",
+    "title": "Independent Research in Mechanical Engineering",
+    "description": "Designed primarily for students who wish to pursue academic research in a research group affiliated with Mechanical Engineering. The program of study is to be approved by the head of the department or director of undergraduate studies and by the instructor before registration is completed. May be repeated for a total of 9 credits.",
+    "credits": "1-4",
+    "requirement_description": "Instructor consent; open to Juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FREN 5380",
+    "dept_code": "FREN",
+    "id_number": "5380",
+    "title": "Seminar in Francophone Literature",
+    "description": "The study of the literature from the French-speaking world outside of France (Quebec, the Antilles, West Africa, the Maghreb) against the background of colonial and post-colonial history.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

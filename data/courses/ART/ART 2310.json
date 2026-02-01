@@ -1,0 +1,16 @@
+{
+    "name": "ART 2310",
+    "dept_code": "ART",
+    "id_number": "2310",
+    "title": "Basic Studio, Painting",
+    "description": "Introduction to the principles and techniques of painting media.",
+    "credits": "3",
+    "requirement_description": "ART 1010 and ART 1030.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

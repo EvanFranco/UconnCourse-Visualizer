@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 3101",
+    "dept_code": "PHYS",
+    "id_number": "3101",
+    "title": "Mechanics I",
+    "description": "Newton's Laws of motion applied to mass points, systems of particles, and rigid bodies.",
+    "credits": "3",
+    "requirement_description": "PHYS 1230 or 1402Q or 1502Q or 1530 or 1602Q; MATH 2110Q or 2130Q which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

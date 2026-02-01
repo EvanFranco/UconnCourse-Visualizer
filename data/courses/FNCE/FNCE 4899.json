@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 4899",
+    "dept_code": "FNCE",
+    "id_number": "4899",
+    "title": "Independent Study",
+    "description": "Individual study of special topics in finance, insurance or real estate as mutually arranged between a student and an instructor. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

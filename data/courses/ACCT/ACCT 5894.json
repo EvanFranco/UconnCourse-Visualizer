@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5894",
+    "dept_code": "ACCT",
+    "id_number": "5894",
+    "title": "Special Topics in Accounting",
+    "description": "Investigation and discussion of special topics in accounting. May be repeated for a total of 9 credits.",
+    "credits": "1-3",
+    "requirement_description": "ACCT 5121 or 5182 or fulfillment of prerequisites required for admission to MSA, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

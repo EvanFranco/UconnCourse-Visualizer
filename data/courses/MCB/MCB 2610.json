@@ -1,0 +1,16 @@
+{
+    "name": "MCB 2610",
+    "dept_code": "MCB",
+    "id_number": "2610",
+    "title": "Fundamentals of Microbiology",
+    "description": "Biology of microorganisms, especially bacteria. Cellular structure, physiology, genetics, and interactions with higher forms of life. Laboratory familiarizes students with methodology of microbiology and aseptic techniques.",
+    "credits": "4",
+    "requirement_description": "CHEM 2241 or 2443, which may be taken concurrently. Recommended preparation: BIOL 1107. May not be taken out of sequence after passing MCB 3246, 3617, 3633, 3635, 3636, 3637, 3640, or 4624. Repeat restrictions apply; see advising.uconn.edu/repeat-policy for information.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

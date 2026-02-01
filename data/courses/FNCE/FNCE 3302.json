@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 3302",
+    "dept_code": "FNCE",
+    "id_number": "3302",
+    "title": "Investments and Security Analysis",
+    "description": "A study of the nature of securities, the mechanics and costs of trading, and the way in which the securities markets operate. Risk-return analysis will be applied in making decisions to buy or sell stocks, bonds and options. The semester-long project requires the student to follow and analyze the performance of individual stocks and a portfolio of investments including stocks, bond, options, and futures. Written analysis is required.",
+    "credits": "3",
+    "requirement_description": "FNCE 3101 for Business majors, or MATH 3650 for Math-Actuarial Science-Finance majors; open to junior or higher Business and Math-Actuarial Science-Finance majors. Not open for credit to students who have passed or currently taking FNCE 3303. May not be taken out of sequence after passing FNCE 4308 or 4309.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

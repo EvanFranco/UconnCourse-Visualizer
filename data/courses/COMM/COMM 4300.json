@@ -1,0 +1,16 @@
+{
+    "name": "COMM 4300",
+    "dept_code": "COMM",
+    "id_number": "4300",
+    "title": "Advanced Media Effects",
+    "description": "Contentious topics in current media effects research, and their theoretical implications. Topics may include sexual content on television, pornography, alcohol on television, video games, and media impact on body image.",
+    "credits": "3",
+    "requirement_description": "COMM 2000Q and 2300.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

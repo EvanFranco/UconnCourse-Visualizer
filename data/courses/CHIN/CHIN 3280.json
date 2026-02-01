@@ -1,0 +1,22 @@
+{
+    "name": "CHIN 3280",
+    "dept_code": "CHIN",
+    "id_number": "3280",
+    "title": "Networking in China",
+    "description": "Development of cross-cultural awareness by learning how to analyze and imitate observable behaviors in professional Chinese environments. Taught in both English and Chinese. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "CHIN 1114 or equivalent.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

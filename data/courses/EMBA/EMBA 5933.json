@@ -1,0 +1,16 @@
+{
+    "name": "EMBA 5933",
+    "dept_code": "EMBA",
+    "id_number": "5933",
+    "title": "Alternative Investments and Risk Management",
+    "description": "Concepts of risk management with specific attention to the structure of risk management, identifying risk types, assessing risk, mitigating risk, and capital adequacy. Students focus on the key investment strategies used in alternative investments markets, i.e., hedge funds and private equity, and assess derivatives (puts and calls), forward and futures contracts, and swaps. They examine how these strategies can be used to speculate or hedge particular risks.",
+    "credits": "1.5",
+    "requirement_description": "Open only to Executive MBA students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

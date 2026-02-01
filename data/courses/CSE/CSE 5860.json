@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5860",
+    "dept_code": "CSE",
+    "id_number": "5860",
+    "title": "Computational Problems in Evolutionary Genomics",
+    "description": "Computational and algorithmic approaches for problems arising in evolutionary genomics. Topics may include phylogenetic trees inference, population evolutionary models and theory, understanding complex evolutionary processes and other related topics. Both combinatorial optimization and stochastic approaches will be covered.",
+    "credits": "3",
+    "requirement_description": "CSE 5800; open to graduate students in the CSE program, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

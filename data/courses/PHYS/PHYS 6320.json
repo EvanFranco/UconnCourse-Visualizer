@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 6320",
+    "dept_code": "PHYS",
+    "id_number": "6320",
+    "title": "Nuclei and Particles",
+    "description": "Properties of nuclei and particles, conserved quantities, isospin, quark model, Fermi gas model, electroweak interaction, high energy scattering.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

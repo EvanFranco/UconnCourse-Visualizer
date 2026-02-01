@@ -1,0 +1,16 @@
+{
+    "name": "MARN 6031",
+    "dept_code": "MARN",
+    "id_number": "6031",
+    "title": "Stable Isotope Biogeochemistry",
+    "description": "Overview of important stable isotopic systems used to study biogeochemical cycling of bioactive elements. Focus will be on carbon, nitrogen, and oxygen isotopic systems with an introduction to sulfur, silicic acid, and trace metals.",
+    "credits": "3",
+    "requirement_description": "MARN 4030W or 5030 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

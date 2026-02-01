@@ -1,0 +1,16 @@
+{
+    "name": "ECON 5301",
+    "dept_code": "ECON",
+    "id_number": "5301",
+    "title": "Mathematical Economics",
+    "description": "Use of mathematical concepts such as matrix algebra, optimization, and comparative statics, to study economic problems.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3637",
+    "dept_code": "MATH",
+    "id_number": "3637",
+    "title": "Actuarial Statistical Modeling II",
+    "description": "Introduction to principal component analysis, decision tree models, and cluster analysis. Case studies are used to demonstrate applications.",
+    "credits": "3",
+    "requirement_description": "MATH 3621 or 3636.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

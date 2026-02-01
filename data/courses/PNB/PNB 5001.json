@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5001",
+    "dept_code": "PNB",
+    "id_number": "5001",
+    "title": "Principles of Physiology and Neurobiology",
+    "description": "Molecular foundations of physiology and neurobiology. Discussion of classic and emerging literature, experimental design, and research technologies. Topics may include genetics, protein biology, cell structure and function, and neurophysiology.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

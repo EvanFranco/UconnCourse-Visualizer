@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 3123",
+    "dept_code": "HDFS",
+    "id_number": "3123",
+    "title": "Integrated Curriculum Methods and Materials for Preschool and Kindergarten",
+    "description": "Integration of child development theory with best teaching practices for developmentally appropriate learning for children from preschool through kindergarten in specific domains including cognitive development, mathematical and scientific thinking, social studies, and personal/social development.",
+    "credits": "3",
+    "requirement_description": "HDFS 2120.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "EPSY 1830",
+    "dept_code": "EPSY",
+    "id_number": "1830",
+    "title": "Critical and Creative Thinking in the Movies",
+    "description": "Topics such as logical fallacies, influence, metacognition, problem solving, creative genius, personality, and motivation will be explored. Students will use readings and films to investigate the role and application of these topics on critical thinking and creativity. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

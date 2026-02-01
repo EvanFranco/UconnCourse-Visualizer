@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5396",
+    "dept_code": "PNB",
+    "id_number": "5396",
+    "title": "Research in Physiology and Neurobiology",
+    "description": "Research in Physiology and Neurobiology in pursuit of a graduate degree. May be repeated for a total of 60 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

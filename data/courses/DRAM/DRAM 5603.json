@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5603",
+    "dept_code": "DRAM",
+    "id_number": "5603",
+    "title": "Puppet Theatre Production",
+    "description": "Strategies for developing and executing the skills involved in mounting Puppet Productions, includes planning, scripting, designing, scheduling, budgeting, and identifying appropriate personnel. May be repeated for a total of 30 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

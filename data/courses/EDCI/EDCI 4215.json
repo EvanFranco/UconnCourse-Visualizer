@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 4215",
+    "dept_code": "EDCI",
+    "id_number": "4215",
+    "title": "The Teaching of Reading in Middle and High Schools",
+    "description": "Methods of teaching reading to middle and high school students.",
+    "credits": "1-6",
+    "requirement_description": "Open only to students in the Integrated Bachelor's/Master's Teacher Preparation Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

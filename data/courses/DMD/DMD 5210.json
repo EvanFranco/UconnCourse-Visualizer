@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5210",
+    "dept_code": "DMD",
+    "id_number": "5210",
+    "title": "Film and Video Editing I",
+    "description": "Introduction to digital editing, project management, and working with sound and time-based storytelling. Teaches the basics of Adobe Premiere Pro, providing the tools necessary to create and deliver compelling digital video content. The course goes from the beginning of the video editing process, teaching students how to create assemblies and rough cuts, through to the end of the process, teaching the basics of sound mixing and color correction; their own videos, instructional videos, or anyone wanting to create and assemble video content and share it online.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the M.F.A Digital Media Design program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

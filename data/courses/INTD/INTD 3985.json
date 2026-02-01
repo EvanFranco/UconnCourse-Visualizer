@@ -1,0 +1,16 @@
+{
+    "name": "INTD 3985",
+    "dept_code": "INTD",
+    "id_number": "3985",
+    "title": "Special Topics",
+    "description": "Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

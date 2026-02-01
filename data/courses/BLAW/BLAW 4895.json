@@ -1,0 +1,16 @@
+{
+    "name": "BLAW 4895",
+    "dept_code": "BLAW",
+    "id_number": "4895",
+    "title": "Special Topics",
+    "description": "Classroom course in special topics in law as announced in advance for each semester.  With a change in content may be repeated for credit. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Prerequisites and recommended preparation vary by section; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

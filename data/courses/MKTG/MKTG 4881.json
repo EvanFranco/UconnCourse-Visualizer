@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 4881",
+    "dept_code": "MKTG",
+    "id_number": "4881",
+    "title": "Internship in Marketing",
+    "description": "Course credit for a marketing internship. Students are responsible for obtaining an internship with a host company in the field of marketing. Student performance is evaluated based on an appraisal by the host company and a detailed written report submitted by the student. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory).",
+    "credits": "3",
+    "requirement_description": "MKTG 3101 or BADM 3750 and consent of instructor; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

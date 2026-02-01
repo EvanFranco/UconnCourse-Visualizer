@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5004",
+    "dept_code": "MCB",
+    "id_number": "5004",
+    "title": "Biophysical Chemistry II",
+    "description": "The physical chemistry of biological molecules and systems. This course will emphasis a statistical framework for understanding biomolecular phenomena. Principal topics will include electrostatics, intermolecular forces, ligand binding, and protein stability and folding.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed MCB 3004.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

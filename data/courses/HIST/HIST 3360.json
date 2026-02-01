@@ -1,0 +1,16 @@
+{
+    "name": "HIST 3360",
+    "dept_code": "HIST",
+    "id_number": "3360",
+    "title": "Early Middle Ages",
+    "description": "The history of the medieval West from late antiquity to the eleventh century.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

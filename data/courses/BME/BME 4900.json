@@ -1,0 +1,16 @@
+{
+    "name": "BME 4900",
+    "dept_code": "BME",
+    "id_number": "4900",
+    "title": "Biomedical Engineering Design I",
+    "description": "Discussion of the design process; project statement, specifications project planning, scheduling and division of responsibility, ethics in engineering design, safety, environmental considerations, economic constraints, liability, manufacturing, and marketing. Projects are  carried out using a team-based approach. Selection and analysis of a design project to be undertaken in BME 4910 is carried out. Written  progress reports, a proposal, an interim project report, a final report, and oral presentations are required.",
+    "credits": "3",
+    "requirement_description": "Open only to Biomedical Engineering majors; prerequisites vary by track as follows: Biomaterials and Tissue Engineering, BME 3500, 3600, 3700, and 3900; Biomechanics and Mechanobiology, BME 3600 and 3900; Computational and Systems Biology, BME 3900; Systems, Imaging and Instrumentation, BME 3500 and 3900; no track: BME 3500, 3600, and 3700.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

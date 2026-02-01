@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5012",
+    "dept_code": "MCB",
+    "id_number": "5012",
+    "title": "Foundations of Structural Biochemistry",
+    "description": "Comprehensive introduction to the molecular aspects and dynamics of structural biochemistry. Examination of nucleic acid, protein, and lipid structures including current topics in conformation and folding, enzyme kinetics, nucleic acid stability, ligand/receptor binding, and bioenergetics. Overviews of experimental strategies used to study macromolecular structure and interactions.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

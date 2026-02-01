@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5895",
+    "dept_code": "FNCE",
+    "id_number": "5895",
+    "title": "Special Topics in Finance",
+    "description": "Faculty-student interaction on a one-to-one basis involving independent study of specific areas of finance, risk and insurance, and/or real estate and urban economic studies. Emphasis, selected by the student, may be on theoretical or applied aspects. A written report is required. May be repeated for a total of 12 credits.",
+    "credits": "1-3",
+    "requirement_description": "FNCE 5101 or FNCE 5182; open to MBA students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3250",
+    "dept_code": "ANTH",
+    "id_number": "3250",
+    "title": "Cognitive Anthropology",
+    "description": "The study of how the content of thought or knowledge is created, organized, and distributed in human communities. Topics include cultural models of the mind, emotions, personality, and relationships.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ANTH 3002.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

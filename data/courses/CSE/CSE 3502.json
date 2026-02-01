@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3502",
+    "dept_code": "CSE",
+    "id_number": "3502",
+    "title": "Theory of Computation",
+    "description": "Formal models of computation, such as finite state automata, pushdown automata, and Turing machines, and their corresponding elements in formal languages (regular, context-free, recursively enumerable). The complexity hierarchy. Church's thesis and undecidability. NP completeness. Theoretical basis of design and compiler construction.",
+    "credits": "3",
+    "requirement_description": "CSE 2050 or 2100; and 2500; open only to students in the School of Engineering, Cognitive Science majors, and declared Computer Science or Cognitive Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

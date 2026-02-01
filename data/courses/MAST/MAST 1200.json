@@ -1,0 +1,21 @@
+{
+    "name": "MAST 1200",
+    "dept_code": "MAST",
+    "id_number": "1200",
+    "title": "Introduction to Maritime Culture",
+    "description": "A study of history and literature to understand the international maritime culture that links peoples, nations, economies, environments, and cultural aesthetics. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

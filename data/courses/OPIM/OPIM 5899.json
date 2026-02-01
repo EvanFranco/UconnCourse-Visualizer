@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5899",
+    "dept_code": "OPIM",
+    "id_number": "5899",
+    "title": "Independent Study",
+    "description": "Students pursue an in-depth study of an area of interest under the direction of a faculty member. May be repeated for a total of 9 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

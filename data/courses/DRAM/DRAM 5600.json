@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5600",
+    "dept_code": "DRAM",
+    "id_number": "5600",
+    "title": "Studies in Puppet Arts",
+    "description": "Study of any topics in puppet design, construction, or performance not covered in DRAM\u00a05601-5618.  May be repeated for credit with a change in topic. May be repeated for a total of 9 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

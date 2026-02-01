@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5000",
+    "dept_code": "GEOG",
+    "id_number": "5000",
+    "title": "Research Design",
+    "description": "A survey of research methods in geography. Topics include spatial sampling, hypothesis construction and testing and geographic modelling.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

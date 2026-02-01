@@ -1,0 +1,16 @@
+{
+    "name": "DIET 4455",
+    "dept_code": "DIET",
+    "id_number": "4455",
+    "title": "Clinical Dietetics Practicum III",
+    "description": "Application and synthesis of performance requirements in clinical dietetics.",
+    "credits": "4",
+    "requirement_description": "C or better in DIET 4272, 4350, 4360, and 4365; open to Dietetics majors, others by consent of Dietetics Program Director.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

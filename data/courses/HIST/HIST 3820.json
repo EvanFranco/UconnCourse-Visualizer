@@ -1,0 +1,23 @@
+{
+    "name": "HIST 3820",
+    "dept_code": "HIST",
+    "id_number": "3820",
+    "title": "History of Modern Chinese Political Thought",
+    "description": "(Also offered as AAAS\u00a03820.) Survey of Chinese political ideas and ideologies since the nineteenth century, examining the influences of Confucianism and Western conceptions on the revolutionary changes in political thought in China over the last 100 years, including Marxism, liberalism, anarchism, authoritarianism, and democracy. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

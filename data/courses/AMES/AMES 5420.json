@@ -1,0 +1,16 @@
+{
+    "name": "AMES 5420",
+    "dept_code": "AMES",
+    "id_number": "5420",
+    "title": "Introduction to Smart and Green Manufacturing",
+    "description": "Introduction to foundational concepts and methods of smart manufacturing and green manufacturing. Discusses the impacts of smart technologies and initiatives such as Industry 4.0 in Europe, National Network of Manufacturing Innovation Institutes established in the U.S., and Made-in-China 2025 on manufacturing. Includes the architecture of smart manufacturing, sensing technology, internet-of-things, cloud manufacturing/manufacturing as a service, basic data analytics for diagnosis and prognosis in manufacturing. Covers fundamental issues in green manufacturing, such as the metrics, principles, and societal/business/policy impacts, as well as fundamental methods such as lifecycle assessment and sustainability assessment of manufacturing.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

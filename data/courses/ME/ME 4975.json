@@ -1,0 +1,16 @@
+{
+    "name": "ME 4975",
+    "dept_code": "ME",
+    "id_number": "4975",
+    "title": "Senior Design Project I",
+    "description": "The first part of the senior design experience. It will cover topics on design process, planning, and costs. Design for manufacture and assembly will be covered. Both oral and written reports are required.",
+    "credits": "3",
+    "requirement_description": "ME 3227 and 3970. May not be taken out of sequence after passing ME 4976.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

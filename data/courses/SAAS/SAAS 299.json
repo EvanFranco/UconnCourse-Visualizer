@@ -1,0 +1,16 @@
+{
+    "name": "SAAS 299",
+    "dept_code": "SAAS",
+    "id_number": "299",
+    "title": "Independent Study",
+    "description": "An independent study project is mutually arranged between a student and an instructor. Students are advised to read the Ratcliffe Hicks regulation limiting the number of credits which may be applied to the minimum graduation requirements. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory.) May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

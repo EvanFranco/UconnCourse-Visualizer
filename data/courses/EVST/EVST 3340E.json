@@ -1,0 +1,24 @@
+{
+    "name": "EVST 3340E",
+    "dept_code": "EVST",
+    "id_number": "3340E",
+    "title": "Culture and Conservation",
+    "description": "(Also offered as ANTH\u00a03340E.) Interdisciplinary analysis of conservation and the human-environment relationship from a cross-cultural perspective. Major topics include sustainability, environmental ethics, climate change, natural disasters, health, and environmental justice. CA2. CA4-INT.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ANTH 1000 or 1006; EVST 1000.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

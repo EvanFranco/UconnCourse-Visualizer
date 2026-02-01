@@ -1,0 +1,23 @@
+{
+    "name": "WGSS 3253W",
+    "dept_code": "WGSS",
+    "id_number": "3253W",
+    "title": "Gender Representations in U.S. Popular Culture",
+    "description": "Forces in the U.S. that shape and reshape gender in popular culture. CA 2.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

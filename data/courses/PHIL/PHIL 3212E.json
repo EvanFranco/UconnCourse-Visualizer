@@ -1,0 +1,20 @@
+{
+    "name": "PHIL 3212E",
+    "dept_code": "PHIL",
+    "id_number": "3212E",
+    "title": "Philosophy and Global Climate Change",
+    "description": "Ethical, epistemological, and conceptual issues raised by global climate change. The nature of scientific inquiry; role of models in scientific explanation; sources of uncertainty in climate projections; objectivity and values in science; decision-making under risk and uncertainty; obligations to future generations; global justice and burden sharing; individual versus collective responsibility for carbon emissions; the ethics of geoengineering.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100-level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

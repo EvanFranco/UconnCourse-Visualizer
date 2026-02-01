@@ -1,0 +1,18 @@
+{
+    "name": "PNB 3264W",
+    "dept_code": "PNB",
+    "id_number": "3264W",
+    "title": "Molecular Principles of Physiology",
+    "description": "Case study of a disease: genetics and inheritance patterns; molecular defects, including transcription and post-transcription defects; physiological defects; therapeutic approaches.",
+    "credits": "4",
+    "requirement_description": "PNB 2774, MCB 2210 or 2410 or 3010; ENGL 1007 or 1010 or 1011; open to juniors or higher; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

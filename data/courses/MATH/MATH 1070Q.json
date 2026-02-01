@@ -1,0 +1,18 @@
+{
+    "name": "MATH 1070Q",
+    "dept_code": "MATH",
+    "id_number": "1070Q",
+    "title": "Mathematics for Business and Economics",
+    "description": "Linear equations and inequalities, matrices, systems of linear equations, and linear programming; sets, counting, probability and statistics; mathematics of finance; applications to business and economics.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MATH 1011Q or equivalent. Not open for credit to students who have passed MATH 1132Q, 1152Q or 2142Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2648",
+    "dept_code": "ENGL",
+    "id_number": "2648",
+    "title": "Introduction To Fan Studies",
+    "description": "Exploration of fan cultures and communities across various forms and media, including literature, film, gaming, television, music, and the athletics sphere.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

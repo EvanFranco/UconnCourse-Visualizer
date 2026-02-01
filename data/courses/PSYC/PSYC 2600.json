@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 2600",
+    "dept_code": "PSYC",
+    "id_number": "2600",
+    "title": "Industrial/Organizational Psychology",
+    "description": "Applications of psychology in the workplace: Measurement, personnel decisions, performance appraisal, training, motivation, worker attitudes, leadership, ergonomics and job design, workplace health and safety.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100; PSYC 1101 or 1103.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

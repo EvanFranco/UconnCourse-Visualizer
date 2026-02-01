@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 4305",
+    "dept_code": "FNCE",
+    "id_number": "4305",
+    "title": "Global Financial Management",
+    "description": "Focuses on the detailed study of: exchange rate determination, operation of the foreign currency and global capital markets, and hedging both transaction and economic exposure to exchange rate changes.",
+    "credits": "3",
+    "requirement_description": "FNCE 3101 (BUSN majors) or MATH 3650 (Mathematics Actuarial Science Finance majors); open only to Business and Mathematics Actuarial Science Finance majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

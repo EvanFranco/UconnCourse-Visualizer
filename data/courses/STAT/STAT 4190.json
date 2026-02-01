@@ -1,0 +1,16 @@
+{
+    "name": "STAT 4190",
+    "dept_code": "STAT",
+    "id_number": "4190",
+    "title": "Field Study Internship",
+    "description": "Supervised field work relevant to some area of Statistics or Data Science with a regional industry, government agency, or non-profit organization. Evaluated by the field supervisor and by the instructor (based on a detailed written report submitted by the student). Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for credit.",
+    "credits": "1-3",
+    "requirement_description": "Completion with a grade of 'C' or better in STAT 3025Q or 3375Q, and STAT 3115Q or 3215Q or 3515Q. Completion of first year-sophomore general CLAS requirements.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

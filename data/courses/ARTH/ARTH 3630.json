@@ -1,0 +1,22 @@
+{
+    "name": "ARTH 3630",
+    "dept_code": "ARTH",
+    "id_number": "3630",
+    "title": "Alternative Modernities: Visual Culture of Latin America",
+    "description": "A thematic survey of Latin American art from the nineteenth century to present. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

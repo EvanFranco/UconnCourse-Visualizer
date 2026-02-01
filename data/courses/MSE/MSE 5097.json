@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5097",
+    "dept_code": "MSE",
+    "id_number": "5097",
+    "title": "Research Methods in Materials Science and Engineering",
+    "description": "Introduction to modern methodologies of experimental or computational materials research. A maximum of three credits can count toward the MSE graduate course credit requirements for M.S. Plan B or M.Eng. degrees. Cannot substitute for any GRAD course or be used to satisfy M.S. or Ph.D. degree credit requirements for thesis or dissertation research.",
+    "credits": "1-3",
+    "requirement_description": "Open to M.S. Plan B or M.Eng. students; major advisor approval required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

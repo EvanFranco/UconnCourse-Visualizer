@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 5301",
+    "dept_code": "PHIL",
+    "id_number": "5301",
+    "title": "Seminar in Contemporary Philosophy",
+    "description": "An introduction to contemporary philosophers such as Russell, Carnap, Ayer, Quine, Putnam, and Kripke.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Philosophy, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

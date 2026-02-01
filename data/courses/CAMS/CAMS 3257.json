@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 3257",
+    "dept_code": "CAMS",
+    "id_number": "3257",
+    "title": "Ancient Greek Philosophy",
+    "description": "(Also offered as PHIL\u00a02221.) Greek philosophy from its origin in the Pre-Socratics through its influence on early Christianity. Readings from the works of Plato and Aristotle. May include related ancient philosophical traditions.",
+    "credits": "3",
+    "requirement_description": "One from PHIL 1101, 1102, 1103, 1104, 1105, 1106 or 1107.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5410",
+    "dept_code": "STAT",
+    "id_number": "5410",
+    "title": "Statistical Computing for Data Science",
+    "description": "Principles and practice of statistical computing in data science: data structure, distributed computing and project management tools, data visualization, and data programming including simulation, resampling methods, and applications of optimization for statistical modeling, inference, and prediction. Formerly offered as STAT 5125.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the MS in Data Science program, others with permission. Introductory course in mathematical and applied statistics; introductory course in programming.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

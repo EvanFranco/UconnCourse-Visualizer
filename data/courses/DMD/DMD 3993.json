@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3993",
+    "dept_code": "DMD",
+    "id_number": "3993",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program (Fall, Spring, or Summer). Departmental consent required, normally before the student's departure to study abroad. May be repeated for a total of 12 credits.",
+    "credits": "1-12",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

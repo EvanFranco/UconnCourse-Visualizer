@@ -1,0 +1,16 @@
+{
+    "name": "DENT 5500",
+    "dept_code": "DENT",
+    "id_number": "5500",
+    "title": "Oral and Maxillofacial Diagnostic Imaging and Interpretation Part A",
+    "description": "The first part of a three-part seminar course examining the interpretation of images produced by various techniques used in the diagnosis of diseases involving the oral maxillofacial complex. Part A emphasizes anatomy seen on intraoral, extraoral and volumetric image acquisition, image appearances of the common dental diseases - caries, marginal periodontitis and apical periodontitis and the pathophysiologic changes that lead to their image appearances.",
+    "credits": "2",
+    "requirement_description": "Open only to current UConn Health Dental Residents in the combined Certificate/Master of Dental Science Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

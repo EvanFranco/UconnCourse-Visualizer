@@ -1,0 +1,16 @@
+{
+    "name": "ME 3225",
+    "dept_code": "ME",
+    "id_number": "3225",
+    "title": "Computer-Aided Design, Modeling, and Graphics",
+    "description": "Introduction to computer-aided graphics, modeling and design. Applications of graphics software and hardware with mini- and micro-computer systems. Interactive computer graphic techniques. Extensive laboratory study of wire-frame and raster computer graphics. Static and dynamic graphic presentation methods.",
+    "credits": "3",
+    "requirement_description": "CSE 1010 or 1100; CE 3110; MATH 2110Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

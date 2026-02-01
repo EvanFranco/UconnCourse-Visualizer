@@ -1,0 +1,16 @@
+{
+    "name": "HEJS 1003",
+    "dept_code": "HEJS",
+    "id_number": "1003",
+    "title": "Intermediate Modern Hebrew I",
+    "description": "Building on first-year skills, more advanced grammar, vocabulary, and conversation. Examples from popular media and culture along with short readings continue to enhance students' language acquisition.",
+    "credits": "4",
+    "requirement_description": "HEJS 1002 or the equivalent. May not be taken out of sequence after passing HEJS 1004. May not be taken for credit after passing HEJS 3251.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

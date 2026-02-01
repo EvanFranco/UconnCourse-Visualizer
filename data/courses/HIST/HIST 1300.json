@@ -1,0 +1,21 @@
+{
+    "name": "HIST 1300",
+    "dept_code": "HIST",
+    "id_number": "1300",
+    "title": "Western Traditions Before 1500",
+    "description": "An analysis of the traditions and changes which have shaped Western political institutions, economic systems, social structures and culture in ancient and medieval times. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

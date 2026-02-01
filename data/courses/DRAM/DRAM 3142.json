@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 3142",
+    "dept_code": "DRAM",
+    "id_number": "3142",
+    "title": "Dramaturgy I",
+    "description": "Offers students a broad overview of the historical, critical and theoretical background of dramaturgy and introduces them to dramatic criticism, literary office dramaturgy, and the fundamentals of production dramaturgy.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: DRAM 2130, 2131, and 2141.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "WGSS 2217",
+    "dept_code": "WGSS",
+    "id_number": "2217",
+    "title": "Women, Gender and Film",
+    "description": "Examines how images, stories, and formal constructions in film frame gender identities through Indigenous, decolonial, feminist, and queer critique. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

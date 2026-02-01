@@ -1,0 +1,16 @@
+{
+    "name": "ART 2993",
+    "dept_code": "ART",
+    "id_number": "2993",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. Consent of Department Head required, normally before the student's departure to study abroad. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Department consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3627",
+    "dept_code": "ENGL",
+    "id_number": "3627",
+    "title": "Studies in Literature",
+    "description": "Advanced exploration of various limited topics, such as a particular literary theme, form, or movement, to be announced from semester to semester. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

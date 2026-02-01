@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 4320",
+    "dept_code": "ENVE",
+    "id_number": "4320",
+    "title": "Ecological Principles and Engineering",
+    "description": "An introduction to ecology and natural treatment systems for managing waste and pollutants with a focus on aqueous contaminants. Topics will include stormwater management, treatment wetlands, and bioremediation.",
+    "credits": "3",
+    "requirement_description": "Open only to students in the College of Engineering. Recommended preparation: ENVE 4210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

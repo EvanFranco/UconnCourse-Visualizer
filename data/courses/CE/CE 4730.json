@@ -1,0 +1,16 @@
+{
+    "name": "CE 4730",
+    "dept_code": "CE",
+    "id_number": "4730",
+    "title": "Transportation Planning",
+    "description": "Transportation economics, urban transportation planning process, evaluation of transportation improvements, transportation systems management.",
+    "credits": "3",
+    "requirement_description": "CE 2211,CE 2251, and CE 2710; enrollment in the School of Engineering. This course and CE 5730 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "MARN 1004",
+    "dept_code": "MARN",
+    "id_number": "1004",
+    "title": "Oceanography Laboratory",
+    "description": "Laboratory experiments, hands-on exercises, and field observations (including required cruise on research vessel) that teach fundamental oceanographic concepts emphasizing physical, chemical, and biological processes and their interaction in the marine environment. First semester (Avery Point). First and second semester (Storrs). Students who complete both MARN 1002 and 1004 will receive credit for a CA 3 laboratory course or a TOI-6L course.",
+    "credits": "1",
+    "requirement_description": "MARN 1002E, which may be taken concurrently. Not open to students who have passed MARN 1003 or 1003E.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

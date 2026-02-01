@@ -1,0 +1,18 @@
+{
+    "name": "PSYC 4197W",
+    "dept_code": "PSYC",
+    "id_number": "4197W",
+    "title": "Senior Thesis in Psychology",
+    "description": "Hours by arrangement.",
+    "credits": "3",
+    "requirement_description": "Three credits of PSYC 3889 or 3899; ENGL 1007 or 1010 or 1011; open only to Honors students with consent of instructor and Department Head.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

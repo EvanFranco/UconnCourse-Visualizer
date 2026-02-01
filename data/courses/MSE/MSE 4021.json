@@ -1,0 +1,16 @@
+{
+    "name": "MSE 4021",
+    "dept_code": "MSE",
+    "id_number": "4021",
+    "title": "Materials Joining",
+    "description": "Basic materials principles applied to fusion and solid phase welding, brazing and  other joining processes. Effects of joining process and process variable values on microstructure, soundness and mechanical properties of as-processed joints. Treatment and properties of joints and joined assemblies. Joining defects and quality control.",
+    "credits": "3",
+    "requirement_description": "MSE 2001 or 2101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5700",
+    "dept_code": "PNB",
+    "id_number": "5700",
+    "title": "Sensory Physiology",
+    "description": "Cellular and molecular mechanisms supporting the detection of sensory stimuli in vertebrates, invertebrates and other organisms. Detection of chemicals, touch, temperature, pain, sound, light, heat, magnetic fields, and electricity.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

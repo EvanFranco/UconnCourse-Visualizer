@@ -1,0 +1,16 @@
+{
+    "name": "MCB 2215",
+    "dept_code": "MCB",
+    "id_number": "2215",
+    "title": "Honors Cell Biology",
+    "description": "Overview of eukaryotic cell biology for Honors students. Emphasizes primary research literature and in-class discussion.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107; open to Honors students, others with consent. Not open to students who have passed MCB 2210. May not be taken out of sequence after passing MCB 3211, 3220, 3246, or 3842W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

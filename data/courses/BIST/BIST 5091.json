@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5091",
+    "dept_code": "BIST",
+    "id_number": "5091",
+    "title": "Biostatistics Internship",
+    "description": "Internship course for Biostatistics graduate students. May be repeated for a total of 3 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

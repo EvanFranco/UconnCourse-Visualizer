@@ -1,0 +1,23 @@
+{
+    "name": "AMST 1700E",
+    "dept_code": "AMST",
+    "id_number": "1700E",
+    "title": "Honors Core: American Landscapes",
+    "description": "Real and imagined landscapes in the Americas as seen through the history of the land and its uses and through changing representations of those landscapes in art, literature, science, and popular culture. CA 1.",
+    "credits": "3",
+    "requirement_description": "Open to freshmen and sophomores in the Honors Program.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "CLCS 2200",
+    "dept_code": "CLCS",
+    "id_number": "2200",
+    "title": "Introduction to Genocide Studies",
+    "description": "(Also offered as HRTS\u00a02200, HEJS\u00a02205.) Interdisciplinary introduction to the study of genocide as an historical, legal, social, political, and conceptual phenomenon, including response, prevention, and commemoration efforts. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed HEJS 3298 when offered as Introduction to Genocide Studies.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "STAT 6515",
+    "dept_code": "STAT",
+    "id_number": "6515",
+    "title": "Statistical Inference II",
+    "description": "Statistics and subfields, conditional expectations and probability distributions, uniformly most powerful tests, uniformly most powerful unbiased tests, confidence sets, conditional inference, robustness, change point problems, order restricted inference, asymptotics of likelihood ratio tests.",
+    "credits": "3",
+    "requirement_description": "STAT 6315; open to Ph.D. students who have passed the Ph.D. Qualifying Exam in Statistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

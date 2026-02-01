@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5194",
+    "dept_code": "NURS",
+    "id_number": "5194",
+    "title": "Seminar in Life Story Practice and Research",
+    "description": "National and international faculty specializing in guided autobiography, personal history, memoir writing, and other life story methods will present their innovations, research, and practice experiences in an online seminar format. Emphasis will be placed on preparing students for their fieldwork experiences. May be repeated for a total of 2 credits.",
+    "credits": "2",
+    "requirement_description": "NURS 5191 and 5193; open only to graduate students, instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

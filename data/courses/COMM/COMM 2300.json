@@ -1,0 +1,16 @@
+{
+    "name": "COMM 2300",
+    "dept_code": "COMM",
+    "id_number": "2300",
+    "title": "Effects of Mass Media",
+    "description": "An analysis of the roles of the mass media and of the effects they exert on individuals and society.",
+    "credits": "3",
+    "requirement_description": "COMM 1000.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ANTH 3150W",
+    "dept_code": "ANTH",
+    "id_number": "3150W",
+    "title": "Migration",
+    "description": "The social, cultural and economic causes and consequences of internal and international migration in the modern era. Topics include migrant selection, social adaptation, effects on home and host societies, and cultural identity. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: ANTH 1000 or 1006.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

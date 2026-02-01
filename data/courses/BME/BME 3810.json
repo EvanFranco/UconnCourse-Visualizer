@@ -1,0 +1,16 @@
+{
+    "name": "BME 3810",
+    "dept_code": "BME",
+    "id_number": "3810",
+    "title": "Computational Genomics",
+    "description": "(Also offered as CSE\u00a03810.) Computational methods for genomic data analysis. Topics covered include statistical modeling of biological sequences, probabilistic models of DNA and protein evolution, expectation maximization and Gibbs sampling algorithms, genomic sequence variation, and applications in genomics and genetic epidemiology.",
+    "credits": "3",
+    "requirement_description": "CSE 1729 or CSE 2050; STAT 3025Q or 3345Q or 3375Q or MATH 3160; open only to students in the College of Engineering and declared Computer Science minors. Recommended preparation: BIOL 1107.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

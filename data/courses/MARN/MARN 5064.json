@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5064",
+    "dept_code": "MARN",
+    "id_number": "5064",
+    "title": "Air-Sea Interaction",
+    "description": "Processes controlling the exchange of momentum, heat and mass across the air-sea interface.  Topics include atmospheric and oceanic stratification, wind-wave-current interaction, wave breaking, bubble generation, heat budgets, flux parameterizations and instrumentation.",
+    "credits": "3",
+    "requirement_description": "MARN 5060.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

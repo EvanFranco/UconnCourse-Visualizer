@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4225",
+    "dept_code": "ECE",
+    "id_number": "4225",
+    "title": "Fundamentals of Electron Device Design and Characterization",
+    "description": "Design of micro/nano electronic devices using state-of-the-art  computer simulation tools, experimental electrical characterization of semiconductor devices and introduction to modern electronic devices such as high-performance MOSFETs, TFTs, solar cells, non-volatile memories, CCDs, and thermoelectric power generators.",
+    "credits": "3",
+    "requirement_description": "ECE 3201; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

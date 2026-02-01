@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5000",
+    "dept_code": "ERTH",
+    "id_number": "5000",
+    "title": "Geoscience Core Course",
+    "description": "Exposes students to a solid background in a variety of topics related to integrative geosciences, emphasizing interdisciplinarity. Development of speaking skills through oral presentations, and writing skills through preparation and defense of large, interdisciplinary grant proposals. Required of all first year graduate students in Geosciences. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

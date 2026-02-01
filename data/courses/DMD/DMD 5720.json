@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5720",
+    "dept_code": "DMD",
+    "id_number": "5720",
+    "title": "Digital Media Analytics",
+    "description": "Provides a working knowledge of the array of metrics and analytics needed to understand the digital consumer and measure the effectiveness of digital media marketing.",
+    "credits": "3",
+    "requirement_description": "DMD 5700.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

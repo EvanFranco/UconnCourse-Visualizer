@@ -1,0 +1,16 @@
+{
+    "name": "EEB 4261",
+    "dept_code": "EEB",
+    "id_number": "4261",
+    "title": "Ornithology Laboratory",
+    "description": "Methods of field study and identification of birds; functional morphology, preparation of study skins and specimens.  Field trips, including at least one required day-long weekend trip.",
+    "credits": "2",
+    "requirement_description": "Open only to students who are currently taking or have completed EEB 4260.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CSE 2600",
+    "dept_code": "CSE",
+    "id_number": "2600",
+    "title": "Introduction to Data Science and Engineering",
+    "description": "Introduction to a broad selection of challenges and methodologies in working with big data. Topics to be covered include fundamental data science lifecycle topics such as data acquisition, management, integration, visualization, modeling, analysis, prediction, as well as data security, data privacy and ethics.",
+    "credits": "3",
+    "requirement_description": "CSE 1010. Not open for credit to students who have passed CSE 4095 when offered as \"Introduction to Data Science and Engineering.\" May not be taken out of sequence after passing CSE 4820 or CSE 5819.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

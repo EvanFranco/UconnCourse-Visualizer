@@ -1,0 +1,21 @@
+{
+    "name": "FREN 3267",
+    "dept_code": "FREN",
+    "id_number": "3267",
+    "title": "Grammar and Culture",
+    "description": "The study of French and Francophone culture through fiction, non-fiction, journalism and film. Emphasis on perfecting both oral and written expression through discussion, presentations, and composition on assigned topics. CA 1.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: French 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

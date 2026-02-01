@@ -1,0 +1,16 @@
+{
+    "name": "BADM 2893",
+    "dept_code": "BADM",
+    "id_number": "2893",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. With a change in content, may be repeated for credit. May be repeated for credit.",
+    "credits": "1-15",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

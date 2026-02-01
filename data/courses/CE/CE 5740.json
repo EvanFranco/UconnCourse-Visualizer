@@ -1,0 +1,16 @@
+{
+    "name": "CE 5740",
+    "dept_code": "CE",
+    "id_number": "5740",
+    "title": "Traffic Engineering I",
+    "description": "Traffic flow characteristics; traffic control devices; traffic signs and markings; traffic data collection; traffic signal timing and operation; capacity of streets, intersections, and highways; traffic impact studies; traffic simulation; term paper.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: CE 2251, 2710, or equivalent. Not open for credit to students who have passed CE 4740.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

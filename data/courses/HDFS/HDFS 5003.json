@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 5003",
+    "dept_code": "HDFS",
+    "id_number": "5003",
+    "title": "Research Methods in Human Development and Family Sciences I",
+    "description": "Family and human development procedures, research experience related to analyzing interpersonal interaction and developmental processes.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Human Development and Family Sciences, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

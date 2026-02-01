@@ -1,0 +1,16 @@
+{
+    "name": "ART 4901",
+    "dept_code": "ART",
+    "id_number": "4901",
+    "title": "Senior Project",
+    "description": "Project developed in student's area of concentration, to be exhibited in the Annual Senior Show. A vigorous and consistent thematic body of work which articulates both technical and conceptual concerns required. To fulfill graduation requirement for B.F.A. students, must be passed with grade of C or better.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

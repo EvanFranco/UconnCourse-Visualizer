@@ -1,0 +1,16 @@
+{
+    "name": "CE 5380",
+    "dept_code": "CE",
+    "id_number": "5380",
+    "title": "Bridge Structures",
+    "description": "Common types of bridges; AASHTO bridge loads; design of composite plate girders; fatigue; design of bridge substructure; design project.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 1202",
+    "dept_code": "DRAM",
+    "id_number": "1202",
+    "title": "Computer Drafting for the Theatre",
+    "description": "Computer Aided Drafting techniques for theatrical applications. Use of design software for creating various 2-D plans, including light plots, set designs and technical shop drawings. Assumes a good working knowledge of theatrical drafting conventions and techniques.",
+    "credits": "3",
+    "requirement_description": "Requires one or more of the Adobe Creative Cloud software programs; students are responsible for purchasing the latest version of Adobe's Creative Cloud for education apps and installing it on their personal computer.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

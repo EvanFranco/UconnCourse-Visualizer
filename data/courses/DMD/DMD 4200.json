@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4200",
+    "dept_code": "DMD",
+    "id_number": "4200",
+    "title": "Advanced Motion Media",
+    "description": "Advanced exploration of motion media topics, including large-scale, collaborative, and interdisciplinary projects, and investigations in emerging motion media technologies. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "DMD 3200; open only to Digital Media and Design majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

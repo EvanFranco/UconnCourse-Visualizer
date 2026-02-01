@@ -1,0 +1,16 @@
+{
+    "name": "KINS 4500",
+    "dept_code": "KINS",
+    "id_number": "4500",
+    "title": "Exercise Physiology",
+    "description": "An organ systems approach to optimal human performance including metabolism, energy transfer, nerve transmission, muscle contraction, endocrine control, and cardiopulmonary physiology.",
+    "credits": "3",
+    "requirement_description": "PNB 2264 and 2265.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

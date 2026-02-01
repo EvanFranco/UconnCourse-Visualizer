@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 1007",
+    "dept_code": "ENGL",
+    "id_number": "1007",
+    "title": "Seminar and Studio in Writing and Multimodal Composition",
+    "description": "College composition through multiple forms of literacy, including rhetorical, digital, and information literacies necessary for twenty-first-century contexts. The development of creatively intellectual inquiries through sustained engagement with texts, ideas, and problems. Emphasis on transfer of writing and rhetorical skills to academic and daily life. Students design a digital portfolio that curates creations and skills-based micro-credentials they earn in coursework.",
+    "credits": "4",
+    "requirement_description": "Students placed in ENGL 1004 must pass that class before enrolling in ENGL 1007.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

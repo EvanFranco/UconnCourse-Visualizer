@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 6211",
+    "dept_code": "ACCT",
+    "id_number": "6211",
+    "title": "Seminar in Special Research Topics",
+    "description": "Students are exposed to a broad range of accounting research through reading and critiquing research papers presented at the Accounting Department Research Workshop (papers are presented by local scholars as well as scholars from other institutions). The seminar also focuses on how to present effective written and oral criticisms of research papers. May be repeated for a total of 8 credits.",
+    "credits": "1-3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

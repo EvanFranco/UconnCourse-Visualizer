@@ -1,0 +1,20 @@
+{
+    "name": "DRAM 1110",
+    "dept_code": "DRAM",
+    "id_number": "1110",
+    "title": "Introduction to Film",
+    "description": "A basic study of film as both a means of communication and as an art form. CA 1.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing DRAM 4151 or 4152.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

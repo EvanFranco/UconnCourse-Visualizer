@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5854",
+    "dept_code": "CSE",
+    "id_number": "5854",
+    "title": "Modern Cryptography: Primitives and Protocols",
+    "description": "Modern cryptography, emphasizing provable security and concrete constructions based on the hardness of specific computational problems. After surveying some basic cryptographic primitives and associated number-theoretic constructions, focuses on public-key infrastructure and protocols: it will cover such topics as digital signatures, identification and key-exchange schemes, distributed key generation, blind signatures, zero-knowledge proofs, and private function computation.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: MATH 3160, CSE 3500, CSE 3502, and CSE 4702 or the equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

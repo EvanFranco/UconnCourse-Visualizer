@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 5890",
+    "dept_code": "PLSC",
+    "id_number": "5890",
+    "title": "Soil Management, Soil Health, and Climate Change",
+    "description": "This course teaches the following knowledge in the agricultural production systems: concept of soil health, measurements of soil health, carbon cycling and its impact on soil health, nitrogen cycling and its impact on soil health, nutrient management in livestock production systems, soil health and climate, plant and soil management practices impact on soil health.",
+    "credits": "3",
+    "requirement_description": "PLSC 1300 or PLSC 2120 or PLSC 3620.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3499",
+    "dept_code": "ECON",
+    "id_number": "3499",
+    "title": "Independent Study",
+    "description": "Tutorial course to enable qualified students to round out their training in economics. Independent reading conferences and short research papers. No more than six credits in ECON\u00a02499/3499 may be counted toward major requirements. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "ECON 2201, 2202, 2211Q, or 2212Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

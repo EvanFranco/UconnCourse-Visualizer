@@ -1,0 +1,16 @@
+{
+    "name": "BIOL 2289",
+    "dept_code": "BIOL",
+    "id_number": "2289",
+    "title": "Introduction to Undergraduate Research",
+    "description": "Introduction to the variety of research programs in the Life Sciences on the Storrs campus. Required of Sophomore Biology Honor students; also open to students interested in undergraduate research. With a change of content, this course may be repeated for credit. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "Recommended preparation: BIOL 1107 and 1108 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

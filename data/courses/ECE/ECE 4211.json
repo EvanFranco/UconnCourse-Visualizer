@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4211",
+    "dept_code": "ECE",
+    "id_number": "4211",
+    "title": "Semiconductor Devices and Nanostructures",
+    "description": "Principles and applications of contemporary solid state devices such as light-emitting diodes, injection lasers, solar cells, p-n-p-n diodes, SCRs and Triacs, transistors, MESFETs and MODFETs, and fundamentals of integrated circuits. Impact of nanostructures on devices.",
+    "credits": "3",
+    "requirement_description": "ECE 3201; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

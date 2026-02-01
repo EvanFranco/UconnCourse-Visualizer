@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5255",
+    "dept_code": "STAT",
+    "id_number": "5255",
+    "title": "Introduction to Data Science",
+    "description": "Introduction to data science for effectively storing, processing, visualizing, analyzing and making inferences from data to enable decision making. Topics include project management, data preparation, data visualization, statistical modeling, machine learning, distributed computing and ethics.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Statistics, others with permission. Not open for credit to students who have passed STAT 3255. Recommended preparation: STAT 1000Q or 1100Q or 5005 or equivalent; STAT 2255 or equivalent; and STAT 3115Q or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

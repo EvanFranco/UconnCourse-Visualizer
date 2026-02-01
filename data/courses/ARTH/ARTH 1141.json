@@ -1,0 +1,23 @@
+{
+    "name": "ARTH 1141",
+    "dept_code": "ARTH",
+    "id_number": "1141",
+    "title": "From Sun Gods to Lowriders: Introduction to Latin American Art",
+    "description": "Survey of Latin American art from 200 B.C. to the present. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

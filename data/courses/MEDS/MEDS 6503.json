@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6503",
+    "dept_code": "MEDS",
+    "id_number": "6503",
+    "title": "First Year Graduate Experience in Biomedical Science",
+    "description": "This course is structured as four blocks, which are completed in two semesters. The course will begin a 7-week exploration block in which first-year students are introduced to the research themes in each area of concentration (AOC) of Biomedical Science. Students will attend activities and research presentations given by each AOC, meet with faculty who can serve as research rotation instructors, and attend a weekly graduate seminar. In each of the subsequent 3 blocks (one in the fall semester and two in the spring semester), students will perform a research rotation under the direction of faculty instructor and attend a weekly graduate seminar that aligns with the rotation instructor's primary AOC. Each student will present a rapid-fire talk (5 minutes) on their research topic at the end of each rotation block. May be repeated for a total of 4 credits.",
+    "credits": "2",
+    "requirement_description": "Open only to first year students in the Biomedical Science Ph.D. program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

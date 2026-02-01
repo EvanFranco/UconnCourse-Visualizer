@@ -1,0 +1,16 @@
+{
+    "name": "ILCS 1001",
+    "dept_code": "ILCS",
+    "id_number": "1001",
+    "title": "Elementary Italian I",
+    "description": "Elementary Italian grammar. Practice of oral skills through pronunciation and easy conversation. Reading of simple texts and exposure to Italian media and culture.",
+    "credits": "4",
+    "requirement_description": "Not open for credit to students with three or more years of h.s. Italian. May not be taken out of sequence after passing ILCS 1002, 1003, or 1004 or after passing any 2000-level or above course taught in Italian.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

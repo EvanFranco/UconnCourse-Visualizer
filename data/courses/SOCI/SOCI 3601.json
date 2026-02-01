@@ -1,0 +1,20 @@
+{
+    "name": "SOCI 3601",
+    "dept_code": "SOCI",
+    "id_number": "3601",
+    "title": "Sociology of Gender",
+    "description": "Processes contributing to social construction of gender; theories used to explain the system of inequality in the United States with particular attention to the intersection of gender, race, ethnicity, sexuality, and class; how men and women are differentially constituted in the family, in education, work, politics, and language. CA 4.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

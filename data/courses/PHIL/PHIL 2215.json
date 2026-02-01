@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 2215",
+    "dept_code": "PHIL",
+    "id_number": "2215",
+    "title": "Ethics",
+    "description": "Judgments of good and evil, right and justice, the moral 'ought' and freedom; what do such judgments mean, is there any evidence for them, and can they be true?",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

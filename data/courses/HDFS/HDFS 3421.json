@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 3421",
+    "dept_code": "HDFS",
+    "id_number": "3421",
+    "title": "Low Income Families",
+    "description": "Impact of poverty and related problems on development of the child in the context of the family. Family structure, childrearing patterns, early educational and community programs.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

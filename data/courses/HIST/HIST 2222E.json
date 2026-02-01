@@ -1,0 +1,25 @@
+{
+    "name": "HIST 2222E",
+    "dept_code": "HIST",
+    "id_number": "2222E",
+    "title": "Global Environmental History",
+    "description": "Transformations of the global environment since 1450: the effects of human practices and ideas, especially on energy, landscapes, and commodities. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5990",
+    "dept_code": "GRAD",
+    "id_number": "5990",
+    "title": "Summer Graduate Internship",
+    "description": "A non-credit course representing an internship experience associated with the graduate student\u2019s field of study. Evaluation is by a field supervisor and major advisor. May be repeated for a total of 0 credits.",
+    "credits": "0",
+    "requirement_description": "Open to graduate students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

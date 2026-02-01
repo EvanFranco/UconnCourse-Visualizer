@@ -1,0 +1,16 @@
+{
+    "name": "CE 4610",
+    "dept_code": "CE",
+    "id_number": "4610",
+    "title": "Advanced Structural Analysis",
+    "description": "Analysis of indeterminate structures using force method and moment distribution method, matrix analysis of truss, beam, and frame structures using computer programming and graphical finite element software, particle dynamics, introduction of dynamic analysis of single degree of freedom structures under various loads.",
+    "credits": "3",
+    "requirement_description": "CE 3610; enrollment in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

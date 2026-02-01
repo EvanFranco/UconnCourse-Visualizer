@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 1083",
+    "dept_code": "HDFS",
+    "id_number": "1083",
+    "title": "Foreign Study",
+    "description": "Credits and hours by arrangement. Consent of Director of Undergraduate Studies required, preferably prior to student's departure. Special topics taken in a foreign study program. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

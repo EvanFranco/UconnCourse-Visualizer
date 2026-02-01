@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5309",
+    "dept_code": "MSE",
+    "id_number": "5309",
+    "title": "Transport Phenomena in Materials Science and Engineering",
+    "description": "Mechanisms and quantitative treatment of mass, energy, and momentum transfer will be discussed in the context of materials science and engineering applications. Increasingly complex and open-ended applications will be used to illustrate principles of fluid flow; heat conduction, radiation, and diffusion.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

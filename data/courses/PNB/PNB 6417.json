@@ -1,0 +1,16 @@
+{
+    "name": "PNB 6417",
+    "dept_code": "PNB",
+    "id_number": "6417",
+    "title": "Developmental Neurobiology",
+    "description": "Molecular mechanisms of neurodevelopment. Neural induction, cell fate determination, neurogenesis, axon targeting, neuronal migration, synapse formation and activity-dependent synaptic remodeling.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

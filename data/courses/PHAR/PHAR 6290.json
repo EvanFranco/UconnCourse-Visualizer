@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 6290",
+    "dept_code": "PHAR",
+    "id_number": "6290",
+    "title": "Colloid Chemistry and Interfacial Phenomena",
+    "description": "Interfacial phenomena, colloid chemistry.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 5192",
+    "dept_code": "SLHS",
+    "id_number": "5192",
+    "title": "Practicum in Aphasia",
+    "description": "Clinical methods of treatment of aphasia; goal-setting, assessment, communication facilitation, and the writing of SOAP notes. May be repeated for a total of 4 credits.",
+    "credits": "1",
+    "requirement_description": "Recommended preparation: SLHS 4245.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

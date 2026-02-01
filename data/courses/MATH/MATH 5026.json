@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5026",
+    "dept_code": "MATH",
+    "id_number": "5026",
+    "title": "Topics in Mathematical Logic",
+    "description": "Topics include, but are not restricted to, Computability Theory, Model Theory, and Set Theory. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "MATH 5260.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

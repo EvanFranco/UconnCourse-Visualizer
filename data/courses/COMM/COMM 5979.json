@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5979",
+    "dept_code": "COMM",
+    "id_number": "5979",
+    "title": "Masters Capstone Project",
+    "description": "Capstone project addressing problems or opportunities in the field of communication.",
+    "credits": "3",
+    "requirement_description": "Department consent. Recommended preparation: COMM 5001; should be taken in the last or next-to-last semester of study in the masters program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

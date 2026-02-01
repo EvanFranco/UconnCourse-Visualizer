@@ -1,0 +1,23 @@
+{
+    "name": "ERTH 2800E",
+    "dept_code": "ERTH",
+    "id_number": "2800E",
+    "title": "Our Evolving Atmosphere",
+    "description": "An introduction to atmospheric science, including a history of the field, features of the atmosphere, weather forecasting, a geologic history of climate change, and the impact of anthropogenic systems. CA 3.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed NRE 2146 or 3145.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

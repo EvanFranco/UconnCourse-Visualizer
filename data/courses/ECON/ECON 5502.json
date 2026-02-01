@@ -1,0 +1,16 @@
+{
+    "name": "ECON 5502",
+    "dept_code": "ECON",
+    "id_number": "5502",
+    "title": "Writing and Communication for Economics and Business II",
+    "description": "Application of skills from ECON\u00a05501 to writing and presenting a research paper developed in a third-semester Master of Science in Quantitative Economics course.",
+    "credits": "1",
+    "requirement_description": "ECON 5501.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

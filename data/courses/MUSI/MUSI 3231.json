@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3231",
+    "dept_code": "MUSI",
+    "id_number": "3231",
+    "title": "Vocal Pedagogy",
+    "description": "Vocabulary, methodology and practical application of pedagogical techniques.",
+    "credits": "2",
+    "requirement_description": "MUSI 3222; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

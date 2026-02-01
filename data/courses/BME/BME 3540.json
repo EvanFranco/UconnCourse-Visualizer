@@ -1,0 +1,16 @@
+{
+    "name": "BME 3540",
+    "dept_code": "BME",
+    "id_number": "3540",
+    "title": "Principles of Biomedical Optical Sensing: A Laboratory-Based Course",
+    "description": "Undergraduate laboratory course that covers the fundamental optical sensing principles of devices used in medicine and research. Topics include laser beam manipulation and forming, optical fibers and photodetectors, polarizers and polarimetry, molecular sensing, pressure mapping via FTIR, blood oxygen concentration (Pulse Oximetry), interferometric-based imaging systems and photo spectrometry. The course is designed for students\u2019 who seek to acquire skills in handling and working with optical components.",
+    "credits": "3",
+    "requirement_description": "PHYS 1502Q, open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

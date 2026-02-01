@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3201",
+    "dept_code": "MCB",
+    "id_number": "3201",
+    "title": "Gene Expression",
+    "description": "Basic mechanisms of genetic information transfer in eukaryotic cells from DNA to folded and assembled proteins. Regulation of transcription, translation, DNA replication, and the cell cycle.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MCB 2000, 2210, 2400, 2410 or 3010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

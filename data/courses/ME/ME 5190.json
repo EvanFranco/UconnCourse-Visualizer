@@ -1,0 +1,16 @@
+{
+    "name": "ME 5190",
+    "dept_code": "ME",
+    "id_number": "5190",
+    "title": "Advanced Solid Mechanics",
+    "description": "Fundamental idealizations used in linear solid mechanics and the fundamental principles of the subject.  Idealizations covered include beams, circular torsion, struts and thick cylinders.  Basic principles include principle of minimum potential energy, principle of minimum complementary energy, virtual work, equations of static equilibrium and direct and potential methods of solving equilibrium equations.  Example applications vary but may include, bounding of elastic properties of composites, derivation of finite elements, solution of plate problems by Green's functions and others.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

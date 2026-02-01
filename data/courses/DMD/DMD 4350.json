@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4350",
+    "dept_code": "DMD",
+    "id_number": "4350",
+    "title": "Advanced 3D Research and Production",
+    "description": "Explores, develops and evaluates the research and skills in 3D animation production, focusing on each student's own path of study. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "DMD 3310; open to B.F.A Digital Media and Design 3D Animation concentration students only, others by instructor consent. Recommended preparation: DMD 3300, 3350, 4310 and 4340.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2413",
+    "dept_code": "ECON",
+    "id_number": "2413",
+    "title": "Economics of Financial Markets and Institutions",
+    "description": "Interactions between the financial system and the real economy. The form and function of various financial markets and financial institutions Theories of interest rates. Theories of asymmetric information and transaction cost. The evolving role of the financial system in understanding key macroeconomic phenomena.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or both ECON 1201 (or ARE 1150) and 1202.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

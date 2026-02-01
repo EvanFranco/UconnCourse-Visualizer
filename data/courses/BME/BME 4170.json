@@ -1,0 +1,16 @@
+{
+    "name": "BME 4170",
+    "dept_code": "BME",
+    "id_number": "4170",
+    "title": "Nanomedicine: From Concepts to Applications",
+    "description": "Teaches students competency and practical skills in applying nanotechnology to solve problems in medicine. Upon completion of the course, the students will be able to understand the basic concept of Nanomedicine and have an overview of the Nanomedicine field; understand principles and experimental methods in designing, generating, charactering and evaluating nanotechnology-enabled therapeutics; understand how Nanomedicine is translated from scientific innovation to clinical applications; understand how Nanomedicine is applied in the cutting-edge breakthroughs of biotechnology and medicine; develop critical thinking and independent learning skills; and design a successful Nanomedicine project.",
+    "credits": "3",
+    "requirement_description": "Open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

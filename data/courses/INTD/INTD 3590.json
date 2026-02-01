@@ -1,0 +1,16 @@
+{
+    "name": "INTD 3590",
+    "dept_code": "INTD",
+    "id_number": "3590",
+    "title": "Urban Field Studies",
+    "description": "Field experience supervised by the director and an examining committee consisting of the director and two or more faculty members from two departments in the College of Liberal Arts and Sciences.",
+    "credits": "9",
+    "requirement_description": "Must be taken concurrently with INTD 3584 and 3594; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

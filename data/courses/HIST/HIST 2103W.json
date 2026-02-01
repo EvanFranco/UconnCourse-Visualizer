@@ -1,0 +1,18 @@
+{
+    "name": "HIST 2103W",
+    "dept_code": "HIST",
+    "id_number": "2103W",
+    "title": "Biography as History: Individuals in their Times",
+    "description": "What the lives of interesting individuals reveal about major historical periods and themes. Course materials may include biographies, memoirs, autobiographies, diaries, and letters. Formerly offered as HIST 3100W. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 2446",
+    "dept_code": "CHEM",
+    "id_number": "2446",
+    "title": "Organic Chemistry Laboratory",
+    "description": "Introduction to techniques, manipulations, calculations and spectroscopy.",
+    "credits": "1",
+    "requirement_description": "CHEM 2443; open only to Chemical Engineering or Biomedical Engineering majors or by consent of instructor. Not open to students who have passed CHEM 2445.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

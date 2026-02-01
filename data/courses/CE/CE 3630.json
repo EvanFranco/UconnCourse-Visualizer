@@ -1,0 +1,16 @@
+{
+    "name": "CE 3630",
+    "dept_code": "CE",
+    "id_number": "3630",
+    "title": "Design of Steel Structures",
+    "description": "Steel material and structural shapes; LRFD and ASD design philosophies; design of steel members for tension, compression, bending, and combined effects of axial forces and bending moments; design of simple connections; design project.",
+    "credits": "4",
+    "requirement_description": "CE 3610; enrollment in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

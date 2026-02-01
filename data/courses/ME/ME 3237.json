@@ -1,0 +1,16 @@
+{
+    "name": "ME 3237",
+    "dept_code": "ME",
+    "id_number": "3237",
+    "title": "Fundamentals of Environmentally Sustainable Aviation",
+    "description": "Provides students with a fundamental understanding of what constitutes an environmentally sustainable aviation. The main focus of the course is on technology-based solutions, however, measures in air traffic management, market-based methods, life-cycle approaches and renewable fuels are also covered.",
+    "credits": "3",
+    "requirement_description": "ME 2250, and ME 2232 or ME 2234. Not open for credit to students who have passed ME 3295 when offered as \"Fundamentals of Environmentally Sustainable Aviation.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

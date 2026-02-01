@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4704",
+    "dept_code": "CSE",
+    "id_number": "4704",
+    "title": "Computational Geometry",
+    "description": "An extension of sorting, searching, selection, and graph algorithms to geometric problems. This includes algorithms and data structures for constructing geometric objects, computing geometric properties, and answering geometric queries as well as techniques for the analysis of their correctness and complexity.",
+    "credits": "3",
+    "requirement_description": "CSE 3500; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

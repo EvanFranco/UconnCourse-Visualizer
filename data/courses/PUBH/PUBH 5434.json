@@ -1,0 +1,16 @@
+{
+    "name": "PUBH 5434",
+    "dept_code": "PUBH",
+    "id_number": "5434",
+    "title": "Topics in Intermediate Biostatistics",
+    "description": "An introduction to the interplay of experimental design and data analysis. Begins with a review of statistical estimation and testing. Topics include analysis of variance, linear regression, and power analysis. Applications are emphasized through the demonstration and use of statistical software.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

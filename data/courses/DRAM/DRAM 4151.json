@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 4151",
+    "dept_code": "DRAM",
+    "id_number": "4151",
+    "title": "The American Film",
+    "description": "A critical analysis of the American fiction film. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "DRAM 1110; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

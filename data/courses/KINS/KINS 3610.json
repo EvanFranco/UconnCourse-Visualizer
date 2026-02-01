@@ -1,0 +1,16 @@
+{
+    "name": "KINS 3610",
+    "dept_code": "KINS",
+    "id_number": "3610",
+    "title": "Introduction to Honors Research",
+    "description": "The student will meet with KINS faculty members and attend laboratory/program staff meetings to survey the opportunities available for future Honors Thesis research.",
+    "credits": "3",
+    "requirement_description": "Open only to Honors Students in Kinesiology Programs.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 6700",
+    "dept_code": "ENGL",
+    "id_number": "6700",
+    "title": "Seminar in Major Authors",
+    "description": "May be repeated for a total of nine credits with a change in content. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

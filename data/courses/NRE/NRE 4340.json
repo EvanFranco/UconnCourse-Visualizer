@@ -1,0 +1,16 @@
+{
+    "name": "NRE 4340",
+    "dept_code": "NRE",
+    "id_number": "4340",
+    "title": "Ecotoxicology",
+    "description": "Understanding the fate and effects of environmental contaminants. Major classes of contaminants and their sources, uptake, biotransformation, elimination, bioaccumulation, biomagnification and toxicological effects in organisms will be covered. Discussions are focused around case studies, readings, and class presentations that further explore toxicant exposures and responses in ecosystems.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher. Recommended preparation: a course in chemistry and biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

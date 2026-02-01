@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 4097",
+    "dept_code": "HDFS",
+    "id_number": "4097",
+    "title": "Honors Thesis Preparation Seminar",
+    "description": "Prepares students to tackle the honors thesis by covering the basics of the thesis process. Course content will focus on strategies to make the thesis manageable, organizational and writing skills, and discussion of seminar members'  thesis projects and progress. In this seminar, students form a community of scholars to discuss and support each other's work. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "HDFS 3087; open students in the Honors Program with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": null
+}

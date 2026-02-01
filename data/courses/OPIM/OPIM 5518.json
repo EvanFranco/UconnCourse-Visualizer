@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5518",
+    "dept_code": "OPIM",
+    "id_number": "5518",
+    "title": "AI Governance: A Risk Management Framework for Trustworthy and Responsible AI",
+    "description": "Explores the principles, practices, and frameworks of AI governance. Students will learn how to align AI applications with ethical, regulatory, and organizational objectives to ensure accountability, transparency, and trustworthiness. Topics include regulatory compliance, risk management, ethical considerations, and the societal impact of AI in business decision-making. It will benefit students in business analytics, data scientists, MBA, policy and legal, professionals in regulated industries, AI enthusiasts, and social impact advocates.",
+    "credits": "3",
+    "requirement_description": "OPIM 5515 or OPIM 5894 when offered as Generative AI for Business; OPIM 5604; open only to MBA, MSBAPM, and MS FinTech students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

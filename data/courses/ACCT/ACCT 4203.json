@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 4203",
+    "dept_code": "ACCT",
+    "id_number": "4203",
+    "title": "Advanced Accounting",
+    "description": "An in-depth study of accounting for business combinations. Coverage will also be given to accounting for nonprofit entities and contemporary issues in financial accounting.",
+    "credits": "3",
+    "requirement_description": "ACCT 3202 or BADM 3202; open only to Business majors of junior or higher status. Not open for credit to students who have passed or are taking ACCT 5603.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

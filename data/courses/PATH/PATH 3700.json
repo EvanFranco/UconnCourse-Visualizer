@@ -1,0 +1,16 @@
+{
+    "name": "PATH 3700",
+    "dept_code": "PATH",
+    "id_number": "3700",
+    "title": "Emerging Infectious Diseases and Pandemics",
+    "description": "Mechanisms of emergence that different pathogens have used to cause disease in new hosts.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

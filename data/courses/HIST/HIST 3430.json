@@ -1,0 +1,16 @@
+{
+    "name": "HIST 3430",
+    "dept_code": "HIST",
+    "id_number": "3430",
+    "title": "History of Ireland",
+    "description": "History of Ireland, with emphasis on the modern period. The rise of Irish nationalism, the Irish Literary Revival, and the problems of Northern Ireland.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5103",
+    "dept_code": "CSE",
+    "id_number": "5103",
+    "title": "Performance Engineering",
+    "description": "Study of performance engineering techniques for the development of software systems to meet performance objectives. Software performance principles, hierarchical performance modeling, and current research trends related to Software Performance Engineering. Methods for computer performance evaluation and analysis with emphasis on direct measurement and analytic modeling, including queuing networks, computation structure models, state charts, probabilistic languages, and Petri-nets. Case studies for the evaluation and analysis of software architecture and design alternatives.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 3504 and 4500 or the equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

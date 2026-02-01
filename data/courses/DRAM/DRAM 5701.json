@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5701",
+    "dept_code": "DRAM",
+    "id_number": "5701",
+    "title": "Professional Acting I",
+    "description": "Acquiring core tools and exploring skills required for professional acting.  Applying basic skills to a full-length Shakespeare (or other heightened language) performance project. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

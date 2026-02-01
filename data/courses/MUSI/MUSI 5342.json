@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 5342",
+    "dept_code": "MUSI",
+    "id_number": "5342",
+    "title": "Vocal Pedagogy",
+    "description": "Vocabulary, methodology and practical application of pedagogical techniques. Taught with MUSI\u00a03231.",
+    "credits": "2",
+    "requirement_description": "MUSI 5323, which must be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

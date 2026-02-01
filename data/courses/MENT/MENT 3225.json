@@ -1,0 +1,16 @@
+{
+    "name": "MENT 3225",
+    "dept_code": "MENT",
+    "id_number": "3225",
+    "title": "International Business",
+    "description": "Fundamental concepts and theories of international business and develop an awareness of international political, economic, and cultural issues. Students will examine the opportunities and challenges in the global economy, understand the strategies and behaviors of multinational enterprises, and gain basic knowledge of international trade and investment operations.",
+    "credits": "3",
+    "requirement_description": "MENT 3101 or BADM 3740; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

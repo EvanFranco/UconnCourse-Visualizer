@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 3101",
+    "dept_code": "CAMS",
+    "id_number": "3101",
+    "title": "Topics in Advanced Greek",
+    "description": "Reading of Ancient Greek texts in the original. With a change in content, may be repeated for credit. Involves reading in Greek. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "CAMS 1172.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

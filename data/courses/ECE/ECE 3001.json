@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3001",
+    "dept_code": "ECE",
+    "id_number": "3001",
+    "title": "Electromagnetic Fields and Waves",
+    "description": "Application of electric and magnetic field theory to engineering problems involving conductors, dielectrics, semiconductors, magnetic materials, the motion of charged particles, and wave propagation. Relationship between fields and circuit parameters in the context of transmission lines and radiation.",
+    "credits": "3",
+    "requirement_description": "PHYS 1402Q or 1502Q or 1230 or 1530; MATH 2110Q and 2410Q; open only to students in the School of Engineering. May not be taken out of sequence after passing ECE 4141.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

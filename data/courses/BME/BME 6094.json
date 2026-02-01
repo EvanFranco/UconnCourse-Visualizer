@@ -1,0 +1,16 @@
+{
+    "name": "BME 6094",
+    "dept_code": "BME",
+    "id_number": "6094",
+    "title": "BME Graduate Seminar",
+    "description": "Presentations will be given by invited speakers from outside, faculty members, and student presenters on current research topics in biomedical engineering. May be repeated for a total of 10 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

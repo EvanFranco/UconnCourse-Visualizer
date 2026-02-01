@@ -1,0 +1,16 @@
+{
+    "name": "ARE 4991",
+    "dept_code": "ARE",
+    "id_number": "4991",
+    "title": "Professional Internship",
+    "description": "Provides students with a meaningful experience in a formalized applied resource economics program under supervised conditions. Each student taking this course must submit a formal written report for evaluation and meet all other course requirements as specified by the instructor. Requires Independent Study Authorization with consent of department head and advisor. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open to junior or senior Applied and Resource Economics majors with Independent Study Authorization.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

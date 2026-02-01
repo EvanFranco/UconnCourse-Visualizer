@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5710",
+    "dept_code": "CSE",
+    "id_number": "5710",
+    "title": "Data Mining for Data Science",
+    "description": "This course presents an introduction to data mining algorithms in the areas of classification, association analysis, clustering, and anomaly detection, with an emphasis on a conceptual understanding these algorithms along with their application in real-world problems and domains.",
+    "credits": "3",
+    "requirement_description": "CSE 5709; Open to graduate students in the M.S. in Data Science program. Recommended preparation: Python programming including open-source libraries: scikit-learn, Numpy, Matplotlib, introductory statistics",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

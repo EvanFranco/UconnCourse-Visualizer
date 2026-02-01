@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 3303",
+    "dept_code": "FNCE",
+    "id_number": "3303",
+    "title": "Principles of Investments and Derivatives",
+    "description": "Application of the general principles of investing to a wide range of assets including bonds, stocks, and derivatives. Various models are used to price fundamental assets such as bonds and stocks as well as derivative securities such as options and future contracts. Written analysis is required. Offered only at the Hartford, Waterbury, and Stamford Regional Campus locations for students admitted to business major programs offered only at those locations.",
+    "credits": "3",
+    "requirement_description": "FNCE 3101; open only to business majors of junior or higher status. Not open for credit to students who have passed or are currently taking FNCE 3302.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

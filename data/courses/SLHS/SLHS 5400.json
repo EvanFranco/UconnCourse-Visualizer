@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 5400",
+    "dept_code": "SLHS",
+    "id_number": "5400",
+    "title": "Cochlear Implants",
+    "description": "Cochlear implants and their function, patient performance, clinical programming software and techniques, current research, and future technology.",
+    "credits": "3",
+    "requirement_description": "Open to Doctor of Audiology students, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BME 6701",
+    "dept_code": "BME",
+    "id_number": "6701",
+    "title": "Biomedical Materials and Implants",
+    "description": "This advanced course will enable students to further expand their knowledge in various aspects of biomaterials science, engineering and applications. The course will focus on the strategies to improve cell-material and tissue-implant interaction. A emphasis is placed on the biomaterial innovations and technologies that integrate bioactivity, functionality to improve the performance of the implants. The course will also provide an overview of the FDA regulatory pathways for biomaterial and implant approvals.",
+    "credits": "3",
+    "requirement_description": "BME 3700 or equivalent. Open only to BME students. Not open for credit to students who have passed MSE / BME 4701 or BME 6086 when taught as Advance Biomaterials.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

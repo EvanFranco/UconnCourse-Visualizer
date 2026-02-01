@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5699",
+    "dept_code": "MCB",
+    "id_number": "5699",
+    "title": "Seminar in Microbiology",
+    "description": "Discussion of current topics in microbiology. May be repeated for a total of 12 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

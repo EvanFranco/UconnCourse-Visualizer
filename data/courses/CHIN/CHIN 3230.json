@@ -1,0 +1,23 @@
+{
+    "name": "CHIN 3230",
+    "dept_code": "CHIN",
+    "id_number": "3230",
+    "title": "Language and Identity in Greater China",
+    "description": "The role of language, linguistic indexing of socio-economic class, dialects and regional language variation, impact of state policies, linguistic borrowings, bilingualism and bicultural identity, and language shift and attrition in greater China. Taught in English.CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

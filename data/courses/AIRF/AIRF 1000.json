@@ -1,0 +1,16 @@
+{
+    "name": "AIRF 1000",
+    "dept_code": "AIRF",
+    "id_number": "1000",
+    "title": "Heritage and Values of the United States Air Force",
+    "description": "Introduction to the United States Air Force with overview of the basic characteristics, missions, and organization of the Air Force. The two-hour laboratory period is for cadets only.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

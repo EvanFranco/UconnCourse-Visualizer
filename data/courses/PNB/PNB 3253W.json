@@ -1,0 +1,18 @@
+{
+    "name": "PNB 3253W",
+    "dept_code": "PNB",
+    "id_number": "3253W",
+    "title": "Current Topics in Molecular and Developmental Neurobiology",
+    "description": "Current topics from primary literature. Molecular mechanisms of brain and nervous system development.",
+    "credits": "3",
+    "requirement_description": "PNB 3251; ENGL 1007 or 1010 or 1011; open to juniors and seniors only. Recommended preparation: PNB 2274 and 2275 or 2774 and 2775.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5415",
+    "dept_code": "MEDS",
+    "id_number": "5415",
+    "title": "Craniofacial and Oral Biology",
+    "description": "Combination lecture and literature discussion course with a focus on the on the underlying biochemical, molecular and genetic mechanisms involved in the pathogenesis of craniofacial and oral disorders, the identification of unsolved questions, and consideration of possible approaches to investigate these questions. May be repeated for a total of 4 credits.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

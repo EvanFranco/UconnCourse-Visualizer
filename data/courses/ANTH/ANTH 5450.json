@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 5450",
+    "dept_code": "ANTH",
+    "id_number": "5450",
+    "title": "Paleoclimate Reconstruction",
+    "description": "The impact of past climate on human societies, from Mid-Pleistocene to late Holocene, discussed in light of modern climatology and paleoclimate reconstruction methods.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

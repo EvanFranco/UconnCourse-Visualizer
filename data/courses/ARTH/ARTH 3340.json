@@ -1,0 +1,19 @@
+{
+    "name": "ARTH 3340",
+    "dept_code": "ARTH",
+    "id_number": "3340",
+    "title": "Baroque Art",
+    "description": "Art and architecture of the seventeenth and early eighteenth centuries with emphasis on Italy, Netherlands, France and Spain.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

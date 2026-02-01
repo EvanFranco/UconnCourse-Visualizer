@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 2702",
+    "dept_code": "DRAM",
+    "id_number": "2702",
+    "title": "Acting IV",
+    "description": "A continuation of the study and practice of techniques utilized in the performance of modern realists.",
+    "credits": "3",
+    "requirement_description": "DRAM 2701.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

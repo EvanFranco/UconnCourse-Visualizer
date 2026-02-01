@@ -1,0 +1,16 @@
+{
+    "name": "FREN 3381",
+    "dept_code": "FREN",
+    "id_number": "3381",
+    "title": "French Internship",
+    "description": "Use of linguistic and cultural skills in French in a professional training context such as an internship or in industry in a French-speaking country. Requires contract agreed to in advance by student, internship field supervisor, and program director, detailing expectations for the credits earned. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

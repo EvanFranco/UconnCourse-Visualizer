@@ -1,0 +1,16 @@
+{
+    "name": "ME 3275",
+    "dept_code": "ME",
+    "id_number": "3275",
+    "title": "Introduction to Computational Fluid Dynamics",
+    "description": "Computational fluid dynamics (CFD) based on pressure-based finite volume methods. Topics covered include: integral derivations of governing equations of fluid flow, finite volume discretization of diffusion and convection equations, pressure-velocity coupling algorithms based on SIMPLE method for flow field solutions and finite volume solutions of unsteady problems. The course also covers iterative and non-iterative solution methods for large systems of linear equations, as well as methods for verification and validation of computational solutions.",
+    "credits": "3",
+    "requirement_description": "ME 3242, 3250.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

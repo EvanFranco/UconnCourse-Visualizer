@@ -1,0 +1,25 @@
+{
+    "name": "HIST 3540WE",
+    "dept_code": "HIST",
+    "id_number": "3540WE",
+    "title": "Environmental History of the Americas",
+    "description": "Transformations of one region within the Americas, such as the United States, Caribbean, or South America since 1450: the effects of human practices and policies, varying ideas about nature across cultures and time periods; and the rise of environmental movements. CA 1. CA 4. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "W",
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

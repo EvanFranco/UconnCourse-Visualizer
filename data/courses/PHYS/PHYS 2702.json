@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 2702",
+    "dept_code": "PHYS",
+    "id_number": "2702",
+    "title": "Techniques of Modern Astrophysics",
+    "description": "Observational astronomy and applications to astrophysical phenomena. Topics include telescopes and astronomical instrumentation, production of chemical elements and molecules, distance scales, black holes and compact objects, gravitational lensing, galaxy kinematics and structure, dark matter, dark energy, cosmic rays, gravitational waves, and Big Bang cosmology.",
+    "credits": "3",
+    "requirement_description": "PHYS 2701. May not be taken out of sequence after passing PHYS 4710, 4720, or 4740.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MCB 4008",
+    "dept_code": "MCB",
+    "id_number": "4008",
+    "title": "Techniques of Biophysical Chemistry",
+    "description": "Theory and applications of biophysical methods for the analysis of the size, shape and interactions of proteins and nucleic acids. Topics include analytical ultracentrifugation, light scattering, X-ray scattering, calorimetry, surface plasmon resonance and single molecule approaches.",
+    "credits": "3",
+    "requirement_description": "MCB 3003 or CHEM 3563 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

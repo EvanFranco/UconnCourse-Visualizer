@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5380",
+    "dept_code": "DMD",
+    "id_number": "5380",
+    "title": "Advanced 3D Research and Production",
+    "description": "This course explores, develops and evaluates the research and skills in 3D animation production, focusing on each student's own path of study. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "Open to DMD graduate students, others with instructor consent. Recommended preparation: Experience with working in a 3D animation application.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

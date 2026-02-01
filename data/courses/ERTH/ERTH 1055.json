@@ -1,0 +1,20 @@
+{
+    "name": "ERTH 1055",
+    "dept_code": "ERTH",
+    "id_number": "1055",
+    "title": "Geoscience and the American Landscape",
+    "description": "An Honors Core course. Foundation course in geology linked to the American Landscape through readings from American history and literature. Students who complete both ERTH\u00a01055 and ERTH\u00a01052 may request that ERTH\u00a01055 be converted to a CA 3 Laboratory course. CA 3.",
+    "credits": "3",
+    "requirement_description": "Open only to Honors students. Not open for credit to students who have passed ERTH 1010, 1050, 1051, 1070.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GERM 1002",
+    "dept_code": "GERM",
+    "id_number": "1002",
+    "title": "Elementary German II",
+    "description": "Further development of interpersonal, interpretive and presentational communicative skills on a variety of topics. Applying linguistic skills as well as intercultural competence in projects.",
+    "credits": "4",
+    "requirement_description": "GERM 1001; may not be taken out of sequence after passing GERM 1003 or 1004; may not be taken for credit after passing any 2000-level or above course taught in German, or three or more years of high school German.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

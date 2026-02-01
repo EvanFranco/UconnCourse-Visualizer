@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5560",
+    "dept_code": "ERTH",
+    "id_number": "5560",
+    "title": "Fundamentals of Planetary Science",
+    "description": "Evolution of the solar system, celestial mechanics, tidal friction, internal composition of planets, black-body radiation, planetary atmospheres.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

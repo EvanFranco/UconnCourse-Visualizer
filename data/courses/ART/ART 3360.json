@@ -1,0 +1,16 @@
+{
+    "name": "ART 3360",
+    "dept_code": "ART",
+    "id_number": "3360",
+    "title": "Aqua Media II",
+    "description": "Continuing study in aqua media.",
+    "credits": "3",
+    "requirement_description": "ART 3350.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

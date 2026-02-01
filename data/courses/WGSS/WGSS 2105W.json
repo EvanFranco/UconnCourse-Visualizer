@@ -1,0 +1,23 @@
+{
+    "name": "WGSS 2105W",
+    "dept_code": "WGSS",
+    "id_number": "2105W",
+    "title": "Gender and Science",
+    "description": "The historical, sociological, economic, and political processes that shape the ways that gender, race, class, sexuality and nation intersect with science, medicine and technology. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

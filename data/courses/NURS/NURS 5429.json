@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5429",
+    "dept_code": "NURS",
+    "id_number": "5429",
+    "title": "Adult-Gerontology Primary Care NP Clinical Practicum III",
+    "description": "Clinical practicum and seminar course that focuses on synthesizing critical thinking and psychomotor skills necessary to achieve advanced practice nursing core competencies and domains in the primary care clinical setting. Synthesizes content and clinical experiences from all previous primary care didactic and practicum courses with an emphasis on considering context while providing evidence-based health promotion and maintenance, and clinical assessment, diagnosis, and management of more complex and co-morbid health problems among populations, including individuals, families, and communities, specific to adult-gerontology primary care nurse practitioners. Credits include online seminar and 240 hours of clinical per semester (~2 days per week for 14-week spring semester plus intensive).",
+    "credits": "3",
+    "requirement_description": "NURS 5410 and 5419. Corequisite: NURS 5420. Open only to students matriculated as either post-MS certificate, MS or BS-DNP programs of study as Adult Gerontology Primary Care Nurse Practitioner concentration.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

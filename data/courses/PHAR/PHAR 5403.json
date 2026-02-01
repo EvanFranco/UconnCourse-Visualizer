@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5403",
+    "dept_code": "PHAR",
+    "id_number": "5403",
+    "title": "Current Literature in Pharmaceutical Sciences",
+    "description": "Designed to familiarize students with current pharmaceutical sciences literature and to educate students in critical peer review of this literature. May be repeated for a total of 2 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

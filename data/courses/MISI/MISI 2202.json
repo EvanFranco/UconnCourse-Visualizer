@@ -1,0 +1,16 @@
+{
+    "name": "MISI 2202",
+    "dept_code": "MISI",
+    "id_number": "2202",
+    "title": "General Military Science IIb",
+    "description": "Leading teams in complex environments; terrain analysis, patrolling, and operations orders; theoretical study of Army Leadership Requirements model and adaptive leadership.",
+    "credits": "1",
+    "requirement_description": "MISI 2201; open only to freshmen and sophomores.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

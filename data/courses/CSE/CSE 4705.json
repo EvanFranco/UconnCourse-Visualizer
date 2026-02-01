@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4705",
+    "dept_code": "CSE",
+    "id_number": "4705",
+    "title": "Artificial Intelligence",
+    "description": "Design and implementation of intelligent systems, in areas such as natural language processing, expert reasoning, planning, robotics, problem solving and learning. Students will design their own versions of \"classic\"  AI problems, and complete one substantial design project.",
+    "credits": "3",
+    "requirement_description": "CSE 3500; open only to students in the School of Engineering, Cognitive Science majors, and declared Computer Science and Cognitive Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

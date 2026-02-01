@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5641",
+    "dept_code": "OPIM",
+    "id_number": "5641",
+    "title": "Business Decision Modeling",
+    "description": "Discusses business modeling and decision analysis. Covers topics such as optimization, simulation, and sensitivity analysis to model and solve complex business problems. The course will emphasize the representation of business decision problems as optimization problems and the use of specialized software to solve and analyze problems, as well as input data, and retrieve results.",
+    "credits": "3",
+    "requirement_description": "OPIM Python bootcamp. Open only to MBA and MSBAPM students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

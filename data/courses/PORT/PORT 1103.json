@@ -1,0 +1,16 @@
+{
+    "name": "PORT 1103",
+    "dept_code": "PORT",
+    "id_number": "1103",
+    "title": "Intermediate Portuguese I",
+    "description": "Further development of understanding, speaking, reading, and writing skills within a cultural setting. Readings to enhance cultural awareness of the Lusophone world.",
+    "credits": "4",
+    "requirement_description": "PORT 1102 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

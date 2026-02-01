@@ -1,0 +1,16 @@
+{
+    "name": "SAPL 991",
+    "dept_code": "SAPL",
+    "id_number": "991",
+    "title": "Internship",
+    "description": "Students will work with professionals in an area of their interest. Written reports, daily logs, and/or evaluations by professional supervisors may be required. Open to qualified students with consent of advisor and Department Head. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5353",
+    "dept_code": "CHEM",
+    "id_number": "5353",
+    "title": "Chemical Kinetics",
+    "description": "Empirical and theoretical treatment of reaction rates. Experimental methods and treatment of data. Simple kinetic forms. Deduction of reaction mechanisms. Reaction energetics. Theories of elementary reaction rates. Diffusion. Homogeneous and heterogeneous catalysis. Extrakinetic probes of mechanism.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5337",
+    "dept_code": "CHEM",
+    "id_number": "5337",
+    "title": "Optical Methods of Analysis",
+    "description": "A discussion of fundamental principles, instrumentation and applications of some spectroscopic techniques of analytical chemistry including Raman spectroscopy, molecular fluorescence spectroscopy, atomic spectroscopy.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

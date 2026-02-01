@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 4610",
+    "dept_code": "NUSC",
+    "id_number": "4610",
+    "title": "Applied Sport Nutrition",
+    "description": "Focuses on the practical application of sports nutrition principles to optimize athletic performance and recovery. Students will learn to assess athlete needs, develop individualized nutrition strategies, and implement evidence-based fueling, hydration, and supplementation plans across different sports and training cycles. Emphasis is placed on translating scientific knowledge into real-world practice, and communicating recommendations effectively to athletes, coaches, and support.",
+    "credits": "3",
+    "requirement_description": "May not be taken for credit after passing NUSC 5610.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

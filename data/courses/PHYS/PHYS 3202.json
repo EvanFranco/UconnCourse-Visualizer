@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 3202",
+    "dept_code": "PHYS",
+    "id_number": "3202",
+    "title": "Electricity and Magnetism II",
+    "description": "Advanced theory and applications of electromagnetic fields. Gauge transformations, electromagnetic waves and radiation, and relativistic corrections to electrodynamics.",
+    "credits": "3",
+    "requirement_description": "PHYS 3201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

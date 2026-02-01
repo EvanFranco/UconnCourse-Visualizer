@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5103",
+    "dept_code": "NURS",
+    "id_number": "5103",
+    "title": "Pharmacology of Pain and Analgesia",
+    "description": "This course reviews processes underlying functional and pathological pain states, exploring the effects and limitations of pharmacotherapies currently used to treat pain. Particular emphases placed on the concept of individualized care and non-opioid pain interventions.",
+    "credits": "3",
+    "requirement_description": "Recommended Preparation: Background in nursing or other health or allied health training recommended but not required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "KINS 4206W",
+    "dept_code": "KINS",
+    "id_number": "4206W",
+    "title": "Scientific Writing in Exercise Science",
+    "description": "A writing intensive course integrated with course content from KINS\u00a04204. Students will prepare a scientific manuscript and present their work in a public presentation.",
+    "credits": "1",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; KINS 4500. Corequisite: KINS 4204.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

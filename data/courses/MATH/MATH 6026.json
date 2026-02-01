@@ -1,0 +1,16 @@
+{
+    "name": "MATH 6026",
+    "dept_code": "MATH",
+    "id_number": "6026",
+    "title": "Seminar in Mathematical Logic",
+    "description": " May be repeated for a total of 12 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

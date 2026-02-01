@@ -1,0 +1,16 @@
+{
+    "name": "IRIS 1003",
+    "dept_code": "IRIS",
+    "id_number": "1003",
+    "title": "Intermediate Irish I",
+    "description": "Further development of understanding, speaking, reading, and writing skills within a cultural setting. Readings to enhance cultural awareness of the Irish-speaking world.",
+    "credits": "4",
+    "requirement_description": "IRIS 1002 or two years of Irish in high school. May not be taken out of sequence after passing IRIS 1004.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

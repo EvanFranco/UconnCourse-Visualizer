@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5106",
+    "dept_code": "PNB",
+    "id_number": "5106",
+    "title": "Advanced Modalities in Intraoperative Neuromonitoring",
+    "description": "Comprehensive didactic and laboratory training on advanced neuromonitoring modalities (tests) such as Phase Reversal, Motor Mapping, D-Wave, Nerve Action Potential and H-Reflex.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

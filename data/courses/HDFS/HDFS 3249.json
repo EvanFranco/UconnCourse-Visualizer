@@ -1,0 +1,21 @@
+{
+    "name": "HDFS 3249",
+    "dept_code": "HDFS",
+    "id_number": "3249",
+    "title": "Gender And Aging",
+    "description": "Aging process as it impacts on men and women; historical and cross-cultural perspectives, changing family roles, including grandparenthood and widowhood, and implications of changing gender roles for self-actualization of older persons.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

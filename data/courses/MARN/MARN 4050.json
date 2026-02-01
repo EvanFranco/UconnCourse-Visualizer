@@ -1,0 +1,16 @@
+{
+    "name": "MARN 4050",
+    "dept_code": "MARN",
+    "id_number": "4050",
+    "title": "Geological Oceanography",
+    "description": "Concepts in geological oceanography, including the role of plate tectonics in the control of the Earth and ocean system, fundamentals of biosphere-geosphere interaction over geologic timescales, and the reconstruction of past climates using marine sediment archives.",
+    "credits": "3",
+    "requirement_description": "ERTH 1051 or MARN/ERTH 3230 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "EDCI 4205W",
+    "dept_code": "EDCI",
+    "id_number": "4205W",
+    "title": "Teaching World Languages to the Secondary-Age Student (7-12)",
+    "description": "Preparation of candidates and instructors for world language instruction at the middle and high school levels in alignment with research and theory in the field as well as CT and national standards for language teaching. Students will be able to: discuss current research findings and trends in world language learning and languages methodology and apply these to planning in middle and high school classrooms; identify the developmental stages of adolescents and create developmentally appropriate objectives and activities for this age group. Course activities include a combination of lecture, seminar, and clinical experiences in local schools.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to students in the Integrated Bachelor's/Master's Teacher Prep Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

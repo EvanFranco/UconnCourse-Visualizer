@@ -1,0 +1,16 @@
+{
+    "name": "CE 4210",
+    "dept_code": "CE",
+    "id_number": "4210",
+    "title": "Operations Research in Civil and Environmental Engineering",
+    "description": "Critical path method for scheduling and managing engineering project tasks. Resource allocation subject to constraints. Facility location problems. One and two-phase simplex method for linear programming. Optimization of non-linear problems. Introduction to integer programming and network flow problems.",
+    "credits": "3",
+    "requirement_description": "CE 2251; MATH 2110Q; and enrollment in the School of Engineering. This course and CE 5200 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5605",
+    "dept_code": "NRE",
+    "id_number": "5605",
+    "title": "Environmental Data Analysis",
+    "description": "Develop proficiency in fundamental data analytic techniques in the R scripting language commonly used in environmental science and engineering with applications spanning practice and research. Topics include: trend detection, numerical approaches to model fitting, cluster analysis, and introductory machine learning methods. May be repeated for a total of 3 credits.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: a course in introductory linear algebra and introductory statistics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

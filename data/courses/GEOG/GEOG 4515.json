@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 4515",
+    "dept_code": "GEOG",
+    "id_number": "4515",
+    "title": "Web GIS",
+    "description": "Introduction to Internet GIS. The basics of system architecture, geospatial web services, mashups, key elements of mobile GIS solutions, the functionality of geoportals and web technologies, web mapping interoperability using universal data standards such as OGC (Open Geospatial Consortium) web services, and the current state of e-business and e-government web mapping interests.",
+    "credits": "3",
+    "requirement_description": "GEOG 2500, 2505 and consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

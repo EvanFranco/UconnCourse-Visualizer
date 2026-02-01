@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 1215",
+    "dept_code": "DRAM",
+    "id_number": "1215",
+    "title": "Theatre Production: Makeup And Wardrobe For The Actor",
+    "description": "An introduction to the technology, tools, and materials used in makeup and wardrobe for actors.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NURS 3110",
+    "dept_code": "NURS",
+    "id_number": "3110",
+    "title": "Clinical Science II",
+    "description": "Critical examination of concepts from pathophysiology, microbiology, and pharmacology as they apply to the diverse health care needs of individuals throughout the lifespan. Using a systems approach, foundational principles of microbiology and pharmacology are applied to specific pathophysiologic conditions to develop a holistic (and/or inclusive) care plan that incorporates non-pharmacologic and pharmacologic interventions.",
+    "credits": "3",
+    "requirement_description": "CHEM 1122 or 1127Q; NURS 3100; PNB 2264; and PNB 2265, which may be taken concurrently; open only to Sophomore or higher Nursing majors; open to Master of Science in Surgical Neurophysiology students with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

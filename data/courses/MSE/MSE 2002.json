@@ -1,0 +1,16 @@
+{
+    "name": "MSE 2002",
+    "dept_code": "MSE",
+    "id_number": "2002",
+    "title": "Introduction to Structure, Properties, and Processing of Materials II",
+    "description": "Structures, properties, and processing of ceramics; structure, properties and processing of polymers and composites; electrical, thermal, magnetic and optical properties of solids; and corrosion.",
+    "credits": "3",
+    "requirement_description": "MSE 2001 or 2101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

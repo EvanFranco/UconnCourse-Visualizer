@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3410",
+    "dept_code": "MATH",
+    "id_number": "3410",
+    "title": "Differential Equations for Applications",
+    "description": "Series solutions of differential equations, Bessel functions, Fourier series, partial differential equations and boundary value problems, nonlinear differential equations.",
+    "credits": "3",
+    "requirement_description": "MATH 2110Q and 2410Q, or MATH 2144Q or 2420Q. Not open for credit to students who have passed MATH 3412. May not be taken out of sequence after passing MATH 3430.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

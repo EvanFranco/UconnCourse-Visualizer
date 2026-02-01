@@ -1,0 +1,16 @@
+{
+    "name": "SE 5101",
+    "dept_code": "SE",
+    "id_number": "5101",
+    "title": "Foundations of Physical Systems Modeling",
+    "description": "Provides students with the foundations of physical systems modeling and computational methods for performance analysis. Students will develop skills in the areas of fundamental physical and mathematical representations of fluid dynamics, thermodynamics, heat transfer, and electro-mechanics. Introduction to concepts on how systems can be architected and designed with the aid of models. Topics include system and component requirements specification, creation of system models for design and control analysis of physical systems. Emphasis is placed on the modeling of such systems in the equation oriented programming environment of the Modelica language, and the utilization of these system models within the Functional Mockup Interface for co-simulation and Model Exchange. Examples of Aircraft Environmental Control, Chiller Systems and Plants, Engine Fuel Systems, Variable Frequency Drives and Electric Machines are used for the demonstration of the theoretical and modeling aspects of physical system modeling.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Undergraduate degree in ME, CHEG and Modelica Software.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

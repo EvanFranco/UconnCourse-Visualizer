@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 5050",
+    "dept_code": "PHRX",
+    "id_number": "5050",
+    "title": "Pediatric Pharmacotherapy",
+    "description": "Extended therapeutic knowledge of common pediatric disease states and an understanding of some of the specific pharmacologic concerns in the pediatric population.",
+    "credits": "2",
+    "requirement_description": "B.S. in Pharmacy Studies.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

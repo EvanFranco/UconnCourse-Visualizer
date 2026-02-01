@@ -1,0 +1,23 @@
+{
+    "name": "MAST 1001E",
+    "dept_code": "MAST",
+    "id_number": "1001E",
+    "title": "The Sea Around Us",
+    "description": "(Also offered as MARN\u00a01001E.) The relationship of humans with the marine environment. Exploitation of marine resources, development and use of the coastal zone, and the impact of technology on marine ecosystems. Taught at Storrs and Avery Point. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

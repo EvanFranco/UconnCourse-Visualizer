@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 5325",
+    "dept_code": "SLHS",
+    "id_number": "5325",
+    "title": "Adult Aural Rehabilitation",
+    "description": "The provision of aural rehabilitation services to adults with hearing loss including auditory training, speechreading, auditory-visual integration, effective communication strategies, and Deaf culture.",
+    "credits": "3",
+    "requirement_description": "SLHS 5356.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

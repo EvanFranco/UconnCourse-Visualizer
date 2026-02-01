@@ -1,0 +1,16 @@
+{
+    "name": "FINA 3995",
+    "dept_code": "FINA",
+    "id_number": "3995",
+    "title": "Investigation of Special Topics",
+    "description": "Special topics, taking an interdisciplinary approach to the arts. Credits and hours by arrangement. Instructor consent required. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

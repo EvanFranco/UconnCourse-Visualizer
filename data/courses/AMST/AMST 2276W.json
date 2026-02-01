@@ -1,0 +1,22 @@
+{
+    "name": "AMST 2276W",
+    "dept_code": "AMST",
+    "id_number": "2276W",
+    "title": "American Utopias and Dystopias",
+    "description": "(Also offered as ENGL\u00a02276W.) Interdisciplinary approaches to American utopian and dystopian literature of the 19th, 20th, and 21st centuries. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

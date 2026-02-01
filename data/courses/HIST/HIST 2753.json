@@ -1,0 +1,23 @@
+{
+    "name": "HIST 2753",
+    "dept_code": "HIST",
+    "id_number": "2753",
+    "title": "History of Modern Africa",
+    "description": "(Also offered as AFRA\u00a02753.) The history of African perceptions of and responses to the abolition of the slave trade, Western imperialism and colonialism, and the development of nationalism and struggle for independence. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

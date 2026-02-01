@@ -1,0 +1,16 @@
+{
+    "name": "NURS 4304",
+    "dept_code": "NURS",
+    "id_number": "4304",
+    "title": "Health Assessment and Fundamentals of Nursing Praxis",
+    "description": "Utilizes a combination of didactic and laboratory methods to explore all realms of health assessment (inspection, palpation, percussion, and auscultation) and introduces learners to the technological skills necessary for safe nursing practice: vital signs, activities of daily living, medication administration, wound healing and dressing changes, tubes and lines, safety and isolation precautions, and routine monitoring. Patient populations are adults in sub-acute and chronic settings. Addresses the nursing science, clinical science and disease science as appropriate to the assessment and skills. Students must earn at least a grade of \"C\" in this course to progress.",
+    "credits": "12",
+    "requirement_description": "Open to students in the Basic Nursing CEIN/B.S. Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

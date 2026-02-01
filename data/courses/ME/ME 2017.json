@@ -1,0 +1,16 @@
+{
+    "name": "ME 2017",
+    "dept_code": "ME",
+    "id_number": "2017",
+    "title": "Introduction to Finite Element Analysis",
+    "description": "Practice-oriented introduction to Finite Element Analysis for computational simulation of the behavior of continuous mechanical systems. Emphasis on the use of software for the analysis workflow, and on evaluation of the solution for practical problems.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

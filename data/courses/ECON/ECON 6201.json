@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6201",
+    "dept_code": "ECON",
+    "id_number": "6201",
+    "title": "Microeconomic Theory I",
+    "description": "Neoclassical consumer and producer theory, choice under uncertainty, competitive and monopoly markets, and an introduction to general equilibrium.",
+    "credits": "3",
+    "requirement_description": "ECON 5201 or ARE 5201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

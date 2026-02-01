@@ -1,0 +1,16 @@
+{
+    "name": "ECE 6171",
+    "dept_code": "ECE",
+    "id_number": "6171",
+    "title": "Mobile Robotics",
+    "description": "Coordinate transformation, kinematics and dynamics, sensor modeling, specifics of camera sensors, inertial measurement unit (IMU) sensor, simultaneous localization and mapping (SLAM), EKF-SLAM, Monte Carlo localization, SLAM observability, robot control, specifics of vision-based control, and aspects of Human-robot interaction; class project with a project report.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MATH 2410Q, MATH 3160 or STAT 3345, ECE 3111 and familiarity with MATLAB programming.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

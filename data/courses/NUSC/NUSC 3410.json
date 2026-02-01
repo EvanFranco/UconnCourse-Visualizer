@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 3410",
+    "dept_code": "NUSC",
+    "id_number": "3410",
+    "title": "Physiology and Assessment of Nutritional Biomarkers",
+    "description": "A lecture and laboratory course which provides advanced nutrition students with a foundational understanding of the physiological pathways underlying biomarkers used to characterize nutritional status, in addition to hands-on experience in the application of nutritional assessment methodology. Anthropometric, biochemical, clinical, dietary, and genetic assessments of healthy and clinical populations will be used to assess nutritional status.",
+    "credits": "2",
+    "requirement_description": "NUSC 1165 and BIOL 1107.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

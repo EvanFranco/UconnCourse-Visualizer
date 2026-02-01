@@ -1,0 +1,20 @@
+{
+    "name": "ENGL 2013W",
+    "dept_code": "ENGL",
+    "id_number": "2013W",
+    "title": "Introduction to Writing Studies",
+    "description": "An introduction to writing as a field of inquiry that includes rhetorical analysis as well as the study of writing's social and ethical implications across diverse traditions, contexts, and technologies.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 1702",
+    "dept_code": "DRAM",
+    "id_number": "1702",
+    "title": "Acting II",
+    "description": "Additional basic acting techniques with emphasis on the presentation of scenes from contemporary plays.",
+    "credits": "3",
+    "requirement_description": "DRAM 1701.May not be taken out of sequence after passing DRAM 2701.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

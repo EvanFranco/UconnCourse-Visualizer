@@ -1,0 +1,16 @@
+{
+    "name": "BME 6086",
+    "dept_code": "BME",
+    "id_number": "6086",
+    "title": "Special Topics In Biomedical Engineering",
+    "description": "Classroom and/or laboratory courses in special topics as announced in advance for each semester. May be repeated for a total of 30 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5099",
+    "dept_code": "GRAD",
+    "id_number": "5099",
+    "title": "Graduate Independent Study",
+    "description": "Students pursue an in-depth study of an area of interest under the direction of an appropriate faculty member. May represent interdisciplinary scholarship. May be repeated for a total of 12 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

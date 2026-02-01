@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5701",
+    "dept_code": "PSYC",
+    "id_number": "5701",
+    "title": "Experimental Social Psychology",
+    "description": "A critical overview of the various laboratory methods and techniques in social psychology.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

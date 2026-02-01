@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5151",
+    "dept_code": "ECE",
+    "id_number": "5151",
+    "title": "Underwater Acoustics and Sensing Systems",
+    "description": "The fundamentals of ocean acoustics, including the acoustic wave equation, ray theory, acoustic arrays and filters, ambient noise, scattering, absorption, an introduction to normal mode theory, and sonar equations. Computer simulation emphasizes acoustic ray tracing and propagation loss predictions.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Undergraduate courses in Calculus Based Physics; MATLAB or equivalent for computer simulations.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

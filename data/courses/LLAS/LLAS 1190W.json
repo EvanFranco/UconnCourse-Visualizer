@@ -1,0 +1,25 @@
+{
+    "name": "LLAS 1190W",
+    "dept_code": "LLAS",
+    "id_number": "1190W",
+    "title": "Introduction to Latin America and the Caribbean",
+    "description": "(Also offered as HIST\u00a01600W.) Multidisciplinary exploration of the historical development of such aspects of Latin America and the Caribbean as colonization and nation formation; geography and the environment; immigration and migration; race, ethnicity, and gender in society, politics, economy, and culture. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

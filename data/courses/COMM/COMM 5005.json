@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5005",
+    "dept_code": "COMM",
+    "id_number": "5005",
+    "title": "Computational Research Methods",
+    "description": "Introduction to a theoretical and methodological foundation for the application of computational methods to answer important communication research questions. An overview of the basics of R programming and computational methods applied to communication, along with a discussion of both recent and fundamental literature on computational social science. No prior programming experience is necessary.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

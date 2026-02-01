@@ -1,0 +1,19 @@
+{
+    "name": "ENGL 3318",
+    "dept_code": "ENGL",
+    "id_number": "3318",
+    "title": "Literature and Culture of the Third World",
+    "description": "The literature of regions outside North America and Europe. Contents of the course will vary according to regional focus. CA 4-INT. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

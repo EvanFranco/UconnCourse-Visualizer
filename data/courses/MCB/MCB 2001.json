@@ -1,0 +1,16 @@
+{
+    "name": "MCB 2001",
+    "dept_code": "MCB",
+    "id_number": "2001",
+    "title": "Contemporary Biotechnology through Biophysics",
+    "description": "Contemporary topics in biotechnology and bioscience viewed through the lens of the underlying chemistry, physics, and mathematics. Emphasis on applications from biomedical sciences, synthetic biology, and agriculture. Intended for students considering a degree and career in the quantitative biological sciences such as biophysics, biochemistry, or structural biology.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107. Recommended preparation: At least one additional college-level biology, chemistry, physics, or mathematics course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

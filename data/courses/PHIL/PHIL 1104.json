@@ -1,0 +1,21 @@
+{
+    "name": "PHIL 1104",
+    "dept_code": "PHIL",
+    "id_number": "1104",
+    "title": "Philosophy and Social Ethics",
+    "description": "Topics may include the nature of the good life, the relation between social morality and individual rights, and practical moral dilemmas. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

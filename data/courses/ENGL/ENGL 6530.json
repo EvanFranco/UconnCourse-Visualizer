@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 6530",
+    "dept_code": "ENGL",
+    "id_number": "6530",
+    "title": "Seminar in World Literature",
+    "description": "Major authors, movements, or themes in world literature written in English. May be repeated for a total of 15 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ANSC 1676",
+    "dept_code": "ANSC",
+    "id_number": "1676",
+    "title": "Introduction to Companion Animals",
+    "description": "Basic concepts of the nutrition, physiology, health and management of companion animals. Taught with SAAS\u00a0276. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 5326",
+    "dept_code": "MUSI",
+    "id_number": "5326",
+    "title": "Vocal Coaching",
+    "description": "Study of lyric diction, musical styles, techniques of preparation, dramatic context and text analysis in various styles of music. May be repeated for a total of 6 credits.",
+    "credits": "1",
+    "requirement_description": "Open to graduate students in vocal performance, others with permission. Corequisite: MUSI 5323.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5105",
+    "dept_code": "PNB",
+    "id_number": "5105",
+    "title": "Seminar in Intraoperative Neuromonitoring",
+    "description": "Presentations of clinical and nonclinical topics affecting the daily job of an intraoperative neuromonitoring clinician. Topics may include the sterile field; infection control; needle, electrical, radiation and fire safety; patient privacy laws (HIPAA); professional conduct and communication; and diversity in the workplace. May be repeated for a total of 4 credits.",
+    "credits": "2",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

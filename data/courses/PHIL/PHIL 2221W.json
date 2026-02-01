@@ -1,0 +1,18 @@
+{
+    "name": "PHIL 2221W",
+    "dept_code": "PHIL",
+    "id_number": "2221W",
+    "title": "Ancient Greek Philosophy",
+    "description": "(Also offered as CAMS\u00a03257W.) Greek philosophy from its origin in the Pre-Socratics through its influence on early Christianity. Readings from the works of Plato and Aristotle. May include related ancient philosophical traditions.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

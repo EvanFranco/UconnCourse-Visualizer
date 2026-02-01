@@ -1,0 +1,16 @@
+{
+    "name": "ARE 2155",
+    "dept_code": "ARE",
+    "id_number": "2155",
+    "title": "Imperfect Competition and Behavioral Economics",
+    "description": "Extension of intermediate microeconomic theory to include noncompetitive markets and psychology to consumer behavior. Topics include monopolies and oligopolies (and their welfare implications); game theory (including adverse selection and moral hazard); and behavioral economics (such as time inconsistency, loss aversion, and pro-social preferences). Emphasis will be placed on real-world applications of theory in agriculture, health, natural resources, and the environment.",
+    "credits": "3",
+    "requirement_description": "ARE 2150 or ECON 2201 or 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

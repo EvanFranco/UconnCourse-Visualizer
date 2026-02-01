@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5002",
+    "dept_code": "NURS",
+    "id_number": "5002",
+    "title": "Holistic Nursing Part 2: Advanced Concepts",
+    "description": "The curriculum in this three-course certificate program is designed for nurses interested in gaining a holistic perspective in nursing practice and everyday life and provides nurses with the educational foundation required to take the national board certification examination in holistic nursing. This course introduces students to advanced concepts in holistic nursing. Major concepts of health and wellness, body-mind healing, spirituality and health, selected complementary and alternative modalities (CAM), and evidenced-based practice are highlighted. Participants engage in experiential activities that explore and analyze a range of practices that are applicable for providing holistic care in a variety of health care settings. Every nurse who completes the three courses will receive a certificate.",
+    "credits": "3",
+    "requirement_description": "NURS 5001; open to students in Nursing graduate degree and certificate programs.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

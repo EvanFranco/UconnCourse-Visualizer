@@ -1,0 +1,21 @@
+{
+    "name": "PHIL 1103",
+    "dept_code": "PHIL",
+    "id_number": "1103",
+    "title": "Philosophical Classics",
+    "description": "Discussion of selections from such philosophers as Plato, Aristotle, Descartes, and Hume. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "INTS 5000",
+    "dept_code": "INTS",
+    "id_number": "5000",
+    "title": "Seminar in International Studies",
+    "description": "Combines the various disciplines that constitute International Studies. Includes Social Sciences, Humanities, and Development Studies (development economics and administration). Area Studies faculty from relevant departments will conduct the individual seminar sessions. Introduces concepts and theoretical issues of the fields, including research approaches and the formulation of research questions. Develops analytical thinking and writing skills in an interdisciplinary context. Utilizes a combination of reading, discussion, short papers, presentations, and research exercises. Library research and on-line resources are also covered.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

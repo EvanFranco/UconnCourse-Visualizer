@@ -1,0 +1,16 @@
+{
+    "name": "CRLP 1101",
+    "dept_code": "CRLP",
+    "id_number": "1101",
+    "title": "Elementary Level I",
+    "description": "Some critical languages, because of area study requirements or other specific circumstances, may be offered under the regular instructional method. The method of instruction for most critical language courses follows the self-study format established by the National Association of Self-Instructional Language Programs (NASILP). This method relies on four hours of student self-instruction per week, using the approved book/tape program; two hours per week of drill sessions led by the Conversation Partner; four or five quizzes per semester; and an oral final examination conducted by the Outside Examiner, a member of the faculty of an Institution of Higher Education which offers the language. In order to be eligible to register for a course offered through the NASILP method, students must have sophomore standing, a B (3.0) cumulative Grade Point Average, and the support of their academic advisor. Students seeking to register should bring an unofficial transcript and a letter from their advisor to Room 128, J.H. Arjona Building during pre-registration for the following semester.",
+    "credits": "3",
+    "requirement_description": "Open only to students with no prior contact with the language.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

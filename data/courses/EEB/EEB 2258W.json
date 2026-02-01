@@ -1,0 +1,18 @@
+{
+    "name": "EEB 2258W",
+    "dept_code": "EEB",
+    "id_number": "2258W",
+    "title": "Current Topics in Conservation and Climate Change Biology",
+    "description": "Engagement with primary research literature in conservation and climate change biology, and development of written communication skills through writing, editing, revising, and peer feedback.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Three credits of coursework in BIOL, EEB, MCB, or PNB.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

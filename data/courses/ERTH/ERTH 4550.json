@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 4550",
+    "dept_code": "ERTH",
+    "id_number": "4550",
+    "title": "Physics of the Earth's Interior",
+    "description": "(Also offered as PHYS\u00a04100.) The composition, structure, and dynamics of the Earth's core, mantle, and crust inferred from observations of seismology, geomagnetism, and heat flow.",
+    "credits": "3",
+    "requirement_description": "PHYS 1230 or 1402Q or 1502Q or 1530 or 1602Q, any of which may be taken concurrently; MATH 1122Q or 1126Q or 1131Q any of which may be taken concurrently. Recommended preparation: MATH 1132Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

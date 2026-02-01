@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3211",
+    "dept_code": "MCB",
+    "id_number": "3211",
+    "title": "Cancer Cell Biology and Genetics",
+    "description": "Genetics and epigenetics of cancer cells. Cellular signaling and growth control. The role of oncogenes and tumor suppressor genes in regulating cancer cell proliferation and death. DNA damage and repair mechanisms. Carcinogen activation detoxification. General and targeted approaches to cancer therapy.",
+    "credits": "3",
+    "requirement_description": "MCB 2210. Recommended preparation: MCB 2400 or 2410.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

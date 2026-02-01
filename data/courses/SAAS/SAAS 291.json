@@ -1,0 +1,16 @@
+{
+    "name": "SAAS 291",
+    "dept_code": "SAAS",
+    "id_number": "291",
+    "title": "Professional Internship",
+    "description": "Total credits allowed toward graduation requirements are restricted as outlined in Ratcliffe Hicks section.",
+    "credits": "1-6",
+    "requirement_description": "Open to sophomores or higher; open only with consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

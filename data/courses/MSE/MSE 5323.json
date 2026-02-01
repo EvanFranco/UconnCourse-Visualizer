@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5323",
+    "dept_code": "MSE",
+    "id_number": "5323",
+    "title": "Transmission Electron Microscopy",
+    "description": "Electron beam-specimen interactions. Basics of electron microscopes. Diffraction: theory, types of patterns and interpretation. Imaging: diffraction contrast, phase contrast and other techniques. Spectrometry: x-ray microanalysis and electron energy-loss spectrometry.",
+    "credits": "3",
+    "requirement_description": "MSE 5322 or consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

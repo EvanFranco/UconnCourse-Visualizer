@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3160",
+    "dept_code": "MATH",
+    "id_number": "3160",
+    "title": "Probability",
+    "description": "Introduction to the theory of probability. Sets and counting, probability axioms, conditional probabilities, random variables, limit theorems.",
+    "credits": "3",
+    "requirement_description": "MATH 2110Q or 2130Q or 2143Q. Cannot be taken for credit after passing MATH 3165, 3610, 3621, 3634, 4735.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

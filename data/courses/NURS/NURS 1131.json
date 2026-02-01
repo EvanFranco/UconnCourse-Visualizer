@@ -1,0 +1,16 @@
+{
+    "name": "NURS 1131",
+    "dept_code": "NURS",
+    "id_number": "1131",
+    "title": "Introduction to the Discipline of Nursing",
+    "description": "An examination of the history, values, language, and theories of the nursing discipline to create a platform of understanding and commonality for all future nursing courses.",
+    "credits": "3",
+    "requirement_description": "NURS 1130; open only to Nursing students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

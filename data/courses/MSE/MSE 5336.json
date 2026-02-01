@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5336",
+    "dept_code": "MSE",
+    "id_number": "5336",
+    "title": "Material Selection in Mechanical Design",
+    "description": "Study of materials and how they are chosen for various mechanical designs. A wide range of materials will be discussed (metal, ceramic, polymer, etc.) and their key properties (modulus, strength, density, etc.) in design will be reviewed. Guidelines for material selection will be shown. Design trades will also be discussed.",
+    "credits": "3",
+    "requirement_description": "MSE 2101 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

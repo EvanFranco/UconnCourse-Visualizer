@@ -1,0 +1,16 @@
+{
+    "name": "BME 6100",
+    "dept_code": "BME",
+    "id_number": "6100",
+    "title": "Neural Prostheses",
+    "description": "Advanced microelectrode technologies are well-positioned to drive the next generation neuromodulation and neural prostheses for treatment of neurological diseases such as profound hearing loss, spinal cord injury, brain-machine interfaces, and Parkinson\u2019s disease. This course discusses\u00a0key technical issues related to\u00a0implantable neural prostheses, in particular, 3D microelectrode arrays that interface with individual neurons directly, in various stages of development, from proof-of-concept to translation toward clinical approval. Students will also learn to\u00a0critique\u00a0journal articles and to\u00a0write\u00a0their own\u00a0NIH research\u00a0proposal.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

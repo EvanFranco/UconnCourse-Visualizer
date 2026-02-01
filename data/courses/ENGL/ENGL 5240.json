@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 5240",
+    "dept_code": "ENGL",
+    "id_number": "5240",
+    "title": "The Bible as Literature",
+    "description": "A study of major themes and literary characteristics of writing from the Hebrew Bible and New Testament. The Bible's relevance to modern literary criticism.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

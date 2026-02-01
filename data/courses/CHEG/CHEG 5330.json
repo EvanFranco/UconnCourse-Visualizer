@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5330",
+    "dept_code": "CHEG",
+    "id_number": "5330",
+    "title": "Applied Machine Learning in Chemical Engineering",
+    "description": "This course is an applied machine learning algorithms course tailored for the chemical/process engineers.  The focus of this course from is on case studies and real-world examples seen by chemical engineers.  The course will include exposure to machine learning, data science & analytics, and big data in a chemical engineering context.  Students are taught to identify descriptors, and predict and optimize system properties using a machine learning approach.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

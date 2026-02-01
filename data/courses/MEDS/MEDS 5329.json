@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5329",
+    "dept_code": "MEDS",
+    "id_number": "5329",
+    "title": "Immunobiology",
+    "description": "This course will first introduce the basic components that comprise the immune system, and then explore how the immune system impacts health and disease.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

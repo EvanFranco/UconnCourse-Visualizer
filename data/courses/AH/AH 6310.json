@@ -1,0 +1,16 @@
+{
+    "name": "AH 6310",
+    "dept_code": "AH",
+    "id_number": "6310",
+    "title": "Introduction to Systems Science and Complexity",
+    "description": "An introduction to the basic concepts and characteristics of complex systems, as well as useful tools to study complex behavioral and social systems (with examples in health), such as social network analysis, system dynamics modeling and agent-based modeling.",
+    "credits": "3",
+    "requirement_description": "Pre-calculus or higher, and statistics covering topics including regression analysis; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

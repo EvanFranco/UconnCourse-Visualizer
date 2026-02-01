@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 3110",
+    "dept_code": "ERTH",
+    "id_number": "3110",
+    "title": "Sedimentology and Stratigraphy",
+    "description": "Principles of sedimentology and stratigraphy. Physical processes of sediment transport and deposition. Characteristics of sediments and sedimentary rocks. Facies models for terrigenous clastic, chemical, and biochemical sediments. Stratigraphic frameworks and methodologies. One or more weekend field trips may be required. Formerly offered as ERTH 4110.",
+    "credits": "3",
+    "requirement_description": "ERTH 1050 or both ERTH 1052 and one of ERTH 1010 or 1051 or 1055 or 1070 or GEOG 1070. Recommended preparation: ERTH 3020.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

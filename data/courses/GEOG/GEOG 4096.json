@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 4096",
+    "dept_code": "GEOG",
+    "id_number": "4096",
+    "title": "Senior Thesis",
+    "description": "",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

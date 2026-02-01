@@ -1,0 +1,23 @@
+{
+    "name": "GEOG 2000",
+    "dept_code": "GEOG",
+    "id_number": "2000",
+    "title": "Globalization",
+    "description": "Globalization as a complex-multidimensional process. Linkages and interconnectedness between spatial processes and social, cultural, economic, political, and environmental change around the world today. Theory and impacts of economic, social, political, and cultural globalization through case studies at the local, regional, national, and international scales. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

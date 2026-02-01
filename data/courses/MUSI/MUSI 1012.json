@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 1012",
+    "dept_code": "MUSI",
+    "id_number": "1012",
+    "title": "Music Fundamentals and Ear Training II",
+    "description": "Further development of skills in music reading, sight singing, and dictation.",
+    "credits": "3",
+    "requirement_description": "MUSI 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

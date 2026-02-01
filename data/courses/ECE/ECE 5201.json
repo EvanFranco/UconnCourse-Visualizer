@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5201",
+    "dept_code": "ECE",
+    "id_number": "5201",
+    "title": "Electromagnetic Wave Propagation",
+    "description": "Engineering application of Maxwell's field theory to electromagnetic wave propagation in various media. Reflection, refraction, diffraction, dispersion, and attenuation. Propagation in sea water and in the ionosphere.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

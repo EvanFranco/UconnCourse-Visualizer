@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 3511",
+    "dept_code": "OPIM",
+    "id_number": "3511",
+    "title": "Business Data Analytics II",
+    "description": "Presents data analytics principles and state-of-the-art data mining software, with an emphasis placed on applications in business. The course provides an introduction to a variety of statistical techniques and algorithmic principles used in data mining. Various data mining procedures will be discussed and subsequently implemented using state-of-the-art analytics toolsets. Cannot be used to fulfill Analytics and Information Management (AIM) major requirements. Offered only at regional campus locations.",
+    "credits": "3",
+    "requirement_description": "OPIM 3510 or equivalent; open to business majors of junior or higher status, others with department head consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

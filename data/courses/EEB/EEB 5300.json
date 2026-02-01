@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5300",
+    "dept_code": "EEB",
+    "id_number": "5300",
+    "title": "Practical Genomics in Ecology and Evolution",
+    "description": "Computational biology skills. Focused training on analytical approaches for genomic data generated in ecology and evolutionary biology. Practical activities include writing basic scripts, accessing public data repositories, and analyzing genomic data with existing open source software to answer questions of biological interest.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in biological sciences and related fields; others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

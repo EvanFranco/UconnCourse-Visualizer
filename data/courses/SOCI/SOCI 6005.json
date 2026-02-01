@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 6005",
+    "dept_code": "SOCI",
+    "id_number": "6005",
+    "title": "Advanced Topics in Sociology",
+    "description": "Advanced topics in sociological analysis.  Topics will vary by semester. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

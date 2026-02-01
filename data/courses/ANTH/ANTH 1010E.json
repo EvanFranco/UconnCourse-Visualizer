@@ -1,0 +1,24 @@
+{
+    "name": "ANTH 1010E",
+    "dept_code": "ANTH",
+    "id_number": "1010E",
+    "title": "Global Climate Change and Human Societies",
+    "description": "A multidisciplinary examination of the nature, anthropogenic drivers, range of expressions, and impacts of contemporary and future global climate change as well as cultural understandings of this significant environmental process and diverse human responses to it. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4086",
+    "dept_code": "DMD",
+    "id_number": "4086",
+    "title": "Senior Thesis",
+    "description": "Preparation and presentation of a thesis that demonstrates vigorous and consistent intellectual engagement and articulates technical, conceptual, and scholarly sophistication. To be taken twice in two consecutive semesters in the student's senior year. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open to Digital Media and Design majors only, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

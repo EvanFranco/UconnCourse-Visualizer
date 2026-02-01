@@ -1,0 +1,16 @@
+{
+    "name": "KINS 3522",
+    "dept_code": "KINS",
+    "id_number": "3522",
+    "title": "Biomechanics of Injury and Sport",
+    "description": "Introduction to biomechanics related to injury and sport. Explores both the statics and dynamics of motion including kinetics and kinematics. Examines biomechanical issues of human movement related to exercise/sport and injury and the biomechanics of different body tissues. Uses examples from research and mass media to complement the teaching materials in the course.",
+    "credits": "3",
+    "requirement_description": "PNB 2264 and 2265.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MLSC 4341",
+    "dept_code": "MLSC",
+    "id_number": "4341",
+    "title": "Clinical Microbiology",
+    "description": "Isolation and identification of normal flora and clinically significant bacteria and fungi from clinical specimens, correlation of the organisms isolated to disease states, and susceptibility testing of bacteria.",
+    "credits": "4",
+    "requirement_description": "MCB 2610; open only to Medical Laboratory Sciences majors, others with consent of Program Director.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

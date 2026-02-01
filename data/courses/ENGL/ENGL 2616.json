@@ -1,0 +1,18 @@
+{
+    "name": "ENGL 2616",
+    "dept_code": "ENGL",
+    "id_number": "2616",
+    "title": "Artificial Intelligence: Creative and Critical Approaches",
+    "description": "A design-focused course in which students creatively make use of contemporary Artificial Intelligence (AI) systems, such as by using them to author or co-author works of literature, and then critique these AI-created or co-created outputs in order to better understand the affordances and limitations of these systems. No technical knowledge or prior experience with AI expected.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

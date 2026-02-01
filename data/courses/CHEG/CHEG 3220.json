@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 3220",
+    "dept_code": "CHEG",
+    "id_number": "3220",
+    "title": "Transport Phenomena II",
+    "description": "Analysis and design of separation processes including distillation and extraction with graphical and computational solution approaches; Analytical and numerical methods for the solution of simple partial differential equations describing transport phenomena.",
+    "credits": "4",
+    "requirement_description": "CHEG 3120 and 3112; MATH 2410Q; open only to School of Engineering students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

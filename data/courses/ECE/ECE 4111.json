@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4111",
+    "dept_code": "ECE",
+    "id_number": "4111",
+    "title": "Communication Systems",
+    "description": "Communication of information over noisy channels. Fourier transform review, spectral analysis, and sampling. Amplitude, phase, and frequency modulation of a sinusoidal carrier. Time and frequency division multiplexing. Random processes and analysis of communication of systems in noise. Elements of digital communication systems.",
+    "credits": "3",
+    "requirement_description": "ECE 3101 or BME 3400; STAT 3345Q or MATH 3160; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

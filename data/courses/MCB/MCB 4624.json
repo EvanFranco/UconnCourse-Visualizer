@@ -1,0 +1,16 @@
+{
+    "name": "MCB 4624",
+    "dept_code": "MCB",
+    "id_number": "4624",
+    "title": "Experiments in Bacterial Genetics",
+    "description": "Experiments in bacterial genetics, emphasizing genetic manipulations and analyses using modern biological techniques including transposon mutagenesis, DNA isolation, PCR, DNA sequencing and phenotypic analysis.",
+    "credits": "3",
+    "requirement_description": "MCB 2610. Recommended preparation: MCB 3617.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

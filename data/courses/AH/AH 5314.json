@@ -1,0 +1,16 @@
+{
+    "name": "AH 5314",
+    "dept_code": "AH",
+    "id_number": "5314",
+    "title": "Professional Development Project",
+    "description": "Examines contemporary issues and problems relevant to allied health practice. Focus is on interdisciplinary exchange of ideas and the development of a project relative to the student's particular program emphasis. May be repeated for a total of 24 credits.",
+    "credits": "3",
+    "requirement_description": "At least nine credits in Allied Health courses; open only to non-thesis (Plan B) students; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

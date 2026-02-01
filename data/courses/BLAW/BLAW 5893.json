@@ -1,0 +1,16 @@
+{
+    "name": "BLAW 5893",
+    "dept_code": "BLAW",
+    "id_number": "5893",
+    "title": "Foreign Study",
+    "description": "Special topics related to business social responsibility, accountability, sustainability, ESG, or human rights taken in a travel course or a foreign study program course. Obtaining credit for foreign study program courses requires prior consent from the Program Director.",
+    "credits": "3",
+    "requirement_description": "Open only to M.S. in Social Responsibility and Impact in Business students, others with consent. Not open to students who have passed MKTG 5893.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

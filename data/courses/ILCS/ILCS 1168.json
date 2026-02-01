@@ -1,0 +1,23 @@
+{
+    "name": "ILCS 1168",
+    "dept_code": "ILCS",
+    "id_number": "1168",
+    "title": "Italian Literature into Film",
+    "description": "Survey of literary genres adapted into film in an Italian context. Theories of adaptation. Strategies of cinematic adaptation taking into account the relationship between written and visual languages, and the ways foundational texts can speak to modern audiences or contemporary texts can be written cinematically. Culminates in the development of an original model for adaptation drawing upon student-lived experience. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ECON 1108",
+    "dept_code": "ECON",
+    "id_number": "1108",
+    "title": "Game Theory in the Natural and Social Sciences",
+    "description": "Introduction to game theory. Applications in the natural and social sciences and technology may include electric power auctions, evolutionary biology, and elections. CA 2.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed ECON 2201 or 2202.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5",
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

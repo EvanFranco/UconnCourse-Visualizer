@@ -1,0 +1,16 @@
+{
+    "name": "PATH 5230",
+    "dept_code": "PATH",
+    "id_number": "5230",
+    "title": "Vaccines and Immunotherapeutics",
+    "description": "Students develop an understanding of approaches for scientists and engineers to use the immune system to combat infectious and chronic diseases. Both traditional and modern molecular approaches to vaccine and immunotherapy design will be discussed. Students will gain an appreciation for the transition from basic research to practical applications.",
+    "credits": "3",
+    "requirement_description": "PATH 3401 or an equivalent course in immunology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "SOCI 2461",
+    "dept_code": "SOCI",
+    "id_number": "2461",
+    "title": "Race, Gender, and U.S. Health Care",
+    "description": "(Also offered as AFRA\u00a02461.) Factors of race and gender at work in U.S health care. Focus on African Americans and Black immigrants as care recipients and care providers in health care institutions. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: AFRA/SOCI 1001.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

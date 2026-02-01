@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5001",
+    "dept_code": "NURS",
+    "id_number": "5001",
+    "title": "Holistic Nursing Part 1: Basic Concepts",
+    "description": "The curriculum in this three-course certificate program is designed for nurses interested in integrating holistic principles and evidence-based modalities in their professional practice. Students will learn about the state of the science in holistic care and the latest research on the efficacy and safety of a variety of complementary and alternative modalities (CAM). This course was developed around the five core values and scope and standards of holistic nursing and provides nurses with the educational foundation required to take the national board certification examination in holistic nursing. Teaching/learning interventions and CAM are selected as examples of nursing approaches to promote health and healing of patients. Every nurse who completes the three courses will receive a certificate.",
+    "credits": "3",
+    "requirement_description": "Open to Nursing graduate and certificate students; open to non-degree students who hold a bachelor's degree and RN consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

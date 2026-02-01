@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5375",
+    "dept_code": "NURS",
+    "id_number": "5375",
+    "title": "Advanced Neonatal Nursing Theory II",
+    "description": "Focuses on the acquisition and application of in-depth physiological and psychological knowledge to the nursing care of high-risk neonates and their families.  Emphasis is placed on the role of the advanced practice nursing management of high-risk neonatal populations.",
+    "credits": "3",
+    "requirement_description": "NURS 5365 and 5369; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 3333",
+    "dept_code": "FNCE",
+    "id_number": "3333",
+    "title": "Real Estate Finance",
+    "description": "Investment characteristics of mortgages and the structure and operation of mortgage markets -- both primary and secondary, including the role of securitization. Risk and return characteristics of various mortgage instruments, both residential and commercial, are analyzed from the perspective of both the borrower and lender. Tools for measuring and managing the risks of portfolios of mortgages and mortgage-backed securities are introduced.",
+    "credits": "3",
+    "requirement_description": "FNCE 3101 or FNCE 3230 or BADM 3730; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

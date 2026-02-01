@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 5046",
+    "dept_code": "PHRX",
+    "id_number": "5046",
+    "title": "Clinical Toxicology",
+    "description": "Introduction to acute toxicity in humans to common drugs, chemicals and household products. Physical and laboratory assessment of common poisonings including the development of clinical management plans for common poisonings and the prevention of poisoning.",
+    "credits": "2",
+    "requirement_description": "PHRX 3040, 4040, 4041, 4042, 4043, 4044.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

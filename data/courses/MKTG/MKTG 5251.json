@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 5251",
+    "dept_code": "MKTG",
+    "id_number": "5251",
+    "title": "Marketing and Digital Analytics",
+    "description": "This course provides an understanding of how marketing and digital analytics can be used to gain insights and make marketing decisions. Students learn how to use analytics to discover customer needs, satisfy customer preferences, predict customer behavior, and allocate media and communication resources. Students gain hands-on experience designing, conducting, and communicating results of analytics initiatives.",
+    "credits": "3",
+    "requirement_description": "MKTG 5115, or MKTG 5181 and MKTG 5182; others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

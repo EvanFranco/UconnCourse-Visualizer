@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4502",
+    "dept_code": "CSE",
+    "id_number": "4502",
+    "title": "Big Data Analytics",
+    "description": "Focuses on basic concepts of data science and big data analytics. Different algorithmic techniques employed to process data will be discussed. Specific topics include: Parallel and out-of-core algorithms and data structures, rules mining, clustering algorithms, text mining, string algorithms, data reduction techniques, and learning algorithms. Applications such as motif search, k-locus association, k-mer counting, error correction, sequence assembly, genotype-phenotype correlations, etc. will be investigated.",
+    "credits": "3",
+    "requirement_description": "CSE 3500; MATH 2210Q; open only to students in the School of Engineering and declared Computer Science and Analytics minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

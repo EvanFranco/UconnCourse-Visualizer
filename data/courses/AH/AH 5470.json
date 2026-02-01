@@ -1,0 +1,16 @@
+{
+    "name": "AH 5470",
+    "dept_code": "AH",
+    "id_number": "5470",
+    "title": "Seminar in Dietetics",
+    "description": "Interactive graduate seminar addressing contemporary issues in dietetics through observation, stakeholder engagement, and continuous quality improvement. Students will develop management, mentoring, and advocacy skills, explore reimbursement systems, examine emerging nutrition trends, and refine leadership and negotiation competencies for effective professional practice.",
+    "credits": "2",
+    "requirement_description": "Instructor consent required. Not open for credit to students who have passed DIET 4470 when offered as \"Seminar in Dietetics.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

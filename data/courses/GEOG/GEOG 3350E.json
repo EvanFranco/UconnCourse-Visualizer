@@ -1,0 +1,20 @@
+{
+    "name": "GEOG 3350E",
+    "dept_code": "GEOG",
+    "id_number": "3350E",
+    "title": "Global Change, Local Action: A Geography of Environmentalism",
+    "description": "A systems thinking approach exploring global-local linkages of environmental politics and human-environmental interactions across scales using case studies and future modeling simulations. Emphasis will be placed on stakeholders and community-based initiatives to achieve environmental justice and sustainability.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

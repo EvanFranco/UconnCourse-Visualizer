@@ -1,0 +1,16 @@
+{
+    "name": "PATH 3100",
+    "dept_code": "PATH",
+    "id_number": "3100",
+    "title": "Histologic Structure and Function",
+    "description": "Designed for students in biologic, paramedical and animal sciences; its purpose is to integrate histologic and cellular structure with function, utilizing human tissues and those from other vertebrates.",
+    "credits": "4",
+    "requirement_description": "Open to juniors or higher; open only with consent of instructor. Recommended preparation: PATH 2100 or PNB 2264-2265 or PNB 2274-2275 or an equivalent course in vertebrate anatomy and physiology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

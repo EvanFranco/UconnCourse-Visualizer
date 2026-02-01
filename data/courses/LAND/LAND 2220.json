@@ -1,0 +1,18 @@
+{
+    "name": "LAND 2220",
+    "dept_code": "LAND",
+    "id_number": "2220",
+    "title": "History of Designed Landscapes",
+    "description": "The development of designed landscapes is followed through time, emphasizing influences on current landscape architecture theory and practice.",
+    "credits": "3",
+    "requirement_description": "LAND 2210E or with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 4343",
+    "dept_code": "ANSC",
+    "id_number": "4343",
+    "title": "Muscle Biology and Muscle Food Chemistry",
+    "description": "Molecular and cellular basis of muscle food physical features and its related muscle biological events.",
+    "credits": "3",
+    "requirement_description": "Open to Juniors and higher. Recommended preparation: ANCS 3343 or CHEM 2241 or CHEM 2443 or one same-level chemistry class.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

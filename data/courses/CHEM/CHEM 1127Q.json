@@ -1,0 +1,24 @@
+{
+    "name": "CHEM 1127Q",
+    "dept_code": "CHEM",
+    "id_number": "1127Q",
+    "title": "General Chemistry I",
+    "description": "Designed to provide a foundation for more advanced courses in chemistry. Atomic theory, laws and theories concerning the physical and chemical behavior of gases, liquids, solids, and solutions. Quantitative measurements illustrating the laws of chemical combination in the laboratory component. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "May not be taken out of sequence after passing CHEM 1124Q, 1137Q, 1147Q. Students who have passed CHEM 1122 will receive only 2 credits but 4 credits will be used for calculating the GPA. Repeat restrictions apply; see advising.uconn.edu/repeat-policy for more information.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

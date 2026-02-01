@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5352",
+    "dept_code": "FNCE",
+    "id_number": "5352",
+    "title": "Financial Programming and Modeling",
+    "description": "The use of MATLAB, R, and SAS for financial programming and modeling. Students pick up materials such as programming basics, SQL, database operations, file operations, graphical user interface design, object-oriented programming, XML, Component Object Model (COM) client and server, and application programming interface (API). Fundamental concepts are reviewed. Students learn modeling techniques such as Monte-Carlo simulation, binomial and trinomial trees, Black-Scholes, finite difference methods, constrained and unconstrained optimization, linear and non-linear programming, heuristic optimization, mean-variance, Value at Risk, data envelopment analysis (DEA), and data mining techniques applied in risk management, and apply these in financial contexts. Construction of various applications, for example portfolio optimization with live data from the internet using various methods, option pricing using Monte-Carlo, binomial trees, Black-Scholes, asset pricing models, capital budgeting, efficiency evaluation, finding betas of stocks, risk evaluation using data mining techniques, etc., across several programming languages.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

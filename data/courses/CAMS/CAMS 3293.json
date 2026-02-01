@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 3293",
+    "dept_code": "CAMS",
+    "id_number": "3293",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. May count toward the major with consent of the advisor. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Consent of Department Head required, normally granted prior to the student's departure.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

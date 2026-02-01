@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 4886",
+    "dept_code": "ENVE",
+    "id_number": "4886",
+    "title": "Thesis I",
+    "description": "Introduction to research through literature review and preparation of a research proposal.",
+    "credits": "1",
+    "requirement_description": "Enrollment in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,19 @@
+{
+    "name": "PNB 3263WQ",
+    "dept_code": "PNB",
+    "id_number": "3263WQ",
+    "title": "Investigations in Neurobiology",
+    "description": "Experimental investigations in neurobiology. Emphasis on designing and carrying out independent research projects, and on communicating the results.",
+    "credits": "3",
+    "requirement_description": "PNB 2250 or PNB 2274-2275; ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q",
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

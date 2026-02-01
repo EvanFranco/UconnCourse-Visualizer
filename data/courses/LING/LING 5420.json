@@ -1,0 +1,16 @@
+{
+    "name": "LING 5420",
+    "dept_code": "LING",
+    "id_number": "5420",
+    "title": "Semantics II",
+    "description": "Theories of meaning and reference. Formal treatment of meaning in a generative grammar.",
+    "credits": "3",
+    "requirement_description": "LING 5410.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 1231",
+    "dept_code": "MUSI",
+    "id_number": "1231",
+    "title": "Class Instruction in Piano",
+    "description": "",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

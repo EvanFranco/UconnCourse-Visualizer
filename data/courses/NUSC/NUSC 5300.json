@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5300",
+    "dept_code": "NUSC",
+    "id_number": "5300",
+    "title": "Vitamins and Minerals",
+    "description": "Comprehensive study of vitamins and macro-/trace minerals on the levels of biochemical and physiological functions, metabolic pathways, interactions, and deficiencies/toxicities.",
+    "credits": "3",
+    "requirement_description": "MCB 2000 or equivalent; open only to Nutrition Sciences students, instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

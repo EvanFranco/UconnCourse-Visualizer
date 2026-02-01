@@ -1,0 +1,22 @@
+{
+    "name": "HIST 2525",
+    "dept_code": "HIST",
+    "id_number": "2525",
+    "title": "LGBTQ+ History in the United States",
+    "description": "(Also offered as WGSS\u00a02525.) This course traces the history of LGBTQ+ identities, relationships, and politics in the United States from the late 18th century to the present, with a focus on changing forms of romantic and sexual relationships; the growth of LGBTQ+ communities; and the history of LGBTQ+ activism.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

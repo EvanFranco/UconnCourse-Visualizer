@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3160",
+    "dept_code": "CSE",
+    "id_number": "3160",
+    "title": "Functional Programming Fundamentals",
+    "description": "The course covers fundamental techniques in functional programming. While the primary focus is purely functional programming, side effects are explored for various purposes such as modeling I/O and rendering stateful objects. The course introduces elementary types, control flow, environments and scoping, closures, and other structural features of typical functional programs. The course may cover additional topics such as typed functional programming languages, type inference, continuation-passing, streams, and monads.",
+    "credits": "3",
+    "requirement_description": "CSE 3100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3257",
+    "dept_code": "PNB",
+    "id_number": "3257",
+    "title": "Development of the Brain",
+    "description": "Introduction to the principles and mechanisms of neural development, from early embryonic stages through adolescence. Students will explore the molecular, cellular, and systems-level processes that shape the developing nervous system.",
+    "credits": "3",
+    "requirement_description": "PNB 2774, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

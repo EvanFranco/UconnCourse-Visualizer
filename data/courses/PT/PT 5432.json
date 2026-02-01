@@ -1,0 +1,16 @@
+{
+    "name": "PT 5432",
+    "dept_code": "PT",
+    "id_number": "5432",
+    "title": "Motor Control and its Clinical Application",
+    "description": "Introduction to and discussion of contemporary theories of motor control,    research evidence on normal, abnormal, developmental, and aging-related processes governing motor control will  be provided. These ideas will be applied to understand the various impairments of neurological populations and their treatment using the model of evidence based practice.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BME 6810",
+    "dept_code": "BME",
+    "id_number": "6810",
+    "title": "Machine Learning Methods for Biomedical Signal Analysis",
+    "description": "Acquire the basic machine learning concepts and tools that are necessary in modern biomedical engineering to model, analyze, and classify physiological time series. Specific focus is on multivariate data and time series extracted from multiple physiological sources, including (but not limited to) ECG, EEG, and EMG. Through a mix of lectures and hands-on laboratory experiences, the students will learn how to design and implement machine learning projects and how to use advanced statistical tools and methods to classify data, infer predictions, and validate data-driven predictive models.",
+    "credits": "3",
+    "requirement_description": "Instructor consent; CSE 1010 and STAT 3025Q or equivalent. Not open for credit to students who have passed BME 4810.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

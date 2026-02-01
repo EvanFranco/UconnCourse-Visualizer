@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5190",
+    "dept_code": "DRAM",
+    "id_number": "5190",
+    "title": "Internship in Dramatic Arts",
+    "description": "Internships in acting, costuming, lighting, management, media, puppetry, pedagogy and technical theatre.",
+    "credits": "0",
+    "requirement_description": "Open only to Dramatic Arts graduate students holding a dramatic arts graduate assistantship.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

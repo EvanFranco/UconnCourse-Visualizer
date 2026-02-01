@@ -1,0 +1,21 @@
+{
+    "name": "CLCS 2609",
+    "dept_code": "CLCS",
+    "id_number": "2609",
+    "title": "Fascism and its Opponents",
+    "description": "(Also offered as ENGL\u00a02609.) A comparative study of fascist and antifascist movements, ideologies, aesthetics, and states across a number of national contexts, before and after the Second World War. Readings may consist of literary works, films and visual culture, autobiographies, political rhetoric, histories, and other cultural artifacts. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3400",
+    "dept_code": "ANTH",
+    "id_number": "3400",
+    "title": "Culture and Religion",
+    "description": "Major theories and approaches in the study of religion as a social institution and cultural system. Topics include myth, ritual, taboos and pollution beliefs, shamanism, magical practices, fundamentalism and religion in modern society.",
+    "credits": "3",
+    "requirement_description": "ANTH 1000 or 1006.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ME 5513",
+    "dept_code": "ME",
+    "id_number": "5513",
+    "title": "Modern Computational Mechanics",
+    "description": "An advanced course in Computational Mechanics with emphasis on modeling problems using Finite Differences and Finite Element techniques. Projects include initial value problems, ordinary differential equations and partial differential equations. Course evaluation is made by the successful completion of several assigned projects.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

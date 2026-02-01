@@ -1,0 +1,16 @@
+{
+    "name": "TRST 5311",
+    "dept_code": "TRST",
+    "id_number": "5311",
+    "title": "Literary Translation Seminar",
+    "description": "Translating literature and studying the practical aspects of the craft of literary translation. May be repeated for a maximum of nine credits with a change of topic. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "Six credits of upper division coursework 3000-level or higher in a foreign language or the equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

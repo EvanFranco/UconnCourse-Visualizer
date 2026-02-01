@@ -1,0 +1,16 @@
+{
+    "name": "BME 4730",
+    "dept_code": "BME",
+    "id_number": "4730",
+    "title": "Biomicrofluidics, Biofabrication, and Biomanufacturing",
+    "description": "This course is an introduction to the fundamentals of micro- and nanofabrication processes. In addition, transport phenomena in microfluidic systems, bioprinting and additive manufacturing technologies are discussed. Topics covered during the semester include microfabrication, non-conventional microfabrication, microfluidics, transport phenomena in miniaturized systems, microfluidic assisted manufacturing, bioprinting, biofabrication and organs-on-a-chip.",
+    "credits": "3",
+    "requirement_description": "Open only to Biomedical Engineering majors, others by instructor consent. Not open for credit to students who have passed BME 4985 when offered as Biomicrofluidics, Biofabrication, and Biomanufacturing.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CAMS 3245",
+    "dept_code": "CAMS",
+    "id_number": "3245",
+    "title": "Ancient Mediterranean World in Cinema",
+    "description": "Survey of contemporary (1950-present) films set in the ancient Mediterranean world or referencing the ancient world throughout. Topics include the development over time of a self-referential \"ancient epic\" genre, in Hollywood and beyond; the impact of technological change on the making of ancient epic films; the use of films about the ancient world to comment on social and political issues at the time the film was made; and the striking of an appropriate balance between \"fidelity\" to historical or literary sources and the creative vision of contemporary producers, directors, screenwriters and actors.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

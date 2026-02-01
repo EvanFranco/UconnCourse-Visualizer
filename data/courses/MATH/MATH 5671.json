@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5671",
+    "dept_code": "MATH",
+    "id_number": "5671",
+    "title": "Financial Data Mining and Big Data Analytics",
+    "description": "Data structures and algorithms; regression; classification; clustering; recommender systems; anomaly detection; Big Data tools; databases.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MATH 5670.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

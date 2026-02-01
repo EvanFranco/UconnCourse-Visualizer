@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5320",
+    "dept_code": "ERTH",
+    "id_number": "5320",
+    "title": "Advanced Plate Tectonics",
+    "description": "Introduces students to techniques used in analyzing plate motions on a sphere, including poles of rotation and instantaneous and finite motions. The course integrates geologic data and analytical techniques with a rigorous understanding of plate motions and provides students with a global understanding and appreciation of the Earth.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

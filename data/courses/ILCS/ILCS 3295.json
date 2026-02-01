@@ -1,0 +1,16 @@
+{
+    "name": "ILCS 3295",
+    "dept_code": "ILCS",
+    "id_number": "3295",
+    "title": "Special Topics",
+    "description": "Special topics taken in a foreign study program. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Prerequisites and recommended preparation vary.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

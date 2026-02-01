@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5350",
+    "dept_code": "CHEM",
+    "id_number": "5350",
+    "title": "Advanced Physical Chemistry I",
+    "description": "Thermodynamics, quantum mechanics and reaction dynamics, including enthalpy, entropy, free energy, equilibrium, quantum behavior of electrons and molecules, atomic and molecular spectroscopy, and theories of reaction rates.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed CHEM 5351, 5352, 5353, or 5356.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

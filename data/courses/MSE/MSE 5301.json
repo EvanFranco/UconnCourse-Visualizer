@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5301",
+    "dept_code": "MSE",
+    "id_number": "5301",
+    "title": "Thermodynamics of Materials",
+    "description": "Classical thermodynamics with emphasis on solutions and phase equilibria. Applications to unary and multicomponent, reacting and nonreacting, homogeneous and heterogeneous systems, including development of phase diagrams.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

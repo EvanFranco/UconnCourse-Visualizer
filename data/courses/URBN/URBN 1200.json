@@ -1,0 +1,23 @@
+{
+    "name": "URBN 1200",
+    "dept_code": "URBN",
+    "id_number": "1200",
+    "title": "Global Urbanization",
+    "description": "(Also offered as GEOG\u00a01200.) A broad discussion of the role and structure of cities around the world from the first cities to contemporary times. Special emphasis will be placed on the mechanisms by which cities and ideas about them have been diffused from one place to another and on the changing forces that have shaped cities over time and across space. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

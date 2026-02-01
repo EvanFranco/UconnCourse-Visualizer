@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5650",
+    "dept_code": "MATH",
+    "id_number": "5650",
+    "title": "Financial Mathematics II",
+    "description": "The continuation of Math 5620, focusing on the mathematics of finance: measurement of financial risk and the opportunity cost of capital, the mathematics of capital budgeting and securities valuation, mathematical analysis of financial decisions and capital structure, and option pricing theory. Provides VEE credit in the Corporate Finance subject area for Society of Actuaries and Casualty Actuarial Society requirements.",
+    "credits": "4",
+    "requirement_description": "Not open to students who have passed MATH 3650.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

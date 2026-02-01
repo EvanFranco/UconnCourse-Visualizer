@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5830",
+    "dept_code": "MARN",
+    "id_number": "5830",
+    "title": "Seminar in Oceanography",
+    "description": "Readings and discussions of current literature in oceanography. Topics vary each semester: Biological, Chemical, Physical, Geological. May be repeated for credit. May be repeated for a total of 8 credits.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

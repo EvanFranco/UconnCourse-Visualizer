@@ -1,0 +1,16 @@
+{
+    "name": "AIRF 3500",
+    "dept_code": "AIRF",
+    "id_number": "3500",
+    "title": "Aviation Ground School",
+    "description": "Fundamentals of flight, flight operations, aviation, weather, navigation, human factors and integration of pilot skills with Federal Aviation Administration (FAA) regulations.  Meets all requirements for the FAA private pilot's written examination.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

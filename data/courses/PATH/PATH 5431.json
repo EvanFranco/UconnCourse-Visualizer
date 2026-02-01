@@ -1,0 +1,16 @@
+{
+    "name": "PATH 5431",
+    "dept_code": "PATH",
+    "id_number": "5431",
+    "title": "Avian Pathology",
+    "description": "A comprehensive study of systemic avian pathology, stressing the correlation of pathological changes with clinical and microbiological findings.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

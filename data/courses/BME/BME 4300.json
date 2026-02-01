@@ -1,0 +1,16 @@
+{
+    "name": "BME 4300",
+    "dept_code": "BME",
+    "id_number": "4300",
+    "title": "Physiological Control Systems",
+    "description": "Analysis of human physiological control systems and regulators through the use of mathematical models. Identification and linearization of system components. Systems interactions, stability, noise, and the relation of system malfunction to disease. The analysis and design of feedback systems to control physiological states through the automatic administration of drugs.",
+    "credits": "3",
+    "requirement_description": "BME 3400 or ECE 3101; open only to BME majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

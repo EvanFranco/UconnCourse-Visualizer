@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 3394",
+    "dept_code": "CHEG",
+    "id_number": "3394",
+    "title": "Advanced Chemical Engineering Seminar",
+    "description": "Students in this class will participate in the Chemical and Biomolecular Engineering seminar series to see a broader range of the topics covered in the chemical engineering profession. The exact topics covered by this course will vary by semester.",
+    "credits": "1",
+    "requirement_description": "Not open for credit to students who have passed CHEG 4995 when offered as \"Advanced CHEG Seminar.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

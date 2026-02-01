@@ -1,0 +1,18 @@
+{
+    "name": "POLS 3434W",
+    "dept_code": "POLS",
+    "id_number": "3434W",
+    "title": "Honors Core: Excavating the International in Everyday Practices",
+    "description": "Examination of daily international practices utilizing an everyday objects lens, with attention to ethical implications for activism, change, and social justice.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: POLS 1402.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

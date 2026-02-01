@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 2600",
+    "dept_code": "UNIV",
+    "id_number": "2600",
+    "title": "Individualized Study Across Academic Disciplines",
+    "description": "Introduction to disciplinarity, multidisciplinarity, and interdisciplinarity. Recommended for students exploring an application to the Individualized Major Program.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

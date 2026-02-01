@@ -1,0 +1,18 @@
+{
+    "name": "HDFS 4007W",
+    "dept_code": "HDFS",
+    "id_number": "4007W",
+    "title": "Professional Communication in HDFS",
+    "description": "Development of advanced written and oral communication skills required for professional careers and graduate studies. Emphasis is placed on appropriate presentation and writing styles for the diverse audiences and purposes encountered in research and practice.",
+    "credits": "3",
+    "requirement_description": "HDFS 2004; ENGL 1007 or 1010 or 1011; 12 additional credits of 2000 level or above HDFS courses; open to HDFS majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

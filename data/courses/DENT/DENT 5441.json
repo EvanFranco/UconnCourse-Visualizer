@@ -1,0 +1,16 @@
+{
+    "name": "DENT 5441",
+    "dept_code": "DENT",
+    "id_number": "5441",
+    "title": "Biomechanics in Dental Science",
+    "description": "Physics and engineering principles applied to clinical and research problems in dentistry. Principles of statics and mechanics of materials. Engineering analysis of orthodontic appliances. Lectures, seminars, and demonstrations.",
+    "credits": "4",
+    "requirement_description": "Open only to current UConn Health Dental Residents in the combined Certificate/Master of Dental Science Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

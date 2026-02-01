@@ -1,0 +1,18 @@
+{
+    "name": "ANTH 4097W",
+    "dept_code": "ANTH",
+    "id_number": "4097W",
+    "title": "Honors Thesis",
+    "description": "Research and writing of major project exploring a topic within anthropology, with close supervision and production of multiple written drafts.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only with consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

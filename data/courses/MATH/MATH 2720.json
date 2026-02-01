@@ -1,0 +1,16 @@
+{
+    "name": "MATH 2720",
+    "dept_code": "MATH",
+    "id_number": "2720",
+    "title": "History of Mathematics",
+    "description": "A historical study of the growth of the various fields of mathematics. This course may not be counted in any of the major groups described in the Mathematics Departmental listing.",
+    "credits": "3",
+    "requirement_description": "Either (i) MATH 2110Q or MATH 2130Q, and either MATH 2210 or MATH 2410Q, or (ii) MATH 2144Q or MATH 2420Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

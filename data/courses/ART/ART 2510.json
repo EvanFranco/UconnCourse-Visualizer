@@ -1,0 +1,16 @@
+{
+    "name": "ART 2510",
+    "dept_code": "ART",
+    "id_number": "2510",
+    "title": "Basic Studio, Printmaking",
+    "description": "Introduction to practice and principles of printmaking, including intaglio, relief and lithographic processes.",
+    "credits": "3",
+    "requirement_description": "ART 1010 and 1030. May not be taken out of sequence after passing ART 3510 or 3520.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

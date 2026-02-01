@@ -1,0 +1,16 @@
+{
+    "name": "EMBA 5001",
+    "dept_code": "EMBA",
+    "id_number": "5001",
+    "title": "Current Business Topics",
+    "description": "Pertinent business issues impacting the local and global economy. Topics vary year to year. May be repeated for a total of 3 credits.",
+    "credits": "1.5",
+    "requirement_description": "Open only to Executive MBA students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 3012",
+    "dept_code": "PHAR",
+    "id_number": "3012",
+    "title": "Pharmacy Research Seminar",
+    "description": "(Also offered as PHRX\u00a03012.) A seminar series providing an overview of current research areas and contemporary issues in pharmacy practice and the pharmaceutical sciences. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "Recommended Preparation: A cumulative gpa of 2.3 or above is normally required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

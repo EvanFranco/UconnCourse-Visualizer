@@ -1,0 +1,16 @@
+{
+    "name": "SAAS 420",
+    "dept_code": "SAAS",
+    "id_number": "420",
+    "title": "Training Assistant",
+    "description": "Livestock animal handling, training, fitting, and showing techniques for Introduction to Animal Science students at weekly practices.",
+    "credits": "1",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

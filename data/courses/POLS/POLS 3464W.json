@@ -1,0 +1,18 @@
+{
+    "name": "POLS 3464W",
+    "dept_code": "POLS",
+    "id_number": "3464W",
+    "title": "Arab-Israeli Conflict",
+    "description": "Political relations between Arabs and Israelis with an emphasis on war and diplomacy.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BIOL 1199",
+    "dept_code": "BIOL",
+    "id_number": "1199",
+    "title": "Introduction to Biological Research",
+    "description": "Internship in Biology research.  May be repeated for credit with a change in content. May be repeated for credit.",
+    "credits": "1-3",
+    "requirement_description": "BIOL 1107 or 1108 and consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

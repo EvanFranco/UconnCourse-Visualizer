@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6492",
+    "dept_code": "ECON",
+    "id_number": "6492",
+    "title": "Teaching Economics",
+    "description": "Acquisition, development and practice of teaching skills for effective instruction in Economics. Intended for Economics Ph.D. students in the first semester in which they are assigned as an Instructor of Record at UConn as well as for Ph.D. students in at least their second year who would like to improve their Economics teaching skills while teaching a course at UConn or at another institution. May be repeated for a total of 9 credits.",
+    "credits": "1-3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

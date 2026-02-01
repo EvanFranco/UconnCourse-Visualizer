@@ -1,0 +1,16 @@
+{
+    "name": "NRE 4544",
+    "dept_code": "NRE",
+    "id_number": "4544",
+    "title": "Land Surveying for Environmental Management and Planning",
+    "description": "Use of spirit levels and total stations for high-accuracy land measurement, with applications to common practices in natural resource management and planning. Students will learn to perform control surveys and to create detailed maps from the control surveys.",
+    "credits": "4",
+    "requirement_description": "Recommended preparation: NRE 2000.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 2201",
+    "dept_code": "PSYC",
+    "id_number": "2201",
+    "title": "Drugs And Behavior",
+    "description": "An overview of drug effects on chemical transmission in the nervous system, with an emphasis on the behavioral/psychological effects of drugs.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100 or BIOL 1107.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5331",
+    "dept_code": "FNCE",
+    "id_number": "5331",
+    "title": "Advanced Topics in Derivatives Pricing",
+    "description": "This course covers topics from quantitative finance and include probability theory, Monte Carlo simulation, and partial differential equations. On the application side, special attention is paid to exotic derivatives, the impact of skew and correlation on pricing and risk analysis, and derivatives from energy, equity, and rates that involve multiple underlying tradable assets. Throughout the semester, these topics are considered in the context of enterprise risk management systems, and they motivate discussions of advanced VAR and stress testing techniques.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

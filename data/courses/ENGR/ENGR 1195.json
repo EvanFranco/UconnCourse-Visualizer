@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 1195",
+    "dept_code": "ENGR",
+    "id_number": "1195",
+    "title": "Special Topics in Engineering",
+    "description": "Classroom and/or laboratory course in special topics as announced in advance for each semester. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Instructor consent; prerequisites and recommended preparation vary.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

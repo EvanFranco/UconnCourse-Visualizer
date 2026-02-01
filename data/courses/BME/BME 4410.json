@@ -1,0 +1,16 @@
+{
+    "name": "BME 4410",
+    "dept_code": "BME",
+    "id_number": "4410",
+    "title": "Systems Biology of Cells and Tissues",
+    "description": "The course will present a broad systems level overview of how cells and tissues interact with each other at different physical scales to create complex physiological outcomes. In addition, it will cover a variety of techniques and experimental models in biology, as well as introduce examples to observe cells and tissues at multiple scales.",
+    "credits": "3",
+    "requirement_description": "Open only to BME majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

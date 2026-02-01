@@ -1,0 +1,16 @@
+{
+    "name": "AMES 5101",
+    "dept_code": "AMES",
+    "id_number": "5101",
+    "title": "Engineering Analysis",
+    "description": "Advanced math topics including Laplace, Fourier and z-Transform methods, probability theory, ordinary differential equations and systems of ODEs, partial differential equations, vector calculus, elements of statistics, linear and non-linear optimization, matrix theory, and special functions like Bessel, Legendre, and gamma. This course is set up as modules. Students will be required to complete certain modules depending on their background and concentrations.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

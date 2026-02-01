@@ -1,0 +1,16 @@
+{
+    "name": "NRE 3115",
+    "dept_code": "NRE",
+    "id_number": "3115",
+    "title": "Air Pollution",
+    "description": "The atmospheric effects and controls of air pollution and air quality, air pollution emissions and assessments, and impacts of atmospheric air pollutants.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher. Recommended preparation: NRE 3145 or 3146.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

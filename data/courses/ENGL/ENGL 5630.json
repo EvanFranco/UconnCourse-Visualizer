@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 5630",
+    "dept_code": "ENGL",
+    "id_number": "5630",
+    "title": "Environmental Humanities",
+    "description": "An interdisciplinary introduction to histories, methodologies, and theories of the environmental humanities, as well as to contemporary conversations in the field.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students, others with permission of the instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

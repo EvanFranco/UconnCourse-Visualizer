@@ -1,0 +1,16 @@
+{
+    "name": "ENVS 2000",
+    "dept_code": "ENVS",
+    "id_number": "2000",
+    "title": "Integrating Humans and the Environment",
+    "description": "Designed for students who have had a foundation in the basic concepts of environmental sciences. Exploration of critical environmental issues from a science-based perspective, including climate change, energy resilience, ecosystem services, and sustainability. The challenges, tradeoffs, and potential solutions to problems related to human modification of the environment, and do so from an interdisciplinary perspective.",
+    "credits": "3",
+    "requirement_description": "Open to Environmental Sciences majors only, sophomores or higher. Recommended preparation: NRE 1000 or similar.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "MATH 3796W",
+    "dept_code": "MATH",
+    "id_number": "3796W",
+    "title": "Senior Thesis in Mathematics",
+    "description": "The student should define a general subject area for the thesis before choosing a thesis advisor and seeking consent at the time of registration. The student should submit a written proposal for the senior thesis to the advisor by the end of the semester preceding enrollment for thesis credit.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to Honors students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

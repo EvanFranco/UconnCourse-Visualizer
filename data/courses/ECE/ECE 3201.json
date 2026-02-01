@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3201",
+    "dept_code": "ECE",
+    "id_number": "3201",
+    "title": "Electronic Circuit Design and Analysis",
+    "description": "Physical electronics underlying the operation of electronic devices. Diodes, diode models, and diode circuits. Transistors, transistor models, and transistor circuits. DC, small signal, and frequency analysis of transistor amplifiers. Compound transistor configurations. Computer analysis tools. Diode and transistor circuits are constructed and tested in the laboratory. A laboratory report is required for each experiment.",
+    "credits": "4",
+    "requirement_description": "ECE 2001; open only to students in the School of Engineering. This course and ECE 3608 or ECE 3609 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

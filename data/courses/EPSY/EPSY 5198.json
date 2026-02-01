@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 5198",
+    "dept_code": "EPSY",
+    "id_number": "5198",
+    "title": "Curriculum Laboratory",
+    "description": "Reorganization of courses, reorientation of the program of studies, articulation of administrative units, and development of new materials are considered in relation to the local situation. Students make individual studies of their specific problems, and group studies of related problems. May be repeated for a total of 15 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

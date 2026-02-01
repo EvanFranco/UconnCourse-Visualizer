@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5131",
+    "dept_code": "PSYC",
+    "id_number": "5131",
+    "title": "Meta Analysis: Theory and Practice",
+    "description": "Methods of research synthesis, including the literature review and the place of quantitative methods in drawing conclusions from existing empirical research. Introduces the statistical techniques of meta-analysis, which integrates the results of independent studies addressing the same hypothesis.",
+    "credits": "3",
+    "requirement_description": "STAT 5105.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

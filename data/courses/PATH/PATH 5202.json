@@ -1,0 +1,16 @@
+{
+    "name": "PATH 5202",
+    "dept_code": "PATH",
+    "id_number": "5202",
+    "title": "Viral Pathogenesis",
+    "description": "Review and discussion of recent advances regarding mechanisms involved in the development of viral disease at the virus, host, organ, tissue, cell, sub-cellular and molecular levels. Current advances in virus-host interactions will be discussed, including virulence factors, mechanisms of suppression and evasion of host responses, oncogenesis, persistence, immunopathology, neurotropism, neuroinvasion.",
+    "credits": "3",
+    "requirement_description": "A course in virology or microbiology and one in biochemistry, with consent of the instructor. Recommended preparation: A course in immunology or pathology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "AH 3060",
+    "dept_code": "AH",
+    "id_number": "3060",
+    "title": "Healthcare Genetics and Genomics",
+    "description": "An introduction to the evolving role of genetics and genomics in healthcare. Use of genetic testing in diagnoses, treatment, and prevention of disease. Importance of health professionals in patient education. Social and ethical implications of genetic testing and genomic medicine.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107; open to AHS majors sophomore or higher; others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

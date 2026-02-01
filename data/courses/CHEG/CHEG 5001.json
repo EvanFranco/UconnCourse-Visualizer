@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5001",
+    "dept_code": "CHEG",
+    "id_number": "5001",
+    "title": "Advanced Chemical Engineering Fundamentals",
+    "description": "This course will provide graduate-level introduction to thermodynamics, transport phenomena, and kinetics within the context of chemical engineering applications.  Primary attention will be paid to developing an understanding of the fundamentals of each of these topic areas.  As the course progresses, integration and application of thermodynamics, transport phenomena, and reaction kinetics will be discussed.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

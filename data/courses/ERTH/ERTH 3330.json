@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 3330",
+    "dept_code": "ERTH",
+    "id_number": "3330",
+    "title": "Active Tectonics",
+    "description": "Tectonic processes that shape the Earth's surface, particularly its landforms.  Emphasis on short-term processes that produce disasters and catastrophes and affect human society. Formerly offered as ERTH 4330.",
+    "credits": "3",
+    "requirement_description": "ERTH 1050; or both ERTH 1052 and one of ERTH 1010 or 1051 or 1055 or 1070 or GEOG 1070; or GEOG 2300E; or consent of instructor. Recommended preparation: ERTH 3020 and 3030.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

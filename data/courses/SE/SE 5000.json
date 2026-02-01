@@ -1,0 +1,16 @@
+{
+    "name": "SE 5000",
+    "dept_code": "SE",
+    "id_number": "5000",
+    "title": "Introduction to Systems Engineering",
+    "description": "Introduction to the hard and soft skills that are required of good systems engineers. Lectures follow the competency models for systems engineers and include topics such as systems thinking, needs identification, requirements formulation, architecture definition, technical management, design integration, as well as verification and validation of designs. Some of the key systems engineering (SE) standards will be covered and the roles of organizations in enabling engineers to develop systems will be explored. Applications of SE concepts and tools in various settings will be discussed through examples and case studies. Students will learn to apply the SE methodologies in modern complex system development environments such as aerospace and defense, transportation, energy, communications, and modern software-intensive systems.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "SOCI 2301W",
+    "dept_code": "SOCI",
+    "id_number": "2301W",
+    "title": "Criminology",
+    "description": "Theories and research on crime, victimization, social control, and the extent and patterns of criminal behavior.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

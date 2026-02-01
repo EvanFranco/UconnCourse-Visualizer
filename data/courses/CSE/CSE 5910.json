@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5910",
+    "dept_code": "CSE",
+    "id_number": "5910",
+    "title": "Information Ecosystem Threats",
+    "description": "Review of the recent literature and in-depth discussions of the near and medium term risks to the online information ecosystem, and will engage in a student-directed, publication-quality project to analyze social media discourse using ML, NLP, and network science approaches. Topics covered will include mis- and disinformation, controversy and polarization, malinformation (e.g. doxxing), bots and bot-human partnerships, and conspiracy theories. Guest speakers will provide unique perspectives on these issues, including in CSE and from other disciplines. We will briefly touch on philosophical questions of knowability and epistemology, and discuss the connection between Information Disorders and the emerging field of AI alignment.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the Computer Science and Engineering program, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

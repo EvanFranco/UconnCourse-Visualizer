@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3438",
+    "dept_code": "ECON",
+    "id_number": "3438",
+    "title": "Contemporary Problems in Economics",
+    "description": "Current issues of government economic policy, primarily microeconomic: energy, income maintenance, labor markets for minorities and women, government regulation, health care, and others.",
+    "credits": "3",
+    "requirement_description": "ECON 2201, 2202, 2211Q, or 2212Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

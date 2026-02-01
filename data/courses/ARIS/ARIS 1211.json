@@ -1,0 +1,22 @@
+{
+    "name": "ARIS 1211",
+    "dept_code": "ARIS",
+    "id_number": "1211",
+    "title": "Introduction to Islam",
+    "description": "An introduction to the study of Islam as an intellectual and lived religious tradition. Revelation, literature, aesthetics, philosophy, theology, and law in relation to faith practices in diverse Muslim societies across time. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

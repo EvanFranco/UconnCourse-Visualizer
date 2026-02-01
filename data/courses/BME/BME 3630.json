@@ -1,0 +1,16 @@
+{
+    "name": "BME 3630",
+    "dept_code": "BME",
+    "id_number": "3630",
+    "title": "Multiphysics Finite Element Analysis",
+    "description": "The course material emphasizes basic mathematical and physical principles underlying finite element analysis (FEA), general procedure of identifying and solving engineering problems using COMSOL Multiphysics FEA software, and interpretation of FEA results.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q and 2410Q, or by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

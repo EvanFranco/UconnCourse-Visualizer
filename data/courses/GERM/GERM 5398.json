@@ -1,0 +1,16 @@
+{
+    "name": "GERM 5398",
+    "dept_code": "GERM",
+    "id_number": "5398",
+    "title": "Variable Topics",
+    "description": "Prerequisites and recommended preparation vary. May be repeated for up to nine credits with a change in content. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

@@ -1,0 +1,19 @@
+{
+    "name": "SOCI 2310",
+    "dept_code": "SOCI",
+    "id_number": "2310",
+    "title": "Introduction to Criminal Justice",
+    "description": "The criminal justice system from a sociological perspective, including crime, police and law enforcement, courts and adjudication, and corrections. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

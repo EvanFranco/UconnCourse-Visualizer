@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5110",
+    "dept_code": "EDCI",
+    "id_number": "5110",
+    "title": "Teaching Writing",
+    "description": "A course for K-12 teachers with emphasis on teaching the writing process in persuasive, narrative and expository writing; evaluation of errors; developing appropriate curricular sequences; and research in the writing process.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

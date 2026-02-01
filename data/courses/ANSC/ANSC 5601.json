@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 5601",
+    "dept_code": "ANSC",
+    "id_number": "5601",
+    "title": "Experimental Design in Animal Science",
+    "description": "Discussion of the basic principles of design and analysis for experiments in animal and food science. Both theory and practical application of designing experiments will be included. Emphasis is placed on data analysis using SAS, highlighting determination of the most appropriate analysis for an experiment and interpretation of output.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

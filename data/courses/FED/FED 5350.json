@@ -1,0 +1,16 @@
+{
+    "name": "FED 5350",
+    "dept_code": "FED",
+    "id_number": "5350",
+    "title": "Field Education Seminar V",
+    "description": "This seminar helps students prepare for and make optimum use of their field education experience. Topics include the roles and responsibilities of the student within the agency setting, exploration and development of learning contracts, and the educational assessment of self as a learner in the profession.  The seminar is used to identify issues that arise in the field and ways to deal with them.  Required course for students in the M.S.W. program completing a Block Field Placement.",
+    "credits": "1",
+    "requirement_description": "FED 5302 and 5352; open only to MSW students. Corequisite: CORG 5355 or IGFP 5355.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

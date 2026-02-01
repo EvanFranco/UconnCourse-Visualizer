@@ -1,0 +1,16 @@
+{
+    "name": "FREN 3102",
+    "dept_code": "FREN",
+    "id_number": "3102",
+    "title": "French for Engineering II",
+    "description": "Provides dual-degree Engineering and French students more advanced vocabulary, methods, and field-specific knowledge. Students will learn to describe scientific processes, to follow scientific presentations in French, and to create preparation and evaluation materials for these presentations.",
+    "credits": "1",
+    "requirement_description": "Open only to dual-degree French and Engineering students; instructor consent required. Recommended preparation: FREN 1103 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

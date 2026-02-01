@@ -1,0 +1,16 @@
+{
+    "name": "MLSC 4301",
+    "dept_code": "MLSC",
+    "id_number": "4301",
+    "title": "Clinical Chemistry and Instrumentation",
+    "description": "Manual and automated methods for the biochemical analysis of blood and body fluids; principles of operation, maintenance, and troubleshooting of laboratory instruments. Evaluation of test results in normal and diseased states. May be repeated for a total of 3 credits.",
+    "credits": "1-3",
+    "requirement_description": "MCB 2000; open only to Medical Laboratory Sciences majors, others with consent of Program Director.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

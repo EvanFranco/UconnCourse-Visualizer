@@ -1,0 +1,16 @@
+{
+    "name": "NURS 3120",
+    "dept_code": "NURS",
+    "id_number": "3120",
+    "title": "Patient Centered Health Assessment Across the Lifespan",
+    "description": "Students will acquire knowledge, skills, and values needed for assessing individuals from diverse cultures and vulnerable populations through the lifespan. This course will address the nursing science and disease science as appropriate for the development of student skills for patient/client assessment. Supervised laboratory sessions will provide opportunities to practice newly acquired skills.",
+    "credits": "3",
+    "requirement_description": "NURS 3100; PNB 2264; and PNB 2265, which may be taken concurrently; open only to Nursing majors; students in the Master of Science in Surgical Neurophysiology Program who have completed PNB 5101 may take this course with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

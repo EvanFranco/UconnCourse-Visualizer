@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5495",
+    "dept_code": "PHAR",
+    "id_number": "5495",
+    "title": "Special Problems in Pharmacology I",
+    "description": "Individualized for students desiring research experience in any of the areas of pharmacology. May be repeated for a total of 6 credits.",
+    "credits": "1-4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

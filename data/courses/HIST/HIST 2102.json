@@ -1,0 +1,16 @@
+{
+    "name": "HIST 2102",
+    "dept_code": "HIST",
+    "id_number": "2102",
+    "title": "Introduction to Digital Humanities",
+    "description": "(Also offered as DMD\u00a02610, ENGL\u00a02610.) The application of digital technology and media to such subjects as art history, classics, cultural and area studies, history, languages, literature, music, and philosophy. This course will provide a broad survey of the landscape of international and interdisciplinary digital humanities through the lens of ongoing work of faculty and staff researchers at the University of Connecticut.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

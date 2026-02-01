@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2407",
+    "dept_code": "ENGL",
+    "id_number": "2407",
+    "title": "The Short Story",
+    "description": "The short story as a literary form with study of significant Continental, British, and American writers. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "STAT 6325",
+    "dept_code": "STAT",
+    "id_number": "6325",
+    "title": "Advanced Probability",
+    "description": "Fundamentals of measure and integration theory: fields, o-fields, and measures; extension of measures; Lebesgue-Stieltjes measures and distribution functions; measurable functions and integration theorems; the Radon-Nikodym Theorem, product measures, and Fubini's Theorem. Introduction to measure-theoretic probability: probability spaces and random variables; expectation and moments; independence, conditioning, the Borel-Cantelli Lemmas, and other topics as time allows.",
+    "credits": "3",
+    "requirement_description": "Open to Ph.D. students who have passed the Ph.D. Qualifying Exam in Statistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

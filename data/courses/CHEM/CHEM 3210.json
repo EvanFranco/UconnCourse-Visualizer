@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3210",
+    "dept_code": "CHEM",
+    "id_number": "3210",
+    "title": "Descriptive Inorganic Chemistry",
+    "description": "Introduction to bonding, structure, physical properties, and reactivity of the elements, as determined by their position in the periodic table. May be repeated for a total of 3 credits.",
+    "credits": "3",
+    "requirement_description": "CHEM 1126Q or 1128Q or 1138Q or 1148Q. May not be taken out of sequence after passing CHEM 3214.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

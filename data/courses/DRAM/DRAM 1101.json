@@ -1,0 +1,20 @@
+{
+    "name": "DRAM 1101",
+    "dept_code": "DRAM",
+    "id_number": "1101",
+    "title": "Introduction to the Theatre",
+    "description": "Analysis of the functions of the theatre artists and their contributions to the modern theatre. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

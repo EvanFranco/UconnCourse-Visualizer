@@ -1,0 +1,16 @@
+{
+    "name": "POLS 3608",
+    "dept_code": "POLS",
+    "id_number": "3608",
+    "title": "The Art, Science, and Business of Political Campaigns",
+    "description": "An analysis of strategy, communications, fundraising, and voter mobilization in contemporary political campaigns.",
+    "credits": "3",
+    "requirement_description": "POLS 1602.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

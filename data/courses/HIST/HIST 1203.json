@@ -1,0 +1,22 @@
+{
+    "name": "HIST 1203",
+    "dept_code": "HIST",
+    "id_number": "1203",
+    "title": "Women in History",
+    "description": "(Also offered as WGSS\u00a01121.) The historical roots of challenges faced by contemporary women as revealed in the Western and/or non-Western experience: the political, economic, legal, religious, intellectual and family life of women. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

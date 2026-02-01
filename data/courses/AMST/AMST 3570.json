@@ -1,0 +1,22 @@
+{
+    "name": "AMST 3570",
+    "dept_code": "AMST",
+    "id_number": "3570",
+    "title": "History and Theory of Digital Art",
+    "description": "(Also offered as ARTH\u00a03570, DMD\u00a03570.) Investigates forms of digital and Internet art and the mostly forgotten histories of the technologies behind them. Forms and themes to be explored include games/gaming, surveillance art, cyberfeminism, data visualization, and crowdsourced art. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

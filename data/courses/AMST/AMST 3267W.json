@@ -1,0 +1,24 @@
+{
+    "name": "AMST 3267W",
+    "dept_code": "AMST",
+    "id_number": "3267W",
+    "title": "Race and the Scientific Imagination",
+    "description": "(Also offered as ENGL\u00a03267W.) How racism has been both reproduced and contradicted in the scientific imagination. Scientific texts and imaginative literature that explore the reparation of past harms and imagine new futures. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

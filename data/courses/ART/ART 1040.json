@@ -1,0 +1,16 @@
+{
+    "name": "ART 1040",
+    "dept_code": "ART",
+    "id_number": "1040",
+    "title": "Drawing II",
+    "description": "Observational drawing; emphasis on spatial organization and structure.",
+    "credits": "3",
+    "requirement_description": "ART 1030. May not be taken out of sequence after passing ART 2010, 3350.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

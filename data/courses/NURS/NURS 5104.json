@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5104",
+    "dept_code": "NURS",
+    "id_number": "5104",
+    "title": "Pain Assessment and Management",
+    "description": "This seminar-based course is comprised of seminars by clinicians and pain scientists to evaluate, integrate, and translate findings from primary literature into evidence-based practice.",
+    "credits": "3",
+    "requirement_description": "Background in nursing or other healthcare-related training recommended but not required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

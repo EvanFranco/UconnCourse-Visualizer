@@ -1,0 +1,16 @@
+{
+    "name": "BME 6420",
+    "dept_code": "BME",
+    "id_number": "6420",
+    "title": "Medical Imaging Systems",
+    "description": "This course covers imaging principles and systems of x-ray, ultrasound, optical tomography,  magnetic resonance imaging, positron emission tomography.",
+    "credits": "3",
+    "requirement_description": "BME 5500 or BME 6500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

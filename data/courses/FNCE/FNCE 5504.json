@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5504",
+    "dept_code": "FNCE",
+    "id_number": "5504",
+    "title": "Options and Futures",
+    "description": "Analysis and valuation of speculative securities including options and futures with emphasis on their use for hedging and speculative motives. Major valuation models are discussed and applications of contingent claim valuation framework to corporate finance problems are also explored.",
+    "credits": "3",
+    "requirement_description": "FNCE 5101 or FNCE 5182; open to MBA students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

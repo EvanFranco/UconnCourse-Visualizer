@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5512",
+    "dept_code": "CSE",
+    "id_number": "5512",
+    "title": "Introduction to Quantum Computing",
+    "description": "Introduction to quantum computing, quantum algorithms, and quantum information theory. Quantum mechanics including elementary aspects of its mathematical formalism; quantum circuit model and quantum complexity theory; development and analysis of several fundamental quantum algorithms, focusing on Grover's algorithm for database search and Shor's number-theoretic algorithms. Second half covers the density matrix formalism of quantum mechanics, von Neumann entropy, quantum channels, and quantum error-correction. If time permits, some implementations of quantum computers and current progress will be discussed.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 3500, CSE 3502, and MATH 2420Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

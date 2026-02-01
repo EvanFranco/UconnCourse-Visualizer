@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5509",
+    "dept_code": "OPIM",
+    "id_number": "5509",
+    "title": "Introduction to Deep Learning",
+    "description": "Introduction to topics related to deep learning and will build on your previous experience in predictive analytics. Use of neural networks for a host of data and applications - including time series data, text data, geospatial data, and image data.",
+    "credits": "3",
+    "requirement_description": "OPIM 5604 (if OPIM 5604 was completed before Fall 2025, prior knowledge of Python programming is required); open only to MBA, MSBAPM, and MS FinTech students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

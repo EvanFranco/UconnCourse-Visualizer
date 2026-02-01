@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6310",
+    "dept_code": "ECON",
+    "id_number": "6310",
+    "title": "Econometrics I",
+    "description": "First advanced course in econometrics methods used in economics.  Properties of classical linear regression.  Statistical theories that underpin econometric methods.",
+    "credits": "3",
+    "requirement_description": "Open only to Economics graduate students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

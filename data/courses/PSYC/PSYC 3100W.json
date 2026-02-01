@@ -1,0 +1,18 @@
+{
+    "name": "PSYC 3100W",
+    "dept_code": "PSYC",
+    "id_number": "3100W",
+    "title": "The History and Systems of Psychology",
+    "description": "Philosophical and scientific origins and major schools, including structuralism, functionalism, behaviorism, gestalt, and psychoanalysis.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; PSYC 1100; PSYC 1101 or 1103; PSYC 2300 or 2301 or 2400 or 2600 or 2700; and PSYC 2200 or 2500 or 2501 or 3201 or 3500 or 3501.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

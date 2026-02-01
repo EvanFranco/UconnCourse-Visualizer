@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5915",
+    "dept_code": "STAT",
+    "id_number": "5915",
+    "title": "Statistical Data Science in Action",
+    "description": "Real-world statistical data science practice: problem formulation; integration of statistics, computing, and domain knowledge; collaboration; communication; reproducibility; project management.",
+    "credits": "3",
+    "requirement_description": "STAT 5405 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

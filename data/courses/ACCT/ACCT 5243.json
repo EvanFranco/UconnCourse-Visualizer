@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5243",
+    "dept_code": "ACCT",
+    "id_number": "5243",
+    "title": "Assurance Services",
+    "description": "An in-depth study of issues relevant to the public accounting profession, including legal liability and ethics, audit risk analysis, planning of audit engagements, auditor reports, and other assurance services and reports. Students will learn to think critically about issues facing the accounting profession primarily by analyzing cases and completing a number of individual and group research projects.",
+    "credits": "3",
+    "requirement_description": "A B- or better in ACCT 2001 and 2101; or ACCT 5121 and 5123 or 5122.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

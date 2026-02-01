@@ -1,0 +1,21 @@
+{
+    "name": "HIST 2868",
+    "dept_code": "HIST",
+    "id_number": "2868",
+    "title": "Foreign Relations of China Since 1949",
+    "description": "(Also offered as AAAS\u00a02868.) A survey of China's foreign policy from the Cold War to the present, including its domestic politics, Communist ideology, economic reforms, and changing role in global affairs. Formerly offered as AAAS/HIST 2688. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

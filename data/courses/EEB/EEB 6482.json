@@ -1,0 +1,16 @@
+{
+    "name": "EEB 6482",
+    "dept_code": "EEB",
+    "id_number": "6482",
+    "title": "Seminar in Spatial Ecology",
+    "description": "Analysis and discussion of current literature in spatial ecology. May be repeated for a total of 24 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

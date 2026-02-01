@@ -1,0 +1,16 @@
+{
+    "name": "CSE 6800",
+    "dept_code": "CSE",
+    "id_number": "6800",
+    "title": "Computational Genomics",
+    "description": "Advanced computational methods for genomic data analysis. Topics covered include motif finding, gene expression analysis, regulatory network inference, comparative genomics, genomic sequence variation and linkage analysis.",
+    "credits": "3",
+    "requirement_description": "CSE 5800 or BME 5800. Open to graduate students in the CSE program, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

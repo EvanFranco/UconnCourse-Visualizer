@@ -1,0 +1,23 @@
+{
+    "name": "GERM 3210",
+    "dept_code": "GERM",
+    "id_number": "3210",
+    "title": "Engineering Texts: Technology and German Culture in the 20th and 21st Centuries",
+    "description": "Survey of interactions between engineering and literature in the twentieth and twenty-first century German and transnational contexts. Focus on examining how both the possibilities and the pitfalls of new technology were thematized by writers and artists at the beginning of the twentieth century. Development of skills in critical thinking, cultural competence, and new media literacy, emphasizing the new possibilities afforded to German-speaking cultures with the arrival of cybernetics and the Internet. Taught in English.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 5643",
+    "dept_code": "EPSY",
+    "id_number": "5643",
+    "title": "Text Analytics",
+    "description": "This course provides an applied introduction to text analytics with special emphasis on its application to education. Students will learn to use common toolkits in the Python ecosystem to analyze large-scale text data in order to generate insights into educational, cognitive, and social processes.",
+    "credits": "3",
+    "requirement_description": "EPSY 5641. Recommended preparation: This course requires an understanding of introductory statistics and regression at the level of EPSY 5605 and EPSY 5610 as well as some prior experience with statistical programming in a language like R or Python.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

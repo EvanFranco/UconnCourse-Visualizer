@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 2110",
+    "dept_code": "SOCI",
+    "id_number": "2110",
+    "title": "Sociology of Education",
+    "description": "Education and society: primary schools through universities as agencies for social selection and socialization. Formerly offered as SOCI 3471.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

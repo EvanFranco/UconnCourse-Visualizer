@@ -1,0 +1,16 @@
+{
+    "name": "ADMN 5354",
+    "dept_code": "ADMN",
+    "id_number": "5354",
+    "title": "Field Education in Administration IV",
+    "description": "Focuses primarily on the student's major method, emphasizing preparation for competent, advanced specialized practice. Required course for students in the Administration concentration.",
+    "credits": "4",
+    "requirement_description": "Open only to M.S.W. students in the Administration concentration.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

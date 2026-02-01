@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 2040",
+    "dept_code": "ERTH",
+    "id_number": "2040",
+    "title": "Earth Materials",
+    "description": "Principles of symmetry and crystal chemistry and the identification of minerals by hand sample, petrographic and x-ray methods. Description of the mineralogy and texture of igneous, sedimentary and metamorphic rocks and the application of contemporary petrogenetic models to the interpretation of the geologic environments they record. One or more weekend field trips may be required. Formerly offered as ERTH 3040.",
+    "credits": "3",
+    "requirement_description": "ERTH 1050 or both ERTH 1052 and one of ERTH 1010 or 1051 or 1055 or 1070 or GEOG 1070. Recommended preparation: CHEM 1124-1126 or 1127 and 1128.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

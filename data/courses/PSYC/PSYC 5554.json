@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5554",
+    "dept_code": "PSYC",
+    "id_number": "5554",
+    "title": "Advanced Nonlinear Dynamics for the Behavioral Sciences",
+    "description": "Advanced concepts and methods of nonlinear dynamics systems theory applied to behavioral time-series data.",
+    "credits": "3",
+    "requirement_description": "PSYC 5553.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 2209",
+    "dept_code": "PSYC",
+    "id_number": "2209",
+    "title": "Learning and Memory: From Brain to Behavior",
+    "description": "Neurobiological basis of learning and memory, including topics in genetics, evolution and ethology.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100 or BIOL 1107 or 1108. Recommended preparation: PSYC 2200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5015",
+    "dept_code": "MARN",
+    "id_number": "5015",
+    "title": "Techniques in Marine Molecular Biology",
+    "description": "Principles and technology in molecular genetics, including nucleic acid purification and manipulation, DNA fingerprinting, gene cloning and sequencing, phylogenetic analysis, and detection of gene expression.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed MARN 3015.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

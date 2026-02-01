@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 6211",
+    "dept_code": "MKTG",
+    "id_number": "6211",
+    "title": "Multivariate Analysis in Marketing",
+    "description": "This course provides an overview of multivariate statistical methods in marketing. Students learn multivariate statistical techniques such as discriminant, canonical, cluster, and factor analysis; multidimensional scaling; conjoint; and logit, probit, and tobit analysis. Students gain hands-on experience using these techniques for marketing applications.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

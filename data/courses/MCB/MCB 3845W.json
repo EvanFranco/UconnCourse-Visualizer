@@ -1,0 +1,18 @@
+{
+    "name": "MCB 3845W",
+    "dept_code": "MCB",
+    "id_number": "3845W",
+    "title": "Microbial Diversity, Ecology and Evolution",
+    "description": "Readings from the scientific literature will provide a focus for investigating the mechanisms and strategies for the exchange of genetic information, as well as the impact of gene transfer on environmental adaptation and evolution.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107; ENGL 1007 or 1010 or 1011. Recommended preparation: MCB 2610.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

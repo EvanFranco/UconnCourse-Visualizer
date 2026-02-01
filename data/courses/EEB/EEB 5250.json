@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5250",
+    "dept_code": "EEB",
+    "id_number": "5250",
+    "title": "Biology of the Algae",
+    "description": "Laboratory and field-oriented study of the major groups of algae, emphasizing structure, function, systematics, and ecology.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

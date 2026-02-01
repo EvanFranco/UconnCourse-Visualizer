@@ -1,0 +1,18 @@
+{
+    "name": "HRTS 4996W",
+    "dept_code": "HRTS",
+    "id_number": "4996W",
+    "title": "Senior Thesis",
+    "description": "Research and writing of major project exploring a topic with human rights, with close supervision and production of multiple written drafts.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

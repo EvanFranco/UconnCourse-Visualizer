@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 3990",
+    "dept_code": "SOCI",
+    "id_number": "3990",
+    "title": "Internship: Field Experience",
+    "description": "Supervised field experience. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). Hours by arrangement. 42 hours per semester per credit. Repeatable to a maximum of six credits. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Must be taken with SOCI 3991 concurrently unless continuing an internship already initiated; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

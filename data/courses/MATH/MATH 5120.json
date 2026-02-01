@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5120",
+    "dept_code": "MATH",
+    "id_number": "5120",
+    "title": "Complex Function Theory I",
+    "description": "An introduction to the theory of analytic functions, with emphasis on modern points of view.",
+    "credits": "3",
+    "requirement_description": "MATH 5110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

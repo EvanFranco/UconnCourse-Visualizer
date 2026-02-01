@@ -1,0 +1,18 @@
+{
+    "name": "ANTH 3704",
+    "dept_code": "ANTH",
+    "id_number": "3704",
+    "title": "Experimental Archaeology",
+    "description": "Method and theory of experimental archaeology, including hands-on study of past human behavior through experimentation with modern material culture, and the execution of an experimental research project addressing an archaeological question.",
+    "credits": "3",
+    "requirement_description": "ANTH 2501.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

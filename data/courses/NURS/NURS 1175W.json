@@ -1,0 +1,22 @@
+{
+    "name": "NURS 1175W",
+    "dept_code": "NURS",
+    "id_number": "1175W",
+    "title": "The End of Life: A Multicultural Interdisciplinary Experience",
+    "description": "An examination of experiences at the end of life to enhance student awareness of related issues through a societal, personal, multicultutral, and interdisciplinary lens. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

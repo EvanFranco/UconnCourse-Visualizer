@@ -1,0 +1,21 @@
+{
+    "name": "ECON 1200",
+    "dept_code": "ECON",
+    "id_number": "1200",
+    "title": "Principles of Economics (Intensive)",
+    "description": "Same core of principles as ECON\u00a01201 or 1202. One-half macroeconomics and one-half microeconomics. More demanding than ECON\u00a01201 or 1202. Substitutes for ECON\u00a01201 or 1202 as a prerequisite for all junior/senior level courses. May or may not substitute for ECON\u00a01201 or 1202 outside economics; check Catalog. CA 2.",
+    "credits": "4",
+    "requirement_description": "Recommended preparation: ECON 1000. Not open for credit to students who have passed ECON 1201, 1202, or ARE 1150. May not be taken concurrently with ECON 1201, 1202, or ARE 1150.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5",
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

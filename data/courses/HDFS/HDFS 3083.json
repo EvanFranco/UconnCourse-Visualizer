@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 3083",
+    "dept_code": "HDFS",
+    "id_number": "3083",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. A maximum of six credits can be used to meet major requirements. Consent of Director of Undergraduate Studies required, preferably prior to student's departure. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

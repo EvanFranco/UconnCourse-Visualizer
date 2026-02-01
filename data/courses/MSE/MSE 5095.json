@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5095",
+    "dept_code": "MSE",
+    "id_number": "5095",
+    "title": "Special Topics in Materials Science and Engineering",
+    "description": "Course taught on a provisional basis for the purposes of course development. Students may take multiple instances of MSE\u00a05095, which all can count towards the applicable MSE graduate course credit requirements for M.S. Plan A, M.S. Plan B, M.Eng. or Ph.D. degrees, provided each instance covers a different topic. May be repeated for credit.",
+    "credits": "1-3",
+    "requirement_description": "Only MSE graduate students can register for this course, all others require instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

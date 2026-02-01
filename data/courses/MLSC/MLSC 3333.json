@@ -1,0 +1,16 @@
+{
+    "name": "MLSC 3333",
+    "dept_code": "MLSC",
+    "id_number": "3333",
+    "title": "Mycology, Parasitology and Virology",
+    "description": "Principles of disease and epidemiology, mechanisms of pathogenicity and laboratory isolation and identification of fungi, parasites and viruses causing human disease.",
+    "credits": "3",
+    "requirement_description": "MCB 2610; open only to Medical Laboratory Sciences majors, others with consent of Program Director.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

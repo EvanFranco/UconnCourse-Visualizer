@@ -1,0 +1,16 @@
+{
+    "name": "SAAS 101",
+    "dept_code": "SAAS",
+    "id_number": "101",
+    "title": "Introduction to Animal Science",
+    "description": "The biological, physical and social factors that influence animal production and utilization. Taught with ANSC\u00a01001.",
+    "credits": "3",
+    "requirement_description": "Not open to students in an undergraduate program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

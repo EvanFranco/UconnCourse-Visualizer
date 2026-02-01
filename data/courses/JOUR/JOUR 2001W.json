@@ -1,0 +1,18 @@
+{
+    "name": "JOUR 2001W",
+    "dept_code": "JOUR",
+    "id_number": "2001W",
+    "title": "Newswriting II",
+    "description": "Live reporting using the university and the surrounding community as a laboratory. Emphasis on fact gathering, interviewing, diversity of sources, news judgment and deadline writing.",
+    "credits": "3",
+    "requirement_description": "JOUR 2000W; ENGL 1007 or 1010 or 1011. Cannot be taken out of sequence after passing JOUR 3000,3012, 3013, 3033 or 4091.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

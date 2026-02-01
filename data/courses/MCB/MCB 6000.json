@@ -1,0 +1,16 @@
+{
+    "name": "MCB 6000",
+    "dept_code": "MCB",
+    "id_number": "6000",
+    "title": "Rotations in MCB Laboratories",
+    "description": "Provides entering Ph.D. students with research experience in three different laboratory settings during the first semester of graduate studies to assist with the selection of a mentor for their degree. Students are expected to participate in laboratory meetings, journal clubs, bench work, and other activities as defined by each of three host faculty members.",
+    "credits": "3",
+    "requirement_description": "Open only to Molecular and Cell Biology Ph.D. students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

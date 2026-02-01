@@ -1,0 +1,16 @@
+{
+    "name": "ME 5105",
+    "dept_code": "ME",
+    "id_number": "5105",
+    "title": "Basic Concepts of Continuum Mechanics",
+    "description": "An introductory course in the theory of continuum mechanics. Development of physical principles using Cartesian tensors. Concepts of stress, strain and motion. Basic field equation for the Newtonian fluid and the elastic solid.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

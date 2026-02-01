@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5333",
+    "dept_code": "MSE",
+    "id_number": "5333",
+    "title": "Imperfections in Crystalline Materials",
+    "description": "Defects in materials: point defects, line defects, and planar defects. The origins, structure and distribution of defects in crystalline solids will be described. The influence of defects on material properties will be discussed in the context of materials science and engineering applications.",
+    "credits": "3",
+    "requirement_description": "Open only to Materials Science and Engineering graduate students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3520",
+    "dept_code": "DMD",
+    "id_number": "3520",
+    "title": "3D Virtual World and Simulations",
+    "description": "Investigation of different virtual environments, simulations, and serious games and examine how game engines can be used to generate a three-dimensional computer-based environment. Students will create a 3D environment based on their own imagination and research.",
+    "credits": "3",
+    "requirement_description": "DMD 2310, 2320, 2500, and 2542; open only to Digital Media and Design majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

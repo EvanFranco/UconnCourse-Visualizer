@@ -1,0 +1,16 @@
+{
+    "name": "COMM 4996",
+    "dept_code": "COMM",
+    "id_number": "4996",
+    "title": "Undergraduate Research in Communication",
+    "description": "Students conduct an original research investigation under the guidance of a faculty mentor. The student is required to submit a brief report at the end of the semester. May be repeated once for credit. May be repeated for a total of 6 credits.",
+    "credits": "1-3",
+    "requirement_description": "COMM 2000Q; at least 12 credits of COMM courses at the 2000 level or above; open only to junior or higher Communication majors; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

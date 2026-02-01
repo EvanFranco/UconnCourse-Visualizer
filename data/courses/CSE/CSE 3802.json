@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3802",
+    "dept_code": "CSE",
+    "id_number": "3802",
+    "title": "Numerical Methods in Scientific Computation",
+    "description": "(Also offered as ECE\u00a03431.) Introduction to the numerical algorithms fundamental to scientific computation. Equation solving, function approximation, integration, difference and differential equations, special computer techniques. Emphasis is placed on efficient use of computers to optimize speed and accuracy in numerical computations. Extensive digital computer usage for algorithm verification.",
+    "credits": "3",
+    "requirement_description": "CSE 1729 or 2050; MATH 2110Q and 2410Q; MATH 2210Q, which may be taken concurrently; open only to students in the School of Engineering, Cognitive Science majors, and declared Computer Science and Cognitive Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

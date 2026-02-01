@@ -1,0 +1,16 @@
+{
+    "name": "EGEN 4200",
+    "dept_code": "EGEN",
+    "id_number": "4200",
+    "title": "Seminar/Clinic: Methods of Teaching",
+    "description": "Integration of concepts of teaching, learning, and assessment with area specific methods.",
+    "credits": "4",
+    "requirement_description": "Open only to students in the Integrated Bachelor's/Master's Teacher Preparation Program; open only to seniors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3500",
+    "dept_code": "CSE",
+    "id_number": "3500",
+    "title": "Algorithms and Complexity",
+    "description": "Design and analysis of efficient computer algorithms. Algorithm design techniques, including divide-and-conquer, dynamic programming, and greedy approaches. Graph algorithms and advanced data structures. Worst-case and average-case analysis, reductions, and NP-completeness.",
+    "credits": "3",
+    "requirement_description": "CSE 2050 or 2100; and 2500; open only to students in the School of Engineering, Cognitive Science majors, and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

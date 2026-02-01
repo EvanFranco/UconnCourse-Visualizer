@@ -1,0 +1,16 @@
+{
+    "name": "AMES 5121",
+    "dept_code": "AMES",
+    "id_number": "5121",
+    "title": "Engineering Communication",
+    "description": "Development of the advanced communication skills as well as the information management required of engineers and engineering managers in industry, government and business. Focus on the design and writing of technical reports, articles, proposals, and the memoranda that address the needs of diverse organizational and professional audiences; the preparation and delivery of organizational and technical oral and multimedia presentations and briefings; team building skills with an emphasis on communications; and knowledge management.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5250",
+    "dept_code": "PHAR",
+    "id_number": "5250",
+    "title": "Pharmacogenomics and Personalized Medicine",
+    "description": "The allied fields of pharmacogenomics and personalized medicine have become areas of intense interest. Each patient responds to drugs and medical treatments in an individualized way, often having to do with underlying genetics. Individual genetic variance often impacts treatment efficacy, pharmaceutical responses, and toxicological adverse events. This course will consider these knowledge areas, which are at the cutting edge of medical advance. Aspects of personalized medicine that go beyond genetics, including the use of patient-matched stem cells will also be discussed.",
+    "credits": "2",
+    "requirement_description": "Open to graduate students or by instructor consent for prepared upper-level undergraduates. Recommended preparation: A basic understanding of genetics is recommended.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

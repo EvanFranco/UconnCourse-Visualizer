@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 5305",
+    "dept_code": "PHIL",
+    "id_number": "5305",
+    "title": "Seminar in Aesthetics",
+    "description": "A consideration of some of the basic problems in aesthetics.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Philosophy, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

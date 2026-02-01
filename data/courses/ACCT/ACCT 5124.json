@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5124",
+    "dept_code": "ACCT",
+    "id_number": "5124",
+    "title": "Financial Reporting II",
+    "description": "Continuation of an intensive study of financial accounting theory and practical applications as it relates to the preparation and analysis of financial statements, particularly focusing on pensions, bonds, leases, and intangibles. Also covered are accounting for consolidations, intercompany transfers, and multinational accounting.",
+    "credits": "3",
+    "requirement_description": "A B- or better in ACCT 5122.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

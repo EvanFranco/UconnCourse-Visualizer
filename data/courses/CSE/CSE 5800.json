@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5800",
+    "dept_code": "CSE",
+    "id_number": "5800",
+    "title": "Bioinformatics",
+    "description": "Advanced mathematical models and computational techniques in bioinformatics.  Topics covered include genome mapping and sequencing, sequence alignment, database search, gene prediction, genome rearrangements, phylogenetic trees, and computational proteomics.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

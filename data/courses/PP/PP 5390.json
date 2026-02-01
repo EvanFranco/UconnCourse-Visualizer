@@ -1,0 +1,16 @@
+{
+    "name": "PP 5390",
+    "dept_code": "PP",
+    "id_number": "5390",
+    "title": "Supervised Internship",
+    "description": "Experience in a public organization under competent supervision. May be repeated for a total of 36 credits.",
+    "credits": "3-9",
+    "requirement_description": "Open only to students in the Master of Public Administration or the M.A. in Survey Research programs.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

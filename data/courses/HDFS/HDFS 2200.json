@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 2200",
+    "dept_code": "HDFS",
+    "id_number": "2200",
+    "title": "Human Development: Adulthood and Aging",
+    "description": "Individual development and behavior from young adulthood through later life with special attention given to family and social influences. Physical, cognitive, social and personality changes, role transitions, and interpersonal and intergenerational relationships.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 3505",
+    "dept_code": "OPIM",
+    "id_number": "3505",
+    "title": "Business Database Management",
+    "description": "Introduction to the development and implementation of database applications. Topics covered include costs and benefits of database approach, database design lifecycle, the relational data model, Structured Query Language, database applications development and data warehousing. Students will learn the relational database concept and participate in the hands-on design and implementation of a database using the relational architecture and a database management system. Cannot be used to fulfill Analytics and Information Management (AIM) major requirements. Offered only at regional campus locations.",
+    "credits": "3",
+    "requirement_description": "OPIM 3103 or equivalent; open only to business majors of junior or higher status, others with consent of Operations and Information Management Department Head.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

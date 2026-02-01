@@ -1,0 +1,16 @@
+{
+    "name": "HCMI 5686",
+    "dept_code": "HCMI",
+    "id_number": "5686",
+    "title": "Health Insurance and Risk Management",
+    "description": "A detailed overview of the purpose, structure, operation, and performance of the health insurance industry from the perspective of various stakeholders including insurance company owners, employers, individual consumers of health insurance services, and society. Emphasis is placed on individual and group health insurance products with respect to administration, selling and marketing, underwriting, pricing, and claims administration. Managed-care techniques, benefit-package design, and cost-sharing mechanisms are also evaluated and discussed.",
+    "credits": "3",
+    "requirement_description": "HCMI 5240 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5320",
+    "dept_code": "DMD",
+    "id_number": "5320",
+    "title": "Introduction to Lighting and Rendering",
+    "description": "Explanation of the connection between the audience and the image on screen. Students learn how lighting creates mood in a scene and the technical ways in which CG lighting is achieved. Students will learn what types of lights to use, how and when to use them, and techniques to achieve realistic lighting while being resource savvy. Lighting in theater as well as in traditional film will be studied to give students a solid understanding of why certain lighting choices are made and why they work, whether in live action or CG applications.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

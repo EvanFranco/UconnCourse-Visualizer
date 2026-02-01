@@ -1,0 +1,16 @@
+{
+    "name": "AFRA 4996",
+    "dept_code": "AFRA",
+    "id_number": "4996",
+    "title": "Honors Thesis Preparation",
+    "description": "Preliminary reading in primary and secondary sources or key texts in research field in consultation with thesis advisor.",
+    "credits": "3",
+    "requirement_description": "AFRA 2211; open to honors students, juniors or higher; instructor consent required. Recommended preparation: Students complete several courses in the disciplinary field of their research interest.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

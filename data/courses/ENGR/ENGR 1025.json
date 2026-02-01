@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 1025",
+    "dept_code": "ENGR",
+    "id_number": "1025",
+    "title": "Engineering for Impact: Emerging Leaders",
+    "description": "Supports the success of new or emerging engineering leaders for student organizations affiliated with the Vergnano Institute for Inclusion. May be repeated for a total of 4 credits.",
+    "credits": "1",
+    "requirement_description": "Instructor consent required. Recommended Preparation: Should be a new or rising leader for an engineering student organization that is affiliated with the Vergnano Institute for Inclusion.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECON 4326",
+    "dept_code": "ECON",
+    "id_number": "4326",
+    "title": "Operations Research for Benchmarking",
+    "description": "Resource allocation decisions in complex organizations formulated as standard mathematical optimization problems that can be solved using Excel. Focus on the interface between Neoclassical Production Economics and Operations Research for performance evaluation by benchmarking.",
+    "credits": "3",
+    "requirement_description": "ECON 2301, and ECON 2201 or 2211Q. Recommended preparation: ECON 2326.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "FREN 3262",
+    "dept_code": "FREN",
+    "id_number": "3262",
+    "title": "Of Love and Other Demons: French Literature from the Romantics to the Present",
+    "description": "Study of the relation of words and experience, life and art, and passion and verse in French writing from 1800 to the present. Topics include love, loneliness, limerence, lust, and other emotions that have driven people to write plays, novels, song lyrics, and poems. Study of the varied ways writers in French have explored and expressed human emotion from Romanticism, Realism, and Surrealism to Existentialism. Taught in French. CA 1.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: French 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

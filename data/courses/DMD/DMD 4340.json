@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4340",
+    "dept_code": "DMD",
+    "id_number": "4340",
+    "title": "Advanced Compositing for Visual Effects",
+    "description": "Takes the students further into the art of visual effects, combining computer generated animation together and with live action footage.",
+    "credits": "3",
+    "requirement_description": "DMD 3350; open to B.F.A Digital Media and Design 3D Animation concentration students only, others by instructor consent. Recommended preparation: DMD 3300 and 4310.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

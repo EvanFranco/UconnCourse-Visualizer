@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5365",
+    "dept_code": "NURS",
+    "id_number": "5365",
+    "title": "Advanced Neonatal Nursing Theory I",
+    "description": "The purpose of this first clinical course is to introduce the role of the neonatal nurse practitioner clinician in the management of normal and high-risk families and infants.  The focus of the course is to develop skills in the physical and psychosocial assessment of high-risk childbearing families during all phases of the childbearing process: antenatal, intrapartum, postpartum, and the neonatal period.  Special emphasis will be placed on events during the antenatal, intrapartum, and postpartum periods that impact the neonate.",
+    "credits": "3",
+    "requirement_description": "NURS 5350. Not open for credit to students who have passed NURS 5369.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GERM 3245",
+    "dept_code": "GERM",
+    "id_number": "3245",
+    "title": "German Grammar and Etymology",
+    "description": "German grammar and etymology for advanced students. A conceptual foundation for communicative language skills and comparison with English.",
+    "credits": "3",
+    "requirement_description": "GERM 3233, which may be taken concurrently, or consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

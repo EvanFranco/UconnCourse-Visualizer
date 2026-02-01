@@ -1,0 +1,18 @@
+{
+    "name": "COMM 3600W",
+    "dept_code": "COMM",
+    "id_number": "3600W",
+    "title": "New Communication Technologies",
+    "description": "An overview of new communication technologies. Topics include the uses, evolution, diffusion, operation, and effects of new communication technologies.",
+    "credits": "3",
+    "requirement_description": "COMM 2600; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

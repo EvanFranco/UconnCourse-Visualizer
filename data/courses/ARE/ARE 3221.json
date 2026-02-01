@@ -1,0 +1,16 @@
+{
+    "name": "ARE 3221",
+    "dept_code": "ARE",
+    "id_number": "3221",
+    "title": "Managerial Economics and Business Strategies",
+    "description": "The application of microeconomic analysis to decision-making techniques of businesses and management units with a particular focus on the food industry covering topics such as electing or developing products, deciding on product output and pricing, organizational design, promotional strategies, worker hiring and training, and investment and financing.",
+    "credits": "3",
+    "requirement_description": "ARE 1150 or ECON 1200 or ECON 1201; ARE 1333Q or ARE 3333 or equivalent course, which may be taken concurrently. Recommended preparation: MATH 1071Q or 1110Q or 1120Q or 1131Q or 1151Q; or STAT 1000Q or STAT 1100Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

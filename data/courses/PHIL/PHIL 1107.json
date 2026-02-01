@@ -1,0 +1,22 @@
+{
+    "name": "PHIL 1107",
+    "dept_code": "PHIL",
+    "id_number": "1107",
+    "title": "Philosophy and Gender",
+    "description": "Topics concern social ethics and gender, such as gender equality and the impact of gender norms on individual freedom. Specific topics are examined in light of the intersections between gender and race, ethnicity, class, and sexual orientation. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

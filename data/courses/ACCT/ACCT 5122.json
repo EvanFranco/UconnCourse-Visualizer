@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5122",
+    "dept_code": "ACCT",
+    "id_number": "5122",
+    "title": "Financial Reporting I",
+    "description": "An intensive study of financial accounting theory and practical applications as related to the preparation and analysis of financial statements, particularly focusing on assets, liabilities, owner's equity and income determination.",
+    "credits": "3",
+    "requirement_description": "A grade of B- or better in ACCT 2001 and 2101; ACCT 5121 and 5123.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

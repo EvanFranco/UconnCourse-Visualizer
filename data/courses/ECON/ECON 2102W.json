@@ -1,0 +1,23 @@
+{
+    "name": "ECON 2102W",
+    "dept_code": "ECON",
+    "id_number": "2102W",
+    "title": "Economic History of the United States",
+    "description": "Issues in American economic development, including the political economy of the Constitution, the economics of slavery, the rise of modern corporations and the causes of the Great Depression. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; ECON 1200 or both ECON 1201 (or ARE 1150) and ECON 1202; ECON 1201 (or ARE 1150) may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

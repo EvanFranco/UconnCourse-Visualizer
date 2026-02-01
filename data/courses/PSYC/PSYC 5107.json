@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5107",
+    "dept_code": "PSYC",
+    "id_number": "5107",
+    "title": "Statistical Analysis of Neural Data",
+    "description": "Practical introduction to the analysis of neural data.  Lectures and problem sets will involve programming in Matlab, R, or Python. Course is suitable for students with a background in either quantitative methods or neuroscience.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students; advanced undergraduates with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

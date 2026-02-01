@@ -1,0 +1,16 @@
+{
+    "name": "BME 5520",
+    "dept_code": "BME",
+    "id_number": "5520",
+    "title": "Developing Mobile Apps for Healthcare",
+    "description": "Mobile apps for smartphones and tablets are changing the way doctors and patients approach health care. This course will cover the basic elements of apps development on Android platforms, including XML, Java, UI amongst others. Topics include how to handle data in the cloud using HIPAA-Compliant web service and how to integrate machine learning models in app development. No previous programming experience is needed.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: A laptop with at least 8G memory is needed for the class.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

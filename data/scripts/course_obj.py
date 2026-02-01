@@ -1,6 +1,6 @@
 class Course:
     
-    def __init__(self, name, dept_code, id_number, title, credits):
+    def __init__(self, name: str, dept_code: str, id_number: str, title: str, credits: str):
         self.name = name
         self.dept_code = dept_code
         self.id_number = id_number

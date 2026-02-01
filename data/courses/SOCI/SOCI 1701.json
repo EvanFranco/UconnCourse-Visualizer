@@ -1,0 +1,23 @@
+{
+    "name": "SOCI 1701",
+    "dept_code": "SOCI",
+    "id_number": "1701",
+    "title": "Society in Global Perspective",
+    "description": "Economic, political, social and cultural processes in globalization. The world economy, the autonomy of nation-states, the role of the media, and the social and environmental problems of societies in a world context. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

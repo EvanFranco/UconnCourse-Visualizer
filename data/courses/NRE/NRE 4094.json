@@ -1,0 +1,16 @@
+{
+    "name": "NRE 4094",
+    "dept_code": "NRE",
+    "id_number": "4094",
+    "title": "Seminar",
+    "description": " May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

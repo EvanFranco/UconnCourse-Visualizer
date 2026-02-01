@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5348",
+    "dept_code": "EEB",
+    "id_number": "5348",
+    "title": "Population Genetics",
+    "description": "Provides a theoretical background for studies in evolution. Emphasis on understanding the conceptual foundations of the field and on the application of these concepts to an understanding of the roles of mutation and evolution of populations.",
+    "credits": "4",
+    "requirement_description": "Recommended preparation: EEB 2245 or equivalent, MCB 2400 or MCB 2410 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5895",
+    "dept_code": "ACCT",
+    "id_number": "5895",
+    "title": "Independent Study in Accounting",
+    "description": "Faculty-student interaction on a one-to-one basis involving independent study of specific areas of accounting. Emphasis, selected by the student, may be on theoretical or applied aspects. A written report is required. May be repeated for a total of 9 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

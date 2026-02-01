@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5111",
+    "dept_code": "MATH",
+    "id_number": "5111",
+    "title": "Measure and Integration",
+    "description": "General theory of measure and Lebesgue integration, L^p-spaces.",
+    "credits": "3",
+    "requirement_description": "MATH 5110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

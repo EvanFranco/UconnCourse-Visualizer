@@ -1,0 +1,16 @@
+{
+    "name": "ECE 6244",
+    "dept_code": "ECE",
+    "id_number": "6244",
+    "title": "Nanotechnology - II (Laboratory Course)",
+    "description": "Growth and characterization of carbon nanotubes using vapor phase nucleation; Growth of cladded quantum dots using liquid and/or vapor phase techniques; Characterization using AFM and TEM and Dynamic scattering techniques; Nano-device processing highlighting E-Beam lithography, and self assembly techniques; Project work involving fabrication of devices including LEDs, FETs and memor, detectors and sensors using quantum dots and nanotubes/wires.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

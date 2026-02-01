@@ -1,0 +1,21 @@
+{
+    "name": "HDFS 3261",
+    "dept_code": "HDFS",
+    "id_number": "3261",
+    "title": "Men and Masculinities",
+    "description": "Men's gender role socialization over the life span; men's developmental issues, gender role, conflicts, and interpersonal dynamics with women. Theory, research, and personal exploration are integrated. CA 4.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

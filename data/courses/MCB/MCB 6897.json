@@ -1,0 +1,16 @@
+{
+    "name": "MCB 6897",
+    "dept_code": "MCB",
+    "id_number": "6897",
+    "title": "Research",
+    "description": "Conferences and laboratory work covering selected fields of Molecular and Cell Biology. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

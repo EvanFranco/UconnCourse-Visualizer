@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6502",
+    "dept_code": "MEDS",
+    "id_number": "6502",
+    "title": "Experimental Design, Rigor and Biostatistics",
+    "description": "This course is designed to provide a general overview of the key components required for conducting rigorous and reproducible biomedical research. Experimental design, reagent authentication, biostatistics and other related topics will be covered with an emphasis on how they each contribute to the overarching goal of establishing rigor. The biostatistics section will cover commonly used analyses, with an emphasis on determining the most appropriate analysis for particular data sets. Additionally, considerations in analyzing human clinical versus animal-based research will be discussed, and statistical approaches such as meta-analysis and bioinformatics will be introduced to familiarize students with these techniques so that they can more effectively read and critique current scientific literature.",
+    "credits": "1",
+    "requirement_description": "Open only to second-year students the Biomedical Sciences Ph.D. program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

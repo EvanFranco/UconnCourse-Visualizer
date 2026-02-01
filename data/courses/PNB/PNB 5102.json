@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5102",
+    "dept_code": "PNB",
+    "id_number": "5102",
+    "title": "Fundamentals of Intraoperative Neuromonitoring",
+    "description": "Overview of intraoperative neuromonitoring. Basics underlying recording of signals and discussion of main neuromonitoring modalities, common surgeries employing neuromonitoring, operating room protocols and procedures.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

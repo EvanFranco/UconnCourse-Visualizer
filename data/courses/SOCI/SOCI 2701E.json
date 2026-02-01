@@ -1,0 +1,23 @@
+{
+    "name": "SOCI 2701E",
+    "dept_code": "SOCI",
+    "id_number": "2701E",
+    "title": "Sustainable Societies",
+    "description": "Sociological perspectives on the concepts of sustainability, focusing on issues of climate change mitigation and adaptation, including questions of social transitions based on concepts of social justice, biomimicry, permaculture and the future of life on earth. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

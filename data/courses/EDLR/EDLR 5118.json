@@ -1,0 +1,16 @@
+{
+    "name": "EDLR 5118",
+    "dept_code": "EDLR",
+    "id_number": "5118",
+    "title": "Seminar in Higher Education",
+    "description": "Seminar designed to promote the integration of the core curriculum and practitioner experiences of the Master's degree program in Higher Education and Student Affairs and to prepare students for transition to professional positions within student affairs upon graduation.",
+    "credits": "3",
+    "requirement_description": "Open to students enrolled in the Higher Education and Student Affairs master's degree program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

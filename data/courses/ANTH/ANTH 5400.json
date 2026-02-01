@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 5400",
+    "dept_code": "ANTH",
+    "id_number": "5400",
+    "title": "Introduction to Stable Isotopes",
+    "description": "Introduction to stable isotope theory, methodology, and applications.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "STAT 3115Q",
+    "dept_code": "STAT",
+    "id_number": "3115Q",
+    "title": "Analysis of Experiments",
+    "description": "Straight-line regression, multiple regression, regression diagnostics, transformations, dummy variables, one-way and two-way analysis of variance, analysis of covariance, stepwise regression.",
+    "credits": "3",
+    "requirement_description": "STAT 2215Q or 3025Q or instructor consent. Not open for credit to students who have passed STAT 3215Q or 5315.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,19 @@
+{
+    "name": "HIST 3519",
+    "dept_code": "HIST",
+    "id_number": "3519",
+    "title": "Contemporary America",
+    "description": "American politics, society, and economy from 1973 through the present. Topics include: Conservatism, feminism, gay liberation, the end of the Cold War, Latino immigration, deindustrialization, and the New Economy.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ERTH 2300E",
+    "dept_code": "ERTH",
+    "id_number": "2300E",
+    "title": "The Energy Transition",
+    "description": "An introduction to the energy transition and the role of renewable energy, carbon dioxide removal (CDR), and critical minerals. The course addresses the socio-economic and geopolitical dimensions of the energy transition, including the impacts of critical mineral extraction, supply chain vulnerabilities, and equitable access to energy resources.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

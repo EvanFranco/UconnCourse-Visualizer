@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5341",
+    "dept_code": "MEDS",
+    "id_number": "5341",
+    "title": "Molecular Neurobiology of Excitable Membranes",
+    "description": "Emphasizes the relation between structure and function of biological interfaces that comprise electrically excitable and chemically excitable (synaptic) membranes. Models of electrically-and chemically-induced regulation of ion movement via channels and transporters are examined. Genetic manipulation of channel composition is evaluated with attention to altered function and inferences about their structure.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

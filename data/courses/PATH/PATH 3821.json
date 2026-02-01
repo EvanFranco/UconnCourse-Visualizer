@@ -1,0 +1,16 @@
+{
+    "name": "PATH 3821",
+    "dept_code": "PATH",
+    "id_number": "3821",
+    "title": "Systems Pathophysiology II Laboratory",
+    "description": "Inquiry-based laboratory course on systems pathophysiology, using gross, microscopic, and physiologic evidence to diagnose diseases of the central nervous, skin, hepatobiliary, endocrine, and digestive systems.",
+    "credits": "1",
+    "requirement_description": "PATH 3820, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

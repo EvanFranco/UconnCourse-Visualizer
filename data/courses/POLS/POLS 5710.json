@@ -1,0 +1,16 @@
+{
+    "name": "POLS 5710",
+    "dept_code": "POLS",
+    "id_number": "5710",
+    "title": "Political Science Fiction",
+    "description": "International relations theory and speculative fiction as interpretations and interrogations of war, peace, politics, knowledge, and imagination.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed POLS 3710.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

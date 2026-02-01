@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3553",
+    "dept_code": "ANSC",
+    "id_number": "3553",
+    "title": "Equine Training III - Advanced",
+    "description": "Training horses for riding, showing, and lessons using the Dressage Training Scale.  Advanced level riding skills are required. May be repeated once for a maximum of four credits. May be repeated for a total of 4 credits.",
+    "credits": "2",
+    "requirement_description": "Instructor consent. Recommended preparation: Advanced level riding skills.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

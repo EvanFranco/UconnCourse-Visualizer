@@ -1,0 +1,21 @@
+{
+    "name": "EEB 2244WE",
+    "dept_code": "EEB",
+    "id_number": "2244WE",
+    "title": "General Ecology",
+    "description": "Fundamental ecological dynamics of communities, populations, and ecosystems, including how humans impact the health and well-being of the natural world, the concept of ecosystem services, and the synergy between conservation of the biota and sustainability. Emphasis in discussion sections is on reading primary literature, problem-solving, scientific method, and sampling techniques.",
+    "credits": "4",
+    "requirement_description": "BIOL 1108; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "W",
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "PATH 3201W",
+    "dept_code": "PATH",
+    "id_number": "3201W",
+    "title": "Principles of Animal Virology",
+    "description": "Structure and classification of viruses, cultivation and multiplication, pathogenesis and epidemiology of viral infections, host response, oncogenic viruses, immunization against, and laboratory diagnosis of viral diseases.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

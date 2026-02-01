@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5900",
+    "dept_code": "MCB",
+    "id_number": "5900",
+    "title": "Professional Writing and Communication Skills",
+    "description": "Professional communication skills focused on jobs in industry. Hands-on practice in writing resumes and interviewing.",
+    "credits": "1",
+    "requirement_description": "Open only to Molecular and Cell Biology and Mathematics Professional Science Master's (PSM) students and Molecular and Cell Biology Professional Master's (PM) students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

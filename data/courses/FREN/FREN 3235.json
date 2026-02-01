@@ -1,0 +1,20 @@
+{
+    "name": "FREN 3235",
+    "dept_code": "FREN",
+    "id_number": "3235",
+    "title": "French Modernity",
+    "description": "A portrait of France in the 20th Century  through contemporary French literature: exoticism, sexuality, war, colonialism, feminism, end of the century, related films and works of art. CA 1.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: French 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

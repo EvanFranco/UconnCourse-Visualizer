@@ -1,0 +1,16 @@
+{
+    "name": "STAT 4625",
+    "dept_code": "STAT",
+    "id_number": "4625",
+    "title": "Introduction to Biostatistics",
+    "description": "Rates and proportions, sensitivity, specificity, two-way tables, odds ratios, relative risk, ordered and non-ordered classifications, trends, case-control studies, elements of regression including logistic and Poisson, additivity and interaction, combination of studies and meta-analysis.",
+    "credits": "3",
+    "requirement_description": "STAT 3025Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

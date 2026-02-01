@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3318",
+    "dept_code": "ECON",
+    "id_number": "3318",
+    "title": "Panel Data Econometrics",
+    "description": "Standard panel data models with an emphasis on determining when causal relationships can be inferred from panel data.",
+    "credits": "3",
+    "requirement_description": "ECON 2311Q, 2312Q and 3321. Not open for credit to students who have passed ECON 5318.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

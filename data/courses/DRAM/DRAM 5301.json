@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5301",
+    "dept_code": "DRAM",
+    "id_number": "5301",
+    "title": "Scenic Design: Single Set Plays",
+    "description": "Exploration of the various methods of solving the scenic design for plays requiring only one location. May be repeated for a total of 30 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

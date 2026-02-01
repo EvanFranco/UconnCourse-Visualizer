@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5310",
+    "dept_code": "DMD",
+    "id_number": "5310",
+    "title": "Introduction to 3D Modeling",
+    "description": "Creation of polygonal 3D models using industry standard modeling tools. The aesthetics of simplicity are important as it relates to edge flow and geometry construction for both software and real-time rendering application. Comprised of in class labs and take home tests. Labs and tests will assess and inform both the instructor and the student of their progress and overall modeling skill level.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

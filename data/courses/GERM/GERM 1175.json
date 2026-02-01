@@ -1,0 +1,22 @@
+{
+    "name": "GERM 1175",
+    "dept_code": "GERM",
+    "id_number": "1175",
+    "title": "Human Rights and German Culture",
+    "description": "Study of philosophical discourse on human rights from the Enlightenment to the present and analysis of related ethical problems in conjunction with an examination of relevant literary texts, film, and other art forms. Study of Germany's role in the development of international human rights instruments. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MSE 2001",
+    "dept_code": "MSE",
+    "id_number": "2001",
+    "title": "Introduction to Structure, Properties, and Processing of Materials I",
+    "description": "Bonding in materials, the crystal structure of metals and ceramics, and defects in materials will be introduced. Basic principles of phase diagrams and phase transformations will be given with particular emphasis on microstructural evolution and the effect of microstructure on the mechanical properties of metals and alloys. Introductory level knowledge of mechanical properties, testing methods, strengthening mechanisms, and fracture mechanics will be provided.",
+    "credits": "3",
+    "requirement_description": "CHEM 1127Q or 1147Q. Not open to students who have passed MSE 2101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

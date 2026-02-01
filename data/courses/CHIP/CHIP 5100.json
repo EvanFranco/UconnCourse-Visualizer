@@ -1,0 +1,16 @@
+{
+    "name": "CHIP 5100",
+    "dept_code": "CHIP",
+    "id_number": "5100",
+    "title": "Interdisciplinary Global Health",
+    "description": "This course will provide a broad base exposure to global health, current research issues in the field, leading theoretical frameworks, and recent evidence-based findings.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

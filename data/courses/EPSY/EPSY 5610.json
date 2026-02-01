@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 5610",
+    "dept_code": "EPSY",
+    "id_number": "5610",
+    "title": "Applied Regression Analysis for the Education Sciences",
+    "description": "Multiple regression analysis and related techniques with applications to research in education.  Topics include assumptions and inference; matrix representations; diagnostics and remedial measures; polynomial regression and interaction models; treatment of categorical independent variables, autocorrelation of errors in time series data, problems of missing values and selection bias, and logistic and ordinal regression models.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

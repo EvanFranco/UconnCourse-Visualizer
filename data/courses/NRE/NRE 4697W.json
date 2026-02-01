@@ -1,0 +1,18 @@
+{
+    "name": "NRE 4697W",
+    "dept_code": "NRE",
+    "id_number": "4697W",
+    "title": "Undergraduate Research Thesis in Natural Resources",
+    "description": "Writing of a formal thesis based on independent research conducted by the student. Thesis proposal and final thesis must follow guidelines developed by the Department; and be submitted to, and approved by, a department review committee.",
+    "credits": "3",
+    "requirement_description": "Three credits of either NRE 3699 or 4696, which may be taken concurrently; ENGL 1007 or 1010 or 1011; open to juniors or higher; open only with consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

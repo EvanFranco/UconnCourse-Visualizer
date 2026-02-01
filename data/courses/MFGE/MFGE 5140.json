@@ -1,0 +1,16 @@
+{
+    "name": "MFGE 5140",
+    "dept_code": "MFGE",
+    "id_number": "5140",
+    "title": "Manufacturing Systems Planning",
+    "description": "Decision making in production, process, and warehouse environments. Topics include analysis of production flows, bottlenecks and queuing, types of manufacturing operations, aggregate production planning, lot sizes and lead times, and pull production systems, warehouse layout, and inventory management. May be repeated for a total of 3 credits.",
+    "credits": "3",
+    "requirement_description": "Department consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

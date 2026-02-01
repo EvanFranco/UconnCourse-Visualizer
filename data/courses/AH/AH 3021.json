@@ -1,0 +1,16 @@
+{
+    "name": "AH 3021",
+    "dept_code": "AH",
+    "id_number": "3021",
+    "title": "Environment, Genetics and Cancer",
+    "description": "Basic principles in tumor biology will be presented including the biochemical basis of cell transformation, proliferation, and metastasis. Molecular mechanisms by which environmental chemicals interact with DNA and other cellular components will be discussed. The role of proto-oncogenes, tumor suppressor genes, and their products will be covered. Biological markers of cancer risk and exposure will be included.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107; MCB 2400 or 2410; open to juniors or higher; open to DGS, ENVS, and Allied Health Sciences majors, others with instructor consent. Recommended preparation: MCB 2000 or 2210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

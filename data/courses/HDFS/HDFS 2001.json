@@ -1,0 +1,21 @@
+{
+    "name": "HDFS 2001",
+    "dept_code": "HDFS",
+    "id_number": "2001",
+    "title": "Diversity Issues in Human Development and Family Sciences",
+    "description": "Critical issues in diversity and multiculturalism in human development, family relations, and professional practice. CA 4.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher. Recommended preparation: HDFS 1070.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

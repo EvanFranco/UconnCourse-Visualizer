@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5510",
+    "dept_code": "GEOG",
+    "id_number": "5510",
+    "title": "Applications of Geographic Information Systems",
+    "description": "Operational and management issues of geographic information systems (GIS) with emphasis on understanding GIS through use of software. Topics include the principal functional components of GIS including general GIS design and management theory, spatial and attribute data creation, database design and management, spatial analysis, cartographic production, and application design and implementation. Practical work includes analytical exercises using GIS culminating in an application project.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: GEOG 5500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ART 3520",
+    "dept_code": "ART",
+    "id_number": "3520",
+    "title": "Lithography",
+    "description": "Investigation of lithographic techniques.",
+    "credits": "3",
+    "requirement_description": "ART 2510.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

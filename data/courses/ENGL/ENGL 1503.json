@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 1503",
+    "dept_code": "ENGL",
+    "id_number": "1503",
+    "title": "Introduction to Shakespeare",
+    "description": "Introductory survey of representative Shakespeare plays and poetry. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

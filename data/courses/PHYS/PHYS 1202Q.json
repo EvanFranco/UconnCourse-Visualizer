@@ -1,0 +1,24 @@
+{
+    "name": "PHYS 1202Q",
+    "dept_code": "PHYS",
+    "id_number": "1202Q",
+    "title": "General Physics II",
+    "description": "A non-calculus based course introducing the principles governing electromagnetic phenomena, including electromagnetic radiation and waves and electric circuits. The laboratory offers fundamental training in precise measurements. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "PHYS 1201Q. Not open for credit to students who have passed PHYS 1402Q, 1502Q, or 1602Q.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

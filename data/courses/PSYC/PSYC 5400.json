@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5400",
+    "dept_code": "PSYC",
+    "id_number": "5400",
+    "title": "Research Seminar in Developmental Psychology",
+    "description": "Current research in developmental psychology, with intra- and extramural speakers and directed readings. May be repeated for a total of 12 credits.",
+    "credits": "1",
+    "requirement_description": "Open only to graduate students in Psychology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

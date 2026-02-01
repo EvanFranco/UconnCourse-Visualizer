@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5717",
+    "dept_code": "CSE",
+    "id_number": "5717",
+    "title": "Big Data Analytics",
+    "description": "Focuses on data science and big data analytics. Introduces basic concepts of data science and analytics. Different algorithmic techniques employed to process data will be discussed. Specific topics include: Parallel and out-of-core algorithms and data structures, Rules mining, Clustering algorithms, Text mining, String algorithms, Data reduction techniques, and Learning algorithms. Applications such as motif search, k-locus association, k-mer counting, error correction, sequence assembly, genotype-phenotype correlations, etc. will be investigated.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 3500 and MATH 2210Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

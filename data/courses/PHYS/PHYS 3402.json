@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 3402",
+    "dept_code": "PHYS",
+    "id_number": "3402",
+    "title": "Quantum Mechanics II",
+    "description": "Applications of quantum mechanics, useful approximation methods, the variational method, the WKB method, scattering and other advanced topics.",
+    "credits": "3",
+    "requirement_description": "PHYS 3401.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

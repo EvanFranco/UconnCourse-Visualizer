@@ -1,0 +1,16 @@
+{
+    "name": "POLS 3450",
+    "dept_code": "POLS",
+    "id_number": "3450",
+    "title": "War and Technological Change",
+    "description": "Exploration of how technological developments affect the causes, conduct, and outcomes of war.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: POLS 1402.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

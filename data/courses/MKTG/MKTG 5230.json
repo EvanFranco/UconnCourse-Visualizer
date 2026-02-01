@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 5230",
+    "dept_code": "MKTG",
+    "id_number": "5230",
+    "title": "New Product and Service Innovation Management",
+    "description": "This course provides strategies and tools to develop and commercialize new products. Students learn how to evaluate new product ideas, integrate cross-functional innovation processes, allocate new product investments, accelerate new product commercialization, and forecast sales of new products. Students gain experience developing and evaluating new product concepts.",
+    "credits": "3",
+    "requirement_description": "MKTG 5115, or MKTG 5181 and MKTG 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

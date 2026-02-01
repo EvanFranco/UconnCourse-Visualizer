@@ -1,0 +1,16 @@
+{
+    "name": "ECE 6439",
+    "dept_code": "ECE",
+    "id_number": "6439",
+    "title": "Estimation Theory and Comp Algorithms",
+    "description": "Estimation of the state and parameters of noisy dynamic systems with application to communications and control. Bayesian estimation, maximum-likelihood and linear estimation. Computational algorithms for continuous and discrete processes, the Kalman filter, smoothing and prediction. Nonlinear estimation, multiple model estimation, and estimator Kalman, multiple model estimation, and estimator design for practical problems.",
+    "credits": "3",
+    "requirement_description": "ECE 5101 and 6111.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

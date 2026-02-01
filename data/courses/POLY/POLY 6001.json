@@ -1,0 +1,16 @@
+{
+    "name": "POLY 6001",
+    "dept_code": "POLY",
+    "id_number": "6001",
+    "title": "Seminar in Polymer Science and Engineering",
+    "description": "Presentations by invited guest speakers on topics of current interest in various areas of Polymer Science and Engineering.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

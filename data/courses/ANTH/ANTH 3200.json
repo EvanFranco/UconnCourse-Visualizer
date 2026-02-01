@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3200",
+    "dept_code": "ANTH",
+    "id_number": "3200",
+    "title": "Human Behavioral Ecology",
+    "description": "The application of the theory of natural selection to the study of human culture and behavior, with emphasis on the interaction between humans and their environment.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

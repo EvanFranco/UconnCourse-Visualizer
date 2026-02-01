@@ -1,0 +1,16 @@
+{
+    "name": "PUBH 5408",
+    "dept_code": "PUBH",
+    "id_number": "5408",
+    "title": "Introduction to Epidemiology and Biostatistics I",
+    "description": "This is the first of a two-course sequence introducing students to concepts and methods of epidemiology, biostatistics and public health research. Topics include nature of variability, common probability distributions, causal reasoning, control of bias and confounding, descriptive and analytic design of observational and experimental studies, principles of disease screening and clinical efficacy.",
+    "credits": "3",
+    "requirement_description": "Open only to Master of Public Health (MPH) and Foundations of Public Health Certificate students; others with department consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

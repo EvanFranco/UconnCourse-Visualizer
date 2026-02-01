@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 3696",
+    "dept_code": "UNIV",
+    "id_number": "3696",
+    "title": "Mentored Research Experience",
+    "description": "Mentored research at UConn or UConn Health of 45 hours for every enrolled credit. Evaluation by the research mentor aligned with individualized goals. May be repeated for a total of 16 credits.",
+    "credits": "1-4",
+    "requirement_description": "Application with the Office of Undergraduate Research required. Research Learning Agreement must be completed prior to the end of the second week of the enrollment term.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

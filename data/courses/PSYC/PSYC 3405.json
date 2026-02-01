@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3405",
+    "dept_code": "PSYC",
+    "id_number": "3405",
+    "title": "Social Development",
+    "description": "Social development in infancy, childhood, and adolescence. Theoretical approaches and practical applications. Special emphasis on critically evaluating empirical research.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100, 1101 or 1103; and PSYC 2400 or HDFS 2100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

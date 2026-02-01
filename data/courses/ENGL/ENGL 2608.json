@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2608",
+    "dept_code": "ENGL",
+    "id_number": "2608",
+    "title": "Introduction to Indigenous Film",
+    "description": "An introductory study of cinematic images of Indigenous peoples across historic, geographic, and generic categories. Particular attention will be paid to how cinema is an expression of Indigenous sovereignty and the ways colonialism shapes the film industry.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

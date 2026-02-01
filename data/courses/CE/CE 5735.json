@@ -1,0 +1,16 @@
+{
+    "name": "CE 5735",
+    "dept_code": "CE",
+    "id_number": "5735",
+    "title": "Public Transportation Systems",
+    "description": "Characteristics of public transportation systems, public transport network planning, station spacing and design, public transportation and land use development, public transportation network design problems, and introduction to transit assignment.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: CE 2251, 2710; CE 4210/5200 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

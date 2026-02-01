@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 4995",
+    "dept_code": "MUSI",
+    "id_number": "4995",
+    "title": "Special Topics",
+    "description": "Classroom course in a special topic as announced in advance for each semester. May be repeated for credit.",
+    "credits": "1-4",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

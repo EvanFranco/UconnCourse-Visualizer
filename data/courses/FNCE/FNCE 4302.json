@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 4302",
+    "dept_code": "FNCE",
+    "id_number": "4302",
+    "title": "Fixed Income Securities",
+    "description": "Provides an understanding of the common types of fixed income securities and their valuation, the major risks associated with investing in fixed income securities, the standard measures of those risks and approaches to managing those risks. In addition the basics of modeling interest rate processes and valuing securities with embedded options will be introduced.",
+    "credits": "3",
+    "requirement_description": "FNCE 3101 (BUSN majors) or MATH 3650 (Math-Act Sci-Finance majors); open only to Business and Mathematics-Actuarial Science-Finance majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

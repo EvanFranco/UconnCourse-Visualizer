@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5212",
+    "dept_code": "DRAM",
+    "id_number": "5212",
+    "title": "Shop Technology",
+    "description": "Use of materials, equipment and processes required in special fabrication techniques.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

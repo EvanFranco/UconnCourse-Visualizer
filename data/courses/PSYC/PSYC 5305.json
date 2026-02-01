@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5305",
+    "dept_code": "PSYC",
+    "id_number": "5305",
+    "title": "Psychodynamics",
+    "description": "Overview of theoretical and empirical literature about theories of personality development and models of behavior change processes.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Clinical Psychology and others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

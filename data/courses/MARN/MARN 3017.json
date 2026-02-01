@@ -1,0 +1,16 @@
+{
+    "name": "MARN 3017",
+    "dept_code": "MARN",
+    "id_number": "3017",
+    "title": "Plankton Ecology",
+    "description": "Ecology of planktonic organisms (bacteria, protista and metazoa). The evolutionary ecology concept, methods of research, special features of aquatic habitats; adaptations to aquatic environments; population biology; predation, competition, life histories, community structure, and role of plankton in ecosystem metabolism.",
+    "credits": "3",
+    "requirement_description": "MATH 1060Q or 1131Q; PHYS 1201Q or 1401Q; CHEM 1122Q or equivalent; BIOL 1107 and 1108. Recommended preparation: MARN 1002. Consent of instructor for graduate students in lieu of requirements. Not open for credit to students who have passed both 5014 and 5016.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

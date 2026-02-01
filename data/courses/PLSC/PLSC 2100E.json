@@ -1,0 +1,21 @@
+{
+    "name": "PLSC 2100E",
+    "dept_code": "PLSC",
+    "id_number": "2100E",
+    "title": "Environmental Sustainability of Food Production in Developed Countries",
+    "description": "Foundations of modern food production systems that produce the majority of calories consumed in North America and other developed countries. Benefits and environmental risks associated with modern food production systems. Alternative food production systems and sustainability. Local food production and food security. Food production and climate change. Formerly offered as SPSS 2100E.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI2",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

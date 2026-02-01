@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5472",
+    "dept_code": "PHAR",
+    "id_number": "5472",
+    "title": "Advanced Pharmacology II: Drug Disposition",
+    "description": "Drug absorption, distribution, excretion, metabolism, interaction, allergy, resistance, tolerance, idiosyncrasy and toxicity.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

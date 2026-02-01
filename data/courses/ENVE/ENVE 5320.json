@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5320",
+    "dept_code": "ENVE",
+    "id_number": "5320",
+    "title": "Quantitative Methods for Engineers",
+    "description": "Topics on data analysis: random variables and probability distributions, parameter estimation and hypothesis testing, simple and multiple regression; Monte Carlo simulation; autoregression and models for time series; analytical solutions of ordinary and partial differential equations; Fourier series; numerical solutions of ordinary differential equations; solution of partial differential equations with finite differences; basics of modeling.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

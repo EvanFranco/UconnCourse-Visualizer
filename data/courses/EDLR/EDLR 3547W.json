@@ -1,0 +1,18 @@
+{
+    "name": "EDLR 3547W",
+    "dept_code": "EDLR",
+    "id_number": "3547W",
+    "title": "Introduction to Sport Based Youth Development",
+    "description": "Requires reading, written journals, class discussion, and significant time out of class for community involvement in Hartford.  Transportation is available.",
+    "credits": "4",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to Sport Management majors only. Cannot be taken for credit after passing EDLR 4300.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

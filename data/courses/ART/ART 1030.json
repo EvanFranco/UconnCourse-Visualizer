@@ -1,0 +1,16 @@
+{
+    "name": "ART 1030",
+    "dept_code": "ART",
+    "id_number": "1030",
+    "title": "Drawing I",
+    "description": "Fundamental principles of drawing based on observation.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing ART 1040, 2011, 2110, 2310, 2410, 2510 or 2610.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

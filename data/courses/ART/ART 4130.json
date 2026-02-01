@@ -1,0 +1,16 @@
+{
+    "name": "ART 4130",
+    "dept_code": "ART",
+    "id_number": "4130",
+    "title": "Graphic Design: Design Center Studio",
+    "description": "Professional graphic design studio housed in its own independent design environment providing students with real world practical experience. Design students work on commissioned, client based, collaborative, commercial and cultural projects from concept to delivery across all media platforms. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "ART 3120; open only to majors; open only with consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

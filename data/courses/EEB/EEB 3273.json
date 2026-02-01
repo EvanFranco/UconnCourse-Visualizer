@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3273",
+    "dept_code": "EEB",
+    "id_number": "3273",
+    "title": "Comparative Vertebrate Anatomy",
+    "description": "Anatomy, development, functional morphology, and evolution of living vertebrate animals.",
+    "credits": "4",
+    "requirement_description": "BIOL 1108.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

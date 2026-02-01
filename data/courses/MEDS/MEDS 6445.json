@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6445",
+    "dept_code": "MEDS",
+    "id_number": "6445",
+    "title": "Skeletal Biology",
+    "description": "A comprehensive survey of the cellular and molecular mechanisms that regulate the development, growth, differentiation, remodeling, and repair of the skeletal system.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

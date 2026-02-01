@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3623",
+    "dept_code": "ENGL",
+    "id_number": "3623",
+    "title": "Studies in Literature and Culture",
+    "description": "An examination of social and culture aspects of printed literature and of its relationship to other media. Contents will vary by section. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3705",
+    "dept_code": "ANTH",
+    "id_number": "3705",
+    "title": "Paleoanthropology",
+    "description": "Fossil evidence for the evolution of the human family, Hominidae. Anatomical features, behavior, and evolutionary relationships of extinct hominids; the use of biological, geological, and archaeological evidence to reconstruct past hominid adaptations.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ANTH 2501, 2502 or 3503.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

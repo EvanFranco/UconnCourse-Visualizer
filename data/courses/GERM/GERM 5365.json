@@ -1,0 +1,16 @@
+{
+    "name": "GERM 5365",
+    "dept_code": "GERM",
+    "id_number": "5365",
+    "title": "German Film Studies",
+    "description": "Study of a coherent body of films and related materials (e.g. fiction, theory, reviews) organized to illuminate particular themes (e.g. representations of postwar Germany), relationships (e.g. between films and literature or film and social context), cinematic styles (e.g. Expressionism), etc. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

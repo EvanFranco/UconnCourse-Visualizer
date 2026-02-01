@@ -1,0 +1,16 @@
+{
+    "name": "MSE 3700",
+    "dept_code": "MSE",
+    "id_number": "3700",
+    "title": "Biomaterials",
+    "description": "Introduction to a series of implant materials, including metals, ceramics, glass ceramics, polymers, and composites, including comparison with natural materials. Issues related to mechanical properties, biocompatibility, degradation of materials by biological systems, and biological response to artificial materials will be addressed. Particular attention will be given to the materials for the total hip prosthesis, dental restoration, and implantable medical devices.",
+    "credits": "3",
+    "requirement_description": "MSE 2001 or MSE 2101. Not open to students who have passed BME 3700.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

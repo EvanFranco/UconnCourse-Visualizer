@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 4120",
+    "dept_code": "EDCI",
+    "id_number": "4120",
+    "title": "Teaching Science in the Elementary School",
+    "description": "A study of curriculum materials, laboratory experiences and teaching techniques in science.",
+    "credits": "2",
+    "requirement_description": "Open only to Elementary Education and Special Education majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5131",
+    "dept_code": "DRAM",
+    "id_number": "5131",
+    "title": "Studies in Theatre History",
+    "description": "A survey course focusing on selected dramatic writings from Classic Greek to the 21st century. The application of text analysis tools for the actor will be examined.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "POLY 5351",
+    "dept_code": "POLY",
+    "id_number": "5351",
+    "title": "Polymer Physics",
+    "description": "Modern concepts relating to glassy, rubbery and organized states of bulk polymers. Considers rubber elasticity, glass-to-rubber transitions, networks, elements of crystallization, blends and interfacial phenomena.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

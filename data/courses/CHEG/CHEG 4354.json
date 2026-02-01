@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4354",
+    "dept_code": "CHEG",
+    "id_number": "4354",
+    "title": "Nanostructural Characterization - Scattering",
+    "description": "Introduces the theory, methods and application of scattering (X-ray, neutron and light) for nano-structural characterizations. Scattering is one of the most important tools in probing the global (average) nanoscale structures of materials, a complementary method to microscopy, which reveals local structures via micrographic images.",
+    "credits": "3",
+    "requirement_description": "CHEG 2103 and CHEG 2111; MATH 2110Q and MATH 2410Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

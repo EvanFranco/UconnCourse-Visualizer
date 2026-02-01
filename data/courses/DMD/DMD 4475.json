@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4475",
+    "dept_code": "DMD",
+    "id_number": "4475",
+    "title": "Web and Interactive Media Design Practicum",
+    "description": "Digital technology is ever-changing and so too are techniques and workflows required in the production of web and interactive media projects. Through the completion of real-world projects, this course examines emerging technologies and techniques in the world of web and interactive media design. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "DMD 3470 and 3475; open to Digital Media and Design majors only, others with instructor consent. Recommended preparation: DMD 4470.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NURS 6135",
+    "dept_code": "NURS",
+    "id_number": "6135",
+    "title": "Exploring the Nature of Nursing Knowledge",
+    "description": "The course is a critical examination of the development of nursing's disciplinary knowledge as it relates to the nature of nursing and its epistemic, ontologic, and ethical claims. This examination will include historical analysis and evaluation of nursing's meta-paradigm (meta language), conceptual models, and theories both grand and middle range.",
+    "credits": "3",
+    "requirement_description": "NURS 6100 and instructor consent required for non nursing doctoral students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

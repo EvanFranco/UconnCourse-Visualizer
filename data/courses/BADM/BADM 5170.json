@@ -1,0 +1,16 @@
+{
+    "name": "BADM 5170",
+    "dept_code": "BADM",
+    "id_number": "5170",
+    "title": "Foundations of Economic Environments",
+    "description": "Provides students with applied knowledge of key economic and psychological concepts that ground interactions among individuals and organizations in the global business environment.",
+    "credits": "1.5",
+    "requirement_description": "Open only to MBA students, others with consent. Not open to students who have passed BLAW 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5332",
+    "dept_code": "FNCE",
+    "id_number": "5332",
+    "title": "Risk Management in Fixed Income Markets",
+    "description": "Bond fundamentals and risk, models of term structure, the use of interest rate derivative in hedging interest rate risk, the use of mortgage-backed and other asset-backed securities (MBS, CMBS), and other debt instruments (CDOs, CLOs etc.) to manage credit and cash flow risks, in addition to valuation and trading strategies of pooled assets and derivative bonds using Monte Carlo and option pricing techniques.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

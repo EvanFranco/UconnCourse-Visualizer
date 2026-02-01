@@ -1,0 +1,16 @@
+{
+    "name": "ME 5430",
+    "dept_code": "ME",
+    "id_number": "5430",
+    "title": "Mechanics of Composite Materials",
+    "description": "Provides students with the fundamental knowledge to perform stress analysis of fiber-reinforced composite materials. The focus is on the use of mechanics to study the stresses due to applied deformations, loads, and temperature changes. This course begins with an introduction to composite materials including their constituent properties, applications, advantages and limitations, and manufacturing techniques. The generalized Hooke's Law for anisotropic solids is along with the Classical Lamination Plate Theory (CLPT) is introduced for composite laminates. Students will learn how to apply CLPT to the failure analysis of composite laminates under combined mechanical and thermal loads. The course concludes with the study of interlaminar stresses and the analysis of composite laminated beams.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

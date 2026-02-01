@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5123",
+    "dept_code": "ACCT",
+    "id_number": "5123",
+    "title": "Cost Analysis and Control",
+    "description": "Managerial uses of accounting information for decision-making within the business enterprise. Decisions considered include product pricing, transfer pricing, make or buy, and capital budgeting. Formation of budgets establishing an internal control structure, performance evaluation, and cost control techniques are also discussed.",
+    "credits": "3",
+    "requirement_description": "ACCT 5121; open only to MBA students. Not open for credit to students who have passed ACCT 5184.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

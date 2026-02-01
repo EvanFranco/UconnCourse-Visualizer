@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 5001",
+    "dept_code": "HDFS",
+    "id_number": "5001",
+    "title": "Orientation to Human Development and Family Sciences",
+    "description": "Seminar in professional orientation to the field of human development and family sciences.",
+    "credits": "1",
+    "requirement_description": "Open to graduate students in Human Development and Family Sciences, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

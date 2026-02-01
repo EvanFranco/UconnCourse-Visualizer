@@ -1,0 +1,18 @@
+{
+    "name": "NURS 4250E",
+    "dept_code": "NURS",
+    "id_number": "4250E",
+    "title": "Public Health Nursing",
+    "description": "Theories from nursing, public health, and environmental science within the context of aggregate/population-based care; interdependence of the health of the natural environment and human systems; consequences of historical social injustices and social and structural determinants of health on population and environmental health inequities. Using population-centered, trauma-informed, and culturally responsive approaches, primary, secondary, and tertiary prevention strategies are used to promote the health of a selected population/community. Learners will gain knowledge, skills, and motivation for sociopolitical advocacy of public and environmental health.",
+    "credits": "3",
+    "requirement_description": "NURS 3554, 3664, and 4230W. Corequisite: NURS 4282.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

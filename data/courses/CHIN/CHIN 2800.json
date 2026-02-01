@@ -1,0 +1,23 @@
+{
+    "name": "CHIN 2800",
+    "dept_code": "CHIN",
+    "id_number": "2800",
+    "title": "Chinese Calligraphy",
+    "description": "Introduction to the basics of Chinese calligraphy and the ways in which it mirrors Chinese history, culture, and philosophy. The fundamental characteristics of the Chinese writing system, its cultural content, and principles of formation as well as the skills used in Chinese calligraphy. At the end of the course, students will have a good understanding of Chinese characters and their cultural and philosophical background but also be able to appreciate the art and beauty in Chinese calligraphy. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

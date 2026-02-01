@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 4995",
+    "dept_code": "ERTH",
+    "id_number": "4995",
+    "title": "Special Topics",
+    "description": "Investigation of special topics related to, but not ordinarily covered in the undergraduate offerings; emphasis on laboratory projects. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

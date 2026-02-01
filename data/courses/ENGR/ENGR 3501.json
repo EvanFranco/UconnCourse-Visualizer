@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 3501",
+    "dept_code": "ENGR",
+    "id_number": "3501",
+    "title": "Technology Innovation and Entrepreneurship II",
+    "description": "The product design process combined with business principles required for a viable technology-based startup and enterprise. Students will take proof-of-concept designs from ENGR or MENT\u00a03500 to the point of further iterating a minimum viable product for field testing, with a heavy focus on physical prototyping. Development of a testable business model, successful business pitch strategies. Students will present their business model to entrepreneurs and potential customers.",
+    "credits": "3",
+    "requirement_description": "ENGR 3500 or MENT 3500; open to juniors or higher. Not open for credit to students who have passed or are taking MENT 3501.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

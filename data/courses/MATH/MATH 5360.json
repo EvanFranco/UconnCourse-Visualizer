@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5360",
+    "dept_code": "MATH",
+    "id_number": "5360",
+    "title": "Differential Geometry",
+    "description": "This course is an introduction to the study of differentiable manifolds on which various differential and integral calculi are developed. The topics include covariant derivatives and connections, geodesics and exponential map, Riemannian metrics, curvature tensor, Ricci and scalar curvature.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

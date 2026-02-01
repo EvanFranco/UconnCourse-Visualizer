@@ -1,0 +1,16 @@
+{
+    "name": "HCMI 4225",
+    "dept_code": "HCMI",
+    "id_number": "4225",
+    "title": "Health and Social Insurance",
+    "description": "Addresses various business practices associated with providing private health insurance such as underwriting, medical claims cost control, pricing, and marketing. In that context, managed care techniques and benefit package designs including consumer directed health plans, and value-based insurance design, are discussed. Attention is also paid to design and functioning of various social insurance programs such as Medicare, Medicaid, unemployment compensation, disability insurance, workers compensation, and social security.",
+    "credits": "3",
+    "requirement_description": "HCMI 3240; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5837",
+    "dept_code": "CSE",
+    "id_number": "5837",
+    "title": "Embedded Machine Learning",
+    "description": "This course will focus on the recent advances in efficient processing of machine learning. Topics include (1) basic machine learning models (inference and training), including deep convolutional neural networks (DCNN), recurrent neural networks (LSTM, GRU, etc.), Transformer (BERT, RoBERTa, DistilBERT, etc.); (2) different applications including object recognition/detection, super resolution, neural machine translation, etc.; (3) effective machine learning accelerations including model compression, quantization, neural architecture search (NAS), GPU and FPGA implementations, dedicated hardware such as Google TPU or IBM TrueNorth; (4) emerging topics, such as federated learning for edge computing systems.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 3500; MATH 2210Q; STAT 3025, 3345, 3375, or MATH 3160.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

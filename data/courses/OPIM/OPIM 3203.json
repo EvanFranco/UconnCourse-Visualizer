@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 3203",
+    "dept_code": "OPIM",
+    "id_number": "3203",
+    "title": "Analytics for Business Intelligence",
+    "description": "The course introduces students to the field of analytics and business intelligence. It positions them to structure and successfully complete analytics projects. The course exemplifies and explores how businesses gather and use data as well as set up and execute business problems. Students will make use of programming tools to build predictive models.",
+    "credits": "3",
+    "requirement_description": "OPIM 3103 or BADM 3103; open only to Analytics and Information Management majors of junior or higher status. May not be taken out of sequence after passing OPIM 3211. Not open for credit to students who have passed OPIM 5604.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

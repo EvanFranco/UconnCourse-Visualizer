@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 2110",
+    "dept_code": "PSYC",
+    "id_number": "2110",
+    "title": "Psychology of Human Sexuality",
+    "description": "Sexuality from across psychological science, highlighting relevant theoretical perspectives, methodology, and empirical research.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: PSYC 1100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

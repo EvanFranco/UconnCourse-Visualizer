@@ -1,0 +1,16 @@
+{
+    "name": "PNB 2774",
+    "dept_code": "PNB",
+    "id_number": "2774",
+    "title": "Enhanced Human Physiology and Anatomy I",
+    "description": "Fundamentals of human physiology and anatomy enhanced through discussion. A focus on fundamental cell and membrane physiology, as well as the musculoskeletal, nervous, and endocrine systems.",
+    "credits": "4",
+    "requirement_description": "BIOL 1107; CHEM 1122 or CHEM 1124Q or CHEM 1127Q. Not open for credit to students who have passed PNB 2264 or PNB 2274. May not be taken out of sequence after passing PNB 2775. Repeat restrictions apply; see advising.uconn.edu/repeat-policy for details.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

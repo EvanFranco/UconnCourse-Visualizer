@@ -1,0 +1,18 @@
+{
+    "name": "STAT 3494W",
+    "dept_code": "STAT",
+    "id_number": "3494W",
+    "title": "Undergraduate Seminar",
+    "description": "The student will attend 6-8 seminars per semester, and choose one statistical topic to investigate in detail. The student will write a well-revised, comprehensive paper on this topic, including a literature review, description of technical details, and a summary and discussion.",
+    "credits": "1",
+    "requirement_description": "STAT 2215Q or 3115Q; STAT 3025Q or 3375Q; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

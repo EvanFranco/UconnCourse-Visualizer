@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5300",
+    "dept_code": "DMD",
+    "id_number": "5300",
+    "title": "Introduction to 3D Animation",
+    "description": "Introduction to 3D animation emphasizing traditional animation principles as applied to 3D animation. Topics will include principles of animation, transformations and deformations of 3D objects, rigging, and rendering. Its purpose is to familiarize the students with working in a 3-D environment and build a working knowledge of the basic tools used in 3D animation. This course will be required for future advanced 3D related classes. Students will develop their skills using key-frame animation and the graph editor. Students will also learn techniques for researching & using reference. Students can apply skills learned in this class in other areas including game art, motion graphics and 2D Animation.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

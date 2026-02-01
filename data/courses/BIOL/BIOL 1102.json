@@ -1,0 +1,22 @@
+{
+    "name": "BIOL 1102",
+    "dept_code": "BIOL",
+    "id_number": "1102",
+    "title": "Foundations of Biology",
+    "description": "Major biological principles with emphasis on their importance to humans and modern society; designed for non-science majors. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Not open to students who have passed BIOL 1107, 1108 or 1110. Students may not receive more than 12 credits for courses in Biology at the 1000 level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

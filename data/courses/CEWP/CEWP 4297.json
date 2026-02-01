@@ -1,0 +1,16 @@
+{
+    "name": "CEWP 4297",
+    "dept_code": "CEWP",
+    "id_number": "4297",
+    "title": "Coop Education Work Placement",
+    "description": "Coop Ed Wk Placement May be repeated for credit.",
+    "credits": "0",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

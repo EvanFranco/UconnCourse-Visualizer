@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5130",
+    "dept_code": "GEOG",
+    "id_number": "5130",
+    "title": "GIS in Transportation",
+    "description": "Discussion of the uses of Geographic Information Systems (GIS) for transportation rate establishment, for visualizing the results of transportation models for predicting flows, for exploring the impact of transportation on the location of economic activities, and for the planning of transportation facilities in cities.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Geography.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

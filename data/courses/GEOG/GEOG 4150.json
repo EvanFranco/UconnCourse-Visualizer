@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 4150",
+    "dept_code": "GEOG",
+    "id_number": "4150",
+    "title": "Applied Data Analysis in Earth Science",
+    "description": "(Also offered as ERTH\u00a04150.) Multivariate spatial analysis methods and statistical inference in earth science, emphasizing how to translate conceptual understanding into computer code.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: STAT 1000Q or 1100Q, GEOG 3500Q; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

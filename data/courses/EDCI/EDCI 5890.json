@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5890",
+    "dept_code": "EDCI",
+    "id_number": "5890",
+    "title": "Educational Linguistics",
+    "description": "Overview of the study of language and linguistics, and especially applied linguistics, with emphasis on their implications for classroom teacher. Includes principles of second language acquisition.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

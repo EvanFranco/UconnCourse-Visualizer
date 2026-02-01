@@ -1,0 +1,16 @@
+{
+    "name": "CE 3220",
+    "dept_code": "CE",
+    "id_number": "3220",
+    "title": "Principles of Construction I",
+    "description": "Concepts and techniques of construction, including construction process and procedures, contracts and delivery methods, scheduling, cost estimation, project control, project change management, and construction safety issues.",
+    "credits": "3",
+    "requirement_description": "CE 2251, which can be taken concurrently; enrollment in School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

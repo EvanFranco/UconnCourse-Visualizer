@@ -1,0 +1,18 @@
+{
+    "name": "POLS 2827W",
+    "dept_code": "POLS",
+    "id_number": "2827W",
+    "title": "Criminal Justice in Practice",
+    "description": "Exploration of the American Criminal Justice system through simulations, interactions with practitioners in the field, visits to institutions within the system, and service projects with organizations working within the system.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Not open for credit to students who have passed POLS 2998W when offered as Criminal Justice in Practice.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

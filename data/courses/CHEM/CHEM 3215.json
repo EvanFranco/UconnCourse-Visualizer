@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3215",
+    "dept_code": "CHEM",
+    "id_number": "3215",
+    "title": "Inorganic Chemistry Laboratory",
+    "description": "The preparation, isolation, purification, and characterization of inorganic compounds; special techniques and instrumentation may be required.",
+    "credits": "3",
+    "requirement_description": "CHEM 3214, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5110",
+    "dept_code": "OPIM",
+    "id_number": "5110",
+    "title": "Operations Management",
+    "description": "An operations manager is concerned with designing, operating and controlling a system for producing goods and services. Design decisions include selecting a process technology, organizing jobs, selecting vendors, and developing the location and layout of facilities. Operating the system involves planning and scheduling work and material flow, controlling quality, and managing inventories. General systems concepts and models are developed and applied. Topics include process flow analysis, inventory systems, waiting line analysis, quality design, capacity resource planning, project management, and integrating operations with the firm's strategic plans.",
+    "credits": "3",
+    "requirement_description": "Open to MBA and MSBAPM students, others with consent. Not open to students who have passed or are currently enrolled in OPIM 5184.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "COGS 3599",
+    "dept_code": "COGS",
+    "id_number": "3599",
+    "title": "Independent Study",
+    "description": "Knowledge and skills necessary to perform a research project. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "COGS 2201; open only with the consent of instructor. Recommended preparation: At least two of ANTH 3002, CSE 4705, PHIL 3250, or PSYC 2501.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

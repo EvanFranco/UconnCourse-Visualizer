@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5107",
+    "dept_code": "PNB",
+    "id_number": "5107",
+    "title": "Clinical Research Methods in Intraoperative Neuromonitoring",
+    "description": "Research methods and experimental design in a clinical setting. Common and advanced neurodiagnostic modalities, effects of anesthesia on neurophysiological data, and evaluation of multimodality monitoring. Discussion and critique of published literature, and development of a student generated research proposal.",
+    "credits": "3",
+    "requirement_description": "PNB 5101, 5102 and 5103. Recommended preparation: PNB 5104 and 5105.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

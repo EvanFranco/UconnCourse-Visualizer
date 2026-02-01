@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5345",
+    "dept_code": "CHEM",
+    "id_number": "5345",
+    "title": "Determination of Organic Structures",
+    "description": "Structural problem solving using fundamental data including spectroscopic and wet chemical techniques.",
+    "credits": "3",
+    "requirement_description": "CHEM 5343.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

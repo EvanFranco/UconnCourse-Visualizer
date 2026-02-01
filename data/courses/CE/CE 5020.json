@@ -1,0 +1,16 @@
+{
+    "name": "CE 5020",
+    "dept_code": "CE",
+    "id_number": "5020",
+    "title": "Independent Graduate Study in Civil Engineering",
+    "description": "Special problems in civil engineering as arranged by the student with a supervisory instructor of his or her choice. May be repeated for a total of 12 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

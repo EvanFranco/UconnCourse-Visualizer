@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2326",
+    "dept_code": "ECON",
+    "id_number": "2326",
+    "title": "Operations Research",
+    "description": "Extensive use of computer spreadsheets to find efficient solutions to problems faced by managers in both the public and private sectors. Optimization of input and output mixes, of delivery routes, and communication networks.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ECON 1200 or both ECON 1201 and 1202. Not open for credit to students who have passed ECON 4326.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

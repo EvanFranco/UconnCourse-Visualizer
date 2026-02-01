@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5217",
+    "dept_code": "MCB",
+    "id_number": "5217",
+    "title": "Biosynthesis of Nucleic Acids and Proteins",
+    "description": "Mechanisms of protein and RNA synthesis in prokaryotes and eukaryotes. Topics such as RNA processing, gene splicing, and control of protein and RNA synthesis are discussed.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

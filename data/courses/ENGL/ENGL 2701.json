@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 2701",
+    "dept_code": "ENGL",
+    "id_number": "2701",
+    "title": "Creative Writing I",
+    "description": "First course in creative expression. Covers two or more genres (fiction, poetry, creative nonfiction, and drama). Genres vary by section.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. May not be taken out of sequence after passing ENGL 3701, 3703 or 3713.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

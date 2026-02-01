@@ -1,0 +1,22 @@
+{
+    "name": "AAAS 3846",
+    "dept_code": "AAAS",
+    "id_number": "3846",
+    "title": "Genocide and Mass Killings in Asia",
+    "description": "(Also offered as HIST\u00a03846, HRTS\u00a03846.) Case studies of historical and/or contemporary genocide and mass killings in Asia. May focus on any time period and any part of the continent. CA4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

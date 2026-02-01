@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5123",
+    "dept_code": "PSYC",
+    "id_number": "5123",
+    "title": "Occupational Health Psychology",
+    "description": "Introduction to research in occupational health and the field of occupational health psychology in a proseminar format. Topics include work stress, worker participation in hazard management, epidemiology of occupational exposures, workplace incivility, and design of safe work environments.",
+    "credits": "3",
+    "requirement_description": "STAT 5105 or NURS 5020 or PUBH 5434.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ARTH 1140",
+    "dept_code": "ARTH",
+    "id_number": "1140",
+    "title": "Introduction to Asian Art",
+    "description": "Asian art and architecture from prehistory to the present. Asian artistic practices as well as transcultural artistic connections in Asia and beyond. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

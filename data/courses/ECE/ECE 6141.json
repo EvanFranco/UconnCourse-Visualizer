@@ -1,0 +1,16 @@
+{
+    "name": "ECE 6141",
+    "dept_code": "ECE",
+    "id_number": "6141",
+    "title": "Neural Networks for Classification and Optimization",
+    "description": "This course provides students with an understanding of the mathematical underpinnings of classification techniques as applied to optimization and engineering decision-making, as well as their implementation and testing in software. Particular attention is paid to neural networks and related architectures. The topics include: Statistical Interference and Probabilty Density Estimation, Single and Multi-layer Perceptions, Radial Basis Functions, Unsupervised Learning, Preprocessing and Feature Extraction, Learning and Generalization, Decision Trees and Instance-based Classifiers, Graphical Models for Machine Learning, Neuro-Dynamic Programming.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

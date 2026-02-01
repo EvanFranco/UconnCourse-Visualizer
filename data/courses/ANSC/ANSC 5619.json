@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 5619",
+    "dept_code": "ANSC",
+    "id_number": "5619",
+    "title": "Signaling Pathways",
+    "description": "Principles of cell signaling transduction. Major cellular regulatory pathways and interactions between pathway components. Regulatory mechanism of various cellular processes via specific signaling network, and methods used for studying cell-signaling pathways.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Previous three-credit course in cell biology, molecular biology, or biochemistry.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

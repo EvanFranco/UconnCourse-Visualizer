@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3245",
+    "dept_code": "EEB",
+    "id_number": "3245",
+    "title": "Evolutionary Medicine",
+    "description": "Introduction to evolutionary concepts and hypotheses related to disease and human health, and applications of evolutionary thinking in drug discovery, vaccine design, and development of treatment plans for various diseases.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107 or 1108.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

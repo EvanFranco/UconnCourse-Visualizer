@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5326",
+    "dept_code": "CHEM",
+    "id_number": "5326",
+    "title": "Advanced Inorganic Chemistry III",
+    "description": "Main group and transition metal compounds with inorganic and organic ligands; the study of the transition metals is in preparation for CHEM\u00a05327.",
+    "credits": "3",
+    "requirement_description": "CHEM 5325.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

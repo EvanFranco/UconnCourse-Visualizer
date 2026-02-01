@@ -1,0 +1,21 @@
+{
+    "name": "HDFS 3277",
+    "dept_code": "HDFS",
+    "id_number": "3277",
+    "title": "Issues in Human Sexuality",
+    "description": "(Also offered as WGSS\u00a03277.) Contemporary issues concerning human sexuality; impact upon individuals and family units.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

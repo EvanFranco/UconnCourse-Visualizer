@@ -1,0 +1,16 @@
+{
+    "name": "COMM 2993",
+    "dept_code": "COMM",
+    "id_number": "2993",
+    "title": "Foreign Study",
+    "description": "Special topics taken in foreign study program. Consent of department head required, normally granted prior to the student's departure. May count toward major with consent of the advisor. May be repeated for credit.",
+    "credits": "1-9",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

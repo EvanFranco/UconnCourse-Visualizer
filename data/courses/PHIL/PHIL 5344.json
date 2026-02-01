@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 5344",
+    "dept_code": "PHIL",
+    "id_number": "5344",
+    "title": "Seminar in Philosophical Logic",
+    "description": "Topics in the philosophies of logic and mathematics. May include completeness results for non-classical logics, higher-order languages and logics, diagonalization, limitative theorems (Tarski, Godel), paradoxes, and formal theories of truth. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open to Philosophy Graduate students only, others with permission of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

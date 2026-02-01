@@ -1,0 +1,16 @@
+{
+    "name": "PNB 1201",
+    "dept_code": "PNB",
+    "id_number": "1201",
+    "title": "Learning by Experiencing and Applying Physiological Principles I",
+    "description": "Introduction to the principles governing gene organization, regulation of transcription, transcript processing, protein production, protein function, and outputs of physiological interest.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

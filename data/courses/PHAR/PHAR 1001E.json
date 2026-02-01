@@ -1,0 +1,23 @@
+{
+    "name": "PHAR 1001E",
+    "dept_code": "PHAR",
+    "id_number": "1001E",
+    "title": "Toxic Chemicals and Health",
+    "description": "Human and environmental health issues and problems associated with voluntary and involuntary exposure to toxic chemicals. Toxic chemical risks as compared to other societal health risks, the processes of scientific risk assessment, how environmental and human exposure to toxic chemicals are interdependent, and the social and environmental management of toxic chemical risks. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

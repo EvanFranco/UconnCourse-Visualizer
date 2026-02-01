@@ -1,0 +1,16 @@
+{
+    "name": "POLS 2601",
+    "dept_code": "POLS",
+    "id_number": "2601",
+    "title": "Modern American Presidency",
+    "description": "Developments in the presidency from President Franklin Roosevelt to the present.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: POLS 1602 and 3600.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

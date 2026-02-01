@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 6203",
+    "dept_code": "MKTG",
+    "id_number": "6203",
+    "title": "Quantitative Models in Marketing",
+    "description": "This course examines empirical models in marketing. Students learn about individual and firm-level models and the use of secondary data, text analysis, and natural experiments, to predict and explain consumer and firm behavior. Students gain an understanding of model estimation issues, such as heterogeneity and endogeneity, and approaches to address these issues. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open to Marketing Ph.D. students and other Masters/ Ph.D. students by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

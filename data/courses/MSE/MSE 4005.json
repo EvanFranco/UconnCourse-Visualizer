@@ -1,0 +1,16 @@
+{
+    "name": "MSE 4005",
+    "dept_code": "MSE",
+    "id_number": "4005",
+    "title": "Processing of Materials in the Liquid and Vapor State",
+    "description": "Fundamental principles of materials processing and their quantitative application to process design will be illustrated for materials processes involving liquids and gasses: crystal growth, zone refining, shape casting, continuous casting, refining, welding, and vapor deposition.",
+    "credits": "3",
+    "requirement_description": "MSE 3001 and 3002, both may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

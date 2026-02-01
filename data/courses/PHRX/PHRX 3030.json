@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3030",
+    "dept_code": "PHRX",
+    "id_number": "3030",
+    "title": "Pharmacokinetics/Biopharmaceutics",
+    "description": "Provides an understanding of the basic principles of pharmacokinetics and biopharmaceutics and describe how to apply the basic principles to the rational design of dosing regimen.",
+    "credits": "3",
+    "requirement_description": "Must have satisfied the Pharmacy Pre-Professional prerequisites for admission to the PharmD program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

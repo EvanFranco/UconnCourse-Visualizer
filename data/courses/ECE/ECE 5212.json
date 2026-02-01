@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5212",
+    "dept_code": "ECE",
+    "id_number": "5212",
+    "title": "Fundamentals of Opto-Electronic Devices",
+    "description": "Absorption and emission mechanisms in direct and indirect semiconductors. Semiconductor optoelectronic devices such as light-emitting diodes, injection lasers, photocathodes, solar cells, and integrated optics.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

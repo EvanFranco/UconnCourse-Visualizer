@@ -1,0 +1,22 @@
+{
+    "name": "ENGL 2310",
+    "dept_code": "ENGL",
+    "id_number": "2310",
+    "title": "Literature of Migration",
+    "description": "A transhistorical and global perspective on the history and literature of human migration. Engagement with literature and cultural productions such as fiction, film, and art about the conditions under which people migrate, whether voluntarily or through coercion, as well as the lived, quotidian experiences of such processes. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

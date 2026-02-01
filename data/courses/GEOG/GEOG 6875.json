@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 6875",
+    "dept_code": "GEOG",
+    "id_number": "6875",
+    "title": "Seminar on Human-Environment Dynamics",
+    "description": "An exploration of transdisciplinary and multidisciplinary approaches in human-environment systems (HES) science to help solve complex human-environmental problems. Topics may include an understanding of challenges, methodologies, and potential solutions to human-environmental problems such as global environmental change, related critical physical, chemical, and biological systems, natural hazards and disasters, risk, resilience, and climate extremes from geographic perspectives. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

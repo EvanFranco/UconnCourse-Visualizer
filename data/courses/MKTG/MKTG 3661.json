@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 3661",
+    "dept_code": "MKTG",
+    "id_number": "3661",
+    "title": "Marketing and Digital Analytics",
+    "description": "(Also offered as BADM\u00a03661.) This course provides an advanced understanding of how to analyze data to gain insights in digital marketing. Students learn to select appropriate analytical tools, conduct analyses, and extract insights from data analysis to support managerial decision making. Students gain hands-on computer-based experience with basic and advanced analytical tools, analyzing digital data sets, and making marketing decisions.",
+    "credits": "3",
+    "requirement_description": "MKTG 3101 or BADM 3750; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ME 3228",
+    "dept_code": "ME",
+    "id_number": "3228",
+    "title": "Introduction to Fatigue in Mechanical Design",
+    "description": "Design calculation methods for fatigue life of engineering components. Crack initiation and crack propagation fatigue lives; introduction to current literature in the field. Emphasis on finite life prediction by strain life methods.",
+    "credits": "3",
+    "requirement_description": "CE 3110. Not open to students who have passed ME 5431.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

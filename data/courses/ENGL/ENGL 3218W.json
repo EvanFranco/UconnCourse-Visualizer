@@ -1,0 +1,20 @@
+{
+    "name": "ENGL 3218W",
+    "dept_code": "ENGL",
+    "id_number": "3218W",
+    "title": "Ethnic Literatures of the United States",
+    "description": "The literatures of ethnic American authors. Writers may include Natachee Scott Momaday, Maxine Hong Kingston, Zora Neale Hurston, Rolando Hinojosa, Bernard Malumud, Nicholasa Mohr, John Fante, among others. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5720",
+    "dept_code": "FNCE",
+    "id_number": "5720",
+    "title": "Cryptocurrencies",
+    "description": "This course examines the BTC ecosystem, XRP, ETH, tokens and ICOs and CBCC.",
+    "credits": "1.5",
+    "requirement_description": "OPIM 5513, which may be taken concurrently. Open to MS in FinTech students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

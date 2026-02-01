@@ -1,0 +1,22 @@
+{
+    "name": "EDCI 2100",
+    "dept_code": "EDCI",
+    "id_number": "2100",
+    "title": "Power, Privilege, and Public Education",
+    "description": "Service learning course. Interdisciplinary analysis of the development and structure of schooling, teaching, and learning in American society; impact of public education on its many and diverse stakeholders. Includes topics such as: equity and excellence, historical, socio-cultural, philosophical, political, and legal frameworks of education, and current educational reform efforts. Recommended for students considering applying to the Neag School of Education their sophomore year. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

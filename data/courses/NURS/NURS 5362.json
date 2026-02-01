@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5362",
+    "dept_code": "NURS",
+    "id_number": "5362",
+    "title": "Advanced Health Assessment for the Nurse Practitioner Role: Neonatal Population-focus",
+    "description": "This course is designed to enable students to put into practice the principles and skills needed for advanced health assessment of the neonate.",
+    "credits": "3",
+    "requirement_description": "NURS 5350.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

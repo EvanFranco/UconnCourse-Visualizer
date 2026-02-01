@@ -1,0 +1,16 @@
+{
+    "name": "MATH 2710",
+    "dept_code": "MATH",
+    "id_number": "2710",
+    "title": "Transition to Advanced Mathematics",
+    "description": "Basic concepts, principles, and techniques of mathematical proof common to higher mathematics. Logic, set theory, counting principles, mathematical induction, relations, functions. Concepts from abstract algebra and analysis. Students intending to major in mathematics should ordinarily take this course during the third or fourth semester. Students wishing to use MATH\u00a02710 or 2710W as a prerequisite for later MATH courses need to earn a \"C\" or better.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q or 1152Q. May not be taken for credit after passing MATH 2143. May not be taken out of sequence after passing 3150, 3210, 3230, 3240, 3260, 3270, 3330, or 3370.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

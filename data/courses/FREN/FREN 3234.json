@@ -1,0 +1,21 @@
+{
+    "name": "FREN 3234",
+    "dept_code": "FREN",
+    "id_number": "3234",
+    "title": "Romanticism, Realism, Fin de Siecle: 19th-Century Literature",
+    "description": "The literary and artistic innovations that made France the center of 19th-century culture. The Fantastic, Realism, Naturalism, and Decadence. CA 1.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: French 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

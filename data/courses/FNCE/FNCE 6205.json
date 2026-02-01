@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 6205",
+    "dept_code": "FNCE",
+    "id_number": "6205",
+    "title": "Advanced Corporate Finance",
+    "description": "This is the second PhD-level class in corporate finance. It builds upon FNCE\u00a06202 and  examines further developments in the area. The goal is to bring students to the frontier of  the knowledge and corporate finance research, so that they can start doing their own  research. We start by discussing a core issue in empirical corporate finance - endogeneity and various approaches to address it. We will then cover long-time important topics including security issuance, mergers and acquisitions, behavioral  finance, and private equity. Finally, we will introduce latest and emerging areas such as  textual analysis and machine learning, climate finance, and household finance. We will  discuss both the theoretical and empirical aspects of these topics.",
+    "credits": "3",
+    "requirement_description": "FNCE 6202; Open only to second year Finance PhD students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

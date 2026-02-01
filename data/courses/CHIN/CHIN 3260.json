@@ -1,0 +1,16 @@
+{
+    "name": "CHIN 3260",
+    "dept_code": "CHIN",
+    "id_number": "3260",
+    "title": "Contemporary Chinese Culture",
+    "description": "Introduction to popular culture in China and Chinese-speaking societies through contemporary literature, art, documentaries, and feature films. Taught in Chinese.",
+    "credits": "3",
+    "requirement_description": "CHIN 3210 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 5150",
+    "dept_code": "ENGL",
+    "id_number": "5150",
+    "title": "Advanced Research Methods",
+    "description": "Consideration of the question, \"What is a research method?\" and introduction to critical methods relevant to humanities-based research.",
+    "credits": "1",
+    "requirement_description": "Open to graduate students in English and Medieval Studies, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

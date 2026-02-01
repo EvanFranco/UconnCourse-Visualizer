@@ -1,0 +1,16 @@
+{
+    "name": "GERM 1004",
+    "dept_code": "GERM",
+    "id_number": "1004",
+    "title": "Intermediate German II",
+    "description": "Solidifying communicative abilities and intercultural competence by investigating topics such as contemporary politics, the environment, history, film, music, fine art, literature, and technology.",
+    "credits": "4",
+    "requirement_description": "GERM 1003. May not be taken out of sequence after passing any 2000- level or above course taught in German.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

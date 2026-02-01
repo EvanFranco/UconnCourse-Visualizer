@@ -1,0 +1,16 @@
+{
+    "name": "DENT 5456",
+    "dept_code": "DENT",
+    "id_number": "5456",
+    "title": "Biostatistics",
+    "description": "Introduction to biostatistics and overview of key concepts, including data measurement and summarization, probability, populations and samples, drawing inferences, and specific statistical analyses for testing differences in means and proportions, correlation, regression, multivariate analysis, and survival analysis. Special attention is placed upon understanding how to evaluate the appropriateness of and best interpret specific statistical tests and measures. An introduction to study design and the critical review of the literature is provided with emphasis on interpretation of presented statistics.",
+    "credits": "2",
+    "requirement_description": "Open only to current UConn Health Dental Residents in the combined Certificate/Master of Dental Science Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

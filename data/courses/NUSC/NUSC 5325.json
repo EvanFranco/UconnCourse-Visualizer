@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5325",
+    "dept_code": "NUSC",
+    "id_number": "5325",
+    "title": "Principles of Nutritional Assessment",
+    "description": "Nutritional assessment as a systematic process of obtaining and interpreting data to characterize nutritional status in association with health and nutrition-specific problems for individuals and selected populations. Interpretation of dietary, anthropometric, and laboratory data as applied to case studies.",
+    "credits": "3",
+    "requirement_description": "NUSC 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

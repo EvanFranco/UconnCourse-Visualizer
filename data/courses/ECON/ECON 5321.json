@@ -1,0 +1,16 @@
+{
+    "name": "ECON 5321",
+    "dept_code": "ECON",
+    "id_number": "5321",
+    "title": "Programming and Computation with R for Economists",
+    "description": "Basics of R programming. Objects, data structures, logical design, functions. Applications to matrix algebra, optimization, data visualization, and econometric analysis.",
+    "credits": "3",
+    "requirement_description": "Open to students in the Master of Science in Quantitative Economics program; others by consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

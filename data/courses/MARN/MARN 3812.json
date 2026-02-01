@@ -1,0 +1,16 @@
+{
+    "name": "MARN 3812",
+    "dept_code": "MARN",
+    "id_number": "3812",
+    "title": "Seminar in Marine Biodiversity and Conservation",
+    "description": "Critical examination of state-of-the-art research, policy and regulatory frameworks of marine conservation biology and associated environmental, cultural, and socio-economic implications. Topics may include aquaculture, endangered species, strandings, biomedicine, ocean pollution, and marine protected areas. Research projects to be conducted at Mystic Aquarium.",
+    "credits": "3",
+    "requirement_description": "MARN 2801WE or EEB 2244E or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

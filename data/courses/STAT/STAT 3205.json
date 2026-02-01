@@ -1,0 +1,16 @@
+{
+    "name": "STAT 3205",
+    "dept_code": "STAT",
+    "id_number": "3205",
+    "title": "Data Management, Programming, and Privacy",
+    "description": "Creation and management of datasets for statistical analysis: software tools and databases, user-defined functions, importing/exporting/manipulation of data, conditional and iterative processing, generation of reports. Identifying privacy and security concerns and learning best-practices for mitigating such issues.",
+    "credits": "3",
+    "requirement_description": "DSDA/STAT1010 or STAT 2255 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

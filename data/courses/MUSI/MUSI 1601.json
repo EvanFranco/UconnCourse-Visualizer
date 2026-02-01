@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 1601",
+    "dept_code": "MUSI",
+    "id_number": "1601",
+    "title": "Introduction to Jazz Improvisation",
+    "description": "Basic jazz theory and the elements of improvisation.",
+    "credits": "2",
+    "requirement_description": "Instrumental proficiency and instructor consent. Recommended preparation: students must be able to read music fluently in treble and bass clef and demonstrate proficiency in writing and playing the 12 major scales.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

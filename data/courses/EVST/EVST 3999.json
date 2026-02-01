@@ -1,0 +1,16 @@
+{
+    "name": "EVST 3999",
+    "dept_code": "EVST",
+    "id_number": "3999",
+    "title": "Independent Study",
+    "description": "Open only with consent of instructor and Program Director. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

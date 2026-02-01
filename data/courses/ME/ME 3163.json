@@ -1,0 +1,16 @@
+{
+    "name": "ME 3163",
+    "dept_code": "ME",
+    "id_number": "3163",
+    "title": "Robot Control and Dynamics",
+    "description": "(Also offered as ECE\u00a03163.) Basic concepts of robot manipulator modeling and control including joint space and task space control, Euler-Lagrange dynamics, independent joint control, whole robot manipulator control, robot control using visual feedback, robot control with trajectory planner. The course will include robot controller implementation via a course project and practical examples throughout the course.",
+    "credits": "3",
+    "requirement_description": "ECE/ME 3161; ECE 3111 or ME 3253 or ME 3254; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

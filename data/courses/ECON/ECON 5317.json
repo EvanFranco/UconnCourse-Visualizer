@@ -1,0 +1,16 @@
+{
+    "name": "ECON 5317",
+    "dept_code": "ECON",
+    "id_number": "5317",
+    "title": "Machine Learning for Economists",
+    "description": "Machine learning techniques and causal inference. Applications to economic data.",
+    "credits": "3",
+    "requirement_description": "Open to students in the Master of Science in Quantitative Economics program; others by consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

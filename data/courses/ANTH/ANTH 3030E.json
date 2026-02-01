@@ -1,0 +1,24 @@
+{
+    "name": "ANTH 3030E",
+    "dept_code": "ANTH",
+    "id_number": "3030E",
+    "title": "Peoples of the Pacific Islands",
+    "description": "Survey of the indigenous societies and cultures of the Pacific Islands, from the first settlement to the postcolonial period. Topics include prehistoric canoe voyaging, modes of subsistence, political forms, ritual and religion, ceremonial exchange, gender ideologies, European colonization, and modern indigenous nationalism. Ethnographic examples will be drawn from Polynesia, Melanesia, and Micronesia. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

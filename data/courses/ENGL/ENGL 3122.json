@@ -1,0 +1,22 @@
+{
+    "name": "ENGL 3122",
+    "dept_code": "ENGL",
+    "id_number": "3122",
+    "title": "Irish Literature in English since 1939",
+    "description": "Fiction, drama, and poetry by such writers as Beckett, O'Brien, Friel, Heaney, Doyle, Carr, McCabe, Toibin, and McDonagh. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

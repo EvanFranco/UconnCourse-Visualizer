@@ -1,0 +1,16 @@
+{
+    "name": "SANR 991",
+    "dept_code": "SANR",
+    "id_number": "991",
+    "title": "Field Study Internship",
+    "description": "Designed to acquaint students through actual work experience with their career field of interest beyond those available on campus. The student, intern supervisor, and faculty member offering the course will develop and sign a learning contract prior the start of the internship. Both the intern supervisor and student will provide evaluations at the end of the internship to the faculty member. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

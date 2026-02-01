@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3225",
+    "dept_code": "ECE",
+    "id_number": "3225",
+    "title": "Optical Engineering Laboratory",
+    "description": "Hands-on design and measurement of optical systems and components. Lens systems and imaging, fiber-optic communications and fiber-optic sensors, diffraction and Fourier Optics, interferometry, etc. Structured experiments and design projects centered on available equipment.",
+    "credits": "3",
+    "requirement_description": "ECE 3223, which may be taken concurrently; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

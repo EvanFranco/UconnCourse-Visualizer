@@ -1,0 +1,24 @@
+{
+    "name": "PHYS 1201Q",
+    "dept_code": "PHYS",
+    "id_number": "1201Q",
+    "title": "General Physics I",
+    "description": "A non-calculus based course introducing the laws of force and motion applied to mechanical phenomena. Concepts such as work, mechanical energy, linear and angular momentum, and energy conservation are explained. The laboratory offers fundamental training in precise measurements. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "MATH 1060Q or a qualifying score equivalent to pre-Calculus on the math placement assessment (placement.uconn.edu/mathematics-placement). Not open for credit to students who have passed PHYS 1401Q, 1501Q, or 1601Q. May not be taken out of sequence after passing PHYS 1202Q.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

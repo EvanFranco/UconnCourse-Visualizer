@@ -1,0 +1,16 @@
+{
+    "name": "ARTH 4099",
+    "dept_code": "ARTH",
+    "id_number": "4099",
+    "title": "Independent Study",
+    "description": "Designed for advanced students who wish to pursue the study of a special topic, culminating in a project in art history. May be repeated for a total of six credits. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open to students who are juniors or higher and have a 3.0 departmental GPA or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

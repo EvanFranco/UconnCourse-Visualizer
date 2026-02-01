@@ -1,0 +1,25 @@
+{
+    "name": "ILCS 3248W",
+    "dept_code": "ILCS",
+    "id_number": "3248W",
+    "title": "The Italian Novella",
+    "description": "Survey of the novella from the Middle Ages to the 20th century. The course explores the cross-cultural origins of the genre and the influence of the Italian novella on other European literary traditions. Taught in English (Italian readings optional). CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

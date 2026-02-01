@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5076",
+    "dept_code": "MCB",
+    "id_number": "5076",
+    "title": "Biomolecular Nuclear Magnetic Resonance Spectroscopy",
+    "description": "Theory and practice of modern NMR spectroscopy with applications to protein structure and dynamics, metabolomics, and drug development.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: courses in biochemistry, organic chemistry, and physical chemistry. Open to undergraduate students with consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

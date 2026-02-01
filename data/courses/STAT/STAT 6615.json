@@ -1,0 +1,16 @@
+{
+    "name": "STAT 6615",
+    "dept_code": "STAT",
+    "id_number": "6615",
+    "title": "Statistical Learning and Optimization",
+    "description": "(Also offered as BIST\u00a06615.) Computationally intensive statistical learning methods with optimization techniques: classification, discriminant analysis, (generalized) additive models, boosting, regression trees, regularized regression, principal components, support vector machines, and (deep) neural networks.",
+    "credits": "3",
+    "requirement_description": "Instructor consent and intermediate courses in mathematical and applied statistics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

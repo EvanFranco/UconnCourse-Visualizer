@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 5220",
+    "dept_code": "MKTG",
+    "id_number": "5220",
+    "title": "Big Data and Strategic Marketing",
+    "description": "This course provides the tools to analyze \"big\" data, and to identify data patterns with actionable marketing value. Students develop an understanding of applications from a variety of industries such as financial services, retail, advertising, insurance, health care, and human resources. Students gain experience using advanced analytical tools such as neural networks, market basket analysis, sequence detection, text mining, and state-of-the-art business modeling software to apply course concepts.",
+    "credits": "3",
+    "requirement_description": "MKTG 5115, or MKTG 5181 and 5182; OPIM 5103 or 5603, or BADM 5103, or BADM 5180 and 5181.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

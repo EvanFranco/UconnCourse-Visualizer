@@ -1,0 +1,16 @@
+{
+    "name": "ARE 4999",
+    "dept_code": "ARE",
+    "id_number": "4999",
+    "title": "Independent Study",
+    "description": "Designed primarily for Resource Economics majors. Open to students with Independent Study Authorization. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

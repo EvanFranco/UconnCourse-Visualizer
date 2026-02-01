@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5120",
+    "dept_code": "EDCI",
+    "id_number": "5120",
+    "title": "Introductory Reading Clinic",
+    "description": "Clinical practice in instruction of persons with corrective reading disabilities.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

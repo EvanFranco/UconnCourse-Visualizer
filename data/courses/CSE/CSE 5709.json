@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5709",
+    "dept_code": "CSE",
+    "id_number": "5709",
+    "title": "Machine Learning for Data Science",
+    "description": "An introduction to the techniques of machine learning, including models for both supervised and unsupervised learning, and related optimization techniques, covering topics such as regression, neural networks, clustering, model evaluation and selection, and implementation of learning algorithms from first principles.",
+    "credits": "3",
+    "requirement_description": "GRAD 5100; Open to graduate students in the M.S. in Data Science program. Recommended preparation: Python programming, multivariable calculus, linear algebra, introductory statistics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

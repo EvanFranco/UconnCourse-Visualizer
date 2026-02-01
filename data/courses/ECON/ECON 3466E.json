@@ -1,0 +1,21 @@
+{
+    "name": "ECON 3466E",
+    "dept_code": "ECON",
+    "id_number": "3466E",
+    "title": "Environmental Economics",
+    "description": "Application of economic reasoning to environmental issues. Topics include air and water pollution and the management of natural resources; market failure and environmental regulation; market-based mechanisms; cost-benefit analysis, environmental valuation, and program evaluation; environmental justice from an economic perspective.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

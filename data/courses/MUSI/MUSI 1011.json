@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 1011",
+    "dept_code": "MUSI",
+    "id_number": "1011",
+    "title": "Music Fundamentals and Ear Training I",
+    "description": "Basic skills in note reading, rhythm, meter, pitch symbols, scales, key signatures, intervals, triads, sight singing, and dictation. No previous training is required.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing MUSI 1012.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

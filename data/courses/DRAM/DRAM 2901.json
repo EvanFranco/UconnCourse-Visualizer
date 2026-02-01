@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 2901",
+    "dept_code": "DRAM",
+    "id_number": "2901",
+    "title": "Voice and Speech III",
+    "description": "In-depth study of applied voice and speech skills, particularly flexibility of the voice and application of vocal variety to understanding and expressing the structure and meaning of language and text.",
+    "credits": "3",
+    "requirement_description": "DRAM 1902. May not be taken out of sequence after passing DRAM 4911.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

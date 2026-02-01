@@ -1,0 +1,22 @@
+{
+    "name": "MCB 2612",
+    "dept_code": "MCB",
+    "id_number": "2612",
+    "title": "Honors Core: Microbe Hunters - Crowdsourcing Antibiotic Discovery",
+    "description": "Concepts of microbiology taught through the lens of antibiotic resistance. Using environmental samples students actively engage in the hunt for novel antimicrobials. Broader concepts include the meaning of disease, how that meaning has changed over time and the implications of widespread antibiotic resistance for society. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Open only to students in the Honors Program.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

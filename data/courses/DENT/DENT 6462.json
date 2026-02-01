@@ -1,0 +1,16 @@
+{
+    "name": "DENT 6462",
+    "dept_code": "DENT",
+    "id_number": "6462",
+    "title": "Clinical Radiation Sciences: Physics and Biology II",
+    "description": "A continuous pair of semester lecture/seminar courses which examines the physical and biological principles underlying the uses of radiation and allied radiation sciences in clinical diagnosis and therapy.  Characteristics of imaging systems, Nuclear Medicine, Radiation Therapy, biological effects of ionizing radiation, radiation measurement and dosimetry and quality assurance will be covered through critical readings in texts and the literature.",
+    "credits": "2",
+    "requirement_description": "Open only to current UConn Health Dental Residents in the combined Certificate/Master of Dental Science Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

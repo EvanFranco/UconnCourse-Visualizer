@@ -1,0 +1,20 @@
+{
+    "name": "ARAB 3751",
+    "dept_code": "ARAB",
+    "id_number": "3751",
+    "title": "Al-Andalus: Music, Literature, and Science in Muslim Spain",
+    "description": "The cultural heritage of Muslim Spain through literature, music, philosophy, medicine, art, and architecture. Christian, Jewish and Muslim interactions in medieval Europe. Religious and ethnic coexistence in medieval Iberia. Taught in English. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

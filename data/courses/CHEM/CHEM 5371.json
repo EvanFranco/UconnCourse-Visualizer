@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5371",
+    "dept_code": "CHEM",
+    "id_number": "5371",
+    "title": "Environmental Chemistry II",
+    "description": "Inorganic metals and organic chemicals in the environment; energy sources; fossil fuels, nuclear power, fuel cells, and alternatives.",
+    "credits": "3",
+    "requirement_description": "CHEM 5370 or 4370.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

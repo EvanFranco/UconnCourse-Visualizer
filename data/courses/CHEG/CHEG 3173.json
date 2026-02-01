@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 3173",
+    "dept_code": "CHEG",
+    "id_number": "3173",
+    "title": "Introduction to Biochemical Engineering",
+    "description": "Enzyme and fermentation technology; microbiology, biochemistry, and cellular concepts; biomass production; equipment design, operation, and specification; design of biological reactors; separation processes for bio-products.",
+    "credits": "3",
+    "requirement_description": "CHEG 3151; open only to School of Engineering students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 6810",
+    "dept_code": "GEOG",
+    "id_number": "6810",
+    "title": "Seminar on Spatial Analysis of Social Issues",
+    "description": "An exploration of the complex social processes connecting people, places, and the environment across space using quantitative and qualitative methods of spatial analysis. Topics may include sustainability, environmental justice, racial and gender disparities, transportation, health issues, and the dynamics of internal and international migration with a unifying theme to understand the interaction between social processes and spatial inequalities. May be repeated for a maximum of six credits. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

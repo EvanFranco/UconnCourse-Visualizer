@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5200",
+    "dept_code": "MCB",
+    "id_number": "5200",
+    "title": "Cell Biology of the Mammalian Secretory Apparatus",
+    "description": "Critical reading of the primary literature focusing on how eukaryotic cells synehtsize and traffic secretory and membrane proteins.  Emphasis on effectiveness of data presentation in papers.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

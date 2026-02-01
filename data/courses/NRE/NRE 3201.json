@@ -1,0 +1,16 @@
+{
+    "name": "NRE 3201",
+    "dept_code": "NRE",
+    "id_number": "3201",
+    "title": "Conservation Law Enforcement",
+    "description": "Basic pre-professional course for majors in natural resource conservation and related disciplines.  Recommended for persons considering a career in wildlife, fisheries, law enforcement, or other natural resource conservation and management disciplines.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

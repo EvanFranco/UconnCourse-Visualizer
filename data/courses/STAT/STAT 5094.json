@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5094",
+    "dept_code": "STAT",
+    "id_number": "5094",
+    "title": "Seminar in Statistics",
+    "description": "Seminar course for graduate students in Statistics. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "Open to graduate students in Statistics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

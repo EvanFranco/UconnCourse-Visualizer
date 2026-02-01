@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5030",
+    "dept_code": "NURS",
+    "id_number": "5030",
+    "title": "Nursing Research for Clinical Scholarship",
+    "description": "This course focuses on the generation and dissemination of nursing knowledge to improve the health of individuals, address health inequities across populations, and transform health care. Within the evidence hierarchy, emphasis is placed on nurses\u2019 identification of research questions and appropriate study designs using rigorous quantitative and qualitative methods, and dissemination of research findings through poster and podium presentations.",
+    "credits": "3",
+    "requirement_description": "Prerequisite or corequisite: NURS 5012 and 5020.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

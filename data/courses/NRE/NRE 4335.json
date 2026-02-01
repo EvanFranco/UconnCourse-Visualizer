@@ -1,0 +1,16 @@
+{
+    "name": "NRE 4335",
+    "dept_code": "NRE",
+    "id_number": "4335",
+    "title": "Fisheries Management",
+    "description": "Introduction to fisheries management principles with application to the biotic, habitat, and human components of fisheries. Selected topics include harvest regulations, stocking, population dynamics, endangered species, and habitat management practices in coastal and freshwater fisheries. Students will practice interpreting fisheries data which can inform the adaptive management of and regulation decision making in fisheries.",
+    "credits": "3",
+    "requirement_description": "STAT 1000Q or higher; open to juniors or higher. Recommended preparation: NRE 3385W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

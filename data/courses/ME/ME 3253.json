@@ -1,0 +1,16 @@
+{
+    "name": "ME 3253",
+    "dept_code": "ME",
+    "id_number": "3253",
+    "title": "Linear Systems Theory",
+    "description": "Review of ODE Solutions, mathematical modeling of dynamic systems, linearization of nonlinear behavior, Laplace domain representation of dynamics, transfer functions, block diagram algebra, signal-flow graphs, Mason's rule, transient analysis of system response, convolution integral, Duhamel's integral, Green's function, stability of linear systems, Routh-Hurwitz method, root locus, frequency response, Bode and polar representations, introduction to feedback systems.",
+    "credits": "3",
+    "requirement_description": "CE 2120; MATH 2410Q. May not be taken out of sequence after passing ME 3220.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5520",
+    "dept_code": "MATH",
+    "id_number": "5520",
+    "title": "Finite Element Solution Methods I",
+    "description": "Numerical solution of elliptic, parabolic and hyperbolic partial differential equations by finite element solution methods. Applications.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

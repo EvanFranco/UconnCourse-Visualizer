@@ -1,0 +1,16 @@
+{
+    "name": "KINS 5205",
+    "dept_code": "KINS",
+    "id_number": "5205",
+    "title": "Athletic Training Clinical Immersion II",
+    "description": "Students work directly with a certified athletic trainer and is assigned to a specific athletic training practice setting. Involves providing day-to-day care for the participants, as well as administering treatments and rehabilitation under supervision of the preceptor. Students will be expected to be immersed daily into the role of the athletic trainer. May be repeated for a total of 5 credits.",
+    "credits": "5",
+    "requirement_description": "KINS 5204; Open only to M.S. Athletic Training students..",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 5
+}

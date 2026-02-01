@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 3501",
+    "dept_code": "PHYS",
+    "id_number": "3501",
+    "title": "Modern Experimental Methods",
+    "description": "In-depth exploration of classical and quantum phenomena through advanced experimentation using contemporary methods.",
+    "credits": "3",
+    "requirement_description": "PHYS 1202Q or 1402Q or 1502Q or 1602Q; and 2501W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

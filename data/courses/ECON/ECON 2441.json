@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2441",
+    "dept_code": "ECON",
+    "id_number": "2441",
+    "title": "Labor Economics",
+    "description": "Economics of labor: human capital theory, discrimination, unemployment, manpower policy, and trade unions.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or 1201 or ARE 1150. Recommended preparation: ECON 2201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

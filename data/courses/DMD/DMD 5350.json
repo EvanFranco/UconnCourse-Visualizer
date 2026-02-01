@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5350",
+    "dept_code": "DMD",
+    "id_number": "5350",
+    "title": "Simulation and Technical Directing",
+    "description": "Art and science of creation of physical simulations using particle systems and collision detection. Creation of complicated rendering and compositing setups that make their animations both easier to render and more flexible within the bounds of any animation or VFX sequence.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

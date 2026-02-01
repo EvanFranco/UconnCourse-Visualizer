@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 1124",
+    "dept_code": "CAMS",
+    "id_number": "1124",
+    "title": "Intermediate Latin II",
+    "description": "Introduction to the reading of classical Latin prose and poetry with emphasis on Cicero, Ovid or Virgil, with particular attention given to a review of the essentials of grammar.",
+    "credits": "3",
+    "requirement_description": "CAMS 1123 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

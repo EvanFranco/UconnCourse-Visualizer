@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5301",
+    "dept_code": "ISG",
+    "id_number": "5301",
+    "title": "Concepts in Genomic Data Analysis I",
+    "description": "Fundamentals of genomic data analysis, high throughput sequencing technologies, and computational tools and infrastructure used to analyze and communicate results from genomic data.",
+    "credits": "2",
+    "requirement_description": "Corequisite: ISG 5311. Recommended preparation: Undergraduate degree in biology or related discipline. Background in genetics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

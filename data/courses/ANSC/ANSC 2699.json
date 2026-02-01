@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 2699",
+    "dept_code": "ANSC",
+    "id_number": "2699",
+    "title": "Independent Study",
+    "description": "May be repeated for credit. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

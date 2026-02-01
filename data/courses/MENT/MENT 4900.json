@@ -1,0 +1,16 @@
+{
+    "name": "MENT 4900",
+    "dept_code": "MENT",
+    "id_number": "4900",
+    "title": "Strategic Management",
+    "description": "This capstone business course provides an integrative view of managing the various functional areas of an enterprise to achieve sustainable competitive advantage in the marketplace. Students will develop skills to analyze both internal and external organizational environments and formulate and implement strategies at both business and corporate levels, especially under conditions of uncertainty. The course emphasizes the role of top management in enhancing firm performance as it relates to both short-term and long-term goals.",
+    "credits": "3",
+    "requirement_description": "ACCT 2101 or BADM 2101; BLAW 3175 or BADM 3720; FNCE 3101; MENT 3101 or BADM 3740; MKTG 3101 or BADM 3750; OPIM or BADM 3103 and 3104 (or CSE 1010 or CSE 1100, and MEM 2211 if MEM majors); senior business majors in Accounting, Analytics and Information Management, Finance, Health Care Management, Management, Management and Engineering for Manufacturing, Marketing, Real Estate and Urban Economics Studies. Prerequisite courses may be taken concurrently. Not open to students who have passed MENT 4902.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

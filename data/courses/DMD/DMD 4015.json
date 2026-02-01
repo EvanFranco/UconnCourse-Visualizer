@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4015",
+    "dept_code": "DMD",
+    "id_number": "4015",
+    "title": "Degree Exhibition",
+    "description": "Preparation of a project or portfolio for presentation in the Digital Media and Design Department's Degree Exhibition. May be taken in conjunction with the B.F.A. internship or senior project or B.A. senior thesis. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for a total of 2 credits.",
+    "credits": "1",
+    "requirement_description": "Open to DMD majors with the consent of the instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

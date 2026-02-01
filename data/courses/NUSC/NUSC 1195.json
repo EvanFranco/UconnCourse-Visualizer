@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 1195",
+    "dept_code": "NUSC",
+    "id_number": "1195",
+    "title": "Special Topics",
+    "description": "Credits, prerequisites and hours as determined by the Senate Curricula and Course Committee.",
+    "credits": "1-3",
+    "requirement_description": "Prerequisites and recommended preparation vary.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

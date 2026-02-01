@@ -1,0 +1,23 @@
+{
+    "name": "EEB 2222E",
+    "dept_code": "EEB",
+    "id_number": "2222E",
+    "title": "Plants in a Changing World",
+    "description": "The central role that plants play in human life and how they influence, shape, and control both our lives and the rapidly changing world. The role of plants in environmental, social, and political issues such as climate change; biodiversity; food quantity, quality, and security; human health and disease; and environmental quality and sustainability. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

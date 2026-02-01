@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5735",
+    "dept_code": "STAT",
+    "id_number": "5735",
+    "title": "Linear Models II",
+    "description": "Multiple comparisons, fixed effects linear models, random-effects and mixed-effects models, generalized linear models,variable selections, regularization and sparsity,  support vector machines, additive models and Bayesian linear models.",
+    "credits": "3",
+    "requirement_description": "STAT 5505, 5605, and 5725; open to Ph.D. students who have passed the Ph.D. Qualifying Exam in Statistics; others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

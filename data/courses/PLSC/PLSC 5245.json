@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 5245",
+    "dept_code": "PLSC",
+    "id_number": "5245",
+    "title": "Plant Breeding and Biotechnology",
+    "description": "Principles and applications, economic, social and environmental impacts, advantages, potentials and limitations of major traditional and modern plant breeding technologies including crossing/hybridization, polyploidy, mutagenesis, genetic engineering and genome editing.",
+    "credits": "3",
+    "requirement_description": "One of BIOL 1102, 1108, 1110; MCB 2410; PLSC 3210, 3230, 4210, or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

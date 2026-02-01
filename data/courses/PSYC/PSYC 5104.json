@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5104",
+    "dept_code": "PSYC",
+    "id_number": "5104",
+    "title": "Foundations of Research in the Psychological Sciences I",
+    "description": "Introduction to the logic of experimental design and data analysis in the psychological sciences. Analysis of group designs, especially analysis of variance, and introduction to hypothesis testing.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Psychological Sciences, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

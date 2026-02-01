@@ -1,0 +1,16 @@
+{
+    "name": "ART 3250",
+    "dept_code": "ART",
+    "id_number": "3250",
+    "title": "Stop and Go: Explorations in Stop-Motion Animation",
+    "description": "A survey of stop-motion animation techniques.",
+    "credits": "3",
+    "requirement_description": "ART 2220.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

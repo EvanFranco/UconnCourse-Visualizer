@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 2993",
+    "dept_code": "UNIV",
+    "id_number": "2993",
+    "title": "International Study",
+    "description": "Course work undertaken within approved Education Abroad programs. May be repeated for a total of 17 credits.",
+    "credits": "1-17",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

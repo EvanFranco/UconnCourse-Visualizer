@@ -1,0 +1,21 @@
+{
+    "name": "ARTH 3530W",
+    "dept_code": "ARTH",
+    "id_number": "3530W",
+    "title": "Contemporary Art",
+    "description": "Topics in the art of the second half of the twentieth century. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5001",
+    "dept_code": "COMM",
+    "id_number": "5001",
+    "title": "Introduction to Graduate Communication Research",
+    "description": "An introduction to quantitative research methods and statistics.  Issues of measurement and design of communication studies as well as basic descriptive and inferential statistics are covered.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3790",
+    "dept_code": "MATH",
+    "id_number": "3790",
+    "title": "Field Study Internship",
+    "description": "Consent of the Department Head, Director of the Actuarial Program, or the Undergraduate Coordinator required. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory.) May be repeated for a total of 6 credits.",
+    "credits": "1-3",
+    "requirement_description": "Completion of freshmen - sophomore level requisite courses in the major.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

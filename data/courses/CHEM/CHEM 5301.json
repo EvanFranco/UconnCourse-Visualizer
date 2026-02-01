@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5301",
+    "dept_code": "CHEM",
+    "id_number": "5301",
+    "title": "Microstructural and Morphological Analyses",
+    "description": "(Also offered as IMS\u00a05301.) Lecture on sample preparation and analyses for optical and electron microscopy methods including scanning electron microscopy, transmission electron microscopy, energy dispersive X-ray analysis, focused ion beam methods, and electron energy loss spectroscopy.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

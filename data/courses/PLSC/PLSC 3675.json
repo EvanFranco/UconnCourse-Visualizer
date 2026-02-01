@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 3675",
+    "dept_code": "PLSC",
+    "id_number": "3675",
+    "title": "Greenhouse Technology and Operations Laboratory",
+    "description": "Greenhouse crop production techniques and methodologies. Follows a travel-course format, in which students participate in regularly scheduled field trips to commercial greenhouse operation in CT and neighboring states.  Students will make observations on the mechanical systems, management considerations, and crop production practices employed by commercial businesses. Formerly offered as SPSS 3675.",
+    "credits": "1",
+    "requirement_description": "PLSC 3670, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

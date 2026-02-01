@@ -1,0 +1,22 @@
+{
+    "name": "MUSI 1004",
+    "dept_code": "MUSI",
+    "id_number": "1004",
+    "title": "Non-Western Music",
+    "description": "Folk, popular, and classical musics of selected non-Western cultures, with an emphasis on the distinctive characteristics of each culture. Intended primarily for students who are not  music majors. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed MUSI 3421.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

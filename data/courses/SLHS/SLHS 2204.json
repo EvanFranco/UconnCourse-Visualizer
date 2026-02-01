@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 2204",
+    "dept_code": "SLHS",
+    "id_number": "2204",
+    "title": "Speech and Language Acquisition",
+    "description": "How children learn their first language, the effects of language on their thinking and behavior.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

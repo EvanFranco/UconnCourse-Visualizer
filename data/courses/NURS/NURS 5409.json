@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5409",
+    "dept_code": "NURS",
+    "id_number": "5409",
+    "title": "APN Clinical Practicum I",
+    "description": "Initial clinical practicum and seminar focusing on developing critical thinking and psychomotor clinical skills necessary to cultivate advanced practice nursing core competencies and domains in the primary care clinical setting. The emphasis is on considering context while providing evidence-based health promotion, disease prevention, risk reduction, and clinical assessment, diagnosis and management of common health problems for populations, including individuals, families, and communities, specific to the adult-gerontology primary care, and family nurse practitioner. The role of the nurse practitioner in the current healthcare system is examined. Credits include seminar and 240 hours of clinical per semester (~2 days per week for 14-week semester).",
+    "credits": "3",
+    "requirement_description": "NURS 5062 within six months. Corequisite: NURS 5400 and 5405. Open to Nursing MS, BS-DNP and Post-MS Graduate Certificate students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

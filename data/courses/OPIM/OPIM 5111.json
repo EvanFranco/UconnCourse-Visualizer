@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5111",
+    "dept_code": "OPIM",
+    "id_number": "5111",
+    "title": "Supply Chain Analytics",
+    "description": "Managing supply chains is a complex and challenging task, given the current business trends of expanding product variety, globalization and digitalization of business, and ever changing customer expectations for fast and on-time delivery. To make right and timely decisions in the era of big data, an increasing number of companies have started to apply data analytics in supply chain management. A recent Accenture survey reveals that the use of data analytics has successfully helped companies improve customer service, reduce reaction time to supply chain issues, increase supply chain efficiency, and drive greater integration across the supply chain. This course will introduce the concepts and methods related to the design, planning, control, and coordination of supply chains with a focus on the applications of data analytics in supply chain management. The course consists of various components: lectures, case studies and a simulation game. In lectures, we introduce theoretical frameworks and useful analytical models. In case studies, we analyze supply chain issues under real-world business scenarios. In the simulation game, you will (virtually) manage a supply chain of fruit juice.",
+    "credits": "3",
+    "requirement_description": "Open only to MBA, MSBAPM, and Advanced Business Certificate in Supply Chain Analytics students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

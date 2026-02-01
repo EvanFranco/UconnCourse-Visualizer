@@ -1,0 +1,18 @@
+{
+    "name": "SOCI 2275W",
+    "dept_code": "SOCI",
+    "id_number": "2275W",
+    "title": "Social Well-Being",
+    "description": "Socially-embedded facets of well-being. Definitions and levels of well-being; relationship of well-being to social situations, social interactions, and social institutions.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5759",
+    "dept_code": "DRAM",
+    "id_number": "5759",
+    "title": "Practicum in Performance",
+    "description": "Special projects in performance, usually related to a production of the Department of Dramatic Arts/Connecticut Repertory Theatre. May be repeated for a total of 6 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

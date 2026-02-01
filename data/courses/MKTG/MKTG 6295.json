@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 6295",
+    "dept_code": "MKTG",
+    "id_number": "6295",
+    "title": "Investigation of Special Topics",
+    "description": "Formerly offered as MKTG 6200. May be repeated for a total of 9 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open only to students in the Marketing doctoral program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

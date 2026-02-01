@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5815",
+    "dept_code": "BIST",
+    "id_number": "5815",
+    "title": "Longitudinal Data Analysis",
+    "description": "Statistical theory and methodology for data collected over time in a clustered manner: design of experiments, exploratory data analysis, linear models for continuous data, general linear models for discrete data, marginal and mixed models, treatment of missing data.",
+    "credits": "3",
+    "requirement_description": "BIST 5505 and 5605; or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

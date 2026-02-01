@@ -1,0 +1,16 @@
+{
+    "name": "MARN 4019",
+    "dept_code": "MARN",
+    "id_number": "4019",
+    "title": "Algae and the Environment",
+    "description": "Fundamentals of algae, interactions of algae with the environment, and applications for environmental conservation and human uses.  Introduction to the evolution and diversity of marine and selected freshwater algae and major ecological characteristics and responses to environmental variability. Applications may include exploitation of algae for green energy, environmental bioremediation, food, and bioproducts.",
+    "credits": "3",
+    "requirement_description": "BIOL 1108 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

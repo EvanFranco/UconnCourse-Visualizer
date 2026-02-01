@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3640",
+    "dept_code": "MATH",
+    "id_number": "3640",
+    "title": "Short-Term Insurance Ratemaking",
+    "description": "Credibility theory, pricing for short-term insurance coverages, reinsurance, experience rating, risk classification, introduction to Bayesian statistics.",
+    "credits": "3",
+    "requirement_description": "MATH 3620. Not open to students who have passed MATH 5640.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "ENGL 3509W",
+    "dept_code": "ENGL",
+    "id_number": "3509W",
+    "title": "Studies in Individual Writers",
+    "description": "Concentrated study in one or two authors writing in English. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

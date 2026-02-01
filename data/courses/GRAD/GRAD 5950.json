@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5950",
+    "dept_code": "GRAD",
+    "id_number": "5950",
+    "title": "Master's Thesis Research",
+    "description": "Associated with the research efforts of students pursuing a Plan A Master's Degree, and may be used to meet the nine-credit Master's research requirement. May be repeated for a total of 50 credits.",
+    "credits": "1-9",
+    "requirement_description": "Open only to graduate students enrolled in a Plan A Master's Degree Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 5
+}

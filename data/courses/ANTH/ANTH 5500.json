@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 5500",
+    "dept_code": "ANTH",
+    "id_number": "5500",
+    "title": "Professional Development in Anthropology",
+    "description": "Hands-on survey of practical skills required for professional anthropology, including writing research plans, grant applications, manuscript preparation, teaching philosophies, professional behavior and ethics.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Anthropology, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

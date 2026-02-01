@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 6141",
+    "dept_code": "PSYC",
+    "id_number": "6141",
+    "title": "Practicum in Neuropsychological Assessment",
+    "description": "Field placements in clinical neuropsychology. Students will be placed in area hospitals, rehabilitation centers, or on campus, where they will perform neuropsychological evaluations under supervision and attend clinical rounds and team meetings. May be repeated for a total of 24 credits.",
+    "credits": "3",
+    "requirement_description": "PSYC 5301, PSYC 5140, and PSYC 5141.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

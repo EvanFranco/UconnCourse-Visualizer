@@ -1,0 +1,24 @@
+{
+    "name": "HRTS 3028W",
+    "dept_code": "HRTS",
+    "id_number": "3028W",
+    "title": "Indigenous Rights and Aboriginal Australia",
+    "description": "(Also offered as ANTH\u00a03028W.) An introduction to the study and understanding of Aboriginal ways of life and thought. An exploration of the complexity of contemporary indigenous social orders and land rights issues. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: ANTH 2000.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

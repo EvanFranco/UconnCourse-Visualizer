@@ -1,0 +1,18 @@
+{
+    "name": "SOCI 2280W",
+    "dept_code": "SOCI",
+    "id_number": "2280W",
+    "title": "Sociology of Mental Illness",
+    "description": "Theories and research in the sociology of mental health; emphasis on how sociologists analyze mental illness, the social and structural causes of mental illness, and the social and institutional responses to people experiencing mental illness.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

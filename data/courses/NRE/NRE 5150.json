@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5150",
+    "dept_code": "NRE",
+    "id_number": "5150",
+    "title": "Ecosystem Science and Management",
+    "description": "Ecosystem biogeochemical processes, the organism-environment interactions that regulate them, and natural resources management strategies that explicitly consider ecosystem structure and function.",
+    "credits": "3",
+    "requirement_description": "This course and NRE 4150 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

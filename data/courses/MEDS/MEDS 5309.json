@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5309",
+    "dept_code": "MEDS",
+    "id_number": "5309",
+    "title": "Molecular Basis of Disease",
+    "description": "Seminar and discussion based course that reviews the molecular understanding of human disease.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

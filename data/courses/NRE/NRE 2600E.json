@@ -1,0 +1,24 @@
+{
+    "name": "NRE 2600E",
+    "dept_code": "NRE",
+    "id_number": "2600E",
+    "title": "Global Sustainable Natural Resources",
+    "description": "Sustainable management of natural resources across cultural, political, and ecological boundaries. Topics include marine and fresh waters, forests, food production, and urban development. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

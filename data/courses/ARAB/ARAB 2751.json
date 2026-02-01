@@ -1,0 +1,20 @@
+{
+    "name": "ARAB 2751",
+    "dept_code": "ARAB",
+    "id_number": "2751",
+    "title": "Arabic Folk Tales and Mirrors for Princes",
+    "description": "Folk tales and advice to princes and rulers of the Muslim World: Arabic, Persian and Moghul texts read in translation, such as The Thousand and One Nights, the Qabusname, and Jahangirname. Comparisons with European frame-tales and advice literature (Chaucer, Boccaccio, Machiavelli). Manuals for rulership from India to Andalusia. Ethics, conduct, and political philosophy in folk literature and elite prose. Taught in English. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

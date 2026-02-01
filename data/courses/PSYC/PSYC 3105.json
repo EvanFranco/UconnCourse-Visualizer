@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3105",
+    "dept_code": "PSYC",
+    "id_number": "3105",
+    "title": "Health Psychology",
+    "description": "The interface between psychology and health is examined using a biopsychosocial model. Topics include stress and coping, health promotion, adjustment to chronic illness, and the psychology of health behaviors",
+    "credits": "3",
+    "requirement_description": "PSYC 1100; PSYC 1101 or 1103.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

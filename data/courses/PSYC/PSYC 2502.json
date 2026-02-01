@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 2502",
+    "dept_code": "PSYC",
+    "id_number": "2502",
+    "title": "Science of Learning and Art of Scientific Communication",
+    "description": "Lecture, discussion, and team-based presentations related to the principles of learning and the essentials of scientific communication.",
+    "credits": "3",
+    "requirement_description": "Open only to Honors students; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

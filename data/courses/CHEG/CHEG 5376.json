@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5376",
+    "dept_code": "CHEG",
+    "id_number": "5376",
+    "title": "Bioseparations",
+    "description": "Introduction to bioseparations, review of mass transport, adsorption, chromatography, filtration, extraction, electrophoresis, and field flow fractionation.",
+    "credits": "3",
+    "requirement_description": "Instructor consent; enrollment in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

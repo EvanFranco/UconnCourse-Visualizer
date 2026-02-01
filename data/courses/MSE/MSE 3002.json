@@ -1,0 +1,16 @@
+{
+    "name": "MSE 3002",
+    "dept_code": "MSE",
+    "id_number": "3002",
+    "title": "Transport Phenomena in Materials Processing",
+    "description": "Mechanisms and quantitative treatment of mass, energy, and momentum transfer will be applied to design and analysis of materials processing. Increasingly complex and open-ended engineering design projects will be used to illustrate principles of diffusion; heat conduction, convection, and radiation, and fluid flow.",
+    "credits": "3",
+    "requirement_description": "MSE 3003 and MATH 2110Q, both of which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

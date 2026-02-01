@@ -1,0 +1,16 @@
+{
+    "name": "MSE 4996",
+    "dept_code": "MSE",
+    "id_number": "4996",
+    "title": "Thesis Research in Materials Science and Engineering",
+    "description": "Academic research conducted by a student under the supervision of the thesis advisor that involves completing and documenting a major original project.",
+    "credits": "1-3",
+    "requirement_description": "Up to three credits of MSE 4097 or 4996 can satisfy the Professional Elective requirement.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

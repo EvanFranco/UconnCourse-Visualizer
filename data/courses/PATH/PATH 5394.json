@@ -1,0 +1,16 @@
+{
+    "name": "PATH 5394",
+    "dept_code": "PATH",
+    "id_number": "5394",
+    "title": "Veterinary Pathology Seminar",
+    "description": "Blinded examination of gross and histologic lesions with emphasis on lesion recognition, description and disease diagnosis, followed by group discussion of each case. May be repeated for a total of 12 credits.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

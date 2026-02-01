@@ -1,0 +1,16 @@
+{
+    "name": "AFRA 3299",
+    "dept_code": "AFRA",
+    "id_number": "3299",
+    "title": "Independent Study",
+    "description": "Supervised reading and writing on a subject of special interest to the student. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

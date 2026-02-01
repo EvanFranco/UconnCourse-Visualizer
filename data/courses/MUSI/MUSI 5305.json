@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 5305",
+    "dept_code": "MUSI",
+    "id_number": "5305",
+    "title": "Graduate Performing Ensemble",
+    "description": "Symphony Orchestra, Symphonic Wind Ensemble, Concert Band, Concert Choir, Chamber Singers, University Chorale, Voices of Freedom Gospel Choir, Jazz Ensemble, Jazz Lab Band. May be repeated for a total of 16 credits.",
+    "credits": "1",
+    "requirement_description": "Open to graduate students in Music, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

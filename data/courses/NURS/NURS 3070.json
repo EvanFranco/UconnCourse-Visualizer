@@ -1,0 +1,20 @@
+{
+    "name": "NURS 3070",
+    "dept_code": "NURS",
+    "id_number": "3070",
+    "title": "Culturally Informed Communication with Spanish-Speaking Healthcare Consumers",
+    "description": "Navigating cultural variances and exploring varying beliefs, values, and perceptions related to healthcare concerns of Spanish-speaking Healthcare consumers, families, and communities. Discussion includes topics such as disease prevalence, healthcare disparities, social determinants of health, and systemic barriers that impact health outcomes. Introductory phrases in Spanish related to healthcare situations will be presented. Taught in English; Spanish not required; does not fulfill foreign language requirement.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

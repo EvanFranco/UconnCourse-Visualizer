@@ -1,0 +1,16 @@
+{
+    "name": "ME 3130",
+    "dept_code": "ME",
+    "id_number": "3130",
+    "title": "Advanced Engineering Mathematics",
+    "description": "Linear algebra, systems of linear equations, eigenvalues, vector calculus and integral theorems, series solutions to ordinary differential equations, Laplace and Fourier transforms, solution to partial differential equations. The course stresses on the application of mathematics and methods to solve engineering problems rather than derivation of mathematical theorems. Applications include structural analysis, vibration, control systems, heat transfer, and fluid dynamics.",
+    "credits": "3",
+    "requirement_description": "MATH 2410Q; ME 2015.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

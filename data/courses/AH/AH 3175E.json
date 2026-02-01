@@ -1,0 +1,18 @@
+{
+    "name": "AH 3175E",
+    "dept_code": "AH",
+    "id_number": "3175E",
+    "title": "Environmental Health",
+    "description": "The environmental health consequences of exposure to toxic chemicals, food contaminants and radiation. Basic principles of toxicology and topics such as cancer, occupational hazards, radiation, genetic biomonitoring, risk assessment techniques, risk/benefit analysis, social/legal aspects of regulating toxic chemicals, and other related topics.",
+    "credits": "3",
+    "requirement_description": "BIOL 1102 or higher; CHEM 1122 or higher; open to Allied Health Sciences, Environmental Sciences, Environmental Studies and Engineering majors, others with instructor consent; open to juniors or higher. Recommended preparation: A course in animal anatomy and physiology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

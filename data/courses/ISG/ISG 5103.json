@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5103",
+    "dept_code": "ISG",
+    "id_number": "5103",
+    "title": "Theories and Methods of Clinical Genetics",
+    "description": "An Introduction to the theoretical framework, skillsets, and applications necessary to provide scientific communication of genetics and genomics, resources, diagnoses, and counseling in the clinical setting.",
+    "credits": "3",
+    "requirement_description": "Only open to graduate students currently enrolled in the Clinical Genetics and Genomics certificate, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

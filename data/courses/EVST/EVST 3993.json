@@ -1,0 +1,16 @@
+{
+    "name": "EVST 3993",
+    "dept_code": "EVST",
+    "id_number": "3993",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. May count toward the major with consent of the advisor up to a maximum of six credits. May be repeated for a total of 15 credits.",
+    "credits": "1-15",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

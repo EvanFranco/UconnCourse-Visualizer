@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2447",
+    "dept_code": "ECON",
+    "id_number": "2447",
+    "title": "Economics of Sports",
+    "description": "Microeconomic principles applied to the business of sports. Player salaries; antitrust issues and collective bargaining; discrimination; economics of franchising; ticket pricing, revenue sharing, and competitive balance; impact of franchises on local economies.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or 1201 or ARE 1150.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "HIST 2105",
+    "dept_code": "HIST",
+    "id_number": "2105",
+    "title": "History through Film",
+    "description": "An exploration of the ways in which film can communicate complex cultural, historical, and political ideas. Topics may include film's ability to translate philosophical and religious ideas, portray accurate or revisionist history, play a role in subverting or critiquing the social and political status quo, and act as a chronicler of change. Formerly offered as HIST 3105. CA 1. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

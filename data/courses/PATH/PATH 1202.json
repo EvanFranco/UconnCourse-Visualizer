@@ -1,0 +1,16 @@
+{
+    "name": "PATH 1202",
+    "dept_code": "PATH",
+    "id_number": "1202",
+    "title": "Fundamental Biomedical Laboratory Techniques",
+    "description": "Hands-on, basic biomedical research laboratory techniques with an emphasis on chemical and biological safety, as well as laboratory proficiency.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4112",
+    "dept_code": "ECE",
+    "id_number": "4112",
+    "title": "Digital Communications and Networks",
+    "description": "Fundamentals of communication systems. Encoding of analog signals for digital transmission. Basic information theory. Source encoding techniques. Baseband data transmission. Digital carrier modulation schemes. Multiplexing techniques. Basic error control coding.  Random processes and analysis of communication of systems in noise.",
+    "credits": "3",
+    "requirement_description": "ECE 3101 or BME 3400; STAT 3345Q or MATH 3160; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

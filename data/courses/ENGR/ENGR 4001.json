@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 4001",
+    "dept_code": "ENGR",
+    "id_number": "4001",
+    "title": "Multidisciplinary Engineering Design I",
+    "description": "A capstone design experience in Multidisciplinary Engineering (MDE) based on the knowledge and skills acquired in earlier coursework. Students will work on open-ended design projects and consider the public health, safety, and welfare, as well as global, cultural, social, environmental, and economic impacts of their work. Students will propose solutions, consider relevant constraints and engineering standards, and present their findings in both oral and written formats. Students pursuing a specialization within MDE may choose to incorporate relevant elements of their specialization into their project.",
+    "credits": "3",
+    "requirement_description": "Open to Engineering seniors in the Multidisciplinary Engineering (MDE) major, or with academic advisor and department permission. Recommended preparation: Complete junior year MDE major coursework before attempting this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5735",
+    "dept_code": "ERTH",
+    "id_number": "5735",
+    "title": "Introduction to Groundwater Hydrology",
+    "description": "Physics of groundwater systems, the hydrologic cycle, and groundwater's role in water supply and contamination. Specific topics include: challenges of groundwater under climate change; physical properties affecting groundwater flow; math-based understanding of groundwater processes; introduction to groundwater contaminant transport and unsaturated flow.",
+    "credits": "4",
+    "requirement_description": "Not open for credit to students who have passed ERTH 4735 or NRE 4135.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

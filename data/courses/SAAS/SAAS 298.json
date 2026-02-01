@@ -1,0 +1,16 @@
+{
+    "name": "SAAS 298",
+    "dept_code": "SAAS",
+    "id_number": "298",
+    "title": "Variable Topics",
+    "description": "Contact Department Main Office for list of current topics and instructors. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

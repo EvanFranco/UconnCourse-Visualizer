@@ -1,0 +1,23 @@
+{
+    "name": "SPAN 3206",
+    "dept_code": "SPAN",
+    "id_number": "3206",
+    "title": "Contemporary Spain",
+    "description": "An interdisciplinary course analyzing the politics, social structures and cultural life in Spain today. Spain in relation to Western Europe and the community of nations.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: SPAN 3178 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

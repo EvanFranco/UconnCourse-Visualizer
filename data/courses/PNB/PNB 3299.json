@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3299",
+    "dept_code": "PNB",
+    "id_number": "3299",
+    "title": "Independent Study",
+    "description": "Designed for the advanced undergraduate student who desires to pursue a special problem as an introduction to independent investigation. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5554",
+    "dept_code": "ECE",
+    "id_number": "5554",
+    "title": "Distribution Management Systems",
+    "description": "Role of Distribution Management Systems (DMS) in smart distribution, standards and regulations, static and dynamic models, advanced DMS applications (topology processor, Volt/VAR control, fault detection, isolation, restoration, state estimation, three-phase power flow, short circuit analysis, feeder reconfiguration, optimal capacitor placement, protection coordination, maintenance and outage planning), power quality analysis, electric vehicle charging/discharging, active distribution network under high penetration of distributed energy resources (DERs), aggregation of DERs for DERMS.",
+    "credits": "3",
+    "requirement_description": "ECE 3231 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

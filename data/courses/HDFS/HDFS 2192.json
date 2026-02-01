@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 2192",
+    "dept_code": "HDFS",
+    "id_number": "2192",
+    "title": "Observing Early Childhood Development",
+    "description": "Observing young children in early care and education settings.",
+    "credits": "3",
+    "requirement_description": "HDFS 2120, HDFS 3122, or HDFS 3123, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

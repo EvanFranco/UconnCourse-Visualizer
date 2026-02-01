@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6550",
+    "dept_code": "EPSY",
+    "id_number": "6550",
+    "title": "Situated Cognition",
+    "description": "Theory, research and applications of situated cognition and situated learning.",
+    "credits": "3",
+    "requirement_description": "EPSY 5520, 5510, and 5530.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

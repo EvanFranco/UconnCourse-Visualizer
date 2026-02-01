@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3507",
+    "dept_code": "ENGL",
+    "id_number": "3507",
+    "title": "Milton",
+    "description": "The lyric, epic and dramatic poetry of Milton, with some consideration of his prose writing.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

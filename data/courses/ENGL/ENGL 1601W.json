@@ -1,0 +1,23 @@
+{
+    "name": "ENGL 1601W",
+    "dept_code": "ENGL",
+    "id_number": "1601W",
+    "title": "Race, Gender, and the Culture Industry",
+    "description": "Cultural construction of race and gender in English-language literature, film, and music. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

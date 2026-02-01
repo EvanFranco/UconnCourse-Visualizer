@@ -1,0 +1,16 @@
+{
+    "name": "ART 3665",
+    "dept_code": "ART",
+    "id_number": "3665",
+    "title": "Ceramics: Clay and Glaze Composition",
+    "description": "Advanced studio investigations exploring clay and glaze formulation and function, as means to technical control and creative discovery in ceramic art practice. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "ART 2610 and one 3000-level Ceramics course from ART 3605, 3610, 3615, 3620, 3625, or 3655. Open only to Art and Art History majors, others by instructor consent",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

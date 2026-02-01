@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3305",
+    "dept_code": "DMD",
+    "id_number": "3305",
+    "title": "History of Computer Graphics",
+    "description": "The history of computer-generated imagery (CG) from its beginnings to the present.",
+    "credits": "3",
+    "requirement_description": "Open to Digital Media and Design majors; others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

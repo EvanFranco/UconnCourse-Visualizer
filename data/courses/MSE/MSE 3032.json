@@ -1,0 +1,16 @@
+{
+    "name": "MSE 3032",
+    "dept_code": "MSE",
+    "id_number": "3032",
+    "title": "Introduction to High Temperature Materials",
+    "description": "Plastic deformation of metals and other solid materials at elevated temperatures. Dislocation mechanisms; creep processes; oxidation. Strengthening mechanism, including ordering and precipitation hardening.",
+    "credits": "3",
+    "requirement_description": "MSE 2001 or 2101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

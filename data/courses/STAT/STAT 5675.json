@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5675",
+    "dept_code": "STAT",
+    "id_number": "5675",
+    "title": "Bayesian Data Analysis",
+    "description": "Theory of statistical inference based on Bayes' Theorem: basic probability theory, linear/nonlinear, graphical, and hierarchical models, decision theory, Bayes estimation and hypothesis testing, prior elicitation, Gibbs sampling, the Metropolis-Hastings algorithm, Monte Carlo integration.",
+    "credits": "3",
+    "requirement_description": "STAT 5585 and 5685; or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

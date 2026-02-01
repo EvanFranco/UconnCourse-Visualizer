@@ -1,0 +1,19 @@
+{
+    "name": "FINA 1100",
+    "dept_code": "FINA",
+    "id_number": "1100",
+    "title": "Afrocentric Perspectives in the Arts",
+    "description": "(Also offered as AFRA\u00a01100.) Lectures and discussions about assigned readings focus on historical and aesthetic perspectives of African American Arts and their African sources, with emphasis on how social and aesthetic context impacts on creative expression by African American artists. Presentations by guest lecturers and University of Connecticut faculty plus small group discussions. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

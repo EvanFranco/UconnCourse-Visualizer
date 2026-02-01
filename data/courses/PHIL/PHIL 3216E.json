@@ -1,0 +1,21 @@
+{
+    "name": "PHIL 3216E",
+    "dept_code": "PHIL",
+    "id_number": "3216E",
+    "title": "Environmental Ethics",
+    "description": "Ethical questions concerning human interaction with the natural world. Topics may include the moral standing of animals, plants, species, and ecosystems; the value of wilderness and biodiversity; obligations to future generations; environmental racism and justice; ecofeminism and deep ecology; and ethical dimensions of environmental policy.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

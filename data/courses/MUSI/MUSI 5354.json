@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 5354",
+    "dept_code": "MUSI",
+    "id_number": "5354",
+    "title": "Advanced Analysis",
+    "description": "Methods and models of music analysis applied to selected works from the Middle Ages to the 20th Century.",
+    "credits": "3",
+    "requirement_description": "MUSI 5302; open to graduate students in Music, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

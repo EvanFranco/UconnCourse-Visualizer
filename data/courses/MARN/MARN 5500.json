@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5500",
+    "dept_code": "MARN",
+    "id_number": "5500",
+    "title": "Professional Development in Marine Sciences",
+    "description": "Survey of practical skills required for professional integration into the scientific\tcommunity, including proposal writing, scientific and public presentations, manuscript preparation and publication, scientific peer review, resume building, and interview skills.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SAPL 500",
+    "dept_code": "SAPL",
+    "id_number": "500",
+    "title": "Principles and Concepts of Agroecology",
+    "description": "Application of ecological processes to modern agricultural production practices. Crops and their environment. Soil quality and maintenance of soil productivity. Sustainability of agroecosystems.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

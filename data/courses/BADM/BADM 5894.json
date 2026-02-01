@@ -1,0 +1,16 @@
+{
+    "name": "BADM 5894",
+    "dept_code": "BADM",
+    "id_number": "5894",
+    "title": "Special Topics",
+    "description": " May be repeated for a total of 12 credits.",
+    "credits": "1-9",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

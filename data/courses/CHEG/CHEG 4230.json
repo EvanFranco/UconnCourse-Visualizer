@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4230",
+    "dept_code": "CHEG",
+    "id_number": "4230",
+    "title": "Brewery Engineering",
+    "description": "Introduction to chemical engineering principles of brewing science. History of beer, beer styles, analytical characterization, fermentation kinetics, unit operations, brewery process design and economics. Process safety and recipe formulation will also be discussed.",
+    "credits": "3",
+    "requirement_description": "Open only to Chemical Engineering majors; must be at least 21 years of age by the first day of the class.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

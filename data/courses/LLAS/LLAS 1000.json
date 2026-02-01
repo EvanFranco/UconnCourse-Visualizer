@@ -1,0 +1,22 @@
+{
+    "name": "LLAS 1000",
+    "dept_code": "LLAS",
+    "id_number": "1000",
+    "title": "Introduction to Latina/o Studies",
+    "description": "Interdisciplinary examination of the Latina/o experience and impact across the United States. Consideration of behavioral, institutional, and societal perspectives; national and transnational identity; cultural, legal, and educational issues. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

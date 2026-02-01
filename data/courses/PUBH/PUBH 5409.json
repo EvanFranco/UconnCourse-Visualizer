@@ -1,0 +1,16 @@
+{
+    "name": "PUBH 5409",
+    "dept_code": "PUBH",
+    "id_number": "5409",
+    "title": "Introduction to Epidemiology and Biostatistics II",
+    "description": "This continuation of a two-course sequence on basic epidemiology, biostatistics and public health research addresses hypothesis generation, data collection methods, point and confidence interval estimation, inference testing, correlation/regression analysis, multivariable interaction, effect modification, power and meta-analysis. Evaluation of study designs, research methods and statistical procedures in clinical and public health literature will be stressed.",
+    "credits": "3",
+    "requirement_description": "PUBH 5408. Open only to Master of Public Health (MPH) or Foundations of Public Health Certificate students; others with department consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

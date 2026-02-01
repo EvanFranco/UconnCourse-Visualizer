@@ -1,0 +1,16 @@
+{
+    "name": "ARE 5210",
+    "dept_code": "ARE",
+    "id_number": "5210",
+    "title": "Data Science for Decision Making in Applied and Resource Economics",
+    "description": "This course introduces data science and its transformative role in decision-making across business and policy applications in applied and resource economics. Students will learn to analyze and interpret data using R, with hands-on practice in visualization, A/B testing, regression analysis, and machine learning. Designed for beginners, it emphasizes intuitive approaches and practical applications, preparing students to apply data science in real-world contexts.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Statistics, such as STAT 1000Q or STAT 1100Q or a similar course. Not open for credit to students who have passed ARE 4210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

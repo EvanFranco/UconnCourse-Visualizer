@@ -1,0 +1,18 @@
+{
+    "name": "JOUR 2000W",
+    "dept_code": "JOUR",
+    "id_number": "2000W",
+    "title": "Newswriting I",
+    "description": "Defining news; exercising news judgment in a diverse society; employing principles of Associated Press style; writing basic news stories. Laboratory offers intensive newswriting exercises.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Cannot be taken out of sequence after passing JOUR 2001, 3005, 3030, 3040, 3045 or 4091.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

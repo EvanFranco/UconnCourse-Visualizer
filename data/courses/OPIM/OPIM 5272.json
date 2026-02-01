@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5272",
+    "dept_code": "OPIM",
+    "id_number": "5272",
+    "title": "Data Management and Business Process Modeling",
+    "description": "Introduces common techniques for relational data management, including conceptual modeling, table design and Structured Query Language (SQL). Additionally covers topics from business process re-engineering, with a focus on process modeling and how process improvement influences favorable database design.",
+    "credits": "3",
+    "requirement_description": "Open only to MBA, MSBAPM, and MS FinTech students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

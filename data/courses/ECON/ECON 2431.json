@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2431",
+    "dept_code": "ECON",
+    "id_number": "2431",
+    "title": "Economics of Taxation and Government Spending",
+    "description": "Critical issues in taxation and government expenditures. Emphasis on institutions and public policy. Topics include: rationale for and effects of progressive taxation, reform of the tax system, Social Security and  Medicare, welfare reform, defense, and fiscal federalism.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or 1201 or ARE 1150. Recommended preparation for students who have passed ECON 1201 (or ARE 1150) is ECON 1202.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

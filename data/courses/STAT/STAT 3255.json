@@ -1,0 +1,16 @@
+{
+    "name": "STAT 3255",
+    "dept_code": "STAT",
+    "id_number": "3255",
+    "title": "Introduction to Data Science",
+    "description": "Introduction to data science for effectively storing, processing, analyzing and making inferences from data. Topics include project management, data preparation, data visualization, statistical models, machine learning, distributed computing, and ethics.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q, STAT 2255 or COGS 2500Q or ECON 3322, STAT 3115Q or 3215Q, or instructor consent",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

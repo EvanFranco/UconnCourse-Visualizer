@@ -1,0 +1,16 @@
+{
+    "name": "CHIN 3275",
+    "dept_code": "CHIN",
+    "id_number": "3275",
+    "title": "Introduction to Chinese Linguistics",
+    "description": "Introduction to Chinese phonetics, phonology, morphology, syntax, writing system, and sociolinguistic aspects. Taught in English.",
+    "credits": "3",
+    "requirement_description": "CHIN 1112.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

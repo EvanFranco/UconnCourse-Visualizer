@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 3211",
+    "dept_code": "OPIM",
+    "id_number": "3211",
+    "title": "Systems Analysis and Design",
+    "description": "System development methodologies for business information systems. Project management concepts, hardware and software technology, and organizational considerations are explored. Students participate in a system development project.",
+    "credits": "3",
+    "requirement_description": "OPIM 3103, 3203, 3204 and 3207; Open only to Analytics and Information Management majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

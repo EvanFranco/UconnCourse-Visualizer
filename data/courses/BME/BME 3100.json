@@ -1,0 +1,16 @@
+{
+    "name": "BME 3100",
+    "dept_code": "BME",
+    "id_number": "3100",
+    "title": "Physiological Modeling",
+    "description": "Techniques for analysis and modeling of biomedical systems. Application of advanced mathematics (including Differential Equations, Laplace Transforms and Statistics) and computer-aided methods to study problems at the interface of engineering and biology. Elements of  physiological modeling and the solution of the transient and forced  response for a variety of biomechanical, biomaterial, bioelectrical and biochemical systems.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q, which may be taken concurrently. Open only to Biomedical Engineering majors. Recommended preparation: BIOL 1107.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

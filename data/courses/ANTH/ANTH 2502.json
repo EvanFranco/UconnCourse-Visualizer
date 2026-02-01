@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 2502",
+    "dept_code": "ANTH",
+    "id_number": "2502",
+    "title": "Human Evolution",
+    "description": "The processes and events leading to the origin of human beings. Human physical and cultural development from its beginning to the dawn of settled life, through the approaches of physical anthropology and archaeology.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "MUSI 3410W",
+    "dept_code": "MUSI",
+    "id_number": "3410W",
+    "title": "Music, History, and Ideas",
+    "description": "Relationships of musical styles to cultural and intellectual backgrounds.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

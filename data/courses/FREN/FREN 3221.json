@@ -1,0 +1,16 @@
+{
+    "name": "FREN 3221",
+    "dept_code": "FREN",
+    "id_number": "3221",
+    "title": "Classics of French Literature",
+    "description": "Milestone texts in the history of French literature, with an emphasis on the range of literary forms in their social, cultural, and historical contexts. Genres include the realist novel, detective fiction, and fantasy writing; romantic and symbolist poetry; slapstick and surrealist plays and the theater of the absurd. Taught in French.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: FREN 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

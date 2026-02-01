@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4140",
+    "dept_code": "CHEG",
+    "id_number": "4140",
+    "title": "Chemical Engineering Capstone Design I",
+    "description": "Theoretical treatment and design of chemical engineering processes and/or products. Comparison of alternative processing steps; instrumentation; cost estimation; economic analysis; process optimization; safety and environmental concerns in design; ethical considerations in chemical engineering design. Emphasis on the application of chemical engineering principles to conceptual design.",
+    "credits": "3",
+    "requirement_description": "CHEG 3112, 3123, 3124, and 3151; open only to Chemical Engineering majors. Corequisite: CHEG 4142",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

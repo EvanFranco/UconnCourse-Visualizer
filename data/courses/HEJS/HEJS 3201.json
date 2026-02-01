@@ -1,0 +1,18 @@
+{
+    "name": "HEJS 3201",
+    "dept_code": "HEJS",
+    "id_number": "3201",
+    "title": "Selected Books of the Hebrew Bible",
+    "description": "Literary structure and content of biblical book(s) using modern approaches as well as midrashic and medieval exegesis. Historical and archaeological material. With a change in content, may be repeated for credit and consent of instructor. A knowledge of Hebrew is not required. Taught in English. May not be used to meet the foreign language requirement. CA 1. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "INTD 3260 or HIST 3301 or HEJS 1103, which may be taken concurrrently, or instructor consent.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

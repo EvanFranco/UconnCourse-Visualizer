@@ -1,0 +1,18 @@
+{
+    "name": "SOCI 2110W",
+    "dept_code": "SOCI",
+    "id_number": "2110W",
+    "title": "Sociology of Education",
+    "description": "Education and society: primary schools through universities as agencies for social selection and socialization.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

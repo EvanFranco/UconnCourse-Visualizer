@@ -1,0 +1,16 @@
+{
+    "name": "BADM 5180",
+    "dept_code": "BADM",
+    "id_number": "5180",
+    "title": "Core Statistics",
+    "description": "Covers classical inference procedures and basic statistical concepts often essential to interpretation of business data. Students will learn to ask probing questions about the specifics of data and statistical techniques, to understand the conditions for drawing reliable inferences, and to assess the validity of statistical evidence. Topics include: discrete and continuous random variables, sampling, confidence intervals and hypothesis testing.",
+    "credits": "1.5",
+    "requirement_description": "Open only to MBA students, others with consent. Not open to students who have passed BLAW 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

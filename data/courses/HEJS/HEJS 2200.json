@@ -1,0 +1,23 @@
+{
+    "name": "HEJS 2200",
+    "dept_code": "HEJS",
+    "id_number": "2200",
+    "title": "Israel: History and Society",
+    "description": "Major themes in Zionist and Israeli history and the development of Israeli art, literature, film, popular music, dance, theater, and popular culture, with a focus on the central questions that have both unified and divided Israeli society and politics. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

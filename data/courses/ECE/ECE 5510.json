@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5510",
+    "dept_code": "ECE",
+    "id_number": "5510",
+    "title": "Power System Analysis",
+    "description": "Fundamentals of power system planning, operation, and management. Power generation and distribution. Modeling of AC generator, AC and DC motors, transformer and cable. Power flow solution. Modern power system monitoring/control, fault analysis, and transient stability analysis using computer tools. Use of power system simulation tools for power system planning and design.",
+    "credits": "3",
+    "requirement_description": "ECE 2001 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

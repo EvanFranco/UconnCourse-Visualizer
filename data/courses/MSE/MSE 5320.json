@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5320",
+    "dept_code": "MSE",
+    "id_number": "5320",
+    "title": "Investigation of Special Topics",
+    "description": "Special courses or individual readings. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

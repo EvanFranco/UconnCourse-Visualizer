@@ -1,0 +1,23 @@
+{
+    "name": "PLSC 2120E",
+    "dept_code": "PLSC",
+    "id_number": "2120E",
+    "title": "Environmental Soil Science",
+    "description": "Introduction to the physical, chemical, and biological properties of soils. The relationship between soils and the growth of higher plants. Impact of soils on environmental quality.",
+    "credits": "3",
+    "requirement_description": "CHEM 1122 or CHEM 1124Q or CHEM 1127Q or CHEM 1137Q or CHEM 1147Q. May not be taken out of sequence after passing PLSC 3620.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

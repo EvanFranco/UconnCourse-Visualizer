@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5010",
+    "dept_code": "COMM",
+    "id_number": "5010",
+    "title": "Theory Construction and Research Design",
+    "description": "Conceptualization, theory construction, and review of communication methodologies. Students will write a proposal for independent research, thesis, or dissertation.",
+    "credits": "3",
+    "requirement_description": "COMM 5002.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

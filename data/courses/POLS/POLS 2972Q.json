@@ -1,0 +1,18 @@
+{
+    "name": "POLS 2972Q",
+    "dept_code": "POLS",
+    "id_number": "2972Q",
+    "title": "Quantitative Analysis in Political Science",
+    "description": "Explanation of the quantitative methods used in political science. Application of these methods for the analysis of substantive political questions. Formerly offered as POLS 2072Q.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: High School Algebra II and a mathematics course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5208",
+    "dept_code": "DRAM",
+    "id_number": "5208",
+    "title": "Computer Applications",
+    "description": "Survey of current software available for application to production management and technical design and production.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

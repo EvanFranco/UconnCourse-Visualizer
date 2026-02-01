@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 6213",
+    "dept_code": "MKTG",
+    "id_number": "6213",
+    "title": "Advanced Quantitative Applications in Marketing",
+    "description": "This course focuses on advanced topics and recent developments in quantitative marketing. Students learn about advanced modeling approaches. Students gain experience using these approaches with empirical data to address marketing problems.",
+    "credits": "3",
+    "requirement_description": "MKTG 6203 or the equivalent as determined by the instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

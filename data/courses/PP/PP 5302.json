@@ -1,0 +1,16 @@
+{
+    "name": "PP 5302",
+    "dept_code": "PP",
+    "id_number": "5302",
+    "title": "Professional Seminar",
+    "description": "Provides executive leadership and executive training opportunities for students in the Master of Public Administration program. May be repeated for a total of 3 credits.",
+    "credits": "1-3",
+    "requirement_description": "Open to students in the Master of Public Administration program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

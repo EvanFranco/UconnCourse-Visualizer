@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5452",
+    "dept_code": "MCB",
+    "id_number": "5452",
+    "title": "Problems in Genetics of Eukaryotes",
+    "description": "Consideration of such problems as chromosomal organization, mechanisms of meiotic drive, epigenetic inheritance, chromosome distribution, and transposable elements in model genetic organisms.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

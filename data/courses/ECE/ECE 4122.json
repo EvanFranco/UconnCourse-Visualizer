@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4122",
+    "dept_code": "ECE",
+    "id_number": "4122",
+    "title": "Systems Laboratory",
+    "description": "Real-time digital control and signal processing of cyber-physical systems. Typical topics include control of inverted pendulum and magnetic levitation systems, velocity and position control of motors, robot path planning and control. Written and oral presentations of laboratory results.",
+    "credits": "3",
+    "requirement_description": "ECE 3111; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

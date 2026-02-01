@@ -1,0 +1,16 @@
+{
+    "name": "HCMI 5632",
+    "dept_code": "HCMI",
+    "id_number": "5632",
+    "title": "Internship in Health Care Management",
+    "description": "Under the guidance of a qualified preceptor, the student participates in the administrative process in the long-term health care organizational structure. A project is required. May be repeated for a total of 9 credits.",
+    "credits": "1-9",
+    "requirement_description": "Not open to M.B.A. students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

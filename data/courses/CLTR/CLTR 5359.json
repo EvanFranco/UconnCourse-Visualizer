@@ -1,0 +1,16 @@
+{
+    "name": "CLTR 5359",
+    "dept_code": "CLTR",
+    "id_number": "5359",
+    "title": "Principles of Clinical and Translational Research III",
+    "description": "Third core course in research methods, biostatistics and topics in clinical and translational research. The methods section includes Instrument Development, Cross Cultural Adaptation of Research Instruments, Genetic Epidemiology, Pharmacoepidemiology, Pharmacogenomics, and Secondary Data Analysis. The biostatistics section includes Handling Missing Data, Analysis of Genetic Epidemiologic Studies, Structural Equation Modeling, and Economic Analyses. The other topics include writing and presenting scientific information.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

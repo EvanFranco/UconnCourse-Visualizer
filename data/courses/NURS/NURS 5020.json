@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5020",
+    "dept_code": "NURS",
+    "id_number": "5020",
+    "title": "Statistical Methods in Health Sciences Research",
+    "description": "Quantitative procedures including descriptive and inferential statistics, non-parametric approaches to data, and parametric analyses. Selected research designs are explored. Analytic techniques are applied for use in selected research designs in health sciences research.",
+    "credits": "3",
+    "requirement_description": "Open only to Nursing graduate students; others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

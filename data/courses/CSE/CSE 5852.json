@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5852",
+    "dept_code": "CSE",
+    "id_number": "5852",
+    "title": "Modern Cryptography: Foundations",
+    "description": "The foundations of modern cryptography introducing basic topics such as one-way functions, pseudorandom generators, and computational hardness assumptions based on number theory. Fundamental cryptographic constructions such as hard-core predicates, secure symmetric encryption and message-authentication codes, and public-key cryptography.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: MATH 3160, CSE 3500, and CSE 3502 or the equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

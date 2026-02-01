@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 6710",
+    "dept_code": "PHYS",
+    "id_number": "6710",
+    "title": "Stars and Compact Objects",
+    "description": "The structure and evolution of stars. Gravitational collapse, hydrostatic equilibrium, novae and shocks, and compact objects with degenerate matter.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed PHYS 4710.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

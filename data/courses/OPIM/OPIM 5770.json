@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5770",
+    "dept_code": "OPIM",
+    "id_number": "5770",
+    "title": "Advanced Business Analytics and Project Management",
+    "description": "Capstone course involving a live data analytics project, where students will need to integrate their knowledge of data analytics and project management. Using the skill sets of predictive modeling, data management, process models, and data mining techniques, students will investigate a real problem through data analytics, and will use their project management skills to complete the project within time and budget constraints.",
+    "credits": "3",
+    "requirement_description": "OPIM 5604,5272, 5668, and 5671. Open to MSBAPM and MBA students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

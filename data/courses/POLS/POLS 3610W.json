@@ -1,0 +1,22 @@
+{
+    "name": "POLS 3610W",
+    "dept_code": "POLS",
+    "id_number": "3610W",
+    "title": "American Politics in Film",
+    "description": "An examination of films that describe the development of American political institutions, norms, and values; that portray the processes exhibited in contemporary political institutions or the behaviors that characterize modern-day politicians; or that interpret recurring clashes in American politics. CA 2.",
+    "credits": "3",
+    "requirement_description": "POLS 1602, and ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

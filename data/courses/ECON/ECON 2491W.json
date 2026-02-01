@@ -1,0 +1,18 @@
+{
+    "name": "ECON 2491W",
+    "dept_code": "ECON",
+    "id_number": "2491W",
+    "title": "Internship Research Paper",
+    "description": "Research paper of 3,000-4,000 words on approved topic related to the internship field study.",
+    "credits": "1",
+    "requirement_description": "9 credits of 2000-level or above ECON (6 may be concurrent); at least 6th semester with a min CGPA of 2.25 or a min of 2.5 in 2000-level or above ECON courses; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

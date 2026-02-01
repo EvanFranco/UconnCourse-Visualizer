@@ -1,0 +1,16 @@
+{
+    "name": "COMM 6800",
+    "dept_code": "COMM",
+    "id_number": "6800",
+    "title": "Seminar and Directed Research in Communication",
+    "description": "Completion and presentation of directed research projects to advance the scholarship of communication graduate students. Students taking this course will be assigned a grade of S (satisfactory) or U (unsatisfactory). May be repeated for a total of 6 credits.",
+    "credits": "3-6",
+    "requirement_description": "Open to graduate students in the Communication Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

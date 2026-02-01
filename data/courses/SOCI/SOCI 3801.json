@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 3801",
+    "dept_code": "SOCI",
+    "id_number": "3801",
+    "title": "Political Sociology",
+    "description": "Social analysis of power, democracy and voting, society and the state, and political economy.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

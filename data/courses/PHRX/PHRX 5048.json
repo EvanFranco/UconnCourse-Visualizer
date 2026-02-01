@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 5048",
+    "dept_code": "PHRX",
+    "id_number": "5048",
+    "title": "Patient Assessment",
+    "description": "Teaches and reinforces patient assessment skills essential in the provision of pharmaceutical care to patients. This includes application of medical literature as it applies to patient care.",
+    "credits": "2",
+    "requirement_description": "PHRX 3003, 3006, 3007, 3040, 4040, 4041, 4042, 4043, 4044 and 4050; open only to students in the School of Pharmacy.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

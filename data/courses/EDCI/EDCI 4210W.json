@@ -1,0 +1,18 @@
+{
+    "name": "EDCI 4210W",
+    "dept_code": "EDCI",
+    "id_number": "4210W",
+    "title": "Instruction and Curriculum in the Secondary School",
+    "description": "A study of the selection and organization of learning experiences, instructional materials and teaching methods. Course activities will include a combination of lecture, seminar, and clinical experiences in local schools.",
+    "credits": "1-6",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to students in the Integrated Bachelor's/Master's Teacher Prep Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

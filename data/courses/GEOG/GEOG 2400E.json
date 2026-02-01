@@ -1,0 +1,25 @@
+{
+    "name": "GEOG 2400E",
+    "dept_code": "GEOG",
+    "id_number": "2400E",
+    "title": "Introduction to Sustainable Cities",
+    "description": "Pathways to make cities more sustainable from social, economic, and environmental perspectives. Topics include sustainable transportation, renewable energy, recycling of waste, and green infrastructure in contemporary metropolitan areas in developed and developing nations. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECON 5201",
+    "dept_code": "ECON",
+    "id_number": "5201",
+    "title": "Microeconomics",
+    "description": "Beginning graduate microeconomics covering consumer and producer theory, price determination, economic efficiency, and welfare analysis.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed ECON 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ME 3217",
+    "dept_code": "ME",
+    "id_number": "3217",
+    "title": "Metal Cutting Principles",
+    "description": "Examination of metal cutting processes including turning, shaping, drilling, grinding. Mechanics of two and three dimensional cutting. Principles and mechanisms of wear. Tool materials. Theoretical prediction of surface finish. Chemistry of cutting fluids. Laboratory period includes operation of machine tools. Experimental determination of cutting energies forces, stresses and strains. The interrelationship between these and practical metal cutting conditions.",
+    "credits": "3",
+    "requirement_description": "CE 3110, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

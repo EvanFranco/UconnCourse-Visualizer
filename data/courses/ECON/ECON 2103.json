@@ -1,0 +1,21 @@
+{
+    "name": "ECON 2103",
+    "dept_code": "ECON",
+    "id_number": "2103",
+    "title": "Deep Roots of Modern Societies",
+    "description": "Historical and comparative analysis of deep-rooted issues affecting modern societies. The evolution of societies and the origins of poverty, discrimination, conflict and war, income inequality, gender roles, and other challenging issues. CA 1.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or both ECON 1201 and 1202. Not open for credit to students who have passed ECON 3103.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3178",
+    "dept_code": "PNB",
+    "id_number": "3178",
+    "title": "Introduction to Drosophila Models in Physiology and Neurobiology Research",
+    "description": "Exploration of Drosophila as a model organism for addressing molecular, cellular, and anatomical research questions in Physiology and Neurobiology. Students will gain hands-on laboratory experience with fly husbandry, analysis of phenotypic markers, microdissection, microscopy, and behavioral assays such as mating, circadian rhythm, aggression, and learning. Open to all students meeting the prerequisites, no prior laboratory experience is necessary.",
+    "credits": "2",
+    "requirement_description": "PNB 2274 or 2774. Recommended Preparation: PNB 2275 or 2775 or PNB 2250.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

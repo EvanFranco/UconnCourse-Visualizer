@@ -1,0 +1,16 @@
+{
+    "name": "DSDA 4815",
+    "dept_code": "DSDA",
+    "id_number": "4815",
+    "title": "Applied Data Analysis Capstone",
+    "description": "Development and execution of student-led research projects:  Problem formulation; integration of statistics, computing, and domain knowledge; collaboration; communication; reproducibility; project management.",
+    "credits": "3",
+    "requirement_description": "STAT 3255. Not open for credit for students in the Bachelor of Science in Statistical Data Science program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

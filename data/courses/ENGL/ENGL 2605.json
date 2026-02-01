@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2605",
+    "dept_code": "ENGL",
+    "id_number": "2605",
+    "title": "Capitalism, Literature, and Culture",
+    "description": "How capitalism and its alternatives have been critiqued and defended through literature and other cultural forms.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

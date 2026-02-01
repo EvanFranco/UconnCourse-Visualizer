@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5835",
+    "dept_code": "CSE",
+    "id_number": "5835",
+    "title": "Machine Learning for Physical Sciences and Systems",
+    "description": "Foundational knowledge in applied aspects of machine learning, including methods for handling small, noisy, and imbalanced data; feature selection and representation learning; model selection and assessment; interpretable machine learning; and uncertainty quantification. Students will also gain exposure to state-of-the-art research in scientific machine learning, including applications to data-driven learning of dynamical systems and self-driving labs. Topics will be discussed in the context of recent advances in machine learning for materials, chemistry, and physics applications, with an emphasis on unique opportunities and challenges at the intersection of machine learning and science.",
+    "credits": "3",
+    "requirement_description": "Open to MS and PhD students in the Computer Science and Engineering program, others with department consent. Recommended preparation: Coursework and/or project experience in machine learning. Background in linear algebra, optimization, and statistics. Interest in applications in the physical sciences is preferable but not required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

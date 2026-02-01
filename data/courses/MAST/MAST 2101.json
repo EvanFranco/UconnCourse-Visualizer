@@ -1,0 +1,16 @@
+{
+    "name": "MAST 2101",
+    "dept_code": "MAST",
+    "id_number": "2101",
+    "title": "Introduction to Maritime Studies",
+    "description": "An introduction to the interdisciplinary study of maritime-related topics with an examination of the maritime physical environment and maritime cultures, history, literature, and industries.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing MAST 4994W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

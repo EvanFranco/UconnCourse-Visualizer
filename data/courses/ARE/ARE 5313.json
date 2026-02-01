@@ -1,0 +1,16 @@
+{
+    "name": "ARE 5313",
+    "dept_code": "ARE",
+    "id_number": "5313",
+    "title": "Applied Econometrics II: Advanced Causal Inference",
+    "description": "Econometric methods used in contemporary applied economic data analysis to examine causal relationships as well as machine learning techniques. Covered techniques include, but are not limited to, difference-in-differences, instrumental variables, regression discontinuity, synthetic control methods, and causal forest. Emphasis in lecture will be placed on formulating identification strategies and implementing in standard statistical software (of the student's choosing).",
+    "credits": "3",
+    "requirement_description": "ARE 5311 or STAT 5405 or instructor consent. Not open for credit to students who have passed ARE 6313.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

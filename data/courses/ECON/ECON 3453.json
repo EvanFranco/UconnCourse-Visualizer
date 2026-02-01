@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3453",
+    "dept_code": "ECON",
+    "id_number": "3453",
+    "title": "Economics of Global Health",
+    "description": "Examination of health issues in developing countries from the standpoint of applied microeconomic research. Emphasis on the analysis of real-world data.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

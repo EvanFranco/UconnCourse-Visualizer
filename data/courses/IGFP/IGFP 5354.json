@@ -1,0 +1,16 @@
+{
+    "name": "IGFP 5354",
+    "dept_code": "IGFP",
+    "id_number": "5354",
+    "title": "Advanced Field Education IV",
+    "description": "Focuses primarily on the student's method concentration, emphasizing preparation for competent, advanced specialized practice. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory).",
+    "credits": "4",
+    "requirement_description": "IGFP 5353; open only to MSW students in the Individuals, Groups and Families concentration. Corequisite: IGFP 5303 and FED 5311. IGFP 5353; open only to MSW students in the Individuals, Groups and Families concentration. Corequisite: IGFP 5303 and FED 5311. Not open to students who have passed CSWK 5354 or GRWK 5354.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

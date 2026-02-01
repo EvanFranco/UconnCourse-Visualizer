@@ -1,0 +1,16 @@
+{
+    "name": "MARN 2893",
+    "dept_code": "MARN",
+    "id_number": "2893",
+    "title": "International Studies",
+    "description": "Special topics taken in an international study program. Consultation with Marine Sciences program coordinator recommended prior to the student's departure. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

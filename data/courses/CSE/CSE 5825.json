@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5825",
+    "dept_code": "CSE",
+    "id_number": "5825",
+    "title": "Bayesian Machine Learning",
+    "description": "Bayesian machine learning is a unifying methodology for reasoning about uncertainty when modelling complex data. This course begins by covering the foundations of probabilistic modelling, Monte Carlo and variational inference algorithms, and model checking. We build on these foundations by considering essential models, e.g., mixed-membership and hierarchical models, and their applications. The course concludes with a survey of recent advances in Bayesian machine learning focusing on Bayesian nonparametrics and other advanced topics.",
+    "credits": "3",
+    "requirement_description": "Department consent required; open to graduate students in the CSE program, others with permission. Recommended preparation: CSE3500; MATH 2110, 3160 or STAT 3345Q, or the equivalent; CSE 4820 or 5819 are also desirable but not as critical.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SOCI 2651",
+    "dept_code": "SOCI",
+    "id_number": "2651",
+    "title": "Sociology of Families",
+    "description": "The American family, its changing forms and values, and the social conditions influencing it: mate selection, marital adjustment, the responsibilities and opportunities of parenthood, and resolving family crises. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

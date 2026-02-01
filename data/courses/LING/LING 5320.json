@@ -1,0 +1,16 @@
+{
+    "name": "LING 5320",
+    "dept_code": "LING",
+    "id_number": "5320",
+    "title": "Phonology II",
+    "description": "The analysis of sound patterns in languages within a generative framework: distinctive features, segmental and prosodic analysis, word formation, the theory of markedness.",
+    "credits": "3",
+    "requirement_description": "LING 5310.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

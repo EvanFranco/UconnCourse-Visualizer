@@ -1,0 +1,16 @@
+{
+    "name": "ART 2220",
+    "dept_code": "ART",
+    "id_number": "2220",
+    "title": "Animation Fundamentals",
+    "description": "Fundamental skills required for animation.",
+    "credits": "3",
+    "requirement_description": "ART 1040.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

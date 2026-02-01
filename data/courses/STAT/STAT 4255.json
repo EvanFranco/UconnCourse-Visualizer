@@ -1,0 +1,16 @@
+{
+    "name": "STAT 4255",
+    "dept_code": "STAT",
+    "id_number": "4255",
+    "title": "Introduction to Statistical Learning",
+    "description": "Modern statistical learning methods arising frequently in data science and machine learning with real-world applications: linear and logistic regression, generalized additive models, decision trees, boosting, support vector machines, and neural networks (deep learning).",
+    "credits": "3",
+    "requirement_description": "STAT 3115Q or STAT 3215Q; MATH 2210Q, which may be taken concurrently; or instructor consent. Recommended preparation: Background in computer programming is preferred, but not required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

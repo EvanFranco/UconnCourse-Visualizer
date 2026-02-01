@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5638",
+    "dept_code": "MATH",
+    "id_number": "5638",
+    "title": "Predictive Analytics for Actuaries",
+    "description": "Models for predictive analytics, model building, selection, estimation, validation and diagnostics, and limitations; actuarial applications, and communication of results.",
+    "credits": "3",
+    "requirement_description": "MATH 5637.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

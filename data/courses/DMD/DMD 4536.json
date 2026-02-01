@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4536",
+    "dept_code": "DMD",
+    "id_number": "4536",
+    "title": "Disruptive Technologies",
+    "description": "Exploration of emerging interactive technologies through the creation of rapid-fire prototypes utilizing experimental hardware and software. These skills enable students to develop interactive installations and unique gameplay scenarios.",
+    "credits": "3",
+    "requirement_description": "DMD 3522 and 2542; must be taken senior year; open only to Digital Media and Design majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

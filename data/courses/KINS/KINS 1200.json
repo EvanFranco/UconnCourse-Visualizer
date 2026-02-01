@@ -1,0 +1,16 @@
+{
+    "name": "KINS 1200",
+    "dept_code": "KINS",
+    "id_number": "1200",
+    "title": "Fundamentals of Exercise Testing",
+    "description": "Laboratory assessment of health and fitness principles including to resting measurements, functional capacity, anaerobic power and threshold, body composition, lactate threshold, flexibility and functional movement. Emergency procedures and protocols during exercise testing and training are discussed throughout. Participation in conducting and performing fitness tests is required.",
+    "credits": "1",
+    "requirement_description": "Instructor consent; CPR/AED and First Aid required prior to start of course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5655",
+    "dept_code": "BIST",
+    "id_number": "5655",
+    "title": "Epidemiology",
+    "description": "The statistical study of health and illness in human and veterinary populations: epidemiological study designs, measures of disease frequency/effect/potential impact, selection and information biases, confounding, stratified analysis.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Biostatistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ART 4410",
+    "dept_code": "ART",
+    "id_number": "4410",
+    "title": "Advanced Photography",
+    "description": "Advanced problems in the use of photography as an art medium. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ART 2420; open to juniors or higher Art and Art History majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

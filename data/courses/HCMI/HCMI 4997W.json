@@ -1,0 +1,18 @@
+{
+    "name": "HCMI 4997W",
+    "dept_code": "HCMI",
+    "id_number": "4997W",
+    "title": "Senior Thesis in Health Care Management and Insurance Studies",
+    "description": "Individual study of special topics on health care management and insurance.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to Health Care Management and Insurance Studies majors enrolled in the Honors program; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

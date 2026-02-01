@@ -1,0 +1,16 @@
+{
+    "name": "MLSC 4322",
+    "dept_code": "MLSC",
+    "id_number": "4322",
+    "title": "Clinical Immunology Laboratory",
+    "description": "Application of the theory and techniques learned in MT 4321 to the clinical laboratory setting. Understanding work flow, teamwork, evaluation of normal and abnormal results, instrumentation, and quality assurance in the general laboratory environment.",
+    "credits": "1",
+    "requirement_description": "A grade of C or better in MLSC 4321; open only to Medical Laboratory Sciences majors and Medical Laboratory Sciences certificate students; others with consent of Medical Laboratory Sciences Program Director.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

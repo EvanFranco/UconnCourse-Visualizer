@@ -1,0 +1,18 @@
+{
+    "name": "MCB 4997W",
+    "dept_code": "MCB",
+    "id_number": "4997W",
+    "title": "Senior Honors Research Thesis",
+    "description": "Writing of a thesis based upon a student's independent laboratory research project.",
+    "credits": "3",
+    "requirement_description": "Three credits of MCB 3989 or 4989, which may be taken concurrently; ENGL 1007 or 1010 or 1011; open only to honors students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

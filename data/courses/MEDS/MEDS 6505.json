@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6505",
+    "dept_code": "MEDS",
+    "id_number": "6505",
+    "title": "AI and Machine Learning in Biomedical Sciences",
+    "description": "Modern methods in artificial intelligence (AI) and machine learning (ML) data analyses. Supervised, Unsupervised, and Reinforcement Learning; neural networks, deep learning and large language models. Applications to biomedical research, such as in structural biology, clinical research, genomics and systems biology.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "PHIL 3225W",
+    "dept_code": "PHIL",
+    "id_number": "3225W",
+    "title": "Analysis and Ordinary Language",
+    "description": "The reaction, after Russell, against formal theories and the belief in an ideal language, and the turn to familiar common-sense \"cases\" and everyday language in judging philosophical claims. Russell, Moore, Wittgenstein, Ryle and Strawson.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; at least one from PHIL 2210, 2221 or 2222.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

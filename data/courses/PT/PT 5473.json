@@ -1,0 +1,16 @@
+{
+    "name": "PT 5473",
+    "dept_code": "PT",
+    "id_number": "5473",
+    "title": "Geriatric Physical Therapy",
+    "description": "An elective course for Doctorate of Physical Therapy students that covers the specialized practice of geriatric physical therapy. Provides in depth information about geriatric conditions for which physical therapy services are typically provided. Examines normal and pathological aging, and analyzes the evidence behind specialized geriatric assessments and interventions. Clinical opportunities will be included to integrate and apply the academic information.",
+    "credits": "3",
+    "requirement_description": "Open only to students in the Physical Therapy Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

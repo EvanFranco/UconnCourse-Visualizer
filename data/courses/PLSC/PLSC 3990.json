@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 3990",
+    "dept_code": "PLSC",
+    "id_number": "3990",
+    "title": "Field Study Internship",
+    "description": "Students will work with professionals in an area of research or management. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory.) This course may be repeated provided that the sum total of credits earned does not exceed six credits. Formerly offered as SPSS 3990. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open only to juniors and seniors who have demonstrated professional potential as identified by their advisor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

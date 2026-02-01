@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3461",
+    "dept_code": "ECON",
+    "id_number": "3461",
+    "title": "Organization of Industry",
+    "description": "The nature of competition and economic organization. Competitive effects of business practices, and their influence on price, production, and technological change.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

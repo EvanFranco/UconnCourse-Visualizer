@@ -1,0 +1,18 @@
+{
+    "name": "NRE 4000W",
+    "dept_code": "NRE",
+    "id_number": "4000W",
+    "title": "Natural Resources Planning and Management",
+    "description": "Concepts and methods of planning for the allocation, management and utilization of terrestrial and aquatic ecosystems. Techniques and methods of managerial decision making. Written technical reports required.",
+    "credits": "3",
+    "requirement_description": "Senior standing; ENGL 1007 or 1010 or 1011; open only to Natural Resources and Environmental Science majors, or by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

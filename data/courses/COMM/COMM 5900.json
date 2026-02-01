@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5900",
+    "dept_code": "COMM",
+    "id_number": "5900",
+    "title": "Professional Communication",
+    "description": "Theories and applications of communication in professional settings. Focus on effective design of relevant messages to reach various audiences. Preparation for future employment by cultivating high-caliber communication skills through lecture content and workshops.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

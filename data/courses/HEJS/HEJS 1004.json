@@ -1,0 +1,16 @@
+{
+    "name": "HEJS 1004",
+    "dept_code": "HEJS",
+    "id_number": "1004",
+    "title": "Intermediate Modern Hebrew II",
+    "description": "More advanced communicative proficiency using readings and examples from media and popular culture. Focus on grammar, vocabulary, and conversation with more context from the history, culture, and religious traditions of the Jewish people.",
+    "credits": "4",
+    "requirement_description": "HEJS 1003. Not open for credit to students who have passed HEJS 3251.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

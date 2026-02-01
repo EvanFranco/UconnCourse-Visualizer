@@ -1,0 +1,16 @@
+{
+    "name": "BME 4201",
+    "dept_code": "BME",
+    "id_number": "4201",
+    "title": "Introduction to Medical Imaging",
+    "description": "Introduction to spatial signals including spatial impulse response, spatial sampling and filtering, spatial Fourier transforms, and back projection.  Principles, systems and clinical applications of X-ray, X-ray CT, ultrasound, Positron Emission Tomography (PET) and Single Photon Emission Tomography (SPECT), and MRI imaging.",
+    "credits": "3",
+    "requirement_description": "PHYS 1502Q; BME 3500, and BME 3400 or ECE 3101; open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

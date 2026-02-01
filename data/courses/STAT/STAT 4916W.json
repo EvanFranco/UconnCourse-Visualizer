@@ -1,0 +1,18 @@
+{
+    "name": "STAT 4916W",
+    "dept_code": "STAT",
+    "id_number": "4916W",
+    "title": "Writing in Data Science",
+    "description": "The course is a companion course to STAT\u00a04915, which must be taken concurrently. Students will write a well-revised and comprehensive paper on their STAT\u00a04915 course project, including literature review, description of technical details, reproducible statistical and data scientific analyses, and discussion of results.",
+    "credits": "1",
+    "requirement_description": "STAT 3255; STAT 3025Q or 3375Q or MATH 3160 or instructor consent; ENGL 1007 or 1010 or 1011. Corequisite: STAT 4915 must be taken concurrently with STAT 4916W or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

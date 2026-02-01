@@ -1,0 +1,16 @@
+{
+    "name": "CSE 2050",
+    "dept_code": "CSE",
+    "id_number": "2050",
+    "title": "Data Structures and Object-Oriented Design",
+    "description": "Introduction to fundamental data structures and algorithms. The emphasis is on understanding how to efficiently implement different data structures, communicate clearly about design decisions, and understand the relationships among implementations, design decisions, and the four pillars of object-oriented programming: abstraction, encapsulation, inheritance, and polymorphism.",
+    "credits": "3",
+    "requirement_description": "CSE 1010 or 1729. Not open to students who have passed CSE 2100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

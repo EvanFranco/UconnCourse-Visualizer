@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3096",
+    "dept_code": "ECE",
+    "id_number": "3096",
+    "title": "Directed Research in Electrical and Computer Engineering",
+    "description": "Individualized or group research conducted under the supervision of the instructor. May be repeated for credit.",
+    "credits": "1-3",
+    "requirement_description": "Instructor consent required. Open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

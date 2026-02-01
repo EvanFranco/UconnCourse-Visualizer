@@ -1,0 +1,21 @@
+{
+    "name": "SPAN 3232",
+    "dept_code": "SPAN",
+    "id_number": "3232",
+    "title": "Literature of Crisis in Modern Spain",
+    "description": "The study of selected poems, plays, short fiction, and novels reflecting the clash between tradition and progress in nineteenth- and twentieth-century Spain. CA 1.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: SPAN 3178 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

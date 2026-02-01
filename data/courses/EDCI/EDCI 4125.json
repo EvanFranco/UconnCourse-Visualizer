@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 4125",
+    "dept_code": "EDCI",
+    "id_number": "4125",
+    "title": "Teaching Social Studies in the Elementary School",
+    "description": "A study of the organization of learning experiences and teaching methods emphasizing the social sciences as the foundation of the social studies.",
+    "credits": "2",
+    "requirement_description": "Open only to Elementary Education and Special Education majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

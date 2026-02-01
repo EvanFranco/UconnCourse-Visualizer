@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 6004",
+    "dept_code": "GRAD",
+    "id_number": "6004",
+    "title": "Practicum in College Instruction",
+    "description": "The implementation and application of theory in college instruction. This 1-credit course is required for the Graduate Certificate in College Instruction for students who do not have any practical teaching experience in higher education. The practicum involves observation, mentoring, participation in classroom teaching, and planning/teaching in a higher education setting. Students and their coach will develop contracts that identify individualized learning outcomes of the practicum and assessment.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

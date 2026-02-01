@@ -1,0 +1,16 @@
+{
+    "name": "KINS 4204",
+    "dept_code": "KINS",
+    "id_number": "4204",
+    "title": "Exercise Science Capstone",
+    "description": "Introduction to the fundamental concepts of research and scientific inquiry as these concepts apply to understanding and evaluating published research. Students will be able to make informed decisions about the relevance of published research to their own practice and research.",
+    "credits": "2",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; KINS 4500. Not open for credit to students who have passed KINS 4205W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

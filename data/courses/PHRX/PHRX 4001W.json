@@ -1,0 +1,18 @@
+{
+    "name": "PHRX 4001W",
+    "dept_code": "PHRX",
+    "id_number": "4001W",
+    "title": "Current Topics in Pharmacy",
+    "description": "Presentation of a specific sub area of pharmacy with focus on biological, chemical, clinical/therapeutic, sociological or legal/ethical aspects of drugs, dosage forms or health care systems to improve the student's writing, presentation, and discussion skills.",
+    "credits": "3",
+    "requirement_description": "PHRX 3006, 3007 and 3008; ENGL 1007 or 1010 or 1011; open only to students in the School of Pharmacy.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GERM 3220",
+    "dept_code": "GERM",
+    "id_number": "3220",
+    "title": "German Recitation in Applied Mechanics",
+    "description": "Technical German in engineering through the basic concepts and problem solving techniques used in applied mechanics.",
+    "credits": "1",
+    "requirement_description": "GERM 1003, which may be taken concurrently, or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

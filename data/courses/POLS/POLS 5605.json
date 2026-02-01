@@ -1,0 +1,16 @@
+{
+    "name": "POLS 5605",
+    "dept_code": "POLS",
+    "id_number": "5605",
+    "title": "Seminar in Quantitative Methods of Political Science",
+    "description": "Introduction to the data analysis techniques most often used by political scientists. Requires no previous background in statistics.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 3248",
+    "dept_code": "SLHS",
+    "id_number": "3248",
+    "title": "Introduction to Audiology",
+    "description": "An introduction to the nature, causation, assessment and management of hearing impairment and the principles and techniques of public school conservation programs.",
+    "credits": "3",
+    "requirement_description": "SLHS 2156 and 2203; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

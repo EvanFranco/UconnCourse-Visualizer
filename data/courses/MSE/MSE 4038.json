@@ -1,0 +1,16 @@
+{
+    "name": "MSE 4038",
+    "dept_code": "MSE",
+    "id_number": "4038",
+    "title": "Alloy Casting Processes",
+    "description": "Principles of alloy solidification are discussed and applied in the context of sand, investment, and die casting; continuous and direct chill casting; electroslag and vacuum arc remelting, crystal growth, rapid solidification, and laser coating.",
+    "credits": "3",
+    "requirement_description": "MSE 3002 and 3003, both of which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

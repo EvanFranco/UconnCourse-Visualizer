@@ -1,0 +1,16 @@
+{
+    "name": "GERM 3265",
+    "dept_code": "GERM",
+    "id_number": "3265",
+    "title": "Topics in German Culture",
+    "description": "An analysis of the cultural trends of a selected period or theme in a German-speaking country, taking into account the historical, political, and socioeconomic background, aspects of daily life, philosophical trends, major literary works and other artistic achievements in art, music, and architecture. Specialists from other departments will be invited as guest lecturers. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "GERM 3233, which may be taken concurrently, or consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

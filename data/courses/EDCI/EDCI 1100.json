@@ -1,0 +1,20 @@
+{
+    "name": "EDCI 1100",
+    "dept_code": "EDCI",
+    "id_number": "1100",
+    "title": "If You Love It, Teach It",
+    "description": "Studies of K-12 teaching, learning, and schooling in the United States; historical, philosophical, and social foundations of education as well as self-study to reimagine educational futures. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

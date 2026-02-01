@@ -1,0 +1,18 @@
+{
+    "name": "BUSN 3002W",
+    "dept_code": "BUSN",
+    "id_number": "3002W",
+    "title": "Effective Business Writing",
+    "description": "Techniques to improve written business communication skills. Requires a variety of written assignments and gives special attention to writing tasks that students are likely to encounter early in their careers, such as reports to supervisors, sales proposals, documentation of business policies, responses to complaints, as well as general business letters and memos. Students will receive critiques of their written assignments and will be required to revise their writing.",
+    "credits": "1",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to Business Majors of sophomore or higher status. Not open for credit to students who have passed BUSN 3003W or BADM 4075W or MENT 3070W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

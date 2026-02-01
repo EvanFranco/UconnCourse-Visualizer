@@ -1,0 +1,18 @@
+{
+    "name": "ECON 2211Q",
+    "dept_code": "ECON",
+    "id_number": "2211Q",
+    "title": "Quantitative Intermediate Microeconomics",
+    "description": "Intermediate microeconomic theory presented with calculus and other quantitative techniques. Demand and supply, exchange and production, pricing, and welfare economics.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or both ECON 1201 (or ARE 1150) and 1202; MATH 1071Q or 1110Q or 1125Q or 1131Q or 1151Q or 2141Q. Not open to students who have taken ECON 2201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

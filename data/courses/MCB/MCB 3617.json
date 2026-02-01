@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3617",
+    "dept_code": "MCB",
+    "id_number": "3617",
+    "title": "Molecular Biology and Genetics of Prokaryotes",
+    "description": "Molecular genetics of bacteria, archaebacteria, and their viruses. Transcription and replication of DNA, transformation, transduction, conjugation, genetic mapping, mutagenesis, regulation of gene expression, genome organization.",
+    "credits": "4",
+    "requirement_description": "MCB 2610.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

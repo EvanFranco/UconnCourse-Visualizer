@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5835",
+    "dept_code": "STAT",
+    "id_number": "5835",
+    "title": "Causal Inference",
+    "description": "Introduction to causal inference, the science of drawing conclusions about cause-and-effect relationships from data.  Topics include potential outcomes, randomized trials, causal graphical models, observational studies, instrumental variables, mediation and interference.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Familiarity with probability theory and statistical inference; experience with R. Not open for credit to students who have passed STAT 5095 when offered as \"Casual Inference.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

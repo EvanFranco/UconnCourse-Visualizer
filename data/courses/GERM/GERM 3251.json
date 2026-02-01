@@ -1,0 +1,22 @@
+{
+    "name": "GERM 3251",
+    "dept_code": "GERM",
+    "id_number": "3251",
+    "title": "German Culture Across Time",
+    "description": "An interdisciplinary course on Germany and other German-speaking countries, analyzing cultural life and past and present developments. Discussion of selected non-fictional and fictional readings, films, and other media. Taught in English.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

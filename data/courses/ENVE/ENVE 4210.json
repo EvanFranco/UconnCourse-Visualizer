@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 4210",
+    "dept_code": "ENVE",
+    "id_number": "4210",
+    "title": "Environmental Engineering Chemistry",
+    "description": "Quantitative analysis of chemical behavior in environmental systems. Thermodynamics and kinetics of acid/base, coordination, precipitation/dissolution, sorption, and redox reactions. Structures and reactions of organic pollutants. Applications to design of water treatment systems.",
+    "credits": "3",
+    "requirement_description": "CHEM 1128Q or 1148Q and ENVE 2310E or CHEG 2103 and MATH 2410Q; enrollment in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "FREN 1171",
+    "dept_code": "FREN",
+    "id_number": "1171",
+    "title": "French Cinema",
+    "description": "Weekly screenings of French films from the first comedies and surrealism to the New Wave and the young filmmakers of the 1990's. Introduction to film history, analysis, and interpretation of films. Readings, viewings and lectures in English. May not be used to meet the foreign language requirement. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

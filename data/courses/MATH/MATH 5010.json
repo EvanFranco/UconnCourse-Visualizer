@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5010",
+    "dept_code": "MATH",
+    "id_number": "5010",
+    "title": "Topics in Analysis I",
+    "description": "Advanced topics in analysis. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

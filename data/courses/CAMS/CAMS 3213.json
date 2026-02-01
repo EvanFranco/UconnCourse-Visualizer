@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 3213",
+    "dept_code": "CAMS",
+    "id_number": "3213",
+    "title": "Ovid and Mythology",
+    "description": "Selections from Ovid, mainly from the Metamorphoses, and a study of the myths of Greece and Rome.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

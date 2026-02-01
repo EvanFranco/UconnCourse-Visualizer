@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 4440",
+    "dept_code": "ERTH",
+    "id_number": "4440",
+    "title": "Dates and Rates in Earth and Environmental Science",
+    "description": "Introduction to the principles, materials, and diverse applications of commonly used geochronologic methods in geologic, environmental, archeological, and planetary studies. Topics may include the timing and tempo of planetary formation, Earth processes, natural hazards, formation of natural resources, biotic evolution, and environmental change.",
+    "credits": "3",
+    "requirement_description": "ANTH 2501; or CHEM 1127Q and 1128Q; or EEB 2245; or ERTH 1050; or ERTH 1052 and one of ERTH 1010 or 1051 or 1055 or 1070 or GEOG 1070; or permission of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

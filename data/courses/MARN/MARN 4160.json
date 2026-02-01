@@ -1,0 +1,16 @@
+{
+    "name": "MARN 4160",
+    "dept_code": "MARN",
+    "id_number": "4160",
+    "title": "Scientific Diving",
+    "description": "Physics and physiology of scuba diving, federal regulation, consensus standards, dive planning, dive accident management and emergency planning, scientific diving methods, diving modes.  Scientific diver certification possible with successful completion of course plus CPR, First Aid and Emergency Oxygen certification. Scuba certification and approved diving physical required.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MARN 1160.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

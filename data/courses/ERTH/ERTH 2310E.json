@@ -1,0 +1,20 @@
+{
+    "name": "ERTH 2310E",
+    "dept_code": "ERTH",
+    "id_number": "2310E",
+    "title": "Creating and Sustaining National Parks",
+    "description": "(Also offered as GEOG\u00a02310E.) Geologic processes that create the Earth\u2019s iconic landscapes through the study of National Parks, Monuments, and Seashores. Plate tectonics, climate and biotic change, natural hazards, Earth materials and resources, environmental conservation, and the interactions between human society and the natural world.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

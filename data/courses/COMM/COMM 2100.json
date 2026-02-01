@@ -1,0 +1,16 @@
+{
+    "name": "COMM 2100",
+    "dept_code": "COMM",
+    "id_number": "2100",
+    "title": "Professional Communication",
+    "description": "The principles of communication in business and professional environments. Focus on the refinement of communication skills necessary to succeed in professional contexts.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: COMM 1000 or 1100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

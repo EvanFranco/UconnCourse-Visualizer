@@ -1,0 +1,16 @@
+{
+    "name": "MARN 6003",
+    "dept_code": "MARN",
+    "id_number": "6003",
+    "title": "Modeling Biogeochemical Cycles in the Coastal Ocean",
+    "description": "Development of skills with modern and traditional methods of simulating marine biogeochemical cycles of nutrients, oxygen, carbon, and carbonate within a simplified physical model environment. Experience using Nutrient, Phytoplankton, Zooplankton, and Detritus (NPZD) models with and without gas exchange. Knowledge of different model formulations and tracers, evaluation of model results, sensitivity analyses, tracer budgets, and development of new parameterizations in biogeochemical simulations.",
+    "credits": "3",
+    "requirement_description": "Recommended Preparation: Physical Oceanography, Biological Oceanography, Chemical Oceanography, Geological Oceanography.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

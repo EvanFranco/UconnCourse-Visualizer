@@ -1,0 +1,21 @@
+{
+    "name": "MUSI 1120",
+    "dept_code": "MUSI",
+    "id_number": "1120",
+    "title": "Jazz Combos",
+    "description": "Engagement in the artistic process of performing improvised jazz combo music as a unique, cultural form of human expression. CA 1. May be repeated for a total of 8 credits.",
+    "credits": "1",
+    "requirement_description": "Instructor consent; placement audition required. Recommended preparation: instrumental proficiency.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

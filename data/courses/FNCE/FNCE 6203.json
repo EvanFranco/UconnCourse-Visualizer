@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 6203",
+    "dept_code": "FNCE",
+    "id_number": "6203",
+    "title": "Theory of Financial Markets and Valuation",
+    "description": "Fundamental pricing theorems, state preference theory, martingale pricing, dominance, spanning and arbitrage restrictions, consumption models, and continuous-time approaches to asset pricing, interest rate models, and derivatives pricing.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

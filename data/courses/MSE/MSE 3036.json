@@ -1,0 +1,16 @@
+{
+    "name": "MSE 3036",
+    "dept_code": "MSE",
+    "id_number": "3036",
+    "title": "Non-Ferrous Alloys",
+    "description": "Application of materials science and engineering principles to extraction, refining, processing, phase transformations, heat treatment, properties and applications of non-ferrous alloys. Materials covered include alloys of: aluminum, copper, magnesium, nickel, titanium, zinc and refractory metals.",
+    "credits": "3",
+    "requirement_description": "MSE 3001 and 3003, both of which may be taken concurrently. Open to juniors and seniors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

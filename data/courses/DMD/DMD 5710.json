@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5710",
+    "dept_code": "DMD",
+    "id_number": "5710",
+    "title": "Social Media Business Applications",
+    "description": "An introduction to social media marketing, focusing on the platforms and strategies being employed by brands.",
+    "credits": "3",
+    "requirement_description": "DMD 5700.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

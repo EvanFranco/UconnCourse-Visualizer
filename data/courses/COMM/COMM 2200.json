@@ -1,0 +1,16 @@
+{
+    "name": "COMM 2200",
+    "dept_code": "COMM",
+    "id_number": "2200",
+    "title": "Interpersonal Communication",
+    "description": "An introduction, analysis and critique of recent theories of interpersonal communication. Topics include person perception, theories of communication management, and the structural analysis of face to face communication behavior.",
+    "credits": "3",
+    "requirement_description": "COMM 1000. May not be taken out of sequence after passing COMM 3222, 4200, or 4222.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

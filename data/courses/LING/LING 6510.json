@@ -1,0 +1,16 @@
+{
+    "name": "LING 6510",
+    "dept_code": "LING",
+    "id_number": "6510",
+    "title": "Readings and Research in Syntax",
+    "description": "Examination and discussion of classic articles in syntactic theory; presentation of ongoing student research. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "LING 5520.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

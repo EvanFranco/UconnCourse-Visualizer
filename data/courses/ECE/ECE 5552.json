@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5552",
+    "dept_code": "ECE",
+    "id_number": "5552",
+    "title": "Communication Systems in Smart Grids",
+    "description": "Analysis and design of communications systems to support emerging smart power systems, including transmission and distribution grids. Topics include communication system concepts and principles, control and communication system enhancements, smart grid architecture and applications with different requirements, wide area network (WAN) and field area network (FAN) technologies and data management, smart grid security assessment with operational technologies, robust advanced metering infrastructure (AMI) applications in communication networks design.",
+    "credits": "3",
+    "requirement_description": "ECE 3231.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

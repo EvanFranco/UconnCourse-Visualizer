@@ -1,0 +1,16 @@
+{
+    "name": "EEB 4252",
+    "dept_code": "EEB",
+    "id_number": "4252",
+    "title": "Field Entomology",
+    "description": "Collection, identification, and ecology of insects. Includes extensive field trips.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: BIOL 1108.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

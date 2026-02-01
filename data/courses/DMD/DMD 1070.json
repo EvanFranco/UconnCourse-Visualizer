@@ -1,0 +1,16 @@
+{
+    "name": "DMD 1070",
+    "dept_code": "DMD",
+    "id_number": "1070",
+    "title": "Web Design I",
+    "description": "Introduction to concepts, technologies and strategies for building contemporary websites.",
+    "credits": "3",
+    "requirement_description": "DMD 1002 and 1102; open to Digital Media and Design majors only, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

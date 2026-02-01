@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 4140",
+    "dept_code": "PHYS",
+    "id_number": "4140",
+    "title": "Principles of Lasers",
+    "description": "The physics of lasers, including optical pumping and stimulated emission, laser rate equations, optical resonators, Gaussian beam propagation, Q-switching, mode-locking and nonlinear optics. Applications to gas, solid-state and tunable laser systems.",
+    "credits": "3",
+    "requirement_description": "PHYS 3202 and 3401. Recommended Preparation: PHYS 4150.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

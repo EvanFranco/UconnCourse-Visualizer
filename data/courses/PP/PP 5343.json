@@ -1,0 +1,16 @@
+{
+    "name": "PP 5343",
+    "dept_code": "PP",
+    "id_number": "5343",
+    "title": "Data Analytics with R for Policy and Management",
+    "description": "Computational tools and techniques for acquiring, organizing, and visualizing complex data to answer social science research questions using the open-source statistical package R.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed PP 5397 when offered as \"Data Analytics with R for Policy and Management.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ECON 2101W",
+    "dept_code": "ECON",
+    "id_number": "2101W",
+    "title": "Economic History of Europe",
+    "description": "Economic evolution of Europe from feudal times to the present, emphasizing the modern period: the rise of commerce, industry, and banking; the growth of population and the labor force; the changing position of agriculture; business fluctuations; and forms of economic organization. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; ECON 1200 or both ECON 1201 (or ARE 1150) and ECON 1202; ECON 1201 (or ARE 1150) may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

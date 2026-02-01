@@ -1,0 +1,24 @@
+{
+    "name": "PHYS 1502Q",
+    "dept_code": "PHYS",
+    "id_number": "1502Q",
+    "title": "Physics for Engineers II",
+    "description": "Introduction to principles of electromagnetism and Maxwell's equations, including electric circuits, electromagnetic wave propagation, optics, and other relevant applications to engineering. Basic concepts of calculus are used. Recommended for prospective Engineering majors. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "PHYS 1501Q. Not open to students who have passed PHYS 1402Q or 1602Q. May be taken for not more than two credits, with instructor's permission, by students who have passed PHYS 1202Q.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3193",
+    "dept_code": "CHEM",
+    "id_number": "3193",
+    "title": "Foreign Study",
+    "description": "Consent of Department head required before student's departure. May count toward the major with consent of the Department Head. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

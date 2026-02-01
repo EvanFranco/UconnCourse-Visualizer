@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5582",
+    "dept_code": "DMD",
+    "id_number": "5582",
+    "title": "3D Game Art II - Motion and Technical Art",
+    "description": "Introduction to elements of motion and detailing with an emphasis on in-engine techniques including digital sculpting and retopology, rigging and animation for games, physics simulations, particle effects, custom shader design, camera animation and post-processing effects.",
+    "credits": "3",
+    "requirement_description": "DMD 5581. Open to DMD graduate students, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

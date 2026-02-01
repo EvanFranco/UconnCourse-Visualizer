@@ -1,0 +1,16 @@
+{
+    "name": "NRE 3500",
+    "dept_code": "NRE",
+    "id_number": "3500",
+    "title": "Exurban Silviculture",
+    "description": "Application of ecological principles in controlling forest establishment, composition, health and growth.  Study of cultural treatments that maintain and enhance desired benefits from the forest on a sustainable basis, with an emphasis on the diverse needs and values of landowners and society within the exurban forest.",
+    "credits": "4",
+    "requirement_description": "NRE 2415; recommended preparation: NRE 2455.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

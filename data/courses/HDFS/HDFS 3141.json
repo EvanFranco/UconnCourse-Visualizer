@@ -1,0 +1,22 @@
+{
+    "name": "HDFS 3141",
+    "dept_code": "HDFS",
+    "id_number": "3141",
+    "title": "Developmental Approaches to Intergroup Relations and Victimization",
+    "description": "Developmental, social-ecological, and social psychological theories of the fundamental processes involved in intergroup relations; cognitive, affective, and social underpinnings of intergroup dynamics; critical issues of diversity and social justice in the lives of children and families; experiences of intergroup discrimination and victimization such as bullying and exclusion; theoretical approaches to improving intergroup relations and tolerance. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher. Recommended preparation: HDFS 2001.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

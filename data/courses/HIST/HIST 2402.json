@@ -1,0 +1,21 @@
+{
+    "name": "HIST 2402",
+    "dept_code": "HIST",
+    "id_number": "2402",
+    "title": "Europe in the Twentieth Century",
+    "description": "Twentieth Century Europe and its world relationships in the era of two world wars, the great depression, and the cold war. CA 1.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: HIST 1400.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

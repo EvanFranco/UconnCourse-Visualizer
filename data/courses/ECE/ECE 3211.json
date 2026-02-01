@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3211",
+    "dept_code": "ECE",
+    "id_number": "3211",
+    "title": "Power Electronics",
+    "description": "Power converters for power processing, regulation, and control as applied to computer and telecommunication systems, transportation systems, industrial drives, and renewable power conversion systems. Power semiconductor device characteristics, transformers, and dc/dc converters including design projects.",
+    "credits": "4",
+    "requirement_description": "ECE 3201; open only to students in the School of Engineering. This course and ECE 3610 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EDLR 3299",
+    "dept_code": "EDLR",
+    "id_number": "3299",
+    "title": "Independent Study for Undergraduates",
+    "description": "Designed primarily for qualified students who wish to extend their knowledge in some specialized area. Students must present the instructor with a problem for investigation. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DMD 1000",
+    "dept_code": "DMD",
+    "id_number": "1000",
+    "title": "Digital Foundation",
+    "description": "Introductory studio experience in designing for the digital arts; concepts, media and strategies for making creative digital work.",
+    "credits": "3",
+    "requirement_description": "Interview and/or portfolio review required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

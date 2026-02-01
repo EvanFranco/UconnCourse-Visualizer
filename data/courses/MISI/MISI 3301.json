@@ -1,0 +1,16 @@
+{
+    "name": "MISI 3301",
+    "dept_code": "MISI",
+    "id_number": "3301",
+    "title": "General Military Science III",
+    "description": "Leadership principles, techniques, and the responsibilities of command. Military instruction techniques, to include student class presentations. 0ne weekend field training exercise.",
+    "credits": "3",
+    "requirement_description": "Completion of the basic course in military science, basic training or a six week basic summer camp.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

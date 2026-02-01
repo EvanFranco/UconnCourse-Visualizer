@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5371",
+    "dept_code": "MEDS",
+    "id_number": "5371",
+    "title": "Systems Neuroscience",
+    "description": "Part of the core series in the Neuroscience graduate program. Functional organization of neural systems underlying sensation, movement, language, learning/plasticity, and emotion/arousal. Sensory systems will include the somatosensory, auditory, visual, vestibular, and chemosensory systems. Motor systems will include the spinal cord, brain stem, cerebellum, vestibular system, oculometer system, basal ganglia and cerebral cortex.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3700",
+    "dept_code": "PNB",
+    "id_number": "3700",
+    "title": "Sensory Physiology",
+    "description": "Cellular and molecular mechanisms supporting the detection of sensory stimuli in vertebrates, invertebrates and other organisms. Sensory transduction mediating smell, taste, touch, pain, hearing, vision, infrared heat, and electric fields.",
+    "credits": "3",
+    "requirement_description": "PNB 3251 or instructor consent; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

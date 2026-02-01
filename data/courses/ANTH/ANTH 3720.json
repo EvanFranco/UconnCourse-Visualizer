@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3720",
+    "dept_code": "ANTH",
+    "id_number": "3720",
+    "title": "Lab Methods in Archaeological and Forensic Science",
+    "description": "Introduction to scientific lab methods used in archaeology and forensics. Includes three stand alone modules, each dedicated to a different method. Each module consists of 15 contact hours comprised of labs and lectures and takes place during a single weekend. Repeatable to a maximum of three credits. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

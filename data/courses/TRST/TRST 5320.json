@@ -1,0 +1,16 @@
+{
+    "name": "TRST 5320",
+    "dept_code": "TRST",
+    "id_number": "5320",
+    "title": "Portfolio Translation Seminar",
+    "description": "Translation of literature of any genre or period into English, working toward a final publishable text. Includes preparation of a conference-length paper related to translation theory or practice.",
+    "credits": "3",
+    "requirement_description": "TRST 5310 and 5311.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

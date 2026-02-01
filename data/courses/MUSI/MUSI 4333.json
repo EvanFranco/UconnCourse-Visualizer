@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 4333",
+    "dept_code": "MUSI",
+    "id_number": "4333",
+    "title": "Composition III",
+    "description": "Individual instruction in musical composition. May be repeated for credit.",
+    "credits": "2",
+    "requirement_description": "MUSI 3332; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

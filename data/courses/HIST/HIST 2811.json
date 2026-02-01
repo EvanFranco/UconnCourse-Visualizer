@@ -1,0 +1,23 @@
+{
+    "name": "HIST 2811",
+    "dept_code": "HIST",
+    "id_number": "2811",
+    "title": "Early Modern India: From Muslim Rulers to British Raj",
+    "description": "(Also offered as AAAS\u00a02811.) History of India from the 1200s to the 1800s, including the rise and fall of the Muslim-dominated Mughal Empire and the advent of British colonialism. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

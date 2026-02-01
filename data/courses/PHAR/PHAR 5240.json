@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5240",
+    "dept_code": "PHAR",
+    "id_number": "5240",
+    "title": "Drug Discovery and Development",
+    "description": "The processes of new drug development; target identification, drug discovery process, drug candidate evaluation, preclinical toxicity assessment, drug formulation and delivery, clinical trials for safety and efficacy, and FDA regulation on new drug application.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "GERM 1169",
+    "dept_code": "GERM",
+    "id_number": "1169",
+    "title": "Contemporary Germany in Europe",
+    "description": "Familiarizes students with contemporary German society and the cultural and historical aspects that shape everyday life in Germany in the 21st century. Students will explore a range of topics, including reunification, minorities, education and youth, the arts, and gender. Taught in English. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

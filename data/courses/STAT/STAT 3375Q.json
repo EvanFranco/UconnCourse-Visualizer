@@ -1,0 +1,18 @@
+{
+    "name": "STAT 3375Q",
+    "dept_code": "STAT",
+    "id_number": "3375Q",
+    "title": "Introduction to Mathematical Statistics I",
+    "description": "The mathematical theory underlying statistical methods. Probability spaces, distributions in one and several dimensions, generating functions, and limit theorems.",
+    "credits": "3",
+    "requirement_description": "A grade of C+ or better in MATH 2110Q or 2130Q. Not open for credit to students who have passed STAT 3345Q or 5585. May not be taken out of sequence after passing STAT 3445Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MARN 6001",
+    "dept_code": "MARN",
+    "id_number": "6001",
+    "title": "Mathematical Models in Marine Sciences",
+    "description": "Examples of the formulation of quantitative models of marine systems with a review of some particularly useful mathematical methods (differential equations, operational methods, numerical solution techniques), emphasizing the computation of predictions.",
+    "credits": "2",
+    "requirement_description": "Nine graduate credits in MARN courses.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

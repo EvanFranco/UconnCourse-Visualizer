@@ -1,0 +1,16 @@
+{
+    "name": "ME 3266",
+    "dept_code": "ME",
+    "id_number": "3266",
+    "title": "Principles of Optimum Design",
+    "description": "Application of mathematical optimization concepts to the numerical solution of engineering design problems. Heuristic methods for the solution of optimization problems for which efficient gradient-based solution methods cannot be used. When and how to cast a design problem into an optimization problem, choosing an appropriate algorithm to solve it, how to interpret the results of the optimization, and how to diagnose problems when things go wrong.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

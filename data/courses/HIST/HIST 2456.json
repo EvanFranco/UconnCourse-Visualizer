@@ -1,0 +1,22 @@
+{
+    "name": "HIST 2456",
+    "dept_code": "HIST",
+    "id_number": "2456",
+    "title": "Power and Resistance: History of Eastern Europe",
+    "description": "Political, social, and intellectual history of Eastern Europe. Main themes include imperial legacies, national identity and state-building, minority identities and politics, democracy, nationalism, fascism, communism, genocide, and war. Special attention to the politics of diversity versus nationalism, political ideologies, dissent and resistance, and contributions to the understanding of rights. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

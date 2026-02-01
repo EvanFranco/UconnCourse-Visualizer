@@ -1,0 +1,18 @@
+{
+    "name": "KINS 3531W",
+    "dept_code": "KINS",
+    "id_number": "3531W",
+    "title": "Scientific Writing in Aerobic Training for Health and Performance",
+    "description": "A writing intensive class integrated with course content in KINS\u00a03530.",
+    "credits": "1",
+    "requirement_description": "KINS 4500; ENGL 1007 or 1010 or 1011; open only to students in Kinesiology programs, others by consent of instructor. Corequisite: KINS 3530. Not open for credit to students who have passed KINS 3530W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

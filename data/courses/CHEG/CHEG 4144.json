@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4144",
+    "dept_code": "CHEG",
+    "id_number": "4144",
+    "title": "In Silico Chemical Engineering Senior Laboratory",
+    "description": "Various computation tools and software used to approximate the solution of chemical engineering problems focusing on reaction kinetics, reactor design, process control, fluid, and mass transfer; for data analysis and visualization; emphasis on student teamwork and on use of computational tools and software to meet the course objectives.",
+    "credits": "2",
+    "requirement_description": "CHEG 3112, 3220, 3240; open only to Chemical Engineering majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

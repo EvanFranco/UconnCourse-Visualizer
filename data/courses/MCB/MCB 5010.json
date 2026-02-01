@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5010",
+    "dept_code": "MCB",
+    "id_number": "5010",
+    "title": "Biological Optical Spectroscopy: Practical Applications",
+    "description": "Practical applications of spectroscopy in biochemistry and the biological sciences. Topics include fluorescence, circular dichroism and various spectroscopic techniques with particular emphasis on biological macromolecules. Analysis of raw data and interpretation of published results will be used to define the suitability and limits of these techniques.",
+    "credits": "2",
+    "requirement_description": "If student has taken MCB 5038, this course may only be taken if the content is different.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

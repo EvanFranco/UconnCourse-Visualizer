@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4243",
+    "dept_code": "ECE",
+    "id_number": "4243",
+    "title": "Nanoscience and Nanotechnology I",
+    "description": "(Also offered as ENGR\u00a04243.) Fundamentals of electron and hole confinement in quantum well, wire and dot heterostructures, confinement of photons in photonic band gap structures, density of states in quantum wires; transport in quantum wires and dots, and single wells (SWNT) and multi-wall carbon nanotubes; operation of nano field-effect transistors; absorption and emission in quantum wires and dot structures; fabrication methodology to grow and assemble quantum wires and dots including self-assembly techniques for light-emitting diodes, transistors, lasers, and nanoelectromechanical (NEM) structures.",
+    "credits": "3",
+    "requirement_description": "ECE 4211 or 4225 or PHYS 2300 or 3401 or MSE 4001; CHEM 1127Q or equivalent; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

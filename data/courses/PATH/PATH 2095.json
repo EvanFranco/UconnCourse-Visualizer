@@ -1,0 +1,16 @@
+{
+    "name": "PATH 2095",
+    "dept_code": "PATH",
+    "id_number": "2095",
+    "title": "Special Topics",
+    "description": "Credits, prerequisites and hours as determined by the Senate Curricula and Course Committee. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Prerequisites and recommended preparation vary.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

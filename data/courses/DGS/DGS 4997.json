@@ -1,0 +1,16 @@
+{
+    "name": "DGS 4997",
+    "dept_code": "DGS",
+    "id_number": "4997",
+    "title": "Honors Research",
+    "description": "Design and implementation of an honors research project.",
+    "credits": "3",
+    "requirement_description": "Open only to Diagnostic Genetic Sciences honors students and Diagnostic Genetic Sciences certificate students in either Cytogenetics or Molecular concentrations.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

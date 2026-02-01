@@ -1,0 +1,16 @@
+{
+    "name": "ME 3166",
+    "dept_code": "ME",
+    "id_number": "3166",
+    "title": "Aircraft Performance and Stability",
+    "description": "This course is designed to provide engineering students with a fundamental understanding of airplane performance and operability. Steady state analysis of the airplane performance parameters, like endurance, range, ceiling, climb, descent, and glide are conducted using the thermodynamics and fluid mechanics principles. Airplane transient operability concepts, like maneuverability, stability and control are then introduced. Additionally, the course provides the basic understanding of airplane propulsion, allowing students to capture the fundamental understanding of all aspects of airplane flight and appreciate the mechanics of the safest mode of transportation.",
+    "credits": "3",
+    "requirement_description": "ME 2250 or 3250; and ME 2232 or ME 2234. May not be taken for credit after ME 3295 when offered as \"Aircraft Performance and Stability\".",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

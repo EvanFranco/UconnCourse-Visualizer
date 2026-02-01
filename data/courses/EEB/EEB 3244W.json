@@ -1,0 +1,18 @@
+{
+    "name": "EEB 3244W",
+    "dept_code": "EEB",
+    "id_number": "3244W",
+    "title": "Writing in Ecology",
+    "description": "Critical engagement with primary research literature in ecology through written communication; skills in editing, revising and peer feedback.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; EEB 2244E or permission of the instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ARTH 1137",
+    "dept_code": "ARTH",
+    "id_number": "1137",
+    "title": "Introduction to Art History: Prehistoric - 14th Century",
+    "description": "Survey of art and architecture from prehistoric times through the fourteenth century. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

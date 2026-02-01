@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3420",
+    "dept_code": "ENGL",
+    "id_number": "3420",
+    "title": "Children's Literature",
+    "description": "The best literature available to children, including works by major writers and forms such as fable, folk tale, fairy tale, nursery rhyme, and short story.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

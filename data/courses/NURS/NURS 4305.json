@@ -1,0 +1,16 @@
+{
+    "name": "NURS 4305",
+    "dept_code": "NURS",
+    "id_number": "4305",
+    "title": "Nursing Research and Evidence-Based Practice - CEIN/BS",
+    "description": "Introduction to qualitative and quantitative research and application to evidence-based nursing practice. Focus on developing the ability to understand, interpret, critically appraise, and apply research for nursing practice. Students must earn at least a grade of \"C\" in this course to progress.",
+    "credits": "3",
+    "requirement_description": "NURS 4301, 4414, 4424, 4434.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

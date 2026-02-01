@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5216",
+    "dept_code": "PHAR",
+    "id_number": "5216",
+    "title": "Dosage Forms I",
+    "description": "Introduces the student to the principles of thermodynamics, ionic equilibrium, chemical kinetics and diffusion.  Application of these principles to formulation, stability and dissolution of a drug product, and release from the dosage form for optimum therapeutic outcome.  Required of entering graduate students in Pharmaceutics who do not have a Pharmacy background as well as those who do not pass the qualifying examination within the first year of the program.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

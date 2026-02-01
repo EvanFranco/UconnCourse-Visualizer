@@ -1,0 +1,19 @@
+{
+    "name": "HIST 3569",
+    "dept_code": "HIST",
+    "id_number": "3569",
+    "title": "Slavery in Film",
+    "description": "(Also offered as AFRA\u00a03569.) Depictions of chattel slavery in cinema and popular media over time. Topics include histories of slavery, race and identity, media studies, and cultural studies.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: AFRA/HIST 3206 or 3563 or 3564; or CLCS 1110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

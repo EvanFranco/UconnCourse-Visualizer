@@ -1,0 +1,21 @@
+{
+    "name": "ARE 2525",
+    "dept_code": "ARE",
+    "id_number": "2525",
+    "title": "Sustainability Policy and Management",
+    "description": "What factors do we need to consider for evaluating sustainability and its implementation? How do those factors depend on the topic at hand? This course is an effort to answer these two questions and to provide perspectives and tools to better evaluate whether we should or should not pursue a particular sustainability option. We will discuss a wide array of topics in sustainability, such as waste, healthcare, energy, food, climate, and the production of animal agriculture. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

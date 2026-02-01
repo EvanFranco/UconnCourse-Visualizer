@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 3204",
+    "dept_code": "OPIM",
+    "id_number": "3204",
+    "title": "Database Design and Management",
+    "description": "(Also offered as BADM\u00a03204.) This course introduces market-leading techniques for transaction processes as well as decision making and business intelligence, that help to identify and manage key data from business processes. Provides the essential tools required for further data mining applications. Combines lecture, class discussion and hands-on computer work in a business-oriented environment.",
+    "credits": "3",
+    "requirement_description": "OPIM 3103 or BADM 3103; open only to Analytics and Information Management majors of junior or higher status. May not be taken out of sequence after passing OPIM 3211.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

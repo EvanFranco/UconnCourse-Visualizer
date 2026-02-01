@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3265",
+    "dept_code": "PNB",
+    "id_number": "3265",
+    "title": "Comparative Endocrinology",
+    "description": "The evolution of hormonal signaling systems in invertebrates and vertebrates.",
+    "credits": "3",
+    "requirement_description": "A 2000-level course in PNB or instructor consent. Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

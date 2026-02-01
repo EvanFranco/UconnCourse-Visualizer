@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5235",
+    "dept_code": "DMD",
+    "id_number": "5235",
+    "title": "Scientific Visualization",
+    "description": "Exploration of techniques for the development of still and animated graphics for use in science education and scientific publications and presentations. Individual and collaborative project-based coursework with involvement from scientific experts.",
+    "credits": "3",
+    "requirement_description": "Open to DMD graduate students, others with instructor consent. Recommended preparation: DMD 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

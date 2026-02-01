@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 4518",
+    "dept_code": "GEOG",
+    "id_number": "4518",
+    "title": "Mobile GIS",
+    "description": "This course covers how to develop, test, and publish mobile GIS web and native apps across multiple mobile platforms (Android, iOS, etc.).",
+    "credits": "3",
+    "requirement_description": "GEOG 2500 or instructor consent. Recommended preparation: GEOG 4515.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

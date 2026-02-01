@@ -1,0 +1,16 @@
+{
+    "name": "ARAB 3100",
+    "dept_code": "ARAB",
+    "id_number": "3100",
+    "title": "Advanced Arabic",
+    "description": "Development of advanced speaking, listening, reading, and writing skills. Expansion of Modern Standard Arabic vocabulary and grammar. Discussion of historical, social, cultural, political, and religious topics. Preparation for other advanced Arabic content courses. Taught in Arabic.",
+    "credits": "3",
+    "requirement_description": "ARAB 1004 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

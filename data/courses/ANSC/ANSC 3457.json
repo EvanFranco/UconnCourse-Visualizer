@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3457",
+    "dept_code": "ANSC",
+    "id_number": "3457",
+    "title": "Advanced Broodmare and Foal Management",
+    "description": "Management of the pregnant mare and neonatal foal, including foaling practices, foal handling, and postpartum care of the mare.",
+    "credits": "2",
+    "requirement_description": "ANSC 3452; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MARN 4052",
+    "dept_code": "MARN",
+    "id_number": "4052",
+    "title": "Paleooceanography",
+    "description": "Exploration of how the geologic record, geochemical proxies and model simulations can be used to understand climate change at centennial and longer timescales, with an emphasis on oceanographic processes. Topics include global overturning circulation, carbon cycle dynamics, and feedback mechanisms that govern long-term climate variability.",
+    "credits": "3",
+    "requirement_description": "CHEM 1126Q or 1128Q and PHYS 1202Q or 1402Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

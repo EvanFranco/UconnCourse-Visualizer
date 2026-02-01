@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 6110",
+    "dept_code": "PHYS",
+    "id_number": "6110",
+    "title": "Atomic Physics",
+    "description": "Coupling of angular momenta. Hartree-Fock theory of many electron atoms, fine structure and hyperfine structure. Introduction to group theory.",
+    "credits": "3",
+    "requirement_description": "PHYS 5402.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

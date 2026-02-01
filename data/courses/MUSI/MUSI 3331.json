@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3331",
+    "dept_code": "MUSI",
+    "id_number": "3331",
+    "title": "Composition I",
+    "description": "Creative writing in the smaller forms. Extensive analysis and discussion.",
+    "credits": "3",
+    "requirement_description": "MUSI 3314; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

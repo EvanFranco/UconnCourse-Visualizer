@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5890",
+    "dept_code": "GEOG",
+    "id_number": "5890",
+    "title": "Internship in Geography",
+    "description": "A fieldwork internship program under the direction and supervision of the geography staff. Students will be placed in agencies or industries where their academic training will be applied. One 8-hour work day per week (or its equivalent) for the host agency during the course of the semester will be necessary for three academic credits. A written report will be required. May be repeated for a total of 12 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

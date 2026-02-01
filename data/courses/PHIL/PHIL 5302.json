@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 5302",
+    "dept_code": "PHIL",
+    "id_number": "5302",
+    "title": "Introduction to Moral Philosophy",
+    "description": "Introduction to ethical theory. Readings in historical and contemporary moral philosophy.",
+    "credits": "3",
+    "requirement_description": "Open to Philosophy Graduate students only, others with permission of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

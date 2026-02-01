@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 5099",
+    "dept_code": "HDFS",
+    "id_number": "5099",
+    "title": "Independent Study",
+    "description": "Advanced study for qualified students who present suitable projects for intensive, independent investigation in human development and family sciences. May be repeated for a total of 48 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

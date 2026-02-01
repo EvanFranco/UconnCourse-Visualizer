@@ -1,0 +1,16 @@
+{
+    "name": "MCB 6001",
+    "dept_code": "MCB",
+    "id_number": "6001",
+    "title": "Introduction to Molecular and Cell Biology Research",
+    "description": "Introduction to general areas of research for Ph.D. students in Molecular and Cell Biology; includes specific laboratory research opportunities, laboratory skills and professional development.",
+    "credits": "3",
+    "requirement_description": "Instructor consent; open to Ph.D. and thesis M.S. students in Molecular and Cell Biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

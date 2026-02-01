@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5984",
+    "dept_code": "MCB",
+    "id_number": "5984",
+    "title": "MCB Invited Seminar",
+    "description": "Selected topics in cellular and molecular biology presented by invited speakers. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

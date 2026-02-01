@@ -1,0 +1,23 @@
+{
+    "name": "ENGL 3629",
+    "dept_code": "ENGL",
+    "id_number": "3629",
+    "title": "Holocaust Memoir",
+    "description": "(Also offered as HEJS\u00a03629.) Literature of the Holocaust focusing on memoir in various genres and forms. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

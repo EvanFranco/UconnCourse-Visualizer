@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 5403",
+    "dept_code": "PHYS",
+    "id_number": "5403",
+    "title": "Quantum Mechanics III",
+    "description": "Occupation number representation, electron gas, Hartree-Fock approximation, correlation energy, superconductivity, perturbation theory, Green's functions, Feynman diagrams.",
+    "credits": "3",
+    "requirement_description": "PHYS 5402 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

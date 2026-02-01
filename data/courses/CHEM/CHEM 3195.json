@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3195",
+    "dept_code": "CHEM",
+    "id_number": "3195",
+    "title": "Special Topics",
+    "description": " May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

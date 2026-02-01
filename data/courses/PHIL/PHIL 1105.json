@@ -1,0 +1,21 @@
+{
+    "name": "PHIL 1105",
+    "dept_code": "PHIL",
+    "id_number": "1105",
+    "title": "Philosophy and Religion",
+    "description": "Topics may include proofs of the existence of God, the relation of religious discourse to other types of discourse, and the nature of religious commitment. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

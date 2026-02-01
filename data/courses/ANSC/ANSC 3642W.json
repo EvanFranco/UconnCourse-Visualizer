@@ -1,0 +1,18 @@
+{
+    "name": "ANSC 3642W",
+    "dept_code": "ANSC",
+    "id_number": "3642W",
+    "title": "Scientific Writing in Animal Food Products: Dairy Technology",
+    "description": "A writing intensive course integrated with course content in ANSC\u00a03641.",
+    "credits": "1",
+    "requirement_description": "ANSC 3641, which must be taken concurrently; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

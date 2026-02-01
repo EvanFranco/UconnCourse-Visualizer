@@ -1,0 +1,24 @@
+{
+    "name": "CHEM 1148Q",
+    "dept_code": "CHEM",
+    "id_number": "1148Q",
+    "title": "Honors General Chemistry II",
+    "description": "Equilibrium, thermodynamics, nuclear chemistry and kinetics. Properties of some of the more familiar elements and their compounds. Equilibrium in solutions and reactions of the common cations and anions in the laboratory component. Considerable personal initiative will be demanded of students in carrying out the laboratory assignments. Designed primarily for exceptionally well-prepared science and engineering students, although any qualified honors student may take it. Can be used as an alternate wherever 1128Q is listed as a prerequisite. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "CHEM 1147Q; or consent of instructor; designed primarily for exceptionally well-prepared science and engineering students, although any qualified honors student may take it. Not open to students who have passed CHEM 1126Q or 1128Q or 1138Q.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": true,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

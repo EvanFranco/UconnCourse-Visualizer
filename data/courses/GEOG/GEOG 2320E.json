@@ -1,0 +1,23 @@
+{
+    "name": "GEOG 2320E",
+    "dept_code": "GEOG",
+    "id_number": "2320E",
+    "title": "Climate Change: Current Geographic Issues",
+    "description": "The science, impacts, and politics of climate change from a geographic perspective. Examination of physical mechanisms, extreme weather events, impacts on water, food and energy systems, impacts on polar regions, energy strategies and solutions, policy and negotiations, and mitigation and adaptation strategies. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

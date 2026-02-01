@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 1001",
+    "dept_code": "SPAN",
+    "id_number": "1001",
+    "title": "Elementary Spanish I",
+    "description": "Elementary level communication skills in Spanish focusing on expressing likes, dislikes, personal information. Introduction to the cultures of the Spanish-speaking world. Course for students who have never studied Spanish.",
+    "credits": "4",
+    "requirement_description": "Not open to students who have had three or more years of high school Spanish. May not be taken out of sequence after passing SPAN 1002, 1003 or 1004, or any 2000 level or above course taught in Spanish.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

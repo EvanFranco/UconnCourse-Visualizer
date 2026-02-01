@@ -1,0 +1,16 @@
+{
+    "name": "AH 6005",
+    "dept_code": "AH",
+    "id_number": "6005",
+    "title": "Multilevel Mediation-Moderation Modeling for Health Sciences",
+    "description": "Presents advanced multivariate statistical methods focusing on statistical techniques commonly used in empirical research under a latent-variable approach teaches students multilevel mediation-moderation techniques in order to analyze complex or multilevel databases. At the end of the course, students will understand how to analyze multivariate data using multilevel mediation-moderation concepts to test a variety of health-related research hypotheses. Knowledge of linear models is needed for participants enrolling in this course.",
+    "credits": "3",
+    "requirement_description": "A course in precalculus or higher; AH 5005 or other advanced/graduate course in statistics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

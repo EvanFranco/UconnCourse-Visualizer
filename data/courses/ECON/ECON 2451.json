@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2451",
+    "dept_code": "ECON",
+    "id_number": "2451",
+    "title": "Economic Behavior and Health Policy",
+    "description": "Basic principles of health economics, including the demand for health, health behaviors, public-health economics, and behavioral health economics, applied to five topics: smoking, obesity, opioid and other drug addictions, depression, and infectious diseases.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or both ECON 1201 (or ARE 1150) and 1202. Not open for credit to students who have passed ECON 3451.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

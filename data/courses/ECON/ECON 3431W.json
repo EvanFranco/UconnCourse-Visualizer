@@ -1,0 +1,18 @@
+{
+    "name": "ECON 3431W",
+    "dept_code": "ECON",
+    "id_number": "3431W",
+    "title": "Public Economics",
+    "description": "The role of the government in the economy. Topics may include: government policies relating to environmental protection, healthcare, social security, and education; public choice theory; fiscal policy, finance, and taxation.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q; ENGL 1007 or 1010 or 1011. Recommended preparation: ECON 1200 or 1202.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

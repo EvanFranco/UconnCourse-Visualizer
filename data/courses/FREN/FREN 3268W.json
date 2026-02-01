@@ -1,0 +1,20 @@
+{
+    "name": "FREN 3268W",
+    "dept_code": "FREN",
+    "id_number": "3268W",
+    "title": "Grammar and Composition",
+    "description": "Advanced study of French texts and extensive written practice in a variety of forms ranging from compositions, essays, summaries and film reviews. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: French 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

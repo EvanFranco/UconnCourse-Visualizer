@@ -1,0 +1,16 @@
+{
+    "name": "JOUR 3097",
+    "dept_code": "JOUR",
+    "id_number": "3097",
+    "title": "Honors Thesis",
+    "description": "Students in the Honors Program undertake in-depth research and writing under the guidance of a faculty member. Majors must consult with the departmental Honors Advisor and develop a research proposal in the semester before taking the course.",
+    "credits": "3",
+    "requirement_description": "JOUR 2000W and 2001W; six additional 2000 level or above credits of JOUR.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CE 2211",
+    "dept_code": "CE",
+    "id_number": "2211",
+    "title": "Engineering Economics I",
+    "description": "Time value of money. Simple, compound, nominal, and effective interest rate. Present, future, and annual worth methods. Single payment, annuity series, gradient series. Rate of return method. Evaluation of alternative projects.",
+    "credits": "1",
+    "requirement_description": "Open only to Civil and Environmental Engineering majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "JOUR 2010",
+    "dept_code": "JOUR",
+    "id_number": "2010",
+    "title": "Journalism in the Movies",
+    "description": "Viewing and analysis of motion pictures featuring journalistic themes; journalistic history, ethics, legal issues, contrasting forms of media, and other issues. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

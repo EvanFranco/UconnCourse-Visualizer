@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5140",
+    "dept_code": "MATH",
+    "id_number": "5140",
+    "title": "Fourier Analysis",
+    "description": "Foundations of harmonic analysis developed through the study of Fourier series and Fourier transforms.",
+    "credits": "3",
+    "requirement_description": "MATH 5111.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

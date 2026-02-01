@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5380",
+    "dept_code": "MSE",
+    "id_number": "5380",
+    "title": "Fatigue and Fracture of Composites",
+    "description": "Provides an in-depth understanding of the fatigue and fracture behavior of composite materials under both uniaxial and multiaxial loading for both unidirectional and multidirectional laminates. Focus on the characterization of these properties and the damage and failure mechanisms including the effects of constituents, loading, layup and stress concentration on the fatigue and fracture behavior. This course will also cover the basic concepts and fundamental models used to describe and predict the fatigue and fracture behavior of composites. It will also cover topics related to the impact damage tolerance of composites and the application of fracture mechanics concepts to characterize and analyze composite delamination propagation under both static and fatigue loading.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Recommended preparation: MSE 5364 or ME 5430.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

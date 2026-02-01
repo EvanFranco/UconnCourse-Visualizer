@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5615",
+    "dept_code": "PSYC",
+    "id_number": "5615",
+    "title": "Human Factors",
+    "description": "Theories of design and analysis of man-machine systems in an industrial/organizational context. Special emphasis on the human as an information-processing sub-system operating with other people and machines in complex systems. Application of psychological principles to design of industrial workplaces, military systems, and consumer products; and to the design of simulation systems for training.",
+    "credits": "3",
+    "requirement_description": "Open only to doctoral students in Industrial/Organizational Psychology, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

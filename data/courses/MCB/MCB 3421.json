@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3421",
+    "dept_code": "MCB",
+    "id_number": "3421",
+    "title": "Introduction to Molecular Evolution and Bioinformatics",
+    "description": "Evolution of biomolecules and application to molecular data analysis and the design of new molecules. Topics include prebiotic chemistry, origin of cells, selfish genes, molecular innovations, data bank searches, alignment of sequence and 3-D protein structures. Course includes lectures, discussions, computer lab exercises, and an independent research project.",
+    "credits": "4",
+    "requirement_description": "Recommended preparation: At least one 2000 level course in MCB.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

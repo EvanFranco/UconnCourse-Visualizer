@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5095",
+    "dept_code": "EDCI",
+    "id_number": "5095",
+    "title": "Advanced Seminar",
+    "description": "Analysis of the issues and research in the field of education. Open primarily to master's and Sixth-Year students.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

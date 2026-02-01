@@ -1,0 +1,16 @@
+{
+    "name": "PATH 4300",
+    "dept_code": "PATH",
+    "id_number": "4300",
+    "title": "Principles of Pathobiology",
+    "description": "The body's response to chemical, physical, and microbial injuries including the functional and morphologic alterations in disease of the major organ systems.",
+    "credits": "3",
+    "requirement_description": "PATH 2100 or PNB 2264-2265 or PNB 2274-2275 or an equivalent course in vertebrate anatomy and physiology; open to juniors or higher. Recommended preparation: PATH 3100 or equivalent course in histology or cell biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

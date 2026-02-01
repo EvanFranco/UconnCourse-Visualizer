@@ -1,0 +1,16 @@
+{
+    "name": "DGS 4513",
+    "dept_code": "DGS",
+    "id_number": "4513",
+    "title": "Blotting Applications",
+    "description": "Theory and techniques of nucleic acid and/or protein blotting (e.g. Southern blot, reverse clot blot).",
+    "credits": "2",
+    "requirement_description": "A \"C\" or better in DGS 4234 and 4235; open to Diagnostic Genetic Sciences Molecular concentration majors and Diagnostic Genetic Sciences Molecular concentration certificate students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

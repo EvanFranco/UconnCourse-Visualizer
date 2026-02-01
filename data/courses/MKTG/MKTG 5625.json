@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 5625",
+    "dept_code": "MKTG",
+    "id_number": "5625",
+    "title": "Marketing for Global Competitiveness",
+    "description": "This course provides a framework for competing in the global marketplace. Students learn how to use customer, country, and product portfolio analysis to develop effective marketing strategies in global markets. Students gain practice developing and recommending global market strategies.",
+    "credits": "3",
+    "requirement_description": "MKTG 5115, or MKTG 5181 and MKTG 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

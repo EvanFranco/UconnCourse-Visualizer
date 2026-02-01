@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3350",
+    "dept_code": "DMD",
+    "id_number": "3350",
+    "title": "3D Simulations",
+    "description": "Offers students an intermediate understanding of the art and science of creating physical simulations, using particle systems and collision detection. Creation of complicated rendering and compositing setups that make animations both easier to render and more flexible within the bounds of any animation or VFX sequence.",
+    "credits": "3",
+    "requirement_description": "DMD 3310; open to B.F.A Digital Media and Design 3D Animation concentration students only; others by instructor consent. Recommended preparation: DMD 3300.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

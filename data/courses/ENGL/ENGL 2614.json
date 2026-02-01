@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2614",
+    "dept_code": "ENGL",
+    "id_number": "2614",
+    "title": "Writing with Algorithms",
+    "description": "An introduction to the field of computer-generated literature. Students learn basic programming in order to create their own computer-generated works. No prior programming experience expected. CA 3.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

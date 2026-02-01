@@ -1,0 +1,16 @@
+{
+    "name": "DMD 2310",
+    "dept_code": "DMD",
+    "id_number": "2310",
+    "title": "3D Modeling I",
+    "description": "Introduction to creating polygonal 3D models using industry standard modeling tools, focusing geometry construction based on reference images, edge flow, clean topology, and polygon density.",
+    "credits": "3",
+    "requirement_description": "DMD 1002 and 1102; open only to Digital Media and Design majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

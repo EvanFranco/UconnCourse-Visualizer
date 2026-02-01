@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6413",
+    "dept_code": "MEDS",
+    "id_number": "6413",
+    "title": "Cancer Biology",
+    "description": "This is a survey course to explore the genetics and pathobiology of cancer by focusing on a variety of current research topics. Understanding the disease process requires studying normal mechanisms of growth control. Emphasis will be on topics such as differentiation, apoptosis, growth factors, oncogenes, tumor suppressor genes, viruses and signal transduction.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 2193",
+    "dept_code": "ENVE",
+    "id_number": "2193",
+    "title": "International Study",
+    "description": "Special environmental engineering topics taken in a foreign study program.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

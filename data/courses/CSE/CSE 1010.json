@@ -1,0 +1,16 @@
+{
+    "name": "CSE 1010",
+    "dept_code": "CSE",
+    "id_number": "1010",
+    "title": "Introduction to Computing for Engineers",
+    "description": "Introduction to computing logic, algorithmic thinking, computing processes, a programming language and computing environment. Knowledge obtained in this course enables use of the computer as an instrument to solve computing problems. Representative problems from science, mathematics, and engineering will be solved.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing CSE 1729 or 2050.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

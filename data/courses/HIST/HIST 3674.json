@@ -1,0 +1,22 @@
+{
+    "name": "HIST 3674",
+    "dept_code": "HIST",
+    "id_number": "3674",
+    "title": "History of Latinos/as in the United States",
+    "description": "(Also offered as LLAS\u00a03220.) Settlement and growth of Hispanic-origin populations in the United States today, from Spanish and Mexican settlement of the western United States to the growth of Latino communities. Student oral history project. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

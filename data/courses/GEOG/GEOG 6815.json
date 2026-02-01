@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 6815",
+    "dept_code": "GEOG",
+    "id_number": "6815",
+    "title": "Seminar on Geographic Information Science and Systems",
+    "description": "An exploration of Geographic Information Science (GISc) and Systems (GIS) theories, methods, and critiques for physical and social sciences. Topics may range from fundamental to emergent themes including measurement biases, uncertainties, qualitative GIS, spatial big data, human dynamics, and GeoAI. May be repeated for a total of six credits. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: GEOG 5500 or 5510.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

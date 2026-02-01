@@ -1,0 +1,16 @@
+{
+    "name": "STAT 4875",
+    "dept_code": "STAT",
+    "id_number": "4875",
+    "title": "Nonparametric Methods",
+    "description": "Basic ideas, the empirical distribution function and its applications, uses of order statistics, one- two- and c-sample problems, rank correlation, efficiency.",
+    "credits": "3",
+    "requirement_description": "STAT 3445.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

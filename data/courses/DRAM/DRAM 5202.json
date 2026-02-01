@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5202",
+    "dept_code": "DRAM",
+    "id_number": "5202",
+    "title": "Technical Direction",
+    "description": "A study of the planning, management and execution of all technical aspects of production.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 1784",
+    "dept_code": "UNIV",
+    "id_number": "1784",
+    "title": "First-Year Honors Seminar",
+    "description": "An overview of some aspects of university education. Designed to help students set learning goals to be achieved during the baccalaureate experience.",
+    "credits": "1",
+    "requirement_description": "Open only to Honors students. Must be a First-year student.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

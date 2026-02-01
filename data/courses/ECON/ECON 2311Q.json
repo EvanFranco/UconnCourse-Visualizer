@@ -1,0 +1,18 @@
+{
+    "name": "ECON 2311Q",
+    "dept_code": "ECON",
+    "id_number": "2311Q",
+    "title": "Econometrics I",
+    "description": "Recommended for all students majoring in Economics. Introduction to the application of statistical methods for the estimation, testing, and prediction of economic relationships. Emphasizes ordinary least squares regression.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or both ECON 1201 (or ARE 1150) and ECON 1202; MATH 1071Q or 1110Q or 1125Q or 1131Q or 1151Q or 2141Q; and STAT 1000Q or 1100Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

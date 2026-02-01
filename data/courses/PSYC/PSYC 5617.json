@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5617",
+    "dept_code": "PSYC",
+    "id_number": "5617",
+    "title": "Occupational Health and Safety",
+    "description": "Research methods, theories and findings related to the impact of work duties and environmental conditions on occupational safety and health.",
+    "credits": "3",
+    "requirement_description": "PSYC 5615.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

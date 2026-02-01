@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 4004",
+    "dept_code": "HDFS",
+    "id_number": "4004",
+    "title": "Senior Seminar in Research Methods",
+    "description": "Students will work as a research team to conduct a research project through all of its phases, from formulating a research question to final presentation of findings.",
+    "credits": "3",
+    "requirement_description": "HDFS 2004; 12 credits of 2000-level or above HDFS courses; open only to Human Development and Family Sciences majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

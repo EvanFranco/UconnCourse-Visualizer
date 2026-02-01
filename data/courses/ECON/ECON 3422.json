@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3422",
+    "dept_code": "ECON",
+    "id_number": "3422",
+    "title": "International Finance",
+    "description": "Payments and financing of international trade: foreign exchange markets, the balance of payments, capital flows, and international monetary arrangements.",
+    "credits": "3",
+    "requirement_description": "ECON 2202 or 2212Q. Recommended preparation: ECON 1200 or 1201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

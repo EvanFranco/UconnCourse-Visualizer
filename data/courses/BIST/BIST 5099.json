@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5099",
+    "dept_code": "BIST",
+    "id_number": "5099",
+    "title": "Independent Study",
+    "description": "Independent study on biostatistics and its applications under the supervision of a faculty instructor. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

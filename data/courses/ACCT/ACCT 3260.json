@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 3260",
+    "dept_code": "ACCT",
+    "id_number": "3260",
+    "title": "Federal Income Taxes",
+    "description": "(Also offered as BADM\u00a03260.) A study of the underlying concepts of federal income taxation. Emphasis to be placed upon the impact of taxes on business decisions.",
+    "credits": "3",
+    "requirement_description": "ACCT 3201 or BADM 3201; open only to business majors of junior or higher status. May not be taken out of sequence after passing ACCT 4261.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 3236",
+    "dept_code": "NUSC",
+    "id_number": "3236",
+    "title": "Nutritional Biochemistry and Metabolism",
+    "description": "Explores the metabolism and functions of carbohydrates, proteins, lipids, minerals, and vitamins, emphasizing biochemical processes like digestion, absorption, enzyme kinetics, anabolic/catabolic pathways, and energy regulation across fed/fasting states, exercise, and life stages.",
+    "credits": "3",
+    "requirement_description": "NUSC 1165, BIOL 1107, and either CHEM 2241 or CHEM 2443.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DIET 3296",
+    "dept_code": "DIET",
+    "id_number": "3296",
+    "title": "Applied Research for Dietetic Professionals",
+    "description": "Provides Dietetic majors research experience under the guidance and supervision of a department faculty member; designed to engage a student in inquiry and investigation on a topic of interest. May be repeated for a total of 6 credits.",
+    "credits": "1-3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

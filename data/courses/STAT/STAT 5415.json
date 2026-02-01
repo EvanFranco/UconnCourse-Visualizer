@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5415",
+    "dept_code": "STAT",
+    "id_number": "5415",
+    "title": "Statistical Methods for Data Science",
+    "description": "Basic probabilistic concepts; marginal, joint and conditional probability distributions; point and interval estimation; and hypothesis testing.",
+    "credits": "3",
+    "requirement_description": "Differential calculus; undergraduate course in statistics; and Instructor consent. Not open to students who have passed STAT 5585 or STAT 5685 or BIST 5585 or BIST 5685.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

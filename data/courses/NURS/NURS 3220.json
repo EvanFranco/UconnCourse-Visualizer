@@ -1,0 +1,16 @@
+{
+    "name": "NURS 3220",
+    "dept_code": "NURS",
+    "id_number": "3220",
+    "title": "Clinical Science for Sub-Acute and Chronically Ill Adults",
+    "description": "Critical examination of concepts of pharmacology, microbiology, nutrition and pathophysiology as they relate to nursing care of adults with sub-acute and chronic health problems and their families. May be repeated for a total of 3 credits.",
+    "credits": "3",
+    "requirement_description": "To enroll in this course, a student must have earned a \"C\" or better in NURS 1130, 1131, 3100, 3110, and 3120; open only to Nursing majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

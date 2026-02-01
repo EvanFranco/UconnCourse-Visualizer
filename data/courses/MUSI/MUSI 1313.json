@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 1313",
+    "dept_code": "MUSI",
+    "id_number": "1313",
+    "title": "Harmony I",
+    "description": "Writing and analysis of tonal harmony; relation to melody and counterpoint.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

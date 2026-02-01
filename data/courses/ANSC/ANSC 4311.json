@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 4311",
+    "dept_code": "ANSC",
+    "id_number": "4311",
+    "title": "Advanced Animal Nutrition",
+    "description": "A comparative study of nutritional, physiological, microbiological, immunological and biochemical aspects of digestion and metabolism in the non-ruminant and ruminant animal, particularly livestock and companion animals. Topics include digestive system structures, utilization of nutrients, energy metabolism, control of nutrient metabolism, and experimental techniques used in the study of animal nutrition.",
+    "credits": "3",
+    "requirement_description": "ANSC 1111; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

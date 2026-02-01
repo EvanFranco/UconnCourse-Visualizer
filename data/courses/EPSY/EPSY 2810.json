@@ -1,0 +1,20 @@
+{
+    "name": "EPSY 2810",
+    "dept_code": "EPSY",
+    "id_number": "2810",
+    "title": "Creativity: Debunking Myths and Enhancing Innovation",
+    "description": "Introduction to the science of creativity and to strategies for enhancing creativity in self and others. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

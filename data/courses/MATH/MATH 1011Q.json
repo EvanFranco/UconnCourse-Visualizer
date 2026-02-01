@@ -1,0 +1,18 @@
+{
+    "name": "MATH 1011Q",
+    "dept_code": "MATH",
+    "id_number": "1011Q",
+    "title": "Introductory College Algebra and Mathematical Modeling",
+    "description": "Emphasizes two components necessary for success in 1000-level courses which employ mathematics. The first component consists of basic algebraic notions and their manipulations. The second component consists of the practice of solving multi-step problems from other disciplines, called mathematical modeling. The topics include: lines, systems of equations, polynomials, rational expressions, exponential and logarithmic functions. Students will engage in group projects in mathematical modeling. Strongly recommended as preparation for Q courses for students whose high school algebra needs reinforcement.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed a Q course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

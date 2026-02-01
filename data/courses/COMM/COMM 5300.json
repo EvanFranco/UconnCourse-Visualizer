@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5300",
+    "dept_code": "COMM",
+    "id_number": "5300",
+    "title": "Mass Communication Theory",
+    "description": "Introduction to major theories, with emphasis on the structure, function, and effects of mass media.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

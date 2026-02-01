@@ -1,0 +1,16 @@
+{
+    "name": "BADM 5321",
+    "dept_code": "BADM",
+    "id_number": "5321",
+    "title": "Innovation Accelerator II: New Venture Analytics",
+    "description": "Practicum provides the students with hands on experience working with the founders of a high-tech entrepreneurial venture. Under a faculty mentor, the lab provides the students with hands-on experience collecting both primary and secondary data. Students acquire skills related to identifying targeted survey populations, the development of unambiguous survey questions, as well as best methods for survey implementation. Furthermore, students learn how to analyze the resultant data, combine it with other secondary research, extract relevant, non-duplicative findings, and develop evidence-based conclusions and strategic recommendations/solutions for the client venture. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "POLS 2450",
+    "dept_code": "POLS",
+    "id_number": "2450",
+    "title": "Nuclear Security",
+    "description": "The development of nuclear weapons and their consequences. Topics include the science and history of nuclear weapons, as well as nuclear proliferation, terrorism, and strategy.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: POLS 1402.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

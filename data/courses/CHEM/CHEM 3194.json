@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3194",
+    "dept_code": "CHEM",
+    "id_number": "3194",
+    "title": "Undergraduate Seminar",
+    "description": "Discussions of topics relevant to further study and work in the field of chemistry. Students taking this course will be assigned a final grade of S (satisfactory) or U (Unsatisfactory). May be repeated for a total of 2 credits.",
+    "credits": "1",
+    "requirement_description": "Open only to Chemistry majors, others with consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

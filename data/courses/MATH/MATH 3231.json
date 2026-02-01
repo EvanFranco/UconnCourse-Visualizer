@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3231",
+    "dept_code": "MATH",
+    "id_number": "3231",
+    "title": "Abstract Algebra II",
+    "description": "Topics from ring theory, Galois theory, linear and multilinear algebra, or algebraic geometry.",
+    "credits": "3",
+    "requirement_description": "MATH 3230. Recommended preparation: MATH 3210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

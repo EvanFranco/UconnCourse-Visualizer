@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5105",
+    "dept_code": "EDCI",
+    "id_number": "5105",
+    "title": "Teaching the Language Arts",
+    "description": "Teaching integrated language arts including oral and written communication, creative language, and spelling development with an emphasis on current research.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

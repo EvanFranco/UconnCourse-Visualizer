@@ -1,0 +1,16 @@
+{
+    "name": "MISI 2201",
+    "dept_code": "MISI",
+    "id_number": "2201",
+    "title": "General Military Science IIa",
+    "description": "Dimensions of tactical leadership; team dynamics and team building; historic leadership models; understanding personal motivations.",
+    "credits": "1",
+    "requirement_description": "MISI 1102. May not be taken out of sequence after passing MISI 2202.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

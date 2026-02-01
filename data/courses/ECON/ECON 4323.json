@@ -1,0 +1,16 @@
+{
+    "name": "ECON 4323",
+    "dept_code": "ECON",
+    "id_number": "4323",
+    "title": "Convex Optimization with Python",
+    "description": "Methods of convex optimization, including linear, quadratic, and general constrained and unconstrained problems. Applications, using Python, in economics and finance.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or ECON 2211Q; MATH 1131Q or MATH 1151Q or MATH 2141Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

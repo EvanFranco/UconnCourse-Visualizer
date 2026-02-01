@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 2444",
+    "dept_code": "CHEM",
+    "id_number": "2444",
+    "title": "Organic Chemistry",
+    "description": "A continuation of CHEM\u00a02443.",
+    "credits": "3",
+    "requirement_description": "CHEM 2443. May not be taken out of sequence after passing CHEM 4370. Repeat restrictions apply; see advising.uconn.edu/repeat-policy for information.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

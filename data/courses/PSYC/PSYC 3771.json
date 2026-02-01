@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3771",
+    "dept_code": "PSYC",
+    "id_number": "3771",
+    "title": "Prejudice and Conflict",
+    "description": "Overview of the psychological bases of prejudice and conflict in individuals and society.",
+    "credits": "3",
+    "requirement_description": "PSYC 1101 or 1103.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

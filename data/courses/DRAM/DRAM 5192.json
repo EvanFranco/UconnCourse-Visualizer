@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5192",
+    "dept_code": "DRAM",
+    "id_number": "5192",
+    "title": "Independent Study in Theatre Studies",
+    "description": "Independent study under the direction of an appropriate faculty member. May be repeated for a total of 30 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

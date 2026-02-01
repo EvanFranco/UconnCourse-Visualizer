@@ -1,0 +1,18 @@
+{
+    "name": "PATH 3094W",
+    "dept_code": "PATH",
+    "id_number": "3094W",
+    "title": "Seminar",
+    "description": "Majors may take this course in each semester of the senior year. May be repeated for credit.",
+    "credits": "2",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 4031",
+    "dept_code": "PHRX",
+    "id_number": "4031",
+    "title": "Sterile Pharmaceutical Compounding",
+    "description": "Dosage forms preparation and basic techniques for compounding sterile dosage forms.",
+    "credits": "1",
+    "requirement_description": "PHRX 3031 and 3032; open only to students in the School of Pharmacy.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

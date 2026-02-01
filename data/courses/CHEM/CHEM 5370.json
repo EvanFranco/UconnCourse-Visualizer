@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5370",
+    "dept_code": "CHEM",
+    "id_number": "5370",
+    "title": "Environmental Chemistry I",
+    "description": "Sources, transport, effects, fate, analytical chemistry, monitoring and management of chemical species; chemical principles, equilibria and reactions. Water and atmospheric pollution; acid rain, global warming, ozone.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 3100",
+    "dept_code": "DRAM",
+    "id_number": "3100",
+    "title": "Dramatic Arts: The Practice and the Profession",
+    "description": "A forum for Dramatic Arts students to meet, share and discuss ongoing work, engage collaboratively across programs and cohorts, discuss emerging issues in the department and the field, and learn from the skills and experiences of guest artists. May be repeated for a total of 4 credits.",
+    "credits": "0.5",
+    "requirement_description": "Open to Dramatic Arts majors and minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3301",
+    "dept_code": "ENGL",
+    "id_number": "3301",
+    "title": "Celtic and Norse Myth and Legend",
+    "description": "An examination of the early Celtic and Norse cultures through their medieval literature. Close analysis of works such as The Tain, The Mabinogian, The Eddas, selected sagas, runic and historical texts in association with later English texts that show their influence.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

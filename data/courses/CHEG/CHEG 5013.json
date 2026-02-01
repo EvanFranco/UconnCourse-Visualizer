@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5013",
+    "dept_code": "CHEG",
+    "id_number": "5013",
+    "title": "Principles of Regenerative Engineering and Applications",
+    "description": "Foundations, principles, and technologies of regenerative engineering.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

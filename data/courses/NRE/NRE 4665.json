@@ -1,0 +1,16 @@
+{
+    "name": "NRE 4665",
+    "dept_code": "NRE",
+    "id_number": "4665",
+    "title": "Natural Resources Modeling",
+    "description": "Applications of conservation of mass, energy and momentum in modeling natural resources systems. Defining systems; determining flows and storages; interactions and feedback mechanisms within systems. Problem oriented course including computer solutions using spreadsheets or modeling programs.",
+    "credits": "3",
+    "requirement_description": "MATH 1120 or higher; open only to Natural Resources majors, others with instructor consent; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

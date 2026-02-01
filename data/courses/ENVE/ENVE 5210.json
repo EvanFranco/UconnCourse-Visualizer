@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5210",
+    "dept_code": "ENVE",
+    "id_number": "5210",
+    "title": "Environmental Engineering Chemistry - I",
+    "description": "(Also offered as CE\u00a05210.) Quantitative treatment of chemical behavior in environmental systems. Thermodynamics and kinetics of acid/base, complexation, precipitation/dissolution, sorption and redox reactions; degradation and partitioning of organic contaminants; software for speciation and partitioning computation.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

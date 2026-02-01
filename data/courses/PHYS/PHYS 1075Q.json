@@ -1,0 +1,25 @@
+{
+    "name": "PHYS 1075Q",
+    "dept_code": "PHYS",
+    "id_number": "1075Q",
+    "title": "Physics of Music",
+    "description": "Basic principles of physics and scientific reasoning will be taught in the context of the production and perception of music, emphasizing the historic and scientific interplay between physics and music. Basic quantitative laboratories pertaining to sound, music, and waves. No previous knowledge of physics or music is assumed. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

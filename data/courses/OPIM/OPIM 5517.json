@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5517",
+    "dept_code": "OPIM",
+    "id_number": "5517",
+    "title": "Building Advanced Generative AI Systems",
+    "description": "Hands-on coding skills necessary to design, implement, and deploy advanced Generative AI systems. Emphasizes the technical development of AI architectures and coding proficiency, with a focus on foundational and advanced topics, including Retrieval-Augmented Generation (RAG), agentic systems, and model fine-tuning. Using Python and Jupyter Notebooks, students will develop and iterate upon real-world generative AI applications, progressing from building RAG models to fine-tuning and deploying AI systems in production. Key technical areas include embedding techniques, vector database integration, prompt engineering, and establishing agentic workflows. Balances coding exercises with project-based learning to reinforce the skills needed to engineer high-performing Generative AI systems.",
+    "credits": "3",
+    "requirement_description": "OPIM 5515 or OPIM 5894 when offered as Generative AI for Business; and OPIM 5604 (if OPIM 5604 was completed before Fall 2025, prior knowledge of Python programming is required). Open only to MBA, MSBAPM, and MS FinTech students, others with consent. Recommended preparation: Students are expected to know the fundamentals of Structured Query Language (SQL) through self-study, previous coursework or previous work experience.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

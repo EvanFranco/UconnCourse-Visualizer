@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5594",
+    "dept_code": "DRAM",
+    "id_number": "5594",
+    "title": "Lighting Design Seminar",
+    "description": "Review weekly progress of design and production assignments, including concept discussions, review of research materials, organization, photometric drafting, and color. May be repeated for a total of 8 credits.",
+    "credits": "1",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

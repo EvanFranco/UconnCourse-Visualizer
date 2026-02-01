@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5800",
+    "dept_code": "GRAD",
+    "id_number": "5800",
+    "title": "Applied Capstone in Data Science",
+    "description": "This course will give M.S. in Data Science students a problem-based learning opportunity to apply knowledge and skills gained in core and elective courses to an integrative data science project. Projects for the course come from industry and program partners and will typically require students to work in small teams to solve a real-world data science problem.",
+    "credits": "3",
+    "requirement_description": "Enrollment in the M.S. in Data Science program; Department or Unit consent required. Recommended preparation: Nine credits of coursework required for the M.S. in Data Science.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

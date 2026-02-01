@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 4899",
+    "dept_code": "ACCT",
+    "id_number": "4899",
+    "title": "Independent Study",
+    "description": "Individual study of special topics as mutually arranged between a student and an instructor. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

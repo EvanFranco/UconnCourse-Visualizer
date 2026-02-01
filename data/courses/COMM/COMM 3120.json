@@ -1,0 +1,16 @@
+{
+    "name": "COMM 3120",
+    "dept_code": "COMM",
+    "id_number": "3120",
+    "title": "Small Group Communication",
+    "description": "Approaches, methods, and findings of research in small group communication and development of an ability to engage effectively in small group situations.",
+    "credits": "3",
+    "requirement_description": "COMM 2100 or 2200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

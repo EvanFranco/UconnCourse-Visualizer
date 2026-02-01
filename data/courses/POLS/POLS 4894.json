@@ -1,0 +1,16 @@
+{
+    "name": "POLS 4894",
+    "dept_code": "POLS",
+    "id_number": "4894",
+    "title": "Political Science Colloquium",
+    "description": "Faculty research presentations demonstrating current topics of investigation within the department, literature review skills, and research design techniques. Recommended for sophomore and junior Honors students who are beginning their thesis research. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for a total of 2 credits.",
+    "credits": "1",
+    "requirement_description": "Instructor consent. Recommended preparation: recommended for sophomore or junior Honors students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

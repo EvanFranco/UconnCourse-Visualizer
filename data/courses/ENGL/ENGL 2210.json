@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2210",
+    "dept_code": "ENGL",
+    "id_number": "2210",
+    "title": "Introduction to Indigenous Literatures and Cultures",
+    "description": "Examination of the literatures and cultures of pre-contact, post-contact, and contemporary Indigenous peoples.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

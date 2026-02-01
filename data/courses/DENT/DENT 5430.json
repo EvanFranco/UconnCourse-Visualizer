@@ -1,0 +1,16 @@
+{
+    "name": "DENT 5430",
+    "dept_code": "DENT",
+    "id_number": "5430",
+    "title": "Advanced Oral Histology",
+    "description": "Oral tissues, their embryological orgin, histology and function.  Structure of developing teeth, alveolar bone, temporo-mandibular joint, oral mucosa, gingiva and salivary glands.  Lecture, slide review, and student-led discussions of papers from the research literature.",
+    "credits": "2",
+    "requirement_description": "Open only to current UConn Health Dental Residents in the combined Certificate/Master of Dental Science Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

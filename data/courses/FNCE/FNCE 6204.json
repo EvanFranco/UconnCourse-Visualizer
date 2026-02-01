@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 6204",
+    "dept_code": "FNCE",
+    "id_number": "6204",
+    "title": "Empirical Methods in Finance Research",
+    "description": "Topics include: predictability of asset prices, time series models of market microstructure, event study methodology, tests of asset pricing models and derivative pricing models, market efficiency, volatility of asset returns, and term structure interest rates.",
+    "credits": "3",
+    "requirement_description": "FNCE 5508.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

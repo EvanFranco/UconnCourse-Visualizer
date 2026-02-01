@@ -1,0 +1,20 @@
+{
+    "name": "NUSC 1165",
+    "dept_code": "NUSC",
+    "id_number": "1165",
+    "title": "Fundamentals of Nutrition",
+    "description": "An introduction to the principles and concepts of nutrition with emphasis on the nature and function of carbohydrates, fats, proteins, minerals and vitamins, and their application to the human organism. CA 3.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing NUSC 3171, 3172, 3180, 3233, 3234, 4236 or 4250.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

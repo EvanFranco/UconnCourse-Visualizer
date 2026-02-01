@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3635",
+    "dept_code": "ENGL",
+    "id_number": "3635",
+    "title": "Law and Literature",
+    "description": "The study of the law and legal concepts through the reading of literature as well as the application of techniques of literary study to legal questions and texts.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher. May not be taken for credit after passing ENGL 3621 Literature and Other Disciplines when taught as Law and Literature.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

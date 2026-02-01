@@ -1,0 +1,23 @@
+{
+    "name": "LAND 2210E",
+    "dept_code": "LAND",
+    "id_number": "2210E",
+    "title": "The Common (Shared) Landscape of the USA: Rights, Responsibilities and Values",
+    "description": "An introduction to the study of vernacular landscapes in the USA with an emphasis on the relationship between societal values and land use patterns. CA 1.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5491",
+    "dept_code": "MCB",
+    "id_number": "5491",
+    "title": "Professional Development Seminar",
+    "description": "Speakers from industry, government agencies, universities and non-profits provide advice about career paths, business models, hiring and employment opportunities. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "Open only to graduate students in the MCB Professional Science Masters programs.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

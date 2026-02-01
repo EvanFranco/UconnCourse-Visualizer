@@ -1,0 +1,23 @@
+{
+    "name": "NRE 1000E",
+    "dept_code": "NRE",
+    "id_number": "1000E",
+    "title": "Environmental Science",
+    "description": "An introduction to basic concepts and areas of environmental concern and how these problems can be effectively addressed. Topics include human population; ecological principles; conservation of biological resources; biodiversity; croplands, rangelands, forestlands; soil and water conservation; pollution and water management; and wildlife and fisheries conservation. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

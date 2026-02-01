@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5302",
+    "dept_code": "PHAR",
+    "id_number": "5302",
+    "title": "Chemical Biology and Drug Design",
+    "description": "Introduction to the emerging field of chemical biology with a particular focus on the role it plays in understanding cellular signaling, drug design, and drug development.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

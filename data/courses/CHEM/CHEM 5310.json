@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5310",
+    "dept_code": "CHEM",
+    "id_number": "5310",
+    "title": "Seminar",
+    "description": "Reports and discussion of topics of current interest in a variety of fields of chemistry. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 2242",
+    "dept_code": "CHEM",
+    "id_number": "2242",
+    "title": "Organic Chemistry Laboratory",
+    "description": "",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

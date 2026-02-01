@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5610",
+    "dept_code": "DMD",
+    "id_number": "5610",
+    "title": "Digital Humanities Methods",
+    "description": "Digital methods in humanities research, pedagogy, and public practice drawing on current work in History, English, Classics, Media Studies, Library Science, and related disciplines.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

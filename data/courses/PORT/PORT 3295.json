@@ -1,0 +1,16 @@
+{
+    "name": "PORT 3295",
+    "dept_code": "PORT",
+    "id_number": "3295",
+    "title": "Special Topics",
+    "description": "Prerequisites and recommended preparation vary. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Prerequisites and recommended preparation vary.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

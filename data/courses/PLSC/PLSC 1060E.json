@@ -1,0 +1,24 @@
+{
+    "name": "PLSC 1060E",
+    "dept_code": "PLSC",
+    "id_number": "1060E",
+    "title": "The Great American Lawn: History, Culture, and Sustainability",
+    "description": "Examination of the health, social, cultural, and environmental impacts of the largest irrigated crop in the U.S. CA 2. CA 3. Formerly offered as SPSS 1060.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

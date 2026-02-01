@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5705",
+    "dept_code": "BIST",
+    "id_number": "5705",
+    "title": "Statistical Methods in Bioinformatics",
+    "description": "Statistical methods and software tools for the analysis of biological data: sequencing methods; gene alignment methods; expression analysis; evolutionary models; analysis of proteomics, metabolomics, and methylation data; pathway analysis: gene network analysis.",
+    "credits": "3",
+    "requirement_description": "BIST 5505 and 5585; or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

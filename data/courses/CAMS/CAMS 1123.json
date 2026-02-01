@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 1123",
+    "dept_code": "CAMS",
+    "id_number": "1123",
+    "title": "Intermediate Latin I",
+    "description": "Review of the essentials of grammar. Reading of classical Latin prose and poetry with emphasis on Cicero and Ovid or Vergil.",
+    "credits": "3",
+    "requirement_description": "CAMS 1122, two years of Latin in high school, or instructor consent. May not be taken out of sequence after passing CAMS 1124.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

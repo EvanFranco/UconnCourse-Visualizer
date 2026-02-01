@@ -1,0 +1,16 @@
+{
+    "name": "GPS 3099",
+    "dept_code": "GPS",
+    "id_number": "3099",
+    "title": "Independent Study",
+    "description": "Open only with consent of instructor and BGS mentor/advisor. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "BGS students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,24 @@
+{
+    "name": "GERM 3261W",
+    "dept_code": "GERM",
+    "id_number": "3261W",
+    "title": "German Film and Culture",
+    "description": "Critical analysis of artistic issues in writing screenplays and making movies. Dynamic interplay between German film, the other arts, their socioeconomic context and the cinematic traditions of other cultures. Taught in German. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "GERM 3233, which may be taken concurrently; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

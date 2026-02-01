@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5219",
+    "dept_code": "PHAR",
+    "id_number": "5219",
+    "title": "Biopharmaceutics and Pharmacokinetics",
+    "description": "Basic principles of biopharmaceutics, bioavailability, and pharmacokinetics, including their application to the rational design of both dosage forms and maximally effective dosing regimens.  Intended for graduate students who may not have sufficient previous exposure to biopharmaceutics and pharmakokinetics.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

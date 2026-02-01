@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 6400",
+    "dept_code": "ENGL",
+    "id_number": "6400",
+    "title": "American Ethnic Literature",
+    "description": "With a change of content this course may be repeated for credit. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

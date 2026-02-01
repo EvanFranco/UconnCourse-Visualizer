@@ -1,0 +1,16 @@
+{
+    "name": "KINS 3099",
+    "dept_code": "KINS",
+    "id_number": "3099",
+    "title": "Independent Study for Undergraduates",
+    "description": "Laboratory or library research to expand understanding of a specialized topic in sport, leisure, or exercise sciences. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Must be of senior standing.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

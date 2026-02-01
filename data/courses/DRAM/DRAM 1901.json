@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 1901",
+    "dept_code": "DRAM",
+    "id_number": "1901",
+    "title": "Voice and Speech I",
+    "description": "Study of the skills required to develop an expressive, injury-free voice and improved speech on and off the stage.",
+    "credits": "2",
+    "requirement_description": "Open to BFA Acting majors only. May not be taken out of sequence after passing DRAM 1902.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

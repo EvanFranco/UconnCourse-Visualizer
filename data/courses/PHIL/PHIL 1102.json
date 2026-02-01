@@ -1,0 +1,20 @@
+{
+    "name": "PHIL 1102",
+    "dept_code": "PHIL",
+    "id_number": "1102",
+    "title": "Philosophy and Logic",
+    "description": "Techniques for evaluating inductive and deductive arguments; applications to specific arguments about philosophical topics, for example the mind-body problem or free will vs. determinism. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

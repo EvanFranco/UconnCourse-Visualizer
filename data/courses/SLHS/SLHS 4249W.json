@@ -1,0 +1,18 @@
+{
+    "name": "SLHS 4249W",
+    "dept_code": "SLHS",
+    "id_number": "4249W",
+    "title": "Introduction to Aural Rehabilitation",
+    "description": "An introduction to the effects of hearing impairment on communication. Communication strategies for adults and children with impaired hearing are discussed.",
+    "credits": "4",
+    "requirement_description": "SLHS 3248; ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

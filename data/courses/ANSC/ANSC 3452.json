@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3452",
+    "dept_code": "ANSC",
+    "id_number": "3452",
+    "title": "Horse Breeding Farm Management",
+    "description": "Designed to develop technical and managerial skills necessary for operating horse breeding farms. Programs for herd health, hoof care, nutrition, breeding, foaling, and record keeping will be included.",
+    "credits": "3",
+    "requirement_description": "ANSC 2251. Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

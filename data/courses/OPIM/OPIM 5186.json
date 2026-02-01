@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5186",
+    "dept_code": "OPIM",
+    "id_number": "5186",
+    "title": "AI for Managers",
+    "description": "This course introduces students to a broad range of artificial intelligence (AI) techniques and their applications to contemporary business challenges and opportunities. Topics include neural networks, image processing, document classification, pattern recognition, and automated content generation. Students explore how these techniques are used across business functions such as marketing, product strategy, revenue management, operations, and customer service. The course also examines the organizational and ethical challenges firms face when adopting or scaling AI technologies. Note: The course does not cover engineering-level programming, mathematics, or similar material.",
+    "credits": "3",
+    "requirement_description": "Open to all School of Business graduate students. Not open to students who have previously taken BADM 5894: AI for Managers.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

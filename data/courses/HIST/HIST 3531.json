@@ -1,0 +1,22 @@
+{
+    "name": "HIST 3531",
+    "dept_code": "HIST",
+    "id_number": "3531",
+    "title": "Japanese Americans and World War II",
+    "description": "(Also offered as AAAS\u00a03531, AMST\u00a03531.) The events leading to martial law and executive order 9066, the wartime experience of Japanese Americans, and national consequences. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

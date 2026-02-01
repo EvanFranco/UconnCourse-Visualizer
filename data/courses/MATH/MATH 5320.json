@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5320",
+    "dept_code": "MATH",
+    "id_number": "5320",
+    "title": "Algebraic Geometry I",
+    "description": "This course is an introduction to algebraic varieties: affine and projective varieties, dimension of varieties and subvarieties, algebraic curves, singular points, divisors and line bundles, differentials, intersections.",
+    "credits": "3",
+    "requirement_description": "MATH 5211 and MATH 5310, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

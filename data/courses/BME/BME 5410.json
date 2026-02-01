@@ -1,0 +1,16 @@
+{
+    "name": "BME 5410",
+    "dept_code": "BME",
+    "id_number": "5410",
+    "title": "Systems Biology of Cells and Tissues",
+    "description": "A broad systems level overview of how cells and tissues interact with each other at different physical scales to create complex physiological outcomes. In addition, a variety of techniques and experimental models in biology, as well as introducing examples to observe cells and tissues at multiple scales.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Graduate student in Biomedical Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

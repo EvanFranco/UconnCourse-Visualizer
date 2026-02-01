@@ -1,0 +1,16 @@
+{
+    "name": "AHNR 5099",
+    "dept_code": "AHNR",
+    "id_number": "5099",
+    "title": "Independent Study in Extension",
+    "description": " May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

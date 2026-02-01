@@ -1,0 +1,18 @@
+{
+    "name": "EPSY 4120W",
+    "dept_code": "EPSY",
+    "id_number": "4120W",
+    "title": "Fundamentals of Assessment in Special Education",
+    "description": "Introduction to assessment in special education focusing on current purposes, policies, and practices in schools.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; Open only to students enrolled in the Integrated Bachelors/Masters program in Comprehensive Special Education.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "POLY 5395",
+    "dept_code": "POLY",
+    "id_number": "5395",
+    "title": "Biopolymers",
+    "description": "Thermodynamics and kinetics of biopolymers (carbohydrates, proteins, DNA/RNA, lipids/biomembranes). Properties, applications, and connections to current research.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

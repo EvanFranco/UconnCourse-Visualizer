@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3210",
+    "dept_code": "ECON",
+    "id_number": "3210",
+    "title": "Game Theory for Blockchains",
+    "description": "Analysis and modeling of strategic interaction, with a focus on the strategic challenges of blockchains. Topics include identification of strategic issues in using blockchains, choice of correct tools of analysis, formal modeling of interaction, and design of governance algorithms.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q. Not open for credit to students who have passed ECON 3208.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

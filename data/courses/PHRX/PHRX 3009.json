@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3009",
+    "dept_code": "PHRX",
+    "id_number": "3009",
+    "title": "Principles of Drug Action",
+    "description": "Fundamental mechanisms of drug actions and effects with emphasis on interactions with cellular macromolecules and resulting downstream signaling events. Autonomic drugs and nomenclature.",
+    "credits": "3",
+    "requirement_description": "Open only to students in the School of Pharmacy. Must have satisfied the pre-pharmacy prerequisites. May not be taken out of sequence after passing PHRX 3040.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

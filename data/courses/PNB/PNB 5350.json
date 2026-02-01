@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5350",
+    "dept_code": "PNB",
+    "id_number": "5350",
+    "title": "Membrane Transport in Health and Disease",
+    "description": "Fundamental mechanisms by which water and small molecules are transported across biological membranes. Biophysical and biochemical analysis of transport by diffusion, osmosis, channels, carriers and pumps in health and disease.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

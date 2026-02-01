@@ -1,0 +1,16 @@
+{
+    "name": "AH 2001",
+    "dept_code": "AH",
+    "id_number": "2001",
+    "title": "Medical Terminology",
+    "description": "Introduction and mastery of medical terminology through presentation of word roots, prefixes and suffixes. Disease processes, symptoms, diagnosis, and treatments that affect various body systems. Terminology associated with disease processes, symptoms, diagnosis, clinical procedures, laboratory tests, and treatments that affect various body systems.",
+    "credits": "2",
+    "requirement_description": "Open to CAHNR students and following majors: Biological Sciences; Health Care Management; HDFS; MCB; NURS; Pharmacy Studies; PNB; PSYC; SLHS; DGS; MLS and others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3410",
+    "dept_code": "MCB",
+    "id_number": "3410",
+    "title": "Eukaryotic Genomics",
+    "description": "Introduction to the study of eukaryotic genomes. Topics include genome sequence organization and analysis, comparative genomics, structural variants, transposable elements and genome regulation in human health and disease.",
+    "credits": "3",
+    "requirement_description": "MCB 2400 or 2410; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

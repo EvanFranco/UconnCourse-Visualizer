@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5315",
+    "dept_code": "DMD",
+    "id_number": "5315",
+    "title": "Character Rigging",
+    "description": "Rigging concepts with a specific emphasis on animated props and characters. Techniques for using and creating bones, constraints, skeletons, skinning, and weight painting. Students will come to understand the connection between animation and rigging, and specifically, how rigging increases quality and productivity in animation production.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

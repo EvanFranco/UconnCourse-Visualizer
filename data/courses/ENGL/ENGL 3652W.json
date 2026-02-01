@@ -1,0 +1,18 @@
+{
+    "name": "ENGL 3652W",
+    "dept_code": "ENGL",
+    "id_number": "3652W",
+    "title": "Maritime Literature to 1800",
+    "description": "(Also offered as MAST\u00a03652W.) Maritime fiction and non-fiction from the beginnings to 1800: Shakespeare, Falconer, Defoe, and others.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011, sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

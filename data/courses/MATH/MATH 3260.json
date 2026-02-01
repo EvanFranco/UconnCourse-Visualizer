@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3260",
+    "dept_code": "MATH",
+    "id_number": "3260",
+    "title": "Introduction to Mathematical Logic",
+    "description": "Formalization of mathematical theories, elementary model theory with applications to algebra, number theory, and non-standard analysis. Additional topics: Elementary recursion theory and axiomatic set theory. Emphasis on the applications of logic to mathematics rather than the philosophical foundations of logic.",
+    "credits": "3",
+    "requirement_description": "A grade of C or better in MATH 2142Q or 2710. Recommended preparation: PHIL 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ENGL 3320",
+    "dept_code": "ENGL",
+    "id_number": "3320",
+    "title": "Literature and Culture of India",
+    "description": "Important texts, practices, and ideas drawn from the diverse traditions of Indian literature, arts, philosophy, and religion. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

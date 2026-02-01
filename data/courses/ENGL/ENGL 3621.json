@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3621",
+    "dept_code": "ENGL",
+    "id_number": "3621",
+    "title": "Literature and Other Disciplines",
+    "description": "The relationship of literature to other fields of study. Course content will vary by section.  May be repeatable for credit with a change in topic. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CE 4410",
+    "dept_code": "CE",
+    "id_number": "4410",
+    "title": "Computer Aided Site Design",
+    "description": "Roadway and street network design and site development using computer software, including grading and earthwork, runoff and drainage structures.",
+    "credits": "3",
+    "requirement_description": "CE 2410 or CE 2411 or ENVE 2411; enrollment in the School of Engineering. Recommended preparation: CE 2710",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

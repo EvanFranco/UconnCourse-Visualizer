@@ -1,0 +1,16 @@
+{
+    "name": "NRE 3125",
+    "dept_code": "NRE",
+    "id_number": "3125",
+    "title": "Watershed Hydrology",
+    "description": "Fundamental hydrologic processes, water balances, precipitation analyses, infiltration, soil water, evapotranspiration, open channel flow, discharge measurements, and analysis, flow frequencies, ground water-surface water interactions, runoff processes and prediction. Problem oriented course requiring use of computer spreadsheets.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher. Recommended preparation: NRE 2010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

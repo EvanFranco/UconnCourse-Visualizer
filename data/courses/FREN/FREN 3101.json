@@ -1,0 +1,16 @@
+{
+    "name": "FREN 3101",
+    "dept_code": "FREN",
+    "id_number": "3101",
+    "title": "French for Engineering I",
+    "description": "Provides dual-degree French and Engineering students with the technical and scientific vocabulary needed to discuss a wide variety of topics in engineering.",
+    "credits": "1",
+    "requirement_description": "Open only to dual-degree French and Engineering students; instructor consent required. Recommended preparation: FREN 1103 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

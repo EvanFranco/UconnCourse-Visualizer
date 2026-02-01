@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5250",
+    "dept_code": "NURS",
+    "id_number": "5250",
+    "title": "Advanced Theory and Practice in Nursing Education I: Curriculum Design and Program Evaluation",
+    "description": "Introduction to important principles of curriculum design and program evaluation within the context of the nurse educator role. Curriculum models and best-practices will be addressed, with an emphasis on the impact of the evolving educational and healthcare landscapes on curriculum development. Program evaluation will be introduced as a method to guide data-driven curriculum revision.",
+    "credits": "3",
+    "requirement_description": "Corequisite: NURS 5259.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5100",
+    "dept_code": "ISG",
+    "id_number": "5100",
+    "title": "Foundations of Genetic and Genomic Medicine",
+    "description": "Foundational concepts and application of genetics and genomics in the context of human disease.",
+    "credits": "3",
+    "requirement_description": "Only open to graduate students currently enrolled in the Clinical Genetics and Genomics certificate, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

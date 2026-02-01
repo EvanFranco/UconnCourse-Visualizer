@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5513",
+    "dept_code": "OPIM",
+    "id_number": "5513",
+    "title": "Blockchain",
+    "description": "This course examines the foundations of blockchain technology from multiple perspectives, including engineering, law, and economics. The course will cover blockchain technologies, distributed ledger technology, cryptocurrencies (e.g., Bitcoin), and their applications, implementation, and security concerns. Students will learn how these systems work; analyze the security and regulation issues relating to blockchain technologies, and understand the impact of blockchain technologies on financial services and other industries. The student will get a detailed picture of blockchain business networks' components and structures, such as ledgers, smart contracts, consensus, certificate authorities, security, roles, transaction processes, participants, and fabrics.",
+    "credits": "1.5",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

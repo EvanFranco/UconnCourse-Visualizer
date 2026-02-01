@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3479",
+    "dept_code": "ECON",
+    "id_number": "3479",
+    "title": "Economic Growth",
+    "description": "Causes and consequences of economic growth examined through theory, data, and economic history.  Interactions between economic growth and population growth, technology, education, health and life expectancy, and social institutions.  Public policies to promote growth.",
+    "credits": "3",
+    "requirement_description": "ECON 2202 or 2212Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

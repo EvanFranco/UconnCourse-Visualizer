@@ -1,0 +1,16 @@
+{
+    "name": "PNB 4400",
+    "dept_code": "PNB",
+    "id_number": "4400",
+    "title": "Biology of Nervous System Diseases",
+    "description": "Basic principles of genetics, molecular and cell biology, and physiology as applied to the mechanisms of disease and repair processes in the nervous system.  Topics include established concepts and areas of current research on chronic neurodegenerative, synaptic, and demyelinating disorders, acute trauma and cerebrovascular disorders, and plasticity and repair.",
+    "credits": "3",
+    "requirement_description": "PNB 2274, 2774, or 3251; one course from MCB 2000, 2210, 2400, 2410, or 3010; or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

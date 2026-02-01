@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5525",
+    "dept_code": "NRE",
+    "id_number": "5525",
+    "title": "Remote Sensing of the Environment",
+    "description": "Introduction to remote sensing theory and practice. Includes electromagnetic radiation, spectral reflectance, earth observation platforms and sensors, image processing methods, and multidisciplinary applications.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

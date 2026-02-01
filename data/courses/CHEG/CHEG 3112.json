@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 3112",
+    "dept_code": "CHEG",
+    "id_number": "3112",
+    "title": "Chemical Engineering Thermodynamics II",
+    "description": "Properties and phase equilibria for ideal and non-ideal mixtures; design of equilibrium flash separators; phase equilibria using equations of state; chemical equilibria; optimum conditions for chemical reactions; applications include chemical, electrochemical and biochemical systems.",
+    "credits": "3",
+    "requirement_description": "CHEG 2111; MATH 2410Q; open only to School of Engineering students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

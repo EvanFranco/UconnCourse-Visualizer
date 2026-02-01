@@ -1,0 +1,16 @@
+{
+    "name": "POLS 2600",
+    "dept_code": "POLS",
+    "id_number": "2600",
+    "title": "Making the Modern American Presidency",
+    "description": "Developments in the presidency from the constitutional era through President Hoover.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: POLS 1602.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5016",
+    "dept_code": "MATH",
+    "id_number": "5016",
+    "title": "Topics in Probability",
+    "description": "Advanced topics in probability theory, theory of random processes, mathematical statistics, and related fields. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

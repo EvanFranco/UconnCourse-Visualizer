@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5341",
+    "dept_code": "FNCE",
+    "id_number": "5341",
+    "title": "Risk Management in Credit Markets",
+    "description": "Pricing, measurement, and management of credit risk; credit risk modeling; use of credit derivatives to manage and control credit risk; building and managing portfolios, including long/short, and market neutral strategies; measurement of credit risk, including Actuarial, Merton, and Copula function; and portfolio construction, performance evaluation, asset allocation, and portfolio risk management (VAR, Hedging, Portfolio insurance).",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

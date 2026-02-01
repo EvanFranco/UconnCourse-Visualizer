@@ -1,0 +1,18 @@
+{
+    "name": "MATH 1071Q",
+    "dept_code": "MATH",
+    "id_number": "1071Q",
+    "title": "Calculus for Business and Economics",
+    "description": "Derivatives and integrals of algebraic, exponential and logarithmic functions. Applications to business and economics.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MATH 1011Q or the equivalent, and MATH 1070Q, and a qualifying score on the math placement assessment (placement.uconn.edu/mathematics-placement). Not open to students who have passed MATH 1110Q. Only one credit for students who have passed MATH 1121Q, 1131Q, or 1151Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

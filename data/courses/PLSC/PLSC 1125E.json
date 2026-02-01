@@ -1,0 +1,24 @@
+{
+    "name": "PLSC 1125E",
+    "dept_code": "PLSC",
+    "id_number": "1125E",
+    "title": "Insects, Food and Culture",
+    "description": "Introduction to the fascinating world of insects and their ubiquitous interactions with people. Role of insects in food and fiber production; insects as food; impact of insects on human health, commerce and history; and insects as inspiration sources for art, music, film and literature around the world. CA 4-INT. Formerly offered as SPSS 1125.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

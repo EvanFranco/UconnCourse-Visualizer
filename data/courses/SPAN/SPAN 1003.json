@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 1003",
+    "dept_code": "SPAN",
+    "id_number": "1003",
+    "title": "Intermediate Spanish I",
+    "description": "Basic intermediate level Spanish course with further development of uncomplicated communicative tasks. Focus on expressing subjectivity, opinions and arguments. Detailed analysis of Spanish speaking countries and societies.",
+    "credits": "4",
+    "requirement_description": "SPAN 1002 or two years of high school Spanish. May not be taken out of sequence after passing SPAN 1004. May not be taken for credit after passing any 2000-level or above course taught in Spanish, or three or more years of high school Spanish.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

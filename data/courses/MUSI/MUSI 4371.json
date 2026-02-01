@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 4371",
+    "dept_code": "MUSI",
+    "id_number": "4371",
+    "title": "Theory Review",
+    "description": "An overview of traditional undergraduate theory. Intended for graduate students in Music.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

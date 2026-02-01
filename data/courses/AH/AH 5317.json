@@ -1,0 +1,16 @@
+{
+    "name": "AH 5317",
+    "dept_code": "AH",
+    "id_number": "5317",
+    "title": "Professional Development Practicum",
+    "description": "The implementation and/or application of theory in AH\u00a05314. A minimum of 300 practicum hours required. May be repeated for a total of 24 credits.",
+    "credits": "5",
+    "requirement_description": "AH 5314, which may be taken concurrently; open only to non-thesis (Plan B) students; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PHIL 1114",
+    "dept_code": "PHIL",
+    "id_number": "1114",
+    "title": "Ethics, Markets, and Society",
+    "description": "Ethical questions concerning market and business activities. Topics may include corporate purpose and responsibility; conflicts of interest and whistleblowing; distributive justice in the workplace; global sweatshops and exploitation; workplace democracy; price gouging; and societal and environmental impacts of business.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

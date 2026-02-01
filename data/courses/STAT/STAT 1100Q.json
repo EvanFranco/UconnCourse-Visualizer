@@ -1,0 +1,18 @@
+{
+    "name": "STAT 1100Q",
+    "dept_code": "STAT",
+    "id_number": "1100Q",
+    "title": "Elementary Concepts of Statistics",
+    "description": "Standard and nonparametric approaches to statistical analysis; exploratory data analysis, elementary probability, sampling distributions, estimation and hypothesis testing, one- and two-sample procedures, regression and correlation. Learning to do statistical analysis on a personal computer is an integral part of the course.",
+    "credits": "4",
+    "requirement_description": "Students can receive no more than four credits from STAT 1000Q and 1100Q. Students who have passed a 2000-level or above STAT course or who are taking such a course concurrently cannot take 1000-level STAT courses.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

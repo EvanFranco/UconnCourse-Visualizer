@@ -1,0 +1,18 @@
+{
+    "name": "WGSS 3269W",
+    "dept_code": "WGSS",
+    "id_number": "3269W",
+    "title": "Gender, Sexuality, and Social Movements",
+    "description": "Examination of social movements as related to intersections of gender, race, sexuality, disability, class, nationality, ethnicity. May include related topics such as capitalism, democracy, globalization, economic justice, the environment, health, sexual freedom.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: Any 1000 or 2000 level WGSS course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

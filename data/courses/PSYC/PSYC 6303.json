@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 6303",
+    "dept_code": "PSYC",
+    "id_number": "6303",
+    "title": "Didactics of Supervision and Consultation",
+    "description": "Exposure to theories, models, and empirical data pertinent to providing quality supervision of the psychodiagnostic and psychotherapeutic activities of mental health professionals. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "PSYC 5301, 5304, 6301, and 6302; open to students in Clinical Psychology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

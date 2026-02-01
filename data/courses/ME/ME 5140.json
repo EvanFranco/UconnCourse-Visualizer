@@ -1,0 +1,16 @@
+{
+    "name": "ME 5140",
+    "dept_code": "ME",
+    "id_number": "5140",
+    "title": "Heat and Mass Transfer in Multiphase Systems",
+    "description": "Presentation of basic principles for analysis of transport phenomena in multi-phase systems and how they can be applied to a wide variety of applications.  The scope is limited to thermodynamics and heat and mass transfer fundamentals in solid  <-> liquid, liquid <-> vapor and solid <-> vapor with emphasis in condensation, evaporation, sublimation, vapor deposition, boiling, two phase flow, melting and solidification.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

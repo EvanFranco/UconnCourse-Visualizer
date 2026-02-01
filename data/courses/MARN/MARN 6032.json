@@ -1,0 +1,16 @@
+{
+    "name": "MARN 6032",
+    "dept_code": "MARN",
+    "id_number": "6032",
+    "title": "Environmental Organic Chemistry I",
+    "description": "Environmental factors governing the processes that determine the fate of organic compounds in natural and engineered systems. Quantitative assessments based on thermodynamic principles of the environmental behavior of organic compounds. Topics include multimedia partitioning between air, water, and particles; photochemical and biodegradation models.",
+    "credits": "3",
+    "requirement_description": "MARN 5030 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

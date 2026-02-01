@@ -1,0 +1,22 @@
+{
+    "name": "BIOL 1103",
+    "dept_code": "BIOL",
+    "id_number": "1103",
+    "title": "The Biology of Human Health and Disease",
+    "description": "A laboratory course designed for non-science majors to introduce the concepts of biology and their application to the individual, society and humankind by focusing on health and disease issues. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Students may not receive more than 12 credits in Biology at the 1000 level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

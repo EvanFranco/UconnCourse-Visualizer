@@ -1,0 +1,22 @@
+{
+    "name": "BIOL 1110",
+    "dept_code": "BIOL",
+    "id_number": "1110",
+    "title": "Introduction to Botany",
+    "description": "Designed to provide a foundation for more advanced courses in biology and related sciences. Structure, physiology, reproduction, diversity, evolution and ecology of plants as a basis for understanding the broader principles of biology. Surveys important groups of plants, fungi and algae. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Students may not receive more than 12 credits for courses in BIOL at the 1000 level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

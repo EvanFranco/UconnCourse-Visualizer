@@ -1,0 +1,16 @@
+{
+    "name": "MARN 4002",
+    "dept_code": "MARN",
+    "id_number": "4002",
+    "title": "Science and the Coastal Environment",
+    "description": "Specific cases of multiple impacts on environmental resources and coastal habitats. Current scientific understanding as a basis for sociopolitical decision-making (e.g., land-use impacts on coastal processes in relation to zoning regulation and water-quality criteria).",
+    "credits": "3",
+    "requirement_description": "MARN 2801WE, MARN 4001 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "JAPN 1103",
+    "dept_code": "JAPN",
+    "id_number": "1103",
+    "title": "Intermediate Japanese I",
+    "description": "Increasing communicative abilities in Japanese using more examples from contemporary Japanese media and culture.",
+    "credits": "4",
+    "requirement_description": "JAPN 1102 or equivalent. May not be taken out of sequence after passing JAPN 1104.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 6500",
+    "dept_code": "EDCI",
+    "id_number": "6500",
+    "title": "Research in Science Education",
+    "description": "An analysis of current research in science education. Emphasis on evaluation of research as well as the design and implementation of research.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

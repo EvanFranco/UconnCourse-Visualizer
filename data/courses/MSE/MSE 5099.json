@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5099",
+    "dept_code": "MSE",
+    "id_number": "5099",
+    "title": "Independent Study in Materials Science and Engineering",
+    "description": "Specialized non-classroom-based coursework under the regular supervision of a faculty instructor, or as offered by an accredited third party source. Does not constitute original research. A maximum of three credits can count towards the applicable MSE graduate course credit requirements for M.S. Plan A, M.S. Plan B, M.Eng. or Ph.D. degrees. May be repeated for a total of 3 credits.",
+    "credits": "1-3",
+    "requirement_description": "Major advisor consent; MSE gradaute students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BME 5000",
+    "dept_code": "BME",
+    "id_number": "5000",
+    "title": "Physiological Systems I",
+    "description": "Eleven major human organ systems are covered in this course, including: integumentary, endocrine, lymphatic, digestive, urinary, reproductive, circulatory, respiratory, nervous, skeletal, and muscular.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: BME 3100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

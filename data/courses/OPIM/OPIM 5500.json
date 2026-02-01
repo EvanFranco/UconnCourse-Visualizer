@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5500",
+    "dept_code": "OPIM",
+    "id_number": "5500",
+    "title": "Field Study Internship",
+    "description": "Gives students real-world experiences in applications of analytics and/or project management through an internship or industry project undertaken individually with a company under the joint supervision of a faculty member and the student's field supervisor. Student performance will be evaluated on the basis of an appraisal by the field supervisor and a detailed written report submitted by the student. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open to all MSBAPM and MS FinTech students. International students must have completed both a spring term and a fall term prior to taking this course. Departmental consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

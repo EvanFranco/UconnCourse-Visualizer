@@ -1,0 +1,18 @@
+{
+    "name": "MATH 2010Q",
+    "dept_code": "MATH",
+    "id_number": "2010Q",
+    "title": "Fundamentals of Algebra and Geometry",
+    "description": "Development of the number system with applications to elementary number theory and analytic geometry. May not be counted in any of the major groups described in the Mathematics Departmental listing.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100 and three credits of Mathematics; open only to students enrolled in the Elementary Education program in the Neag School of Education or by consent of instructor. May not be taken out of sequence after passing MATH 2011Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

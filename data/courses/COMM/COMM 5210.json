@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5210",
+    "dept_code": "COMM",
+    "id_number": "5210",
+    "title": "Family Communication",
+    "description": "A survey of family communication theories and processes as they pertain to diverse biological, legal, and voluntary kin relationships.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed COMM 5895 when offered as \"Family Communication.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

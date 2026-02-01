@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 6901",
+    "dept_code": "ENGR",
+    "id_number": "6901",
+    "title": "Engineering Education Seminar",
+    "description": "Presentations and discussions in Engineering Education contributed by staff, students, or outside speakers. May be repeated for a total of 8 credits.",
+    "credits": "1",
+    "requirement_description": "Departmental or Unit Consent required. Recommended preparation: Enrollment in the Engineering Education Ph.D. program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MCB 4009",
+    "dept_code": "MCB",
+    "id_number": "4009",
+    "title": "Structure and Function of Biological Macromolecules",
+    "description": "Fundamentals of protein structure and the forces that stabilize structure. Topics include recurrent structural motifs, molecular ancestry/homology, evolution of protein structure, structure-function correlations, and the structural basis of regulation. Discussion of the techniques used to investigate structure, including X-ray diffraction, NMR, TEM, AFM, structure prediction, and computational simulations. Advanced topics may include chaperones, structural genomics and the roles of misfolded proteins in disease.",
+    "credits": "3",
+    "requirement_description": "MCB 2000 or 3010, which may be taken concurrently, or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHIN 3211",
+    "dept_code": "CHIN",
+    "id_number": "3211",
+    "title": "Chinese Composition and Conversation II",
+    "description": "Development of high intermediate to advanced speaking and writing competency. Taught in Chinese.",
+    "credits": "3",
+    "requirement_description": "CHIN 3210 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

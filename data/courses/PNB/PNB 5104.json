@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5104",
+    "dept_code": "PNB",
+    "id_number": "5104",
+    "title": "Clinical Practicum in Intraoperative Neuromonitoring",
+    "description": "Direct student involvement in intraoperative neuromonitoring of various surgical procedures, observing live signals obtained in a clinical setting, interaction with patients, surgeons and operating room staff, and review of operating room protocols and procedures. May be repeated for a total of 12 credits.",
+    "credits": "3-4",
+    "requirement_description": "PNB 5101, 5102 and 5103 with an average GPA of 3.0 or higher in these classes, and instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

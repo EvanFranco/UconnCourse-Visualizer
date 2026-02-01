@@ -1,0 +1,16 @@
+{
+    "name": "HIST 2240",
+    "dept_code": "HIST",
+    "id_number": "2240",
+    "title": "History of War in the Modern World",
+    "description": "Selected topics analyzing the interactions of warfare, military theories and practice with social, economic and technological developments since 1815.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: HIST 1400.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

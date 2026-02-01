@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5302",
+    "dept_code": "CSE",
+    "id_number": "5302",
+    "title": "Computer Architecture",
+    "description": "Provides an in-depth understanding of the inner workings of modern digital computer systems. Traditional topics on uniprocessor systems such as performance analysis, instruction set architecture, hardware/software pipelining, memory hierarchy design and input-output systems will be discussed. Modern features of parallel computer systems such as memory consistency models, cache coherence protocols, and latency reducing/hiding techniques will also be addressed. Some experimental and commercially available parallel systems will be presented as case studies.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 4302 or the equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5998",
+    "dept_code": "GRAD",
+    "id_number": "5998",
+    "title": "Continuous Registration (Master's)",
+    "description": "This is a non-credit course for which master's degree students must register in cases where they are not otherwise registered for coursework or thesis preparation but want to remain active in their program. May be repeated for a total of 0 credits.",
+    "credits": "0",
+    "requirement_description": "Open only to master's students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

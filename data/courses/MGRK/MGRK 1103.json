@@ -1,0 +1,16 @@
+{
+    "name": "MGRK 1103",
+    "dept_code": "MGRK",
+    "id_number": "1103",
+    "title": "Intermediate Modern Greek I",
+    "description": "Increasing communicative abilities in Modern Greek emphasizing an interactive approach using more examples from Greek culture.",
+    "credits": "4",
+    "requirement_description": "MGRK 1102. May not be taken out of sequence after passing MGRK 1104.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

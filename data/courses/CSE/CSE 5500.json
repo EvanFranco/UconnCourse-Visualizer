@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5500",
+    "dept_code": "CSE",
+    "id_number": "5500",
+    "title": "Algorithms",
+    "description": "Introduction to the design and analysis of algorithms. The course will discuss fundamental design techniques and related issues such as amortized analysis, linear programming, network flow, NP-Completeness, approximation algorithms, randomized algorithms, advanced data structures, and parallel algorithms.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 3500 or the equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

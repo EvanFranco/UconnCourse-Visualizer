@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2470",
+    "dept_code": "ENGL",
+    "id_number": "2470",
+    "title": "Texts, Images, Objects",
+    "description": "Collecting, and related practices such as editing, exhibiting, displaying, and archiving. An integral if often overlooked aspect of telling stories, creating knowledge, and shaping culture. Through the critical assessment of existing collections of texts, images, and objects, and through the creative production of new collections, students will learn to evaluate the design decisions that inform collecting practices and to appreciate the cultural values embedded within and promoted by collecting practices in different eras and cultures. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

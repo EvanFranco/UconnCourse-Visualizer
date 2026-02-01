@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5280",
+    "dept_code": "NUSC",
+    "id_number": "5280",
+    "title": "U.S. Nutrition and Food Regulations",
+    "description": "Development of new nutrition products; regulations applicable to foods, medical foods, dietary supplements and ingredients; accurate and appropriate representation of scientific evidence for substantiating label claims and advertisements.",
+    "credits": "3",
+    "requirement_description": "NUSC 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

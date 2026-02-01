@@ -1,0 +1,22 @@
+{
+    "name": "HIST 2507",
+    "dept_code": "HIST",
+    "id_number": "2507",
+    "title": "New England and the Caribbean Plantation Complex, 1650-1900",
+    "description": "(Also offered as LLAS\u00a02507, MAST\u00a02507.) New England\u2019s role in the creation and expansion of the Caribbean plantation complex. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

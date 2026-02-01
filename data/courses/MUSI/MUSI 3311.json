@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3311",
+    "dept_code": "MUSI",
+    "id_number": "3311",
+    "title": "Ear Training and Musicianship III",
+    "description": "Devoted to the continuing development of musicianship skills, including sight singing, rhythmic reading, melodic and harmonic dictation focusing on chromaticism, and aural comprehension of musical structure.",
+    "credits": "1",
+    "requirement_description": "MUSI 1312.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

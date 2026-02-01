@@ -1,0 +1,16 @@
+{
+    "name": "HRTS 5600",
+    "dept_code": "HRTS",
+    "id_number": "5600",
+    "title": "Human Rights Practice Lab",
+    "description": "Critical engagement with human rights issues, strategies, tactics, institutions, and law in a practical setting. Students work collaboratively on a project addressing a pressing human rights issue and refine skills integral to working in the human rights field. Skills include information gathering, ethical analysis, effective communication across diverse audiences, and creative problem-solving.",
+    "credits": "3",
+    "requirement_description": "Open only to Human Rights 5th-Year M.A. students, instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

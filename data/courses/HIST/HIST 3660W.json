@@ -1,0 +1,24 @@
+{
+    "name": "HIST 3660W",
+    "dept_code": "HIST",
+    "id_number": "3660W",
+    "title": "History of Migration in Las Americas",
+    "description": "(Also offered as LLAS\u00a03660W.) Applies broad chronological and spatial analyses of origins of migration in the Americas to the experiences of people of Latin American origin in Connecticut.  Addresses a range of topics from the initial settlement of the Americas to 21st century migrations. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher. Recommended preparation: LLAS 1190, ANTH 3042, HIST 3635, HIST 3609 or HIST 2674/LLAS 3220; LLAS 3210. Spanish useful but not required.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

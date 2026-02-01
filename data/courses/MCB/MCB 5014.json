@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5014",
+    "dept_code": "MCB",
+    "id_number": "5014",
+    "title": "Structure and Dynamics of Macromolecular Machines",
+    "description": "Biochemical and biophysical characteristics of macromolecular assemblies starting at the atomic level and proceeding to the cellular level. Topics include ribosomes, viruses, polymerases, membrane protein assemblies and ion transporters, which will be examined through lecture, discussion, and interactive computational modules.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Molecular and Cell Biology, others with permission. Recommended preparation: a course in biochemistry or structural biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

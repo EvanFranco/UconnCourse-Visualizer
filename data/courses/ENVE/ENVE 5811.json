@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5811",
+    "dept_code": "ENVE",
+    "id_number": "5811",
+    "title": "Hydroclimatology",
+    "description": "Focuses on the physical principles underlying the spatial and temporal variability of hydrological processes. Topics include atmospheric physics and dynamics controlling the water/energy budgets; global water cycle, its dynamics, and causes of variability/changes; occurrence of drought and flood; climate teleconnections and their hydrological application; hydrological impact of global changes; quantitative methods in hydroclimatic analysis.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "PHIL 1106",
+    "dept_code": "PHIL",
+    "id_number": "1106",
+    "title": "Non-western and Comparative Philosophy",
+    "description": "Classic non-Western texts on such problems as the nature of reality and of our knowledge of it, and the proper requirements of social ethics, along with comparison to classic Western approaches to the same problems. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ARAB 1771",
+    "dept_code": "ARAB",
+    "id_number": "1771",
+    "title": "Modern Arabic Culture",
+    "description": "Introduction to modern Arabic culture from Napoleon's Egyptian Campaign to modern Islamism. Survey of institutions, philosophy, and social customs seen through the medium of literature. Taught in English. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

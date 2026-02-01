@@ -1,0 +1,16 @@
+{
+    "name": "STAT 4389",
+    "dept_code": "STAT",
+    "id_number": "4389",
+    "title": "Undergraduate Research",
+    "description": "Supervised research in probability or statistics. A final written report and oral presentation are required. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

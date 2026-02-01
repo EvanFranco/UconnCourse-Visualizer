@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5810",
+    "dept_code": "DMD",
+    "id_number": "5810",
+    "title": "Digital Cinematography I",
+    "description": "Introduces graduate students to the fundamentals of cinematography in the digital realm, including both technical knowledge and aesthetics. Emphasis on camera angles, movements, composition, and lighting to enhance storytelling.",
+    "credits": "3",
+    "requirement_description": "Open to DMD graduate students, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3899",
+    "dept_code": "PSYC",
+    "id_number": "3899",
+    "title": "Independent Study",
+    "description": "Students are expected to develop their own plan for a research project, conduct the research, and write-up this research, consulting periodically with a faculty member. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "PSYC 2100Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

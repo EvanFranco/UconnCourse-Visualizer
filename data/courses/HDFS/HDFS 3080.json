@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 3080",
+    "dept_code": "HDFS",
+    "id_number": "3080",
+    "title": "Seminar Internship",
+    "description": "Through a weekly seminar, this course provides supervision for students interning in community organizations that support the development and welfare of individuals and families. May be repeated for a total of 6 credits.",
+    "credits": "3-6",
+    "requirement_description": "GPA of 2.5 in HDFS courses and at least 15 credits of 2000 level or above HDFS courses. May not be taken out of sequence after passing HDFS 3090.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CE 5640",
+    "dept_code": "CE",
+    "id_number": "5640",
+    "title": "Prestressed Concrete Structures",
+    "description": "Analysis, design, and behavior of pretensioned and post-tensioned concrete; simple and continuous span structures; time dependent behavior; review of design specifications.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

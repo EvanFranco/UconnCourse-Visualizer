@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5671",
+    "dept_code": "OPIM",
+    "id_number": "5671",
+    "title": "Data Mining and Time Series Forecasting",
+    "description": "Discusses data mining, time series forecasting and text mining techniques that can be utilized to effectively sift through large volumes of operational data and extract actionable information and knowledge (meaningful patterns, trends, and anomalies) to help optimize organizational processes and significantly improve bottom lines. The course covers theoretical and practical elements of various data analytics techniques such as natural language processing and advanced time series forecasting, with a focus on hands-on application in different business domains.",
+    "credits": "3",
+    "requirement_description": "OPIM 5604 or BADM 5604; open only to MBA, MSBAPM, and MS FinTech students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

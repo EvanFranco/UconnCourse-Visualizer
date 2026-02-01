@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5350",
+    "dept_code": "NURS",
+    "id_number": "5350",
+    "title": "Advanced Embryology and Neonatal Physiology",
+    "description": "This course examines fetal, transitional, and neonatal physiology. Embryology is also discussed, as the basis for neonatal development.",
+    "credits": "3",
+    "requirement_description": "Open only to students in graduate-level Neonatal Nursing programs.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

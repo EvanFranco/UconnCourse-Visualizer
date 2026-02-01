@@ -1,0 +1,16 @@
+{
+    "name": "ARE 3222",
+    "dept_code": "ARE",
+    "id_number": "3222",
+    "title": "Marketing and Consumer Behavior",
+    "description": "This course focuses on principles of contemporary marketing, including consumer behavior, social media, product, promotion, distribution and pricing strategies, with special emphasis on food and health.",
+    "credits": "3",
+    "requirement_description": "ARE 1150 or ECON 1200 or ECON 1201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

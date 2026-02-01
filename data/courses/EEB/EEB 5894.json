@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5894",
+    "dept_code": "EEB",
+    "id_number": "5894",
+    "title": "Seminar",
+    "description": "Study and discussion of current researches, books and periodicals in the field of Biology. Subtopic designations: Ec, Ecology; M, Mammalogy; Mec, Marine Ecology; Pr, Parasitology; En, Entomology; Bi, Biogeography; Ev, Evolution; Sy, Systematics. May be repeated for a total of 24 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

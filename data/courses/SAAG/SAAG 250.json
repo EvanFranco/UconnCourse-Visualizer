@@ -1,0 +1,16 @@
+{
+    "name": "SAAG 250",
+    "dept_code": "SAAG",
+    "id_number": "250",
+    "title": "First Year Student Seminar",
+    "description": "Designed to assist incoming students in adjusting to college and improving their academic performance. First year students will learn about university resources and facilities, and strategies relating to study skills, problem solving, time management, and setting and achieving academic and personal goals. Field trips may be required.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

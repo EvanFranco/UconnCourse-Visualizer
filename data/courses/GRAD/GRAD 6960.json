@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 6960",
+    "dept_code": "GRAD",
+    "id_number": "6960",
+    "title": "Full-Time Doctoral Research",
+    "description": "To be used by those students who have completed all courses on the plan of study and who are performing doctoral level research on a full-time basis. It may contribute to meeting the 15-credit doctoral research requirement. No other courses may be taken concurrently. In the summer, this is a 12-week (Summer 4) course. Since this course denotes a full time commitment, students may not hold graduate assistantships while taking this course. May be repeated for a total of 18 credits.",
+    "credits": "3",
+    "requirement_description": "Open only to doctoral students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

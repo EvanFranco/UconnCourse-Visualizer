@@ -1,0 +1,16 @@
+{
+    "name": "PATH 2100",
+    "dept_code": "PATH",
+    "id_number": "2100",
+    "title": "Anatomy and Physiology of Animals",
+    "description": "A study of the anatomy and physiology of animals with reference to pathological changes of the component parts of the body.",
+    "credits": "4",
+    "requirement_description": "BIOL 1107 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

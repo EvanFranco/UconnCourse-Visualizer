@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5665",
+    "dept_code": "NRE",
+    "id_number": "5665",
+    "title": "Ecosystem Modeling",
+    "description": "Overview of ecosystem modeling science including knowledge, principles, and applications as a tool for sustainable resource management, conservation, and global environmental change. Topics include ecosystem concept, hydrologic and biogeochemical pathways, changes through space and time, global ecosystem dynamics, the status and role of modeling in ecosystem sciences, the modeling process, and applications of ecosystem models. Emphasis on the conceptual terrestrial-ecosystem model development to be used as a basis for studying specific research questions in the context of global changes, and its effectiveness, limitations, and future needs.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Basic knowledge of ecosystem ecology science.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

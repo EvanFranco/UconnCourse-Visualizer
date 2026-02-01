@@ -1,0 +1,16 @@
+{
+    "name": "ME 5512",
+    "dept_code": "ME",
+    "id_number": "5512",
+    "title": "Topology Optimization",
+    "description": "This course delves into the fundamentals and applications of topology optimization, which refers to the application of mathematical optimization techniques to the  design of lightweight structures. Topology optimization techniques determine an optimal distribution of material within a prescribed region with regard to structural performance, mass, and geometric criteria. A characteristic of topology optimization problems is that the evaluation of the structural performance requires the numerical solution of a boundary value problem, typically through the finite element method (FEM). The course will discuss fundamental techniques used in topology optimization and its application in several fields such as solid mechanics, fluids, and heat transfer. Topics include density-based and level-set techniques, ground-structure methods, evolutionary and machine learning methods, and feature-mapping techniques. Multi-scale, multi-material, and multi-component applications are also discussed.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Previous knowledge in linear algebra, numerical methods, and finite element analysis.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

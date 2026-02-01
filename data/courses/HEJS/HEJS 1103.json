@@ -1,0 +1,22 @@
+{
+    "name": "HEJS 1103",
+    "dept_code": "HEJS",
+    "id_number": "1103",
+    "title": "Who Are the Jews? Jewish Identity through the Ages",
+    "description": "The major concepts, personalities and literary works that inform Jewish identity from the Biblical and Talmudic periods to the present. Taught in English.CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

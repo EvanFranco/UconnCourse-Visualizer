@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3322",
+    "dept_code": "ECON",
+    "id_number": "3322",
+    "title": "Open Source Programming with Python for Economists",
+    "description": "Introduction to Python. Code structure; control flow; data input/output in various formats; testing and debugging.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q; ECON 2202 or ECON 2212Q. Not open for credit to students who have passed ECON 5322.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 5410",
+    "dept_code": "PLSC",
+    "id_number": "5410",
+    "title": "Soil Chemistry Components",
+    "description": "Basic concepts of the physical chemistry of soil constituents. Topics include soil atmospheres, soil solutions, soil organic matter, soil mineralogy, and surface characteristics and analysis. Term paper required.",
+    "credits": "4",
+    "requirement_description": "Not open for credit to students who have passed PLSC 3420.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

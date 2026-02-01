@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5813",
+    "dept_code": "EEB",
+    "id_number": "5813",
+    "title": "Evolutionary Ecology",
+    "description": "Unifies ecological and evolutionary thinking about shared core ideas, including foundational concepts such as fitness, optimality, coexistence, speciation, dispersal, community assembly, and spatial and temporal scales. Discussions and lectures will explore each concept from ecological and evolutionary viewpoints and then seek to reconcile differences and find novel intersections. Format includes student-led discussions, modeling exercises, and both independent and group projects.",
+    "credits": "3",
+    "requirement_description": "Open only to graduate students in biological sciences and related fields, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

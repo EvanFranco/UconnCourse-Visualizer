@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3040",
+    "dept_code": "PHRX",
+    "id_number": "3040",
+    "title": "Neurology Module",
+    "description": "Principles of pathophysiology, pharmacology, medicinal chemistry, clinical pharmacokinetics and pharmacotherapy (including both prescription and non-prescription medications) as they apply to neurologic drug therapy management.",
+    "credits": "4",
+    "requirement_description": "PHRX 3000, 3002, and 3009; open only to students in the School of Pharmacy. May not be taken out of sequence after passing PHRX 4040.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

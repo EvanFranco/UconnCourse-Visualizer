@@ -1,0 +1,16 @@
+{
+    "name": "DGS 3226",
+    "dept_code": "DGS",
+    "id_number": "3226",
+    "title": "Current Genetic Research",
+    "description": "Retrieval, review, and discussion of current primary genetics literature in addition to attending and reviewing University research seminars/guest speakers. May be repeated for a total of 6 credits.",
+    "credits": "2-3",
+    "requirement_description": "DGS 3100 or MCB 2400 or MCB 2410. Open to DGS majors, others with instructor consent. May be repeated for a total of 6 credits with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

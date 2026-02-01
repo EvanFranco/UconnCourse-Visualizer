@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 4294",
+    "dept_code": "NUSC",
+    "id_number": "4294",
+    "title": "Seminar",
+    "description": "Review, evaluation, and oral and written presentation of contemporary nutrition issues. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "NUSC 2200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

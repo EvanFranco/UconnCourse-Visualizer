@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5639",
+    "dept_code": "MATH",
+    "id_number": "5639",
+    "title": "Actuarial Loss Models",
+    "description": "Loss distribution models for claim frequency and severity, aggregate risk models, coverage modifications, risk measures, construction and selection of parametric models, introduction to simulation.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed MATH 3639.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

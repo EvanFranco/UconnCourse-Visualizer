@@ -1,0 +1,21 @@
+{
+    "name": "ARTH 3430",
+    "dept_code": "ARTH",
+    "id_number": "3430",
+    "title": "Nineteenth Century European Art",
+    "description": "European art from Neo-Classicism to Realism. CA 1.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

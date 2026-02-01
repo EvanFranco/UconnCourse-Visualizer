@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5307",
+    "dept_code": "PSYC",
+    "id_number": "5307",
+    "title": "Empirically Supported Therapy",
+    "description": "Instruction in and supervised practice of empirically supported therapeutic techniques and treatments.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Clinical Psychology and to others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

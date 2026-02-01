@@ -1,0 +1,20 @@
+{
+    "name": "EEB 2250",
+    "dept_code": "EEB",
+    "id_number": "2250",
+    "title": "Introduction to Plant Physiology",
+    "description": "Exploration of the distinct physiological processes of plants that underlie their capacity to grow, develop, and sense and respond to the environment. Topics include photosynthesis, water and nutrient uptake, long distance transport, signals and signal transduction, growth and development, and environmental interactions (biotic and abiotic), including climate change. CA 3.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107 or 1108 or 1110 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

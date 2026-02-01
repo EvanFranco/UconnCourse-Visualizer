@@ -1,0 +1,16 @@
+{
+    "name": "NRE 2345",
+    "dept_code": "NRE",
+    "id_number": "2345",
+    "title": "Introduction to Fisheries and Wildlife",
+    "description": "An introduction to the basic principles used in the management of wildlife and fish populations, their habitats and ecosystems, and their human stewards. Students will be introduced to the fundamental concepts, topics, and skill sets that are commonly needed in the wildlife and fisheries profession.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

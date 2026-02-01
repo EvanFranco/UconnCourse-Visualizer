@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3180",
+    "dept_code": "MATH",
+    "id_number": "3180",
+    "title": "Mathematics for Machine Learning",
+    "description": "Applications of elementary linear algebra, probability theory, and multivariate calculus to fundamental algorithms in machine learning. Topics include the theory of orthogonal projection, bilinear forms, and the spectral theorem to multivariate regression and principal component analysis; optimization algorithms such as gradient descent and Newton's method applied to logistic regression; and convex geometry applied to support vector machines. Other topics include Bayesian probability theory and the theory of convolution especially as applied to neural networks. Theory illustrated with computer laboratory exercises.",
+    "credits": "3",
+    "requirement_description": "MATH 2110Q and 2210Q. Recommended preparation: MATH 3160.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "HIST 2204",
+    "dept_code": "HIST",
+    "id_number": "2204",
+    "title": "History of Technology",
+    "description": "The development of technology and its relation to society in a specific country or region of the world, such as the United States, Europe, or South Asia. CA 1. CA 3. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA3"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

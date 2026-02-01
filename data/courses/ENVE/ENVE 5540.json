@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5540",
+    "dept_code": "ENVE",
+    "id_number": "5540",
+    "title": "Design of Groundwater Systems",
+    "description": "Design of groundwater engineering systems used for water supply and/or preservation/improvement of water quality. Steady and transient flow, pumping tests, well hydraulics, and well-field design. Unsaturated zone hydrology, design and evaluation of landfills. Heterogeneity in natural systems, parameter estimation and inverse methods. Application of basic geostatistics in the design of groundwater systems.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed ENVE 4540.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

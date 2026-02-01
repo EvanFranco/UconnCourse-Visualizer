@@ -1,0 +1,18 @@
+{
+    "name": "MATH 1795Q",
+    "dept_code": "MATH",
+    "id_number": "1795Q",
+    "title": "Special Topics Lecture",
+    "description": "Credits, prerequisites and hours as determined by the Senate Curricula and Courses Committee.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

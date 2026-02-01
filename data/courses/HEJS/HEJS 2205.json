@@ -1,0 +1,23 @@
+{
+    "name": "HEJS 2205",
+    "dept_code": "HEJS",
+    "id_number": "2205",
+    "title": "Introduction to Genocide Studies",
+    "description": "(Also offered as HRTS\u00a02200, CLCS\u00a02200.) Interdisciplinary introduction to the study of genocide as an historical, legal, social, political, and conceptual phenomenon, including response, prevention, and commemoration efforts. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed HEJS 3298 when offered as Introduction to Genocide Studies.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

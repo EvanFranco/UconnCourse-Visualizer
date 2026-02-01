@@ -1,0 +1,16 @@
+{
+    "name": "COMM 3610",
+    "dept_code": "COMM",
+    "id_number": "3610",
+    "title": "Computer Mediated Communication",
+    "description": "How computer media increasingly influence communication processes and how computer media are changing society. Students will examine critically both exposure to and use of computer media with particular attention to how people use computer media and the effects of this use.",
+    "credits": "3",
+    "requirement_description": "COMM 2200 or 2600.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

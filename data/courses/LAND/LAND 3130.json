@@ -1,0 +1,16 @@
+{
+    "name": "LAND 3130",
+    "dept_code": "LAND",
+    "id_number": "3130",
+    "title": "Landscape Architecture: Graphics III - Computer Applications",
+    "description": "Knowledge and theory of computer use in landscape architecture. Computer applications for data gathering, analysis and graphic communication. Application of knowledge and theory to a variety of site planning and design projects.",
+    "credits": "4",
+    "requirement_description": "LAND 2120; open only to Landscape Architecture majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

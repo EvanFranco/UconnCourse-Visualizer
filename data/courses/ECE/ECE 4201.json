@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4201",
+    "dept_code": "ECE",
+    "id_number": "4201",
+    "title": "Electronic Circuits and Applications",
+    "description": "Analysis and design of linear amplifiers. The effects of feedback in tuned, video, and operational amplifiers. Noise, stability, and frequency compensation. Applications encompass active filters, oscillators, phase lock loops and nonlinear operations such as multiplication, modulation, sampling, and analog-to-digital conversion.",
+    "credits": "3",
+    "requirement_description": "ECE 3201; ECE 4211 or ECE 4225 which may be taken concurrently. Recommended preparation: ECE 3111.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

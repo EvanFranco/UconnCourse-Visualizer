@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5501",
+    "dept_code": "MARN",
+    "id_number": "5501",
+    "title": "Marine Sciences Seminar",
+    "description": "Intensive reading, evaluation and critical discussion of current interdisciplinary topics presented at weekly departmental research seminars. May be repeated for credit. May be repeated for a total of 6 credits.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

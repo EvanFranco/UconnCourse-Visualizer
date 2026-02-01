@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5003",
+    "dept_code": "COMM",
+    "id_number": "5003",
+    "title": "Advanced Communication Research Methods",
+    "description": "Research techniques and procedures for the study of communication. Research design, multivariate statistics, and structural modeling.",
+    "credits": "3",
+    "requirement_description": "COMM 5002.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

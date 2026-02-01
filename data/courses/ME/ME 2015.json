@@ -1,0 +1,16 @@
+{
+    "name": "ME 2015",
+    "dept_code": "ME",
+    "id_number": "2015",
+    "title": "Introduction to Computing for Mechanical Engineers",
+    "description": "Basic programming logic using programming languages common in industry. Application of programming to mechanical engineering problems.",
+    "credits": "1",
+    "requirement_description": "CSE 1010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

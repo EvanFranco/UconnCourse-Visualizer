@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5050",
+    "dept_code": "EEB",
+    "id_number": "5050",
+    "title": "Fundamentals of Ecological Modeling",
+    "description": "Quantitative inference from ecological and environmental data. Choosing modeling methods based on knowledge of biological processes. Frequentist and Bayesian approaches; analysis of real and simulated data sets.",
+    "credits": "4",
+    "requirement_description": "STAT 1000Q or 1100Q or 3445 or 5005 or 5505; or equivalent with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

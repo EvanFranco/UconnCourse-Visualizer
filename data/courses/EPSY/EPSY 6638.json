@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6638",
+    "dept_code": "EPSY",
+    "id_number": "6638",
+    "title": "Advanced Topics in Item Response Theory",
+    "description": "Applications of IRT to measurement problems such as equating, detection of differential item functioning, and adaptive testing. Extensions of unidimensional dichotomous models to polytomous responses and multidimensional tests. Extensive use of Monte Carlo data to investigate psychometric issues.",
+    "credits": "3",
+    "requirement_description": "EPSY 6637.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

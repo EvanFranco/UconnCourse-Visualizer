@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3212",
+    "dept_code": "ECE",
+    "id_number": "3212",
+    "title": "Electric Machines and Drives",
+    "description": "Fundamental operation, equivalent circuit models, physical structure, and control of electric machinery; basic power electronic drives, three-phase systems, magnetic circuit equivalents, basic electro-mechanics, transformers, basic rotating machines; different electric machines including switched reluctance machines, stepper motors, three-phase synchronous machines, induction or asynchronous machines, and DC machines; Basic electronic drives for each machine type along with open-loop control strategies.  Weekly laboratory experiments accompany the lectures to demonstrate most of these concepts.",
+    "credits": "4",
+    "requirement_description": "ECE 3201",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "INTD 2245",
+    "dept_code": "INTD",
+    "id_number": "2245",
+    "title": "Introduction to Diversity Studies in American Culture",
+    "description": "An interdisciplinary introduction to comparative multicultural studies in the United States. Topics may include: African American, Asian American, Latino/a, and Native American cultures; gender, feminism, religious and sexual identities; and disability studies. CA 4.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

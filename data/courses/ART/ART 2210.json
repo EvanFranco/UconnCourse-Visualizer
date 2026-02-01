@@ -1,0 +1,16 @@
+{
+    "name": "ART 2210",
+    "dept_code": "ART",
+    "id_number": "2210",
+    "title": "Illustration",
+    "description": "Introduction to principles of illustration, media, and techniques.",
+    "credits": "3",
+    "requirement_description": "ART 2010 and 2310. May not be taken out of sequence after passing ART 3210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

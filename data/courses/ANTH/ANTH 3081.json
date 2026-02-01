@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3081",
+    "dept_code": "ANTH",
+    "id_number": "3081",
+    "title": "Internship in Anthropology",
+    "description": "Practical experience, knowledge, and professional skills in a work environment related to anthropology. Based on a contract and learning experience syllabus. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory).",
+    "credits": "1-6",
+    "requirement_description": "ANTH 1000 or 1006 or 1500; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

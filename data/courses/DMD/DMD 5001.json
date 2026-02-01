@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5001",
+    "dept_code": "DMD",
+    "id_number": "5001",
+    "title": "Digital Media Graduate Colloquium",
+    "description": "This course orients Digital Media and Design graduate students in their first semester to the opportunities and resources available to them within the Department, the School of Fine Arts, and the University of Connecticut.",
+    "credits": "3",
+    "requirement_description": "Open only to Digital Media and Design graduate students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

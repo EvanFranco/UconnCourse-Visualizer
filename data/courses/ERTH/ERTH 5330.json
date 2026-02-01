@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5330",
+    "dept_code": "ERTH",
+    "id_number": "5330",
+    "title": "Active Tectonics",
+    "description": "Tectonic processes that shape the Earth's surface, particularly its landforms. Emphasis on short-term processes that produce disasters and catastrophes and affect human society.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed ERTH 4330.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

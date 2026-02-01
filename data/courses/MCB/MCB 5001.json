@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5001",
+    "dept_code": "MCB",
+    "id_number": "5001",
+    "title": "Biochemistry",
+    "description": "Metabolism of carbohydrates, lipids, amino acids, proteins, and nucleic acids, including regulation, and to the structure and function of biological macromolecules. Provides suitable preparation for advanced course work in biochemistry, biophysics, and other areas of molecular biology.",
+    "credits": "5",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

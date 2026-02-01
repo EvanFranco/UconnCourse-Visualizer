@@ -1,0 +1,16 @@
+{
+    "name": "ARTH 5392",
+    "dept_code": "ARTH",
+    "id_number": "5392",
+    "title": "Independent Study",
+    "description": "Independent study in Art History. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

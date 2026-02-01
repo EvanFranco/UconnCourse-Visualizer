@@ -1,0 +1,16 @@
+{
+    "name": "ART 3999",
+    "dept_code": "ART",
+    "id_number": "3999",
+    "title": "Independent Study",
+    "description": "For advanced students to develop a special project in advanced studio art. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open to juniors or higher who have a GPA of 3.0, with no outstanding incompletes for any other 3999. Exception only by the approval of the department head.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

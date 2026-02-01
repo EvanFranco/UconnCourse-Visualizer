@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3332",
+    "dept_code": "CHEM",
+    "id_number": "3332",
+    "title": "Quantitative Analytical Chemistry",
+    "description": "Fundamentals of analytical chemistry. While it is a course for chemistry majors, it is also suitable for students in other technical fields who have an interest in learning quantitative analytical chemistry procedures applicable to analytical instrumentation. Traditional wet chemical techniques and instrumental methods. Quantitative chemistry and chemical computations.",
+    "credits": "4",
+    "requirement_description": "CHEM 1126Q or 1128Q or 1138Q or 1148Q. Recommended preparation: CHEM 3563. May not be taken out of sequence after passing CHEM 3334.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

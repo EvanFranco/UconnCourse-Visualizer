@@ -1,0 +1,16 @@
+{
+    "name": "DENT 5110",
+    "dept_code": "DENT",
+    "id_number": "5110",
+    "title": "Graduate General and Oral Health Pathology",
+    "description": "Builds on the foundational concepts of disease pathogenesis based on a review of specific general pathology topics.",
+    "credits": "3",
+    "requirement_description": "Open only to students in dental residency programs.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

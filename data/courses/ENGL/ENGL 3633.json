@@ -1,0 +1,18 @@
+{
+    "name": "ENGL 3633",
+    "dept_code": "ENGL",
+    "id_number": "3633",
+    "title": "The Rhetoric of Political Discourse in Literature and Society",
+    "description": "Rhetorical analysis of literary polemics and of past and current political speeches, writing, and debate. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

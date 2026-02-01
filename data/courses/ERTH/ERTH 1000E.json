@@ -1,0 +1,23 @@
+{
+    "name": "ERTH 1000E",
+    "dept_code": "ERTH",
+    "id_number": "1000E",
+    "title": "The Human Epoch: Living in the Anthropocene",
+    "description": "Introduction to geoscience focusing on human activities as agents of geologic change. Examines human planetary processes in our current epoch, the Anthropocene. Provides a novel frame for contemporary environmental issues such as climate change, sustainability, mass extinctions, land use, and waste disposal. Interaction between earthly processes and human affairs. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

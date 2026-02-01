@@ -1,0 +1,20 @@
+{
+    "name": "ANTH 3904",
+    "dept_code": "ANTH",
+    "id_number": "3904",
+    "title": "Ethnohistory of Native New England",
+    "description": "Combines archaeological and ethnohistorical data to reconstruct the lifeways of the Native Americans of New England from the prehistoric period to the present. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

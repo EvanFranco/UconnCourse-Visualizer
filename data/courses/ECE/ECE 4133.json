@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4133",
+    "dept_code": "ECE",
+    "id_number": "4133",
+    "title": "Fundamentals of Optical Imaging",
+    "description": "Learning optical imaging fundamentals. Topics include: review of some fundamentals, including linear systems, Fourier transform, impulse response, transfer function, etc. Two-dimensional linear system theory; scalar diffraction theory, wave optics, Fresnel and Fraunhofer diffraction; imaging properties of lenses; image formation; optical resolution in imaging, frequency analysis of optical imaging systems; imaging with coherent and incoherent sources, coherent transfer function; optical transfer function, point spread function, fundamentals of microscopy, holography, 3D imaging.",
+    "credits": "3",
+    "requirement_description": "ECE 3001 and ECE 3101 or BME 3400; open only to students in the College of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

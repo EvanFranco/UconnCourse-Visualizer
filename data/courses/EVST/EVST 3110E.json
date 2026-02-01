@@ -1,0 +1,18 @@
+{
+    "name": "EVST 3110E",
+    "dept_code": "EVST",
+    "id_number": "3110E",
+    "title": "Brownfield Redevelopment",
+    "description": "(Also offered as ENVE\u00a03110E, ENVS\u00a03110E.) Interdisciplinary study of the process of investigating, cleaning up and putting back into use abandoned sites with suspected contamination, also known as brownfields. Legal, environmental, financial and social aspects are discussed. Service learning component working with communities on local brownfield sites.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

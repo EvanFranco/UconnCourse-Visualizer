@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5373",
+    "dept_code": "CHEG",
+    "id_number": "5373",
+    "title": "Biochemical Engineering",
+    "description": "Principles and design of processes involving biochemical reactions. Nature of biological materials, biochemical kinetics, heat and mass transfer, application to fermentation and other biological processes.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

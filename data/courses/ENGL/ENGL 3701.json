@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3701",
+    "dept_code": "ENGL",
+    "id_number": "3701",
+    "title": "Creative Writing II",
+    "description": "For student writers of proven ability who wish further training in two creative genres (fiction, poetry, or creative nonfiction). Genres vary by semester. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "ENGL 2701; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DGS 4512",
+    "dept_code": "DGS",
+    "id_number": "4512",
+    "title": "Cloning Techniques",
+    "description": "Theory and techniques of cloning.",
+    "credits": "2",
+    "requirement_description": "A \"C\" or better in DGS 4234 and 4235; open to Diagnostic Genetic Sciences Molecular concentration majors and Diagnostic Genetic Sciences Molecular concentration certificate students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

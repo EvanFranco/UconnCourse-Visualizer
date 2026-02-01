@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5672",
+    "dept_code": "MCB",
+    "id_number": "5672",
+    "title": "Applied Bioinformatics",
+    "description": "Computational analysis of biological datasets. Lecture will cover background and theory. In the computer lab, sample data will be used to perform bioinformatics analysis. The course is taught as a series of modules with each focused on a different aspect.",
+    "credits": "1-2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

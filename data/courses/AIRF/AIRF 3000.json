@@ -1,0 +1,16 @@
+{
+    "name": "AIRF 3000",
+    "dept_code": "AIRF",
+    "id_number": "3000",
+    "title": "Leading People and Effective Communication",
+    "description": "Advanced skills and knowledge in management and leadership. Special emphasis on enhancing leadership skills and communication.",
+    "credits": "3",
+    "requirement_description": "AIRF 1200 and AIRF 2200, or six weeks field training.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

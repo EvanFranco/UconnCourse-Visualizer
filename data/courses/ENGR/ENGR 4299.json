@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 4299",
+    "dept_code": "ENGR",
+    "id_number": "4299",
+    "title": "Independent Study",
+    "description": "Designed for students who wish to pursue an interdisciplinary engineering project where the subject matter/content spans more than one field of interest. The program of study is to be approved by the Associate Dean of Undergraduate Education and the instructor before registration is completed. May be repeated for credit.",
+    "credits": "1-4",
+    "requirement_description": "Open to seniors in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PERS 1101",
+    "dept_code": "PERS",
+    "id_number": "1101",
+    "title": "Elementary Persian I",
+    "description": "Introductory reading, writing, speaking, listening and cultural context. Development of linguistic skills required to interact in everyday contexts. Intended for students with no previous knowledge of Persian.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

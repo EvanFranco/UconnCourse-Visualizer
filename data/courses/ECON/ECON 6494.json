@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6494",
+    "dept_code": "ECON",
+    "id_number": "6494",
+    "title": "Graduate Seminar",
+    "description": "Participation in departmental research seminars and presentation and discussion of original research projects. May be repeated for a total of 8 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

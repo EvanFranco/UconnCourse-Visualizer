@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 2201",
+    "dept_code": "CHEG",
+    "id_number": "2201",
+    "title": "Chemical Engineering Professional Skills I",
+    "description": "Professional skills necessary to succeed in the chemical engineering industry: written and oral technical communication; working on diverse and inclusive teams. The complexity of these skills will build over CHEG\u00a02201, 3201, and 4101.",
+    "credits": "1",
+    "requirement_description": "CHEM 1128Q or CHEM 1148Q, or CHEM 1125Q and 1126Q; MATH 1132Q; open only to Chemical Engineering students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

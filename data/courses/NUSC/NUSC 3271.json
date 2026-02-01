@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 3271",
+    "dept_code": "NUSC",
+    "id_number": "3271",
+    "title": "Food Services Systems Management Laboratory/Discussion",
+    "description": "Laboratory/discussion of quantity food preparation, recipe modification, cost analysis, recipe nutrient analysis and application of food sanitation.",
+    "credits": "2",
+    "requirement_description": "NUSC 3233, NUSC 3234; open only to NUSC students enrolled in NUSC 3272.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5002",
+    "dept_code": "MCB",
+    "id_number": "5002",
+    "title": "Biochemistry Laboratory",
+    "description": "Theory and application of modern techniques for the separation and characterization of biological macromolecules, including several types of liquid chromatography, liquid scintillation spectrophotometry and SDS polyacrylamide gel electrophoresis. Each student will carry out individual projects using selected techniques.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

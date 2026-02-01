@@ -1,0 +1,20 @@
+{
+    "name": "EDLR 2001",
+    "dept_code": "EDLR",
+    "id_number": "2001",
+    "title": "Contemporary Social Issues in Sport",
+    "description": "Socio-cultural, economic, political, and other related issues in sport. Sport as a social institution, the impact of sport in American culture, and the impact of American culture on sport. Sport at the youth, intercollegiate, professional, and international levels; how sport at these levels is experienced differently by individuals, communities, organizations, and society. Issues in sport relative to gender, race (ethnicity), differing physical and intellectual ability, sexual identity, and gender identity. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

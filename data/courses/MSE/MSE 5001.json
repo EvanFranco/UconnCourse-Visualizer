@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5001",
+    "dept_code": "MSE",
+    "id_number": "5001",
+    "title": "Principles of Materials Engineering",
+    "description": "Accelerated Introduction to Materials Science and Engineering Concepts, including: structures and defects; phase diagrams; mechanical properties; electronic properties; magnetic properties; optical properties; thermal properties; functional materials; metals and alloys; ceramics; polymers; and composites.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

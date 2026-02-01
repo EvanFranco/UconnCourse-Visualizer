@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 6234",
+    "dept_code": "PHAR",
+    "id_number": "6234",
+    "title": "Advanced Biopharmaceutics",
+    "description": "Overview of physico-chemical, biopharmaceutic, and physiologic factors controlling the delivery of drug and their sites of action.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

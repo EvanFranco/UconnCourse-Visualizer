@@ -1,0 +1,20 @@
+{
+    "name": "HDFS 1070",
+    "dept_code": "HDFS",
+    "id_number": "1070",
+    "title": "Individual and Family Development",
+    "description": "Human development throughout the life span, with emphasis upon the family as a primary context. CA 2.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing HDFS 3250 or 4133.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

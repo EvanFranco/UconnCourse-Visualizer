@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5215",
+    "dept_code": "BIST",
+    "id_number": "5215",
+    "title": "Statistical Consulting",
+    "description": "(Also offered as STAT\u00a05215.) Applied inference for academia, government, and industry: ethical guidelines, observational studies, surveys, clinical trials, designed experiments, data management, aspects of verbal and written communication, case studies.",
+    "credits": "3",
+    "requirement_description": "BIST/STAT 5315, 5505, and 5605; or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

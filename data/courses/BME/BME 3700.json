@@ -1,0 +1,16 @@
+{
+    "name": "BME 3700",
+    "dept_code": "BME",
+    "id_number": "3700",
+    "title": "Biomaterials",
+    "description": "A lecture and laboratory course that introduces a series of implant materials including metals, ceramics, glass ceramics, polymers, and composites. These materials are compared with the natural materials, with consideration given to issues of mechanical properties, biocompatibility, degradation of materials by biological systems, and biological response to artificial materials. Particular attention is given to the materials for the total hip prosthesis, dental restoration, and implantable medical devices.",
+    "credits": "4",
+    "requirement_description": "MSE 2101 and MATH 2410; open only to BME majors. Cannot be taken for credit after passing MSE 3700.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

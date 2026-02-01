@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 4731",
+    "dept_code": "MUSI",
+    "id_number": "4731",
+    "title": "Conducting I",
+    "description": "Physical aspects of conducting, reading of full and condensed scores.",
+    "credits": "2",
+    "requirement_description": "MUSI 1314; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

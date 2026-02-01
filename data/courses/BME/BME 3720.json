@@ -1,0 +1,16 @@
+{
+    "name": "BME 3720",
+    "dept_code": "BME",
+    "id_number": "3720",
+    "title": "Drug Delivery",
+    "description": "Introduction to drug delivery systems that provide pharmaceutical agents at target tissues, the mechanism of pharmacokinetic regulation, the basics, technology, and applications of drug delivery systems. Emphasis on understanding the principles of pharmacokinetics and drug delivery systems to improve clinical efficacy as well as to reduce side effects.",
+    "credits": "3",
+    "requirement_description": "BME 3700; open only to BME majors, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

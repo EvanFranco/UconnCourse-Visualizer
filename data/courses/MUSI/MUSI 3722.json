@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3722",
+    "dept_code": "MUSI",
+    "id_number": "3722",
+    "title": "Vocal Literature II",
+    "description": "German Lieder, from Schubert to serialism. Taught with MUSI\u00a05311.",
+    "credits": "2",
+    "requirement_description": "MUSI 3222, which must be taken concurrently; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

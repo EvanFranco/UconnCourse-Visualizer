@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4545",
+    "dept_code": "DMD",
+    "id_number": "4545",
+    "title": "Advanced Game Scripting",
+    "description": "Master gameplay scripting within a commercial game engine. Emphasis is on foundational knowledge required for developing artificial intelligence models, rendering, and networking for games.",
+    "credits": "3",
+    "requirement_description": "DMD 2542; open to Digital Media and Design majors only, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 4000",
+    "dept_code": "PHRX",
+    "id_number": "4000",
+    "title": "Pharmacoeconomics",
+    "description": "Application of pharmacoeconomic principles to formulary management, health-related quality of life, cost-benefit analysis, and pharmacoeconomic literature analysis.",
+    "credits": "1",
+    "requirement_description": "ECON 1201; PHRX 4050; open only to students in the School of Pharmacy .",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

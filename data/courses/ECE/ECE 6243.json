@@ -1,0 +1,16 @@
+{
+    "name": "ECE 6243",
+    "dept_code": "ECE",
+    "id_number": "6243",
+    "title": "Nanotechnology",
+    "description": "Nanoelectronic and optoelectronic devices: Quantum confinement in 1D, 2D and 3D (quantum wells, wires, and dots) structures; density of states and carrier density in low-dimensional structures; fabrication methodology for quantum wire transistors and lasers; single-electron transistors/tunneling devices; growth and characterization of nanostructured materials with grain sizes in the range of 10-50 nm. Organic monolayers: Langmuir-Blodgett monolayers, Self-Assembled monolayers, Multi-layer structures, technological applications of organic thin films.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

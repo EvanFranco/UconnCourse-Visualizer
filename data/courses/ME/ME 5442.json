@@ -1,0 +1,16 @@
+{
+    "name": "ME 5442",
+    "dept_code": "ME",
+    "id_number": "5442",
+    "title": "Composites Design",
+    "description": "Fundamental principles and best practices for designing structural parts made from composite materials. Students will apply the knowledge and skills obtained throughout the course towards solving a practical design problem. Students will learn and use engineering software for predicting laminated composite properties, designing composite parts, and predicting the part performance under specified loads. At the end of the course, students will have created a complete definition of their design that may be manufactured and tested in subsequent courses.",
+    "credits": "3",
+    "requirement_description": "ME 5430 or MSE 5364.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

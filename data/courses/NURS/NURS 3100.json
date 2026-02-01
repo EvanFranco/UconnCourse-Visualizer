@@ -1,0 +1,16 @@
+{
+    "name": "NURS 3100",
+    "dept_code": "NURS",
+    "id_number": "3100",
+    "title": "Clinical Science I",
+    "description": "Critical examination of concepts from pathophysiology, pharmacology, and nutritional science as they apply to the diverse health care needs of individuals throughout the lifespan. Using a systems approach, foundational principles of nutrition and pharmacology are applied to specific pathophysiologic conditions to develop a holistic (and/or inclusive) care plan that incorporates non-pharmacologic, dietary, and pharmacologic interventions to a diverse patient population.",
+    "credits": "3",
+    "requirement_description": "CHEM 1122, 1124Q, or 1127Q; BIOL 1107; open only to sophomore or higher Nursing majors. Corequisite: PNB 2264 or 2274. Students in the Master of Science in Surgical Neurophysiology Program who have completed PNB 5101 may take this course with instructor consent. May not be taken out of sequence after passing NURS 3110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

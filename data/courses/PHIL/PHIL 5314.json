@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 5314",
+    "dept_code": "PHIL",
+    "id_number": "5314",
+    "title": "Action Theory",
+    "description": "Examination and analysis of the concept of \"action\" and related concepts such as \"agent\" and \"intention.\"",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Philosophy, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

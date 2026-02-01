@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5645",
+    "dept_code": "BIST",
+    "id_number": "5645",
+    "title": "Concepts and Analysis of Survival Data",
+    "description": "Survival models, censoring and truncation, nonparametric estimation of survival functions, comparison of treatment groups, mathematical and graphical methods for assessing goodness of fit, parametric and nonparametric regression models.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Biostatistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5301",
+    "dept_code": "CHEG",
+    "id_number": "5301",
+    "title": "Chemical Engineering Thermodynamics I",
+    "description": "An advanced study of classical thermodynamics with emphasis on phase and chemical equilibria and applications to the chemical process industries. Kinetic theory and statistical thermodynamics with emphasis on the prediction and correlation of physical and chemical properties of gases and liquids, including mixtures. Theory and application of flames, plasmas, and shock waves.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

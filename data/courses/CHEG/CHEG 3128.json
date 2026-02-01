@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 3128",
+    "dept_code": "CHEG",
+    "id_number": "3128",
+    "title": "Chemical Engineering Junior Laboratory",
+    "description": "Provides hands-on experience with heat, mass, and kinetics processes, including steady-state heat transfer, transient heat transfer, membrane separation, liquid-phase reaction kinetics, gas-phase polymerization kinetics, and microfluidic devices.",
+    "credits": "2",
+    "requirement_description": "CHEG 3123; open only to School of Engineering students. Corequisite: CHEG 3124 and 3151.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

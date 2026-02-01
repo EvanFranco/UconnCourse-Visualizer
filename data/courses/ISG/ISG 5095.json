@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5095",
+    "dept_code": "ISG",
+    "id_number": "5095",
+    "title": "Investigation of Special Topics",
+    "description": "Comprehensive coverage of topic with emerging issues, significant trends, unique perspectives, or major advances. May be repeated for a total of 9 credits.",
+    "credits": "1-3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

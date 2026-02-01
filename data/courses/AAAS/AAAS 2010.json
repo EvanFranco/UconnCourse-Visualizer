@@ -1,0 +1,22 @@
+{
+    "name": "AAAS 2010",
+    "dept_code": "AAAS",
+    "id_number": "2010",
+    "title": "Introduction to Critical Refugee Studies",
+    "description": "Introduction to concepts, theories, and histories of refugees based on their lived experiences and engagement with local refugee communities.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

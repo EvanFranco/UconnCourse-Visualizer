@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5611",
+    "dept_code": "FNCE",
+    "id_number": "5611",
+    "title": "Financial Modeling",
+    "description": "A hands-on use of computerized decision aids to analyze a variety of financial problems. Applications will be drawn from corporate financial planning, modern portfolio theory, options pricing, dynamic trading, and so forth. No computer experience is required; this course will help students develop the necessary programming skills to build fairly sophisticated models.",
+    "credits": "3",
+    "requirement_description": "FNCE 5101 or FNCE 5182; open to MBA students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

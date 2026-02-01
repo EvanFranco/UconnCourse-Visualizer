@@ -1,0 +1,18 @@
+{
+    "name": "EEB 4230W",
+    "dept_code": "EEB",
+    "id_number": "4230W",
+    "title": "Methods of Ecology",
+    "description": "An intensive introduction to field and laboratory methods in ecology. Emphasis will be placed on the use of quantitative and analytical techniques in physiological, population, community and ecosystem ecology. An introduction to sampling procedures, data collection and statistical analysis. Computers will be used to model population and community dynamics and to analyze ecological data sets. Laboratory periods will consist of field and laboratory problems; field trips required, including occasional weekend trips.",
+    "credits": "4",
+    "requirement_description": "EEB 2244E or instructor consent; ENGL 1007 or 1010 or 1011. Recommended preparation: One course in statistics and one course in calculus.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

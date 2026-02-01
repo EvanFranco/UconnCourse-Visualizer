@@ -1,0 +1,18 @@
+{
+    "name": "CAMS 3242W",
+    "dept_code": "CAMS",
+    "id_number": "3242W",
+    "title": "Greek and Roman Drama",
+    "description": "Selected plays from the works of Aeschylus, Sophocles, Euripides, Aristophanes, Plautus, Terence, and Seneca. The origin and development of Greek drama, its transformation in the Roman period, and the influence of classical drama on later literature. Taught in English.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: CAMS 1101 or 1102 or 1103. A knowledge of Latin or Greek is not required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

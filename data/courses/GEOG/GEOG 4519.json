@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 4519",
+    "dept_code": "GEOG",
+    "id_number": "4519",
+    "title": "Spatial Big Data Analytics",
+    "description": "Covers the collection, analysis, and visualization of spatial big data to support better decision-making in geographic contexts.",
+    "credits": "3",
+    "requirement_description": "GEOG 2500 or instructor consent. Recommended Preparation: GEOG 4515.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

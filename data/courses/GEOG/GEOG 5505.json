@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5505",
+    "dept_code": "GEOG",
+    "id_number": "5505",
+    "title": "Remote Sensing of Marine Geography",
+    "description": "Introduction to remote sensing applications in oceans and seas. Applications include image analysis of sea surface temperature, winds, altimetry, sea ice, chlorophyll, primary productivity, and bathymetry.  Graduate section includes individualized projects.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

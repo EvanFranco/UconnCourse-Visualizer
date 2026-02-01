@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 1347",
+    "dept_code": "ANSC",
+    "id_number": "1347",
+    "title": "Stable Management",
+    "description": "Basic skills and knowledge required to manage a horse farm.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

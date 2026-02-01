@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5207",
+    "dept_code": "DRAM",
+    "id_number": "5207",
+    "title": "Electricity and Electronics for the Theatre",
+    "description": "Study of current electrical technology and applications, including AC theory and codes. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

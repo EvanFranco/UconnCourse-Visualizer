@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 4270",
+    "dept_code": "NUSC",
+    "id_number": "4270",
+    "title": "Immunological Mechanisms of Disease",
+    "description": "Assessment of immune function in the pathophysiology of various diseases including allergy, autoimmune diseases, cancer, infectious diseases, and metabolic syndrome with an emphasis on the roles of diet and host microbiota in shaping immune development and function. Patient case studies will be used to facilitate learning outcomes.",
+    "credits": "3",
+    "requirement_description": "NUSC 1165 or BIOL 1107; CHEM 2241 or 2443. Not open for credit to students who have passed NUSC 5270.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5850",
+    "dept_code": "MATH",
+    "id_number": "5850",
+    "title": "Graduate Field Study Internship",
+    "description": "Participation in internship and paper describing experiences. May be repeated for a total of six credits. May be repeated for a total of 6 credits.",
+    "credits": "1-3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

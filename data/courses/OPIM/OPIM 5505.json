@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5505",
+    "dept_code": "OPIM",
+    "id_number": "5505",
+    "title": "Analytical Consulting for Financial Services",
+    "description": "Exposes students to a wide array of real consulting situations in business analytics operations and financial services, and will teach students methods of addressing these problems using spreadsheets, simulation, and optimization methods. While consulting encompasses many specific tasks and requires broad functional knowledge, there is an increased need and appreciation of the usefulness of analytical consulting.",
+    "credits": "3",
+    "requirement_description": "OPIM 5641 or BADM 5181.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

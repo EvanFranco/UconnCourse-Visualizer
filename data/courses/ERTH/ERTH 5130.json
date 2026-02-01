@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5130",
+    "dept_code": "ERTH",
+    "id_number": "5130",
+    "title": "Geomicrobiology",
+    "description": "Microbial diversity and biogeochemistry in aquatic ecosystems, microbe-mineral interactions, fossil record, atmospheric record, microbialites, and research methodology in geomicrobiology. A weekend field trip may be required.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed ERTH/MARN 4130.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "HIST 2866",
+    "dept_code": "HIST",
+    "id_number": "2866",
+    "title": "China and the West",
+    "description": "(Also offered as AAAS\u00a02866.) Survey of China's political and cultural encounters with the West from the sixteenth-century to 1949. Situates these encounters within the context of world history and a dialogue among civilizations. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

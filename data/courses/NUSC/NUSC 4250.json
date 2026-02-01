@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 4250",
+    "dept_code": "NUSC",
+    "id_number": "4250",
+    "title": "Nutrition for Exercise and Sport",
+    "description": "Basic nutrition principles. Physical activity, exercise, sport performance and consequences of nutritional ergogenic aids.",
+    "credits": "3",
+    "requirement_description": "NUSC 1165; PNB 2250 or 2265.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

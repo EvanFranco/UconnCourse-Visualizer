@@ -1,0 +1,18 @@
+{
+    "name": "MATH 1030Q",
+    "dept_code": "MATH",
+    "id_number": "1030Q",
+    "title": "Elementary Discrete Mathematics",
+    "description": "Topics chosen from discrete mathematics. May include counting and probability, sequences, graph theory, deductive reasoning, the axiomatic method and finite geometries, number systems, voting methods, apportionment methods, mathematics of finance, number theory.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MATH 1011Q or equivalent. Not open for credit to students who have passed any math course other than MATH 1010Q, 1011Q, 1020Q, 1030Q, 1040Q, 1050Q, 1060Q, or 1070Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 3030",
+    "dept_code": "EPSY",
+    "id_number": "3030",
+    "title": "UConn Connects Mentoring",
+    "description": "The UConn Connects Mentoring Program pairs 4-5 student participants with an undergraduate student mentor. Mentors coordinate weekly meetings with the student participants throughout the semester. Mentors provide process coaching on techniques, strategies, and attitudes related to performing academically at a consistently high level. Course topics include, but are not limited to time management, stress management, information management, self-regulation, and exam preparation.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

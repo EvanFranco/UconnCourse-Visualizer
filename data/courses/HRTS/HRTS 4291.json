@@ -1,0 +1,16 @@
+{
+    "name": "HRTS 4291",
+    "dept_code": "HRTS",
+    "id_number": "4291",
+    "title": "Service Learning Seminar/Internship",
+    "description": "Combination of supervised fieldwork within the larger human rights community with regular classroom meetings for reflection/analysis on the application of human rights concepts and practices. Students must secure a satisfactory intern position before the end of the second week of the semester of enrollment in this course; students should be in consultation with the instructor several months in advance. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Instructor consent; nine credits of 2000-level or above HRTS courses (six of which may be taken concurrently).",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

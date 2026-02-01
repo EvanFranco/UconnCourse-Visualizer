@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5301",
+    "dept_code": "PSYC",
+    "id_number": "5301",
+    "title": "Practicum in Interviewing and Cognitive Assessment",
+    "description": "An introduction to psychological assessment with supervised practice in administering and interpreting clinical interviews and psychological tests.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Clinical Psychology and others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

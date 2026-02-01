@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3265",
+    "dept_code": "MATH",
+    "id_number": "3265",
+    "title": "Applied Mathematical Logic",
+    "description": "Applied logic selected from set theory, computability theory, nonclassical logic, and type theory. Topics may include ordinal and cardinal numbers, transfinite recursion, the ZFC axioms, models of computation, undecidable problems, modal logic, intuitionistic logic.",
+    "credits": "3",
+    "requirement_description": "MATH 2142Q, or a grade of C or better in MATH 2710, or CSE 2500, or PHIL 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MEM 4296",
+    "dept_code": "MEM",
+    "id_number": "4296",
+    "title": "Honors Research",
+    "description": "Research programs of students' choice in areas of Management and Engineering for Manufacturing. Research work will be directed by an MEM faculty member who serves as the research advisor for the course. Projects will provide significant independent problem solving experience to supplement the classroom experience obtained from traditional coursework. May be used to convert independent research into course credit that may be applied toward the Honors Program requirements and will count as a technical elective. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open to Honors students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 6
+}

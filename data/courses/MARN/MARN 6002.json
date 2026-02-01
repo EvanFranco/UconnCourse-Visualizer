@@ -1,0 +1,16 @@
+{
+    "name": "MARN 6002",
+    "dept_code": "MARN",
+    "id_number": "6002",
+    "title": "Mathematical Models in Marine Sciences: Practicum",
+    "description": "Individual term projects relating to mathematical modeling in the marine sciences. May be repeated for a total of 8 credits.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

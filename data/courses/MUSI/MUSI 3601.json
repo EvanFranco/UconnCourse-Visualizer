@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3601",
+    "dept_code": "MUSI",
+    "id_number": "3601",
+    "title": "Jazz Improvisation and Performance",
+    "description": "Advanced jazz theory, styles, and ensemble techniques. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "MUSI 1601; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

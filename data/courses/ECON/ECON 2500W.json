@@ -1,0 +1,18 @@
+{
+    "name": "ECON 2500W",
+    "dept_code": "ECON",
+    "id_number": "2500W",
+    "title": "Writing in Economics",
+    "description": "Techniques for, and practice in, research, writing, citation, and data presentation in economics.",
+    "credits": "1",
+    "requirement_description": "ECON 1200 or both ECON 1201 (or ARE 1150) and ECON 1202; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

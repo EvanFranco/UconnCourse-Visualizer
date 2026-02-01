@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5232",
+    "dept_code": "ECE",
+    "id_number": "5232",
+    "title": "Optoelectronic Devices",
+    "description": "Optoelectronic devices as applied to fiber optic communications, optical switching and  interconnects. Semiconductor laser devices, including dc, ac smallsignal, ac large signal, and noise with emphasis upon analytical models. Vertical cavity devices and technology. Semiconductor optical amplifiers, waveguide and vertical cavity modulators, photodetectors, optical switches,  receivers and transmitters. Techniques for OE integration and the relevance of bipolar and field-effect devices for monolithic integration.  Technologies for optoelectronic integration for telecom and datacom optical interconnect. WDM techniques for optical networks.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

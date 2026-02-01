@@ -1,0 +1,16 @@
+{
+    "name": "ME 5511",
+    "dept_code": "ME",
+    "id_number": "5511",
+    "title": "Principles of Optimum Design",
+    "description": "Engineering modeling and optimization for graduate students in all areas of engineering. Problem formulation, mathematical modeling, constrained and unconstrained optimization, interior and boundary optima constraint interaction, feasibility and boundedness, model reduction, sensitivity analysis, linear programming, geometric programming, nonlinear programming, and numerical methods in optimization.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

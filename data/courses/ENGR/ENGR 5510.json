@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 5510",
+    "dept_code": "ENGR",
+    "id_number": "5510",
+    "title": "Technology Innovation and Entrepreneurship",
+    "description": "This course is offered in the Fall and focuses on entrepreneurship concepts and approaches such as design thinking, user-centric need and problem identification, and product market fit. The course is taught through an experiential project-based and authentic learning approach using both lectures and student participation and presentations. May be repeated for a total of 3 credits.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher in Engineering and Business and all graduate students in the School of Engineering; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

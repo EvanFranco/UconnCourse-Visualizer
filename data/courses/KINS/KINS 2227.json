@@ -1,0 +1,20 @@
+{
+    "name": "KINS 2227",
+    "dept_code": "KINS",
+    "id_number": "2227",
+    "title": "Exercise Prescription",
+    "description": "Addresses the Frequency, Intensity, Time, and Type or FITT principle of exercise prescription for apparently healthy adults; healthy populations with special considerations such as children, older adults, and women who are pregnant; and special populations with chronic disease and health conditions such as overweight and obesity, and cardiovascular, pulmonary, metabolic, and musculoskeletal disease. CA 3.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: KINS 1100.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

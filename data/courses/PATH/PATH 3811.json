@@ -1,0 +1,16 @@
+{
+    "name": "PATH 3811",
+    "dept_code": "PATH",
+    "id_number": "3811",
+    "title": "Systems Pathophysiology I Laboratory",
+    "description": "Inquiry-based laboratory course on systems pathophysiology, using gross, microscopic, and physiologic evidence to diagnose diseases of the respiratory, cardiovascular, hematopoietic, lymphoid, musculoskeletal, and urinary systems.",
+    "credits": "1",
+    "requirement_description": "PATH 3810, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

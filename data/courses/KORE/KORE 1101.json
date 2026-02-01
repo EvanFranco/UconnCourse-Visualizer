@@ -1,0 +1,16 @@
+{
+    "name": "KORE 1101",
+    "dept_code": "KORE",
+    "id_number": "1101",
+    "title": "Elementary Korean I",
+    "description": "Development of ability to communicate in Korean, orally and in writing, to satisfy basic communicative needs within a cultural setting.",
+    "credits": "4",
+    "requirement_description": "May not be taken out of sequence after passing KORE 1102, 1103, or 1104.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

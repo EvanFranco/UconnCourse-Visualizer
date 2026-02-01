@@ -1,0 +1,23 @@
+{
+    "name": "GEOG 2200",
+    "dept_code": "GEOG",
+    "id_number": "2200",
+    "title": "Introduction to Human Geography",
+    "description": "Geographic perspectives on the relationships between human behavior/activities, and the physical, economic, and cultural environments. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

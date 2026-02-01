@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5101",
+    "dept_code": "FNCE",
+    "id_number": "5101",
+    "title": "Financial Management",
+    "description": "Overview of techniques for effectively studying financial decisions and their impact on the company. Covers the basic concepts and tools necessary to understand the financial decision-making process. The fundamental issues of timing and uncertainty are integrated into the problem of asset valuation. Financial analysis models for determining appropriate sources of capital and effective use of long term and short-term assets are discussed.",
+    "credits": "3",
+    "requirement_description": "ACCT 5121; open only to MBA students. Not open to students who have passed FNCE 5812.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

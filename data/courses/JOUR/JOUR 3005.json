@@ -1,0 +1,16 @@
+{
+    "name": "JOUR 3005",
+    "dept_code": "JOUR",
+    "id_number": "3005",
+    "title": "Online Journalism",
+    "description": "Application of newswriting techniques to online journalism including assembling and producing interactive news stories.",
+    "credits": "3",
+    "requirement_description": "JOUR 2000W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

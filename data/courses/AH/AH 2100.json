@@ -1,0 +1,16 @@
+{
+    "name": "AH 2100",
+    "dept_code": "AH",
+    "id_number": "2100",
+    "title": "Career Development for Future Health Professionals",
+    "description": "Essential tools for professional development and workplace readiness, specifically for careers in health professions. Goal setting, resume building, interview preparation, networking, and self-assessment of strengths and career readiness competencies are covered.",
+    "credits": "1",
+    "requirement_description": "AH 1100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

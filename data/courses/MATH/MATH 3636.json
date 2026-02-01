@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3636",
+    "dept_code": "MATH",
+    "id_number": "3636",
+    "title": "Actuarial Statistical Modeling I",
+    "description": "Introduction to linear regression models, generalized linear models, and time series models. Case studies are used to demonstrate applications.",
+    "credits": "3",
+    "requirement_description": "MATH 3160 or 3165; MATH 3550; STAT 3375Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

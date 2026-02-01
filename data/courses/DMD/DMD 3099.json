@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3099",
+    "dept_code": "DMD",
+    "id_number": "3099",
+    "title": "Independent Study",
+    "description": "Independent study in a Digital Media area of concentration. May be repeated for a total of 15 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open only to Digital Media and Design majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

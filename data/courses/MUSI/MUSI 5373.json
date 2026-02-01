@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 5373",
+    "dept_code": "MUSI",
+    "id_number": "5373",
+    "title": "Orchestra Literature",
+    "description": "Historical-analytical study of orchestral literature.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Music, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

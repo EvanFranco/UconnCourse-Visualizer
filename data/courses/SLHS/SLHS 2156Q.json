@@ -1,0 +1,18 @@
+{
+    "name": "SLHS 2156Q",
+    "dept_code": "SLHS",
+    "id_number": "2156Q",
+    "title": "Speech and Hearing Science",
+    "description": "Fundamentals of acoustics specifically oriented to voice, speech production, and hearing. Human response to sound and its measurement. Introduction to acoustic instrumentation and software used in communication sciences. Examples of concepts to be covered include frequency, intensity, decibels, filters, pitch, loudness, formants, critical bands, and masking.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher. Recommended preparation: MATH 1060 or the equivalent. Not open to students who have passed CDIS 1155Q or SLHS 3247.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

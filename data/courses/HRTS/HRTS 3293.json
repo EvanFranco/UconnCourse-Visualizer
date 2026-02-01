@@ -1,0 +1,16 @@
+{
+    "name": "HRTS 3293",
+    "dept_code": "HRTS",
+    "id_number": "3293",
+    "title": "International Study",
+    "description": "Special topics taken in the Education Abroad program. May be repeated for credit.",
+    "credits": "1-15",
+    "requirement_description": "Consent of the Minor Director required prior to departure.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

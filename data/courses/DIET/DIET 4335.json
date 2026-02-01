@@ -1,0 +1,16 @@
+{
+    "name": "DIET 4335",
+    "dept_code": "DIET",
+    "id_number": "4335",
+    "title": "Clinical Nutrition in Acute Care",
+    "description": "Supervised practice experience applying didactic learning to clinical nutrition.",
+    "credits": "1",
+    "requirement_description": "Student must earn a \"C\" or better in DIET 3215, 3230, 3231W, 3235, 3250, 3272.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

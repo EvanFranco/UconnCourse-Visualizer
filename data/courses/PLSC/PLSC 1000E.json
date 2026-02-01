@@ -1,0 +1,23 @@
+{
+    "name": "PLSC 1000E",
+    "dept_code": "PLSC",
+    "id_number": "1000E",
+    "title": "Plant Appreciation",
+    "description": "An introductory exploration of humans' multi-faceted and essential relationship with plants. Examination of biology, ecology, cultivation, utility in design, and use in food, medicine, and recreation.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

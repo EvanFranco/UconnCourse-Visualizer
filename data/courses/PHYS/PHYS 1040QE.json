@@ -1,0 +1,23 @@
+{
+    "name": "PHYS 1040QE",
+    "dept_code": "PHYS",
+    "id_number": "1040QE",
+    "title": "Cosmic Origins of Life",
+    "description": "Principles of physics and quantitative reasoning applied to astrobiology, the search for extraterrestrial life, and cosmic, stellar, and atmospheric conditions for habitability. A systems perspective on the impacts of human civilization on habitability. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [
+        "Q",
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

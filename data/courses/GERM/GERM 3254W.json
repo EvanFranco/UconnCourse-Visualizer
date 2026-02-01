@@ -1,0 +1,20 @@
+{
+    "name": "GERM 3254W",
+    "dept_code": "GERM",
+    "id_number": "3254W",
+    "title": "Studies in 19th Century German Literature",
+    "description": "Study of a cohesive group of texts that mark the periods of Late Romanticism, Vorm\u00e4rz, Realism and Naturalism. Emphasis may vary. Attention will be given to the relevant socio-historical context and to the visual and performing arts.  Taught in German. CA 1.",
+    "credits": "3",
+    "requirement_description": "GERM 3233, which may be taken concurrently; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

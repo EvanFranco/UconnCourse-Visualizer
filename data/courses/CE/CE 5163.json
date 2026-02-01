@@ -1,0 +1,16 @@
+{
+    "name": "CE 5163",
+    "dept_code": "CE",
+    "id_number": "5163",
+    "title": "Fracture Mechanics",
+    "description": "Focuses on fundamental concepts and applications of fracture mechanics. Topics include linear elastic fracture mechanics, elastic plastic fracture mechanics, computational fracture mechanics, fracture mechanisms in metals and non-metals, fracture testing, dynamic and time-dependent fracture, fatigue crack growth, interfacial fracture, fracture in advanced materials, and engineering applications.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

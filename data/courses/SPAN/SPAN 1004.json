@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 1004",
+    "dept_code": "SPAN",
+    "id_number": "1004",
+    "title": "Intermediate Spanish II",
+    "description": "Intensive practice in communicative skills in all modes of communication. Course provides a cultural context in order to ease communicating in Spanish. Topics include analysis of short films and texts. Students elaborate complex arguments and connect them to their own experience at an intermediate high level.",
+    "credits": "4",
+    "requirement_description": "SPAN 1003. Cannot be taken for credit after any 2000 level or above courses taught in Spanish.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

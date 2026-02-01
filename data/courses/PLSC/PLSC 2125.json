@@ -1,0 +1,22 @@
+{
+    "name": "PLSC 2125",
+    "dept_code": "PLSC",
+    "id_number": "2125",
+    "title": "Environmental Soils Lab",
+    "description": "Soil science laboratory with an emphasis on environmental issues, Analyses of soil physical, biological and chemical properties. Includes weekday and weekend field trips. Formerly offered as SPSS 2125.",
+    "credits": "1",
+    "requirement_description": "PLSC 2120, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

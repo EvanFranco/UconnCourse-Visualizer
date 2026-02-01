@@ -1,0 +1,23 @@
+{
+    "name": "POLS 1202",
+    "dept_code": "POLS",
+    "id_number": "1202",
+    "title": "Introduction to Comparative Politics",
+    "description": "A survey of institutions, politics, and ideologies in democratic and non-democratic states. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

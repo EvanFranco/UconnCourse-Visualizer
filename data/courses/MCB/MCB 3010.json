@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3010",
+    "dept_code": "MCB",
+    "id_number": "3010",
+    "title": "Biochemistry",
+    "description": "The structure and function of biological macromolecules. The metabolism of carbohydrates, lipids, amino acids, proteins and nucleic acids. The regulation of metabolism and biosynthesis of biological macromolecules. An in-depth introduction intended for students planning to take advanced coursework in biochemistry, biophysics or other areas of molecular biology.",
+    "credits": "5",
+    "requirement_description": "CHEM 2444, which may be taken concurrently. Recommended preparation: MCB 2210 or MCB 2610. Not open for credit to students who have passed MCB 2000. Repeat restrictions apply; see advising.uconn.edu/repeatpolicy.php for more information.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

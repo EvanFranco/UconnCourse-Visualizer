@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3545",
+    "dept_code": "MATH",
+    "id_number": "3545",
+    "title": "Actuarial Case Studies using SAS",
+    "description": "Design, development, testing, and implementation of solutions to problems in actuarial science using SAS.",
+    "credits": "1",
+    "requirement_description": "MATH 2620, MATH 3160, STAT 3375Q, and consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

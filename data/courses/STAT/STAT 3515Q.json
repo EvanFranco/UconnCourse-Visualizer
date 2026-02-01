@@ -1,0 +1,18 @@
+{
+    "name": "STAT 3515Q",
+    "dept_code": "STAT",
+    "id_number": "3515Q",
+    "title": "Design of Experiments",
+    "description": "Methods of designing experiments utilizing regression analysis and the analysis of variance.",
+    "credits": "3",
+    "requirement_description": "STAT 2215Q or 3025Q or instructor consent. Credits may not be received for both STAT 3515Q and BIST/STAT 5515.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

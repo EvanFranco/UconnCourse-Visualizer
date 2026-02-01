@@ -1,0 +1,16 @@
+{
+    "name": "POLS 2973Q",
+    "dept_code": "POLS",
+    "id_number": "2973Q",
+    "title": "Advanced Quantitative Methods in Political Science",
+    "description": "Explanation of advanced quantitative methods used in political science. Application of these methods and relevant statistical software for the analysis of substantive political questions. Formerly offered as POLS 2073Q.",
+    "credits": "3",
+    "requirement_description": "POLS 2972Q or STAT 1000Q or SOCI 3211Q or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

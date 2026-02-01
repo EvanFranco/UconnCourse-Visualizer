@@ -1,0 +1,25 @@
+{
+    "name": "MAST 1300E",
+    "dept_code": "MAST",
+    "id_number": "1300E",
+    "title": "People and Society in the Maritime Environment",
+    "description": "People and society in the maritime environment in an interdisciplinary and international context from economic, geographic, historical, and other social science perspectives. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

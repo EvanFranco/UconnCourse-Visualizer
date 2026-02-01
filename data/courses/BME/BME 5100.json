@@ -1,0 +1,16 @@
+{
+    "name": "BME 5100",
+    "dept_code": "BME",
+    "id_number": "5100",
+    "title": "Physiological Modeling",
+    "description": "Unified study of engineering techniques and basic principles in modeling physiological systems. Focuses on membrane biophysics, biological modeling, and systems control theory. Significant engineering and software design is incorporated in homework assignments using MATLAB and SIMULINK.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: BME 3100 and 3400 (or equivalent).",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

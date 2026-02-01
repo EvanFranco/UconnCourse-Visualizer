@@ -1,0 +1,16 @@
+{
+    "name": "ME 3242",
+    "dept_code": "ME",
+    "id_number": "3242",
+    "title": "Heat Transfer",
+    "description": "Fundamentals of conduction, convection, and radiation heat transfer.  Application of the general laws of heat transfer, and heat exchange to a wide variety of practical problems.  The analytical, numerical, and graphical solution of one, two, and three dimensional problems.",
+    "credits": "3",
+    "requirement_description": "ME 2233 and 3250.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

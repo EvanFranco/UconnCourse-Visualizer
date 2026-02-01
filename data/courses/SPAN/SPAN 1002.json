@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 1002",
+    "dept_code": "SPAN",
+    "id_number": "1002",
+    "title": "Elementary Spanish II",
+    "description": "Advanced beginner level Spanish course with further development of communication skills in Spanish. Focus on expressing events in the past and the future. Further exploration of cultural diversity in the Spanish-speaking world.",
+    "credits": "4",
+    "requirement_description": "SPAN 1001. May not be taken out of sequence after passing SPAN 1003 or 1004. May not be taken for credit after passing any 2000-level or above course taught in Spanish, or three or more years of high school Spanish.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

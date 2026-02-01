@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 2300",
+    "dept_code": "PHYS",
+    "id_number": "2300",
+    "title": "The Development of Quantum Physics",
+    "description": "The inadequacies of classical physical concepts in the submicroscopic domain. The revision of physical principles that led to special relativity and modern quantum theory. Application to topics chosen from atomic and molecular physics, solid state physics, nuclear physics and elementary particle physics.",
+    "credits": "3",
+    "requirement_description": "PHYS 1230 or 1402Q or 1502Q or 1530 or 1602Q , which may be taken concurrently; or PHYS 1202 with consent of instructor. May not be taken out of sequence after passing PHYS 3300, 3401, 4300, or 4900.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

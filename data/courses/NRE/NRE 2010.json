@@ -1,0 +1,16 @@
+{
+    "name": "NRE 2010",
+    "dept_code": "NRE",
+    "id_number": "2010",
+    "title": "Natural Resources Measurements",
+    "description": "Principles and instrumentation used in the measurement of environmental conditions and processes. Field trips required.",
+    "credits": "3",
+    "requirement_description": "Open only to Natural Resources and Environmental Sciences majors, or by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4412",
+    "dept_code": "CSE",
+    "id_number": "4412",
+    "title": "Introduction to Quantum Computing, Cryptography, and Networking",
+    "description": "Fundamentals of quantum computing (qubits, superposition, measurements, quantum circuits) including basic quantum algorithms and quantum complexity. Quantum cryptography and networking, including quantum key distribution protocols and their security proofs, and the design and use of large-scale quantum networks (e.g., quantum repeaters). Hands-on programming of the IBM quantum computer.",
+    "credits": "3",
+    "requirement_description": "CSE 3500 or 5050; MATH 2210Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

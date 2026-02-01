@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 1095",
+    "dept_code": "ANTH",
+    "id_number": "1095",
+    "title": "Special Topics Lecture",
+    "description": "May be repeated with a change in topic. May be repeated for credit.",
+    "credits": "1-3",
+    "requirement_description": "Credits, prerequisites, and hours as determined by the Senate Curricula and Courses Committee.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

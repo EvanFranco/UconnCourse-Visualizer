@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5840",
+    "dept_code": "CSE",
+    "id_number": "5840",
+    "title": "String Algorithms and Applications in Bioinformatics",
+    "description": "Classic string matching algorithms (e.g. Knuth-Morris-Pratt, Karp-Rabin, suffix tree and arrays) and more advanced string algorithms (e.g. Burrows-Wheeler transform). With a particular focus on rigorous treatment of string processing algorithms and their analysis. Applications of string algorithms to bioinformatics problems. Students are expected to have basic prior knowledge of algorithm design and analysis.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ART 1000",
+    "dept_code": "ART",
+    "id_number": "1000",
+    "title": "Art Appreciation",
+    "description": "Introduction to the visual arts, past and present. The visual language of artists, historical and cultural significance of works of art. Intended primarily for students who are not art majors. CA 1.",
+    "credits": "3",
+    "requirement_description": "Not open to ART majors.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

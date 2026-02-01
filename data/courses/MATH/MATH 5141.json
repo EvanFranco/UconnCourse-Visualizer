@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5141",
+    "dept_code": "MATH",
+    "id_number": "5141",
+    "title": "Abstract Harmonic Analysis",
+    "description": "Harmonic analysis on Abelian and non-Abelian locally compact groups, Pontryagin duality, the Peter-Weyl theorem, various Fourier transforms and  connections to unitary representation theory.",
+    "credits": "3",
+    "requirement_description": "MATH 5111.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

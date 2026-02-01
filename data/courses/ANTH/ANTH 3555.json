@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3555",
+    "dept_code": "ANTH",
+    "id_number": "3555",
+    "title": "Archaeological Science",
+    "description": "Survey of scientific methods used to answer archaeological questions. Methods, applications and lab demonstrations.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

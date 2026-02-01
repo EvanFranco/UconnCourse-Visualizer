@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5531",
+    "dept_code": "DMD",
+    "id_number": "5531",
+    "title": "Game System Design",
+    "description": "Students will be challenged to create a new game system within an existing game engine. This system will expand and change existing gameplay based on an in-class prompt. They will utilize their knowledge of player psychology and their analysis of other gameplay systems to develop a deeper understanding of the internal mechanics of games.",
+    "credits": "3",
+    "requirement_description": "DMD 5500; open to Graduate Digital Media and Design students, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

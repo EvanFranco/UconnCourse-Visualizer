@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5220",
+    "dept_code": "MATH",
+    "id_number": "5220",
+    "title": "Introduction to Representation Theory",
+    "description": "Semi-simple rings, Jacobson radical, density theory, Wedderburn's Theorem, representations and characters of groups, orthogonality relations, Burnside's theorem.",
+    "credits": "3",
+    "requirement_description": "MATH 5210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

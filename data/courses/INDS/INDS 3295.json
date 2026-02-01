@@ -1,0 +1,16 @@
+{
+    "name": "INDS 3295",
+    "dept_code": "INDS",
+    "id_number": "3295",
+    "title": "Special Topics",
+    "description": " May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

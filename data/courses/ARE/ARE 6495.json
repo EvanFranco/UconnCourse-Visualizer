@@ -1,0 +1,16 @@
+{
+    "name": "ARE 6495",
+    "dept_code": "ARE",
+    "id_number": "6495",
+    "title": "Graduate Research Seminar",
+    "description": "Participation in research seminars presented by invited scholars and departmental faculty as well as active presentation of students' own research to colleagues and faculty. May be repeated for a total of 12 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

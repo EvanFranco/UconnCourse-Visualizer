@@ -1,0 +1,22 @@
+{
+    "name": "SPAN 1007",
+    "dept_code": "SPAN",
+    "id_number": "1007",
+    "title": "Major Works of Hispanic Literature in Translation",
+    "description": "A study of major works selected from the best of Spanish and Spanish-American literature. A knowledge of Spanish is not required. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EEB 6483",
+    "dept_code": "EEB",
+    "id_number": "6483",
+    "title": "Seminar in Marine Biology",
+    "description": "Analysis and discussion of current literature in marine biology. May be repeated for a total of 24 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BME 4130",
+    "dept_code": "BME",
+    "id_number": "4130",
+    "title": "Neural Prostheses",
+    "description": "Development of neural prostheses. Topics will cover physiology of neurological disorders, key concepts of neural prostheses, electrode designs and materials, fabrication methodologies, measurement techniques, histological evaluations, and clinical translations. Students will also learn to critique journal articles and to write their own NIH research proposal.",
+    "credits": "3",
+    "requirement_description": "Open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ARE 5476",
+    "dept_code": "ARE",
+    "id_number": "5476",
+    "title": "International Trade and Policy",
+    "description": "Analysis of international trade and trade policy focusing on agricultural and food markets. Covers trade-related issues concerning economic development and growth. Focus on current challenges to the multilateral trading system and the theoretical foundation for understanding the economic importance of firms, international trade, and global capital flows. Introduction of methods and tools for counterfactual evaluation of trade policies. Statistical modeling techniques to analyze trade patterns and measure trade policy effects.",
+    "credits": "3",
+    "requirement_description": "ARE 5201 or ECON 5201; ARE 5311 or ECON 5312 (or equivalents).",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

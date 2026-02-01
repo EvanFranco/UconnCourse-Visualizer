@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5361",
+    "dept_code": "STAT",
+    "id_number": "5361",
+    "title": "Statistical Computing",
+    "description": "Use of computing for statistical problems; obtaining features of distributions, fitting models and implementing inference. Basic numerical methods, nonlinear statistical methods, numerical integration, modern simulation methods.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Statistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

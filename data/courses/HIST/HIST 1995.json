@@ -1,0 +1,16 @@
+{
+    "name": "HIST 1995",
+    "dept_code": "HIST",
+    "id_number": "1995",
+    "title": "Special Topics Lecture",
+    "description": "Credits, prerequisites and hours as determined by the Senate Curricula and Course Committee. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

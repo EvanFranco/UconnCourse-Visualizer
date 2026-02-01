@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5210",
+    "dept_code": "MARN",
+    "id_number": "5210",
+    "title": "Experimental Design in Marine Ecology",
+    "description": "Introduction to experimental design and data analysis for marine biology and ecology. Analysis and visualization of experimental data using the statistical software package R. Topics include analysis of variance, replication and pseudoreplication, factorial designs, and significance testing.",
+    "credits": "4",
+    "requirement_description": "Not open for credit to students who have passed MARN 4210Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

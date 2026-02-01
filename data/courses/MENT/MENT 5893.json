@@ -1,0 +1,16 @@
+{
+    "name": "MENT 5893",
+    "dept_code": "MENT",
+    "id_number": "5893",
+    "title": "Management Internship",
+    "description": "The application and implementation in a work situation of theories and practices related to the student's area of specialization, facilitated by the student, sponsoring organization, and faculty advisor. Among other course assessments to be determined by the faculty advisor, a comprehensive project is required.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

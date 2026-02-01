@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4223",
+    "dept_code": "ECE",
+    "id_number": "4223",
+    "title": "Nanophotonics",
+    "description": "Principles and applications of nanophotonics with focus on optical metamaterials, plasmonics, and photonic bandgap crystals.  Topics covered include electric plasma, magnetic plasma, optical magnetism, negative index metamaterials, localized and non-localized surface plasmon polaritons, photonic bandgap structures, superlens, optical cloaking.",
+    "credits": "3",
+    "requirement_description": "ECE 3223; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

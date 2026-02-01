@@ -1,0 +1,16 @@
+{
+    "name": "ART 3131",
+    "dept_code": "ART",
+    "id_number": "3131",
+    "title": "Interactive Design",
+    "description": "Introduction to the design of interactive screenbased experiences.",
+    "credits": "3",
+    "requirement_description": "ART 2120 and 3130 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

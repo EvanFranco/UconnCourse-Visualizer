@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5830",
+    "dept_code": "EDCI",
+    "id_number": "5830",
+    "title": "Curriculum Laboratory",
+    "description": "Open to teachers and administrators seeking practical solutions to curriculum problems in elementary and secondary schools. Reorganization of courses, reorientation of the program of studies, articulation of administrative units, and development of new materials are considered in relation to the local situation. Students make individual studies of their specific problems, and group studies of related problems. May be repeated for a total of 9 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

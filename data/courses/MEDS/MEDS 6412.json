@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6412",
+    "dept_code": "MEDS",
+    "id_number": "6412",
+    "title": "Advanced Clinical Practicum",
+    "description": "Advanced clinical work with opportunities in the major clinical disciplines.",
+    "credits": "11",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

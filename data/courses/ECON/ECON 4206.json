@@ -1,0 +1,16 @@
+{
+    "name": "ECON 4206",
+    "dept_code": "ECON",
+    "id_number": "4206",
+    "title": "Mechanism Design",
+    "description": "Designing incentives to encourage an intended result.  Applications may include public goods provision; two-sided matching, as in labor and marriage markets; and peer evaluation of performance.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

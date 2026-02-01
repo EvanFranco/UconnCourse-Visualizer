@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 4339",
+    "dept_code": "MUSI",
+    "id_number": "4339",
+    "title": "Composition Forum",
+    "description": "Weekly forum for students enrolled in the composition emphasis to discuss with each other, faculty, and visiting artists topics relevant to the professional development of composers. Topics include various aspects of the business of music, media  technology, and score study. May be repeated for a total of 8 credits.",
+    "credits": "1",
+    "requirement_description": "Music major with a composition emphasis.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

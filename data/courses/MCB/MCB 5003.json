@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5003",
+    "dept_code": "MCB",
+    "id_number": "5003",
+    "title": "Biophysical Chemistry I",
+    "description": "An introduction to the physical chemistry of biological molecules and systems. Principal topics include biomolecular thermodynamics, kinetics, transport properties, and biomolecular structure.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed MCB 3003.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

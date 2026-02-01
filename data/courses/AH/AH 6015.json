@@ -1,0 +1,16 @@
+{
+    "name": "AH 6015",
+    "dept_code": "AH",
+    "id_number": "6015",
+    "title": "Analysis of Large Population-Based Datasets for Health Promotion",
+    "description": "Methods for using large population-based health-related datasets for health promotion research. Topics include procedures for accessing data, strengths and limitations of these data for health promotion research, complex sampling and weighted statistical analyses, and interpretation and communication of findings.",
+    "credits": "3",
+    "requirement_description": "AH 3005, AH 5005, or equivalent biostatistics course and familiarity with SAS; instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

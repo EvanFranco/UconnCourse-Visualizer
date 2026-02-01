@@ -1,0 +1,18 @@
+{
+    "name": "COMM 4530W",
+    "dept_code": "COMM",
+    "id_number": "4530W",
+    "title": "Public Relations Writing",
+    "description": "Philosophy and practice of good, ethical and effective public relations for advanced students. Writing projects such as press releases, media advisories, briefing packets, speech introductions, brochures, newsletters, and op-eds.",
+    "credits": "3",
+    "requirement_description": "COMM 3530; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

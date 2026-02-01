@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5695",
+    "dept_code": "NRE",
+    "id_number": "5695",
+    "title": "Special Topics in Natural Resources",
+    "description": "Advanced topics in the field of natural resources. Topics and credits to be published prior to the registration period preceding the semester offerings. May be repeated for a total of 6 credits.",
+    "credits": "1-4",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

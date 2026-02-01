@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3435",
+    "dept_code": "ECON",
+    "id_number": "3435",
+    "title": "Economics of Crime",
+    "description": "Economic approach to crime, law enforcement, and the justice system. Basic economic theories concerning the behavior and interactions of criminal justice actors and applications to issues of crime and policy.",
+    "credits": "0",
+    "requirement_description": "ECON 2201 or ECON 2211Q; not open for credit to students who have passed ECON 3495 when offered as \"Economics of Crime.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

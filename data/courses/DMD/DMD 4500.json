@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4500",
+    "dept_code": "DMD",
+    "id_number": "4500",
+    "title": "Advanced Digital Game Design and Development",
+    "description": "Advanced study and application of digital game design and development, programming, 3D game environments, game testing, human computer interaction, quality assurance, and publishing.",
+    "credits": "3",
+    "requirement_description": "DMD 2542 and 3522; open only to Digital Media and Design seniors and graduate students, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

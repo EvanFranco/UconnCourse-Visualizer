@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 5330",
+    "dept_code": "MUSI",
+    "id_number": "5330",
+    "title": "Advanced Instrumental Conducting",
+    "description": "Score study, conducting, and rehearsal techniques of selected instrumental literature. May be repeated for a total of 8 credits.",
+    "credits": "2",
+    "requirement_description": "Open to graduate students in Music, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

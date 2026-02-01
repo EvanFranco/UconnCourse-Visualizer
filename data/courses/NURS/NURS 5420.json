@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5420",
+    "dept_code": "NURS",
+    "id_number": "5420",
+    "title": "Evidence-based Practice for Complex and Comorbid Health Problems IV: Population Specific AGPCNP FNP",
+    "description": "Grounded in theory and evidence, this didactic clinical course focuses on synthesis of critical thinking skills and evidenced-based practice processes necessary to achieve advanced practice nursing core competencies and domains and standards of clinical primary care. The emphasis is on health promotion and maintenance, and primary care assessment, diagnosis and management of more complex and co-morbid health conditions while considering context for populations, including individuals, families, and communities, specific to the adult-gerontology primary care and family nurse practitioner.",
+    "credits": "3",
+    "requirement_description": "NURS 5410, NURS 5419 for students in the AGPCNP concentration or NURS 5439 for student in the FNP concentration. Corequisite: NURS 5429 for students in the AGPCNP or NURS 5449 for students in the FNP concentration. Instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

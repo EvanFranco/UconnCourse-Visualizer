@@ -1,0 +1,16 @@
+{
+    "name": "BME 2101",
+    "dept_code": "BME",
+    "id_number": "2101",
+    "title": "Introduction to Biomedical Engineering",
+    "description": "Fundamental concepts and techniques of engineering and medical science and their integration. The art and science of medicine and the process of medical diagnosis and treatment. Topics include: diagnostic instrumentation, diagnostic measurements and their interplay; bioelectric phenomena, biomechanics, and biomaterials; biochemical engineering; computers in medicine; molecular medicine and biotechnology; medical imaging.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q, which may be taken concurrently; PHYS 1230 or 1501Q or 1530, each of which may be taken concurrently; open to non-BME majors with instructor consent. Recommended preparation: BIOL 1107.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

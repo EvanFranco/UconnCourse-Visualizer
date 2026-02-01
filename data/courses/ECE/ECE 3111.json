@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3111",
+    "dept_code": "ECE",
+    "id_number": "3111",
+    "title": "Systems Analysis and Design",
+    "description": "Modeling, analysis and design of control systems using frequency and time-domain methods.  Differential equation, Transfer function, signal flow graph and state variable representations of continuous and discrete-time systems. Linearization of nonlinear systems. Transient and frequency response of second order systems.  Stability of linear systems with feedback; Routh Hurwitz, Root locus, Bode and Nyquist methods.  Controllability and observability.   Computational methods for analysis of linear systems.  Team-based design projects involving modeling, classical compensator design and state variable feedback design.",
+    "credits": "4",
+    "requirement_description": "ECE 3101 or BME 3400; MATH 2210Q, which may be taken concurrently. Open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "NURS 1500",
+    "dept_code": "NURS",
+    "id_number": "1500",
+    "title": "Introduction to Correctional Health Care",
+    "description": "Health care delivery for persons involved in the United States correctional system at the individual, cultural, societal, and national level. Examination of social theories such as critical theory to analyze and understand the social determinants of health such as gender, race, culture, and status that influence behavior and health care access, delivery, and treatment in the correctional system. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

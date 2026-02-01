@@ -1,0 +1,20 @@
+{
+    "name": "NRE 3245E",
+    "dept_code": "NRE",
+    "id_number": "3245E",
+    "title": "Environmental Law",
+    "description": "An overview of environmental law including the common law principles of nuisance, negligence, and trespass. Students will become acquainted with legal research techniques; emphasis will be on federal, state, and municipal programs addressing clear air, clean water, hazardous waste, inland wetlands, coastal zone management, and prime agricultural farm land and aquifer protection.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

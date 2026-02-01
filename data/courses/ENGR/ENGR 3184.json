@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 3184",
+    "dept_code": "ENGR",
+    "id_number": "3184",
+    "title": "Engineering Transition Seminar",
+    "description": "For transfer students and campus change students in Engineering and exploring Engineering. Topics covered will address the transition to the Storrs campus as an Engineering student.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

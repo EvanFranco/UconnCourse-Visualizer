@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5239",
+    "dept_code": "PHAR",
+    "id_number": "5239",
+    "title": "Current Literature in Pharmaceutics",
+    "description": "Designed to familiarize students with current pharmaceutics literature and to educate students in critical peer review in the pharmaceutics literature. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BME 5040",
+    "dept_code": "BME",
+    "id_number": "5040",
+    "title": "Medical Instrumentation in the Hospital",
+    "description": "This course will examine current major technologies in use by healthcare practitioners. It will review the physiological principles behind each technology, the principles of operation, major features, methods for testing and evaluating each technology and will highlight available versions of the devices on the market today. Technologies to be covered will be selected from anesthesia equipment, surgical and ophthalmic lasers, cardiac assist devices, surgical and endoscopic video systems, radiographic and fluoroscopic devices, CT, MRI, ultrasound imaging equipment, radiation therapy, nuclear medicine, clinical chemistry analyzers, spectrophotometers and hematology analyzers. Course is based on one text, selected manufacturers training documents as well as journal articles from current medical publications. Grading will be based on exams, quizzes, a semester project and class participation. Several classes will take place on site in Hartford area hospitals in order to observe and examine the equipment being discussed.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

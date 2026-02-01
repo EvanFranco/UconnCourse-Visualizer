@@ -1,0 +1,20 @@
+{
+    "name": "ANTH 3523E",
+    "dept_code": "ANTH",
+    "id_number": "3523E",
+    "title": "The Origins of Agriculture",
+    "description": "The origins and spread of agriculture worldwide. Economic, social and ideological ramifications of the agricultural transition. Processes of plant and animal domestication.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

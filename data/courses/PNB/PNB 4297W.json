@@ -1,0 +1,18 @@
+{
+    "name": "PNB 4297W",
+    "dept_code": "PNB",
+    "id_number": "4297W",
+    "title": "Senior Research Thesis in Physiology and Neurobiology",
+    "description": "Special research or independent investigation for advanced undergraduates. Involves research and writing a thesis.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011 or 2011. Three credits of PNB 3296 or 4296, which may be taken concurrently; open to juniors or higher; open only with consent of instructor and departmental honors committee. Not limited to honors students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

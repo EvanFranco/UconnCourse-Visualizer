@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 3215",
+    "dept_code": "ENGR",
+    "id_number": "3215",
+    "title": "Statistical Quality Control and Reliability for Manufacturing",
+    "description": "Foundation of quality control and reliability in manufacturing systems. Probability and statistics, principles and methods of modern quality control in manufacturing, Six Sigma, control charts for measurement and attribute data, development and utilization of control charts, manufacturing process capability studies, ANOVA and linear regression of measurement data, experimental design, response surface and Taguchi methodology, acceptance sampling, reliability prediction and modeling in manufacturing systems.",
+    "credits": "3",
+    "requirement_description": "MATH 2110Q; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

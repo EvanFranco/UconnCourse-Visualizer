@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 3299",
+    "dept_code": "SLHS",
+    "id_number": "3299",
+    "title": "Independent Study",
+    "description": "The course, for superior students, includes independent reading, periodic conferences, and such other work as desired by the instructor. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

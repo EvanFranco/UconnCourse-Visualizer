@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 1241",
+    "dept_code": "MUSI",
+    "id_number": "1241",
+    "title": "Applied Accompanying",
+    "description": "Performance class in accompanying skills. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "This course is intended for students whose area of emphasis is keyboard. An audition is required for all other students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

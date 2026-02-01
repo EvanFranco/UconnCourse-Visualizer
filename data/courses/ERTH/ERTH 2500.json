@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 2500",
+    "dept_code": "ERTH",
+    "id_number": "2500",
+    "title": "Earth System Science",
+    "description": "Introduction to earth system science, geoscience research methods, and professional practice through lab work, field work in UConn Forest, visits to faculty labs, and culminating project.",
+    "credits": "3",
+    "requirement_description": "ERTH 1050 or both ERTH 1052 and one of ERTH 1010 or 1051 or 1055 or GEOG/ERTH 1070.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

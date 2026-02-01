@@ -1,0 +1,16 @@
+{
+    "name": "NRE 3345",
+    "dept_code": "NRE",
+    "id_number": "3345",
+    "title": "Wildlife Management Techniques",
+    "description": "Design and implementation of projects for wildlife research and monitoring that address conservation and management issues. Topics include capture and handling of animals, population estimation, wildlife-habitat relationships, resource selection, and space use. This course is designed for pre-professional students and meets professional certification requirements. One or more field trips will be required.",
+    "credits": "4",
+    "requirement_description": "NRE 2345; open to junior or higher Natural Resources majors, others by instructor consent. Recommended preparation: STAT 1100; MATH 1060, and MATH 1110 or higher; and EEB 2244E.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

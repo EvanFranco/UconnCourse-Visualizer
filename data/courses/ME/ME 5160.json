@@ -1,0 +1,16 @@
+{
+    "name": "ME 5160",
+    "dept_code": "ME",
+    "id_number": "5160",
+    "title": "Theory and Design of Automatic Control Systems",
+    "description": "Design features of a closed loop control system. Laplace domain analysis of electromechanical, pneumatic, hydraulic, thermal, and mechanical systems. Computer simulation of dynamic responses using software tools. Stability issues, Routh analysis, root locus, Bode and Nyquist analyses are addressed. An open-ended, hands-on design project from a current research topic is assigned.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

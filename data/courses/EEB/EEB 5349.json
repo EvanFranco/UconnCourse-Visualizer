@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5349",
+    "dept_code": "EEB",
+    "id_number": "5349",
+    "title": "Phylogenetics",
+    "description": "Estimation of genealogies at the level of species and above, and their application and relevance to systematics, population genetics, molecular evolution, and comparative biology. Emphasizes maximum likelihood and Bayesian approaches. Laboratory provides practical experience with modern phylogenetics software.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

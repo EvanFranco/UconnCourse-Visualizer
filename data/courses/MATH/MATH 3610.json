@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3610",
+    "dept_code": "MATH",
+    "id_number": "3610",
+    "title": "Probability Problems",
+    "description": "Preparation through problem solving for the probability actuarial examination, which tests a student's knowledge of the fundamental probability tools for quantitatively assessing risk. Recommended prior knowledge: a thorough command of probability, as well as basic concepts in insurance and risk management.",
+    "credits": "1",
+    "requirement_description": "MATH 2110Q or 2130Q or 2143Q; MATH 3160.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

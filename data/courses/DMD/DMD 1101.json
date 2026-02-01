@@ -1,0 +1,16 @@
+{
+    "name": "DMD 1101",
+    "dept_code": "DMD",
+    "id_number": "1101",
+    "title": "Design Lab I",
+    "description": "Exploration of the creation, manipulation, and reception of digital images through project-based work using image-editing software. Through lecture, discussion, projects and critique, students will develop, refine, and evaluate digital images and understand their artistic, social, and ethical ramifications.",
+    "credits": "3",
+    "requirement_description": "Open only to Digital Media and Design majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

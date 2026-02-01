@@ -1,0 +1,18 @@
+{
+    "name": "POLS 3019W",
+    "dept_code": "POLS",
+    "id_number": "3019W",
+    "title": "Black Political Thought",
+    "description": "Exploration of black U.S., Caribbean, and African political thought, with a focus on processes of and resistance to racialization, enslavement, and colonization.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011, open to juniors or higher. Recommended preparation: POLS 1002 and AFRA 2211.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

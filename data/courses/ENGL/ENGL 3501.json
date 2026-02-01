@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3501",
+    "dept_code": "ENGL",
+    "id_number": "3501",
+    "title": "Chaucer",
+    "description": "The Canterbury Tales and other selected works, and such attention to the Middle English language as is necessary to an understanding of the text.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

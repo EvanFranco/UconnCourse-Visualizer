@@ -1,0 +1,22 @@
+{
+    "name": "HIST 3563",
+    "dept_code": "HIST",
+    "id_number": "3563",
+    "title": "African American History to 1865",
+    "description": "(Also offered as HRTS\u00a03563, AFRA\u00a03563.) History of African-American people to 1865, from their West African roots, to their presence in colonial America, through enslavement and emancipation. Adaptation and resistance to their conditions in North America. Contributions by black people to the development of the United States.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

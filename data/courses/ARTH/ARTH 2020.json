@@ -1,0 +1,20 @@
+{
+    "name": "ARTH 2020",
+    "dept_code": "ARTH",
+    "id_number": "2020",
+    "title": "Global Jerusalem",
+    "description": "An introduction to the art and architecture of Jerusalem and the diverse religious, social, and political contexts of related re-creations across the world, from prehistory to the contemporary period. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SE 5202",
+    "dept_code": "SE",
+    "id_number": "5202",
+    "title": "Foundations of Control",
+    "description": "Familiarizes students with system design flows used for designing, implementing and verifying control systems and to provide skills necessary to design and analyze practical regulatory controllers for Cyber-Physical systems. Successful students will be cognizant of the role of controls in the system design process and will be proficient in specifying control system requirements, especially as they relate to attenuation of load disturbances, robustness to dynamic system model uncertainty, actuator nonlinearities, and measurement noise; knowledgeable of the distinctions between modeling systems for control and understanding the fundamental limits of regulatory control systems; knowledgeable of the role of control architectures for regulatory controllers, including sensor selection and sizing of actuators; aware of practical control design methods focusing on PID controllers; controller implementation, validation, testing, diagnostics and tuning. Use of computer-aided engineering tools (Dymola, MATLAB/Simulink) in the design flows for control of cyber-physical systems is emphasized.",
+    "credits": "3",
+    "requirement_description": "SE 5101. Recommended preparation: undergraduate course in systems analysis.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

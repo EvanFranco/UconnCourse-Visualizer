@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 3240",
+    "dept_code": "ENVE",
+    "id_number": "3240",
+    "title": "Soil Chemistry Components",
+    "description": "(Also offered as PLSC\u00a03420.) Basic concepts of the physical chemistry of soil constituents. Topics include soil atmospheres, soil solutions, soil organic matter, soil mineralogy, and surface characteristics and analysis. Lab exercises on a personal computer are an integral part of the course. Formerly offered as SPSS 3420.",
+    "credits": "4",
+    "requirement_description": "CHEM 1128Q. Recommended preparation: PLSC 2120 and 2125.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECON 1493",
+    "dept_code": "ECON",
+    "id_number": "1493",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 3245",
+    "dept_code": "HDFS",
+    "id_number": "3245",
+    "title": "Aging in American Society",
+    "description": "Social gerontology: the role and status of older people in a changing society.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

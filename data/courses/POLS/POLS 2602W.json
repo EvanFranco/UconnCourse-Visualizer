@@ -1,0 +1,23 @@
+{
+    "name": "POLS 2602W",
+    "dept_code": "POLS",
+    "id_number": "2602W",
+    "title": "Religion and Politics in America",
+    "description": "The interaction and relationship between religion and politics in the U.S. political system. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: POLS 1602.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

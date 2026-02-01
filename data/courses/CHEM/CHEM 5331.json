@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5331",
+    "dept_code": "CHEM",
+    "id_number": "5331",
+    "title": "Advanced Instrumental Analysis",
+    "description": "Provides graduate students with the foundations necessary to understand and apply chemical analyses and instrumental techniques.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: A course in advanced Analytical Chemistry.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ART 3620",
+    "dept_code": "ART",
+    "id_number": "3620",
+    "title": "Ceramics: Sculptural Approaches",
+    "description": "Investigation of principles, techniques, and processes for design and expression in ceramic sculpture and sculptural installation. This course extends research, development, and realization of artistic concept in clay and glaze. Projects explore a range of fabrication skills and encourage inventive approaches to material, form, surface, space, and context. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "ART 2610; open only to Art majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

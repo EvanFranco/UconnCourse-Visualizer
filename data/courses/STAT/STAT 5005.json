@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5005",
+    "dept_code": "STAT",
+    "id_number": "5005",
+    "title": "Introduction to Applied Statistics",
+    "description": "One-, two- and k-sample problems, regression, elementary factorial and repeated measures designs, covariance. Use of computer packages, e.g., SAS and MINITAB. STAT\u00a05005 cannot be counted toward a graduate degree in Statistics or Biostatistics.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed STAT 2215Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

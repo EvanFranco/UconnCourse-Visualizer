@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5520",
+    "dept_code": "ERTH",
+    "id_number": "5520",
+    "title": "Exploring and Engineering Seismology",
+    "description": "Theory of elasticity applied to wave propogation: equations of motion; reflection and refraction of elastic waves; velocity analysis and fundamental petrophysics; and principles of detecting subsurface interfaces and structures.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

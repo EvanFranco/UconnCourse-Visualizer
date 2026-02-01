@@ -1,0 +1,20 @@
+{
+    "name": "HIST 2570",
+    "dept_code": "HIST",
+    "id_number": "2570",
+    "title": "American Indian History",
+    "description": "Surveys American Indian History in what is now the United States from precolumbian times up to the present. Cultural diversity among Indian peoples the effects of European contact, tribal sovereignty, and other current issues. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

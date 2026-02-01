@@ -1,0 +1,21 @@
+{
+    "name": "COMM 3321",
+    "dept_code": "COMM",
+    "id_number": "3321",
+    "title": "Latinas and Media",
+    "description": "(Also offered as LLAS\u00a03321, WGSS\u00a03321.) The role of ethnicity and race in women's lives. Special attention to communication research on ethnic and racial minority women. CA 4. Formerly offered as LLAS 3264/ WGSS 3260.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

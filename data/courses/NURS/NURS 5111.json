@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5111",
+    "dept_code": "NURS",
+    "id_number": "5111",
+    "title": "Healthcare Innovation Theory and Application",
+    "description": "Introduction to innovation as a concept, leading theories and applications to health care. This will be the first in a series of four courses for a health care innovation post-baccalaureate certificate program. The course will begin with an effort to define the concept of innovation within the first week. Beyond the concept analysis, this course will expose students to leading innovation theorists (e.g., Christensen, Drucker, Rogers, and von Hippel). Each theorist has a different approach and perspective on innovation. Students should be able to compare and contrast the key theorists, their perspectives, and identify real life situations (e.g., case studies) that can be supported (and not supported) by the concepts within these theories. While these theorists are not health care professionals, their theories have been used to explain phenomenon in the health care industry. Beyond the theoretical and conceptual understanding of innovation, the students will need to demonstrate an understanding of how to apply these theories to real life use cases. Lastly, this course will emphasize the relationship between innovation and evidence-based practice.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

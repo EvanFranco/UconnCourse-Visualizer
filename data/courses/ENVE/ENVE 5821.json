@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5821",
+    "dept_code": "ENVE",
+    "id_number": "5821",
+    "title": "Vadose Zone Hydrology",
+    "description": "Theoretical and experimental elements of primary physical and hydrological properties of porous media and processes occurring in partially-saturated soils. Practical experience in measurement and interpretation of hydrological information and methods of analysis for vadose-zone related environmental problems.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

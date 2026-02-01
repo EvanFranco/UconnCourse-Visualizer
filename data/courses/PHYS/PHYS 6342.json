@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 6342",
+    "dept_code": "PHYS",
+    "id_number": "6342",
+    "title": "Quantum Theory of Fields II",
+    "description": "Topics chosen from the following: Path integral formalism, generating functionals, renormalization, abelian and non-abelian gauge theories (QED and QCD), electroweak theory, solitons, instantons.",
+    "credits": "3",
+    "requirement_description": "PHYS 6341.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

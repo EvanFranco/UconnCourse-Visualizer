@@ -1,0 +1,22 @@
+{
+    "name": "SPAN 3205",
+    "dept_code": "SPAN",
+    "id_number": "3205",
+    "title": "Contemporary Spanish America",
+    "description": "An interdisciplinary course concerned with present-day cultural, social, and political structures of Spanish America. Revolutionary and counter-revolutionary ideas in contemporary society and the struggle for social, political and economic stability.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: SPAN 3178 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

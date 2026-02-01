@@ -1,0 +1,16 @@
+{
+    "name": "PATH 5401",
+    "dept_code": "PATH",
+    "id_number": "5401",
+    "title": "Immunobiology",
+    "description": "Principles of basic and clinical immunobiology; phylogeny and ontogeny of the immune response, characteristics of the immune response, cellular and humoral immunity; central and peripheral lymphoid tissues; mechanisms of immunologic injury and immunologic diseases; comparative and veterinary immunology; transplantation and tumor immunology.",
+    "credits": "4",
+    "requirement_description": "Open with consent of instructor to graduate students, upper-level Honors students, and senior undergrad students with recommended preparation. Recommended preparation: Previous coursework in Biochemistry, Genetics, Cell Biology, and Microbiology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

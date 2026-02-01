@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5500",
+    "dept_code": "GEOG",
+    "id_number": "5500",
+    "title": "Fundamentals of Geographic Information Science",
+    "description": "An introduction to the theory and methods for representing, acquiring, storing, manipulating, displaying, and analyzing geographic features in relation to the surface of the earth.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

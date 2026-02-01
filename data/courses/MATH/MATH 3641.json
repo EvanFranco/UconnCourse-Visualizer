@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3641",
+    "dept_code": "MATH",
+    "id_number": "3641",
+    "title": "Short-Term Insurance Reserving",
+    "description": "Techniques and underlying statistical theory for estimating unpaid claims, use of claims triangles,  basic adjustments to data and estimation techniques to account for internal and external environments, estimating recoveries, model adequacy and reasonableness.",
+    "credits": "3",
+    "requirement_description": "MATH 3620. Not open to students who have passed MATH 5641.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

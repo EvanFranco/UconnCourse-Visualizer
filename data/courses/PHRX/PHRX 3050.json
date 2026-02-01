@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3050",
+    "dept_code": "PHRX",
+    "id_number": "3050",
+    "title": "Public Health and Healthcare Policy",
+    "description": "This course provides students with a fundamental understanding of public health, health policy, and population health. Students will draw connections between pharmacy and public health and explore ways in which pharmacists can aid in solving our nation's health problems.",
+    "credits": "3",
+    "requirement_description": "Must have satisfied the Pharmacy Pre-Professional prerequisites for admission to the PharmD program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

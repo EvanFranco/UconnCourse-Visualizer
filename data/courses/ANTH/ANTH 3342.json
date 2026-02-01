@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3342",
+    "dept_code": "ANTH",
+    "id_number": "3342",
+    "title": "Political and Legal Anthropology",
+    "description": "Anthropological analysis of the state, nation, and human rights from a cross-cultural perspective.",
+    "credits": "3",
+    "requirement_description": "Not open to students who passed ANTH 3098 with the topic Political and Legal Anthropology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

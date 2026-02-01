@@ -1,0 +1,22 @@
+{
+    "name": "PHIL 1108E",
+    "dept_code": "PHIL",
+    "id_number": "1108E",
+    "title": "Environmental Philosophy",
+    "description": "Philosophical issues raised by humanity\u2019s interaction with its environment. Topics may include ethical and policy ramifications of the use of non-human animals for food, medicine, and scientific inquiry; whether the natural world has a status calling for its protection or preservation; obligations to future generations; environmental justice; and movements such as deep ecology, ecofeminism, and social ecology. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

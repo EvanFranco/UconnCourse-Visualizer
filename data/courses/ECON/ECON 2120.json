@@ -1,0 +1,21 @@
+{
+    "name": "ECON 2120",
+    "dept_code": "ECON",
+    "id_number": "2120",
+    "title": "Honors Core: Rights and Harms",
+    "description": "Basic concepts in the economics and philosophy of law as a framework for discussing controversial social issues. Topics may include intellectual property rights, eminent domain, freedom of speech, and \"repugnant\" transactions like the sale of human organs. CA 1.",
+    "credits": "3",
+    "requirement_description": "Any 1000-level course in Economics, which may be taken concurrently; open to students in the Honors program; others by instructor permission.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

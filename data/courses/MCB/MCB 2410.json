@@ -1,0 +1,16 @@
+{
+    "name": "MCB 2410",
+    "dept_code": "MCB",
+    "id_number": "2410",
+    "title": "Genetics",
+    "description": "Foundational principles of classical genetics and modern genomics with a focus on eukaryotic model genetic organisms. Emphasis on molecular mechanisms underlying heredity. Intended for majors in MCB and related disciplines.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107. Not open to students who have passed MCB 2400. May not be taken out of sequence after passing MCB 3220, 3400, 3410, 3412, 3413, 3843W, or 4416. Repeat restrictions apply; see advising.uconn.edu/repeat-policy for information.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

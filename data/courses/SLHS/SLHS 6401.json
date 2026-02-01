@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 6401",
+    "dept_code": "SLHS",
+    "id_number": "6401",
+    "title": "Amplification of Residual Hearing II",
+    "description": "Theoretical and clinical issues related to hearing aid candidacy and fitting with an emphasis on advanced signal processing strategies.",
+    "credits": "3",
+    "requirement_description": "SLHS 5351.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

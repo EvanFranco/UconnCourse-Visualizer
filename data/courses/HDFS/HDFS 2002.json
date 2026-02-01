@@ -1,0 +1,20 @@
+{
+    "name": "HDFS 2002",
+    "dept_code": "HDFS",
+    "id_number": "2002",
+    "title": "Diverse Family Structures in the United States",
+    "description": "Examination of current and historical diversity of family structures in the U.S., including single-caregiver, two-caregiver, multiple-caregiver, and nonbiological-caregiver families; families with and without children; multigenerational families; and extended kinship structures. Intersections of family structures with race, ethnicity, socioeconomic status, and sexual/gender identities. Ways that historical and current laws, policies, and cultural norms shape family structures, and the predictors, characteristics, and outcomes of diverse family structures for individuals and families.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed HDFS 2095 when offered as \"Diverse Family Structures/Topics.\"",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

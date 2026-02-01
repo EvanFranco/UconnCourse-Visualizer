@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5099",
+    "dept_code": "CSE",
+    "id_number": "5099",
+    "title": "Independent Study in Computer Science and Engineering",
+    "description": "Individual exploration of special topics as arranged by the student with an instructor. May be repeated for a total of 24 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

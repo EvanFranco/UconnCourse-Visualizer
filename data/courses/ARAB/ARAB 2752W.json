@@ -1,0 +1,25 @@
+{
+    "name": "ARAB 2752W",
+    "dept_code": "ARAB",
+    "id_number": "2752W",
+    "title": "Arabic Speculative Fiction",
+    "description": "Introduction to speculative fiction through contemporary literature from the Arab world in translation. Discussion of science fiction, fantasy, horror, and dystopia. Development of skills of literary analysis. Taught in English. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

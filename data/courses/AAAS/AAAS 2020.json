@@ -1,0 +1,23 @@
+{
+    "name": "AAAS 2020",
+    "dept_code": "AAAS",
+    "id_number": "2020",
+    "title": "Introduction to Critical Muslim Studies",
+    "description": "Survey of Muslim cultures across Asia and the Pacific with an interdisciplinary focus on their transnational diasporas and the historical practice of Islamophobia and Anti-Muslim Racism. Students gain knowledge of local Muslim communities in Connecticut and explore diverse ways of being Muslim.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

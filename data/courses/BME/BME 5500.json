@@ -1,0 +1,16 @@
+{
+    "name": "BME 5500",
+    "dept_code": "BME",
+    "id_number": "5500",
+    "title": "Clinical Instrumentation Systems",
+    "description": "Analysis and design of transducers and signal processors; measurements of physical, chemical, biological, and physiological variables; special purpose medical instruments, systems design, storage and display, grounding, noise, and electrical safety. These concepts are considered in developing devices used in a clinical or biological environment.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ECE 2001W; BME 3400 and 3500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

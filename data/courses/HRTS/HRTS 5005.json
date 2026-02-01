@@ -1,0 +1,16 @@
+{
+    "name": "HRTS 5005",
+    "dept_code": "HRTS",
+    "id_number": "5005",
+    "title": "Special Topics in Human Rights",
+    "description": "In-depth investigation of an issue in human rights research. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

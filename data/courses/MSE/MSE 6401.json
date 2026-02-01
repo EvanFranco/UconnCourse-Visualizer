@@ -1,0 +1,16 @@
+{
+    "name": "MSE 6401",
+    "dept_code": "MSE",
+    "id_number": "6401",
+    "title": "Graduate Seminars in Materials Science and Engineering",
+    "description": "Presentations by invited guest speakers on topics of current interest in various areas of Materials Science and Engineering. May be repeated for a total of 14 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

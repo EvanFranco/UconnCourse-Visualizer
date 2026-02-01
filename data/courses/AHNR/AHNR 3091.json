@@ -1,0 +1,16 @@
+{
+    "name": "AHNR 3091",
+    "dept_code": "AHNR",
+    "id_number": "3091",
+    "title": "Agriculture and Natural Resources Internship",
+    "description": "Designed to provide students with a meaningful experience in a formalized agricultural or natural resources program under supervised conditions. Each student taking this course must submit a formal written report for evaluation and meet all other course requirements as specified by the instructor. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Junior or senior in the College of Agriculture, Health and Natural Resources.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

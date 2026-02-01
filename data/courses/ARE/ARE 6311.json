@@ -1,0 +1,16 @@
+{
+    "name": "ARE 6311",
+    "dept_code": "ARE",
+    "id_number": "6311",
+    "title": "Applied Econometrics I",
+    "description": "Expose students to techniques in applied economics research. Students will learn models - derivations, assumptions, and issues. The models will be practiced utilizing empirical data and interpreting results in light of economic and econometric theory.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

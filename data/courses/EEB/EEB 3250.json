@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3250",
+    "dept_code": "EEB",
+    "id_number": "3250",
+    "title": "Biology of the Algae",
+    "description": "Laboratory and field-oriented study of major groups of algae, emphasizing structure, function, evolution, systematics, and ecology.",
+    "credits": "4",
+    "requirement_description": "BIOL 1108 or 1110 or instructor consent; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

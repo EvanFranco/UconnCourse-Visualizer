@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 5641",
+    "dept_code": "EPSY",
+    "id_number": "5641",
+    "title": "Causal Inference and Measurement for Data Science",
+    "description": "Principles and practice of causal inference and measurement for data scientists. Topics include: fundamentals of causal inference, establishing causal (rather than correlational) relationships -- via AB tests, controlling for confounders, and the use of panel data -- and the fundamentals of measurement. Validity and reproducibility are themes throughout the course.",
+    "credits": "2",
+    "requirement_description": "Open to students enrolled in the M.S. Data Science program or with instructor consent. Recommended preparation: Knowledge of Introductory inferential and descriptive statistics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

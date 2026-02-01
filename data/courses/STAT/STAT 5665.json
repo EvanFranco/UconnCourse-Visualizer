@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5665",
+    "dept_code": "STAT",
+    "id_number": "5665",
+    "title": "Applied Multivariate Analysis",
+    "description": "Multivariate normal distributions, inference about a mean vector, comparison of several multivariate means, principal components, factor analysis, canonical correlation analysis, discrimination and classification, cluster analysis.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Statistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

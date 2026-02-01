@@ -1,0 +1,18 @@
+{
+    "name": "COMM 3430W",
+    "dept_code": "COMM",
+    "id_number": "3430W",
+    "title": "Science Communication",
+    "description": "The role of communication and media in shaping science and technology in society. Topics include theories and debates in the field, media coverage of science, activism and science campaigns, and using new and social media to communicate science issues.",
+    "credits": "3",
+    "requirement_description": "COMM 1000; ENGL 1007 or 1010 or 1011. Recommended Preparation: COMM 2300 or 2500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

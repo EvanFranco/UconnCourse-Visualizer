@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3637",
+    "dept_code": "MCB",
+    "id_number": "3637",
+    "title": "Practical Methods in Microbial Genomics",
+    "description": "Analysis of microbial genomes, including genome assembly, annotation, and comparison. Students will design and perform computational analyses of public domain genomic data. No previous computational experience is expected.",
+    "credits": "3",
+    "requirement_description": "MCB 2610 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

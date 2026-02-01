@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5625",
+    "dept_code": "MCB",
+    "id_number": "5625",
+    "title": "Horizontal Gene Transfer, From Mechanisms to Outcomes",
+    "description": "How quorum sensing, natural transformation and biofilm formation collectively control and bias horizontal gene transfer (HGT) in prokaryotes. The contribution of HGT to prokaryotic evolution via, for example, adaption to environments, generation of metabolic pathways, and how separate lineages are formed.",
+    "credits": "3",
+    "requirement_description": "Instructor consent; not open to students who have passed MCB 5895 when offered as Horizontal Gene Transfer in Prokaryotes.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

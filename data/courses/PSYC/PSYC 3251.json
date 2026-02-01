@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3251",
+    "dept_code": "PSYC",
+    "id_number": "3251",
+    "title": "Laboratory in Physiological Psychology",
+    "description": "Techniques employed in experimental investigation of the anatomical and physiological bases of behavior.",
+    "credits": "3",
+    "requirement_description": "PSYC 2100Q; PSYC 2200, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

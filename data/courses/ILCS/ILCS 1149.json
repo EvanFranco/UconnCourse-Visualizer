@@ -1,0 +1,23 @@
+{
+    "name": "ILCS 1149",
+    "dept_code": "ILCS",
+    "id_number": "1149",
+    "title": "Cinema and Society in Contemporary Italy",
+    "description": "A critical analysis of contemporary Italian society seen through the media of film and literature.  Taught in English. May not be used to meet the foreign language requirement. Films in Italian with English subtitles. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

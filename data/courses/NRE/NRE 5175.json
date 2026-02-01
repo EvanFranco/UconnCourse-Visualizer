@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5175",
+    "dept_code": "NRE",
+    "id_number": "5175",
+    "title": "Regional Climate Modeling",
+    "description": "How physical processes in climate and environmental systems - such as atmospheric motion, hydrological processes and transport of atmospheric constituents - are represented in numerical models. Topics include classification of numerical models, steps in climate and environmental (mathematical) modeling, conservation theories of mass and energy, mass balance equations, numerical techniques, and initial and boundary conditions.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Undergraduate calculus I and II.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

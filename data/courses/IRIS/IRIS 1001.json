@@ -1,0 +1,16 @@
+{
+    "name": "IRIS 1001",
+    "dept_code": "IRIS",
+    "id_number": "1001",
+    "title": "Elementary Irish I",
+    "description": "Development of ability to communicate in Irish, orally and in writing, to satisfy basic communicative needs within a cultural setting.",
+    "credits": "4",
+    "requirement_description": "May not be taken out of sequence after passing IRIS 1002, 1003, or 1004.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5830",
+    "dept_code": "ENVE",
+    "id_number": "5830",
+    "title": "Groundwater Flow Modeling",
+    "description": "Basics of modeling with Finite Difference and Finite Element Methods. Modeling flow in saturated and unsaturated zones. Model calibration and validation. Parameter estimation. Treatment of  heterogeneity. Basic geostatistics. Modeling surface-groundwater interactions. Application to field sites.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 3420",
+    "dept_code": "GEOG",
+    "id_number": "3420",
+    "title": "Field Methods in Geography",
+    "description": "Overview of field methods for collecting data relevant to physical, human, and technical areas of Geography. Methods include identification of existing data to support field studies, assessment of field sources for commonly used datasets, surveys, geospatial technologies, and integration of these data for further analysis.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: GEOG 2300 and 2500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

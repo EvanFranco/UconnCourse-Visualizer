@@ -1,0 +1,16 @@
+{
+    "name": "ART 4120",
+    "dept_code": "ART",
+    "id_number": "4120",
+    "title": "Publication Design",
+    "description": "Introduction to publication design.",
+    "credits": "3",
+    "requirement_description": "ART 3110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

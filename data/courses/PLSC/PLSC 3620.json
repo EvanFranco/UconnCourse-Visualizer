@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 3620",
+    "dept_code": "PLSC",
+    "id_number": "3620",
+    "title": "Soil Fertility",
+    "description": "Factors governing nutrient uptake by plants, fate of nutrients applied to soils, principles and practices in the manufacture and use of fertilizers for crop production, laboratory and greenhouse studies of soil and plant response to applied nutrients. Formerly offered as SPSS 3620.",
+    "credits": "3",
+    "requirement_description": "PLSC 2120.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

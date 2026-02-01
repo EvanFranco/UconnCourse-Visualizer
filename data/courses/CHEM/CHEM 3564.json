@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3564",
+    "dept_code": "CHEM",
+    "id_number": "3564",
+    "title": "Physical Chemistry II",
+    "description": "A study of kinetics, atomic and molecular theory and spectroscopy.",
+    "credits": "3",
+    "requirement_description": "CHEM 3563 or CHEG 3112; MATH 2410Q or 2420Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

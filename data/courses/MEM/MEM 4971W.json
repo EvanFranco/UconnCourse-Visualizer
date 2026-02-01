@@ -1,0 +1,18 @@
+{
+    "name": "MEM 4971W",
+    "dept_code": "MEM",
+    "id_number": "4971W",
+    "title": "Senior Design Project I",
+    "description": "Part 1 of the capstone design course for the MEM Program. Covers manufacturing and production cases in preparation for the senior design experience. Both written and oral reports are required. Students also complete the first phase of their two-semester engineering design project focused on product/process creation or improvement, including problem definition, background, and a preliminary proposal. The Business and Engineering faculty will be jointly involved.",
+    "credits": "2",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; CE 3110; ME 2232E or 2233; MEM 3221; OPIM 3603 or BADM 3603.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

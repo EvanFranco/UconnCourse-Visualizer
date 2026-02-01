@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 1193",
+    "dept_code": "SPAN",
+    "id_number": "1193",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. Consent of Department Head required, normally before the student's departure. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SPAN 3231",
+    "dept_code": "SPAN",
+    "id_number": "3231",
+    "title": "Great Works of Spanish Literature from its Origins to the Golden Age",
+    "description": "The study of selected poems, plays, fables and novels reflecting the development of Spanish society from feudalism to world empire.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: SPAN 3178 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

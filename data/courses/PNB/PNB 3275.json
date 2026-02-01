@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3275",
+    "dept_code": "PNB",
+    "id_number": "3275",
+    "title": "Biology of Synaptic Transmission",
+    "description": "Various neurotransmitter systems in the brain including anatomy, physiology, cell biology and biochemistry. Neurotransmitters, receptors and transporters at synapses. Synaptic signaling pathways and molecules. Meets during the first nine weeks of the semester.",
+    "credits": "2",
+    "requirement_description": "One 2000-level course in PNB or instructor consent; open to juniors or higher. Not open to students who have taken PNB 3276. Recommended preparation: MCB 2000 or 3010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

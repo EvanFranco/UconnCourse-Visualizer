@@ -1,0 +1,16 @@
+{
+    "name": "EEB 2214",
+    "dept_code": "EEB",
+    "id_number": "2214",
+    "title": "Biology of the Vertebrates",
+    "description": "Evolutionary history and diversity of vertebrates with emphasis on classification, fossil history, feeding, locomotion, physiological ecology, reproduction, defense, and social behavior.",
+    "credits": "3",
+    "requirement_description": "Three credits of introductory Biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

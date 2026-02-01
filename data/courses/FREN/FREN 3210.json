@@ -1,0 +1,18 @@
+{
+    "name": "FREN 3210",
+    "dept_code": "FREN",
+    "id_number": "3210",
+    "title": "French Art and Civilization",
+    "description": "Studies of the arts in the cultural context of French and Francophone civilization, from the Middle Ages to the late nineteenth century. Considerations of social systems, passions, sexuality, relations of power in their manifestations in architecture, painting and sculpture. Some lectures by and discussions with experts from Anthropology, Music, Political Science, History, and Art History. CA 1.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: French 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

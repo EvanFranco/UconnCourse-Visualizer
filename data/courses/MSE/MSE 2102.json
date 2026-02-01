@@ -1,0 +1,16 @@
+{
+    "name": "MSE 2102",
+    "dept_code": "MSE",
+    "id_number": "2102",
+    "title": "Materials Science and Engineering II",
+    "description": "Structures, properties, and processing of ceramics; structure, properties and processing of polymers and composites; electrical, thermal, magnetic and optical properties of solids; and corrosion.",
+    "credits": "3",
+    "requirement_description": "MSE 2001 or 2101. Not open to students who have passed MSE 2002.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

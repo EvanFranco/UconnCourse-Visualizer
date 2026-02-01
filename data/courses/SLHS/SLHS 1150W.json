@@ -1,0 +1,24 @@
+{
+    "name": "SLHS 1150W",
+    "dept_code": "SLHS",
+    "id_number": "1150W",
+    "title": "Introduction to Communication Disorders",
+    "description": "Introduction to normal communicative processes and to disorders of communication. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

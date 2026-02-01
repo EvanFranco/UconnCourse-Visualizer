@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 2111",
+    "dept_code": "CHEG",
+    "id_number": "2111",
+    "title": "Chemical Engineering Thermodynamics I",
+    "description": "First and second law of thermodynamics; thermal and PVT properties of matter; exact differentials and thermodynamic identities; design and analysis of power cycles; analysis of refrigeration and liquefaction processes.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MATH 2110, CHEM 1128, and CHEG 2103, or consent of Chemical Engineering Program Director.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

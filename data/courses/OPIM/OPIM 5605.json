@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5605",
+    "dept_code": "OPIM",
+    "id_number": "5605",
+    "title": "Data Visualization and Communication",
+    "description": "Data visualization is a form of storytelling that provides an effective way to draw conclusions and share insights, allowing people to express big, complex ideas in simple ways. Utilizing state of the art software, the use of parameters, filters, calculated variables, color, space and motion to visually articulate the data are surveyed. Common pitfalls and ethics issues in visualization design are also considered. This interactive course is designed to help students learn the methods, tools, and techniques to best understand and present complex data so that they can persuasively share results and influence decisions.",
+    "credits": "2",
+    "requirement_description": "Open only to M.S. Data Science students; others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5324",
+    "dept_code": "CHEM",
+    "id_number": "5324",
+    "title": "Advanced Inorganic Chemistry I",
+    "description": "Synthetic methods in inorganic chemistry; the application of physical methods to the investigation of inorganic compounds.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

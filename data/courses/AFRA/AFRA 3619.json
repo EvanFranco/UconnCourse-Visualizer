@@ -1,0 +1,23 @@
+{
+    "name": "AFRA 3619",
+    "dept_code": "AFRA",
+    "id_number": "3619",
+    "title": "History of the Caribbean",
+    "description": "(Also offered as HIST\u00a03619, LLAS\u00a03619.) Encounter experience; slavery, antislavery mobilization, and abolitionism; colonialism; citizenship and nation building; race and gender; political cultures and movements; migration/immigration; cultural production; and political economy; topics will be examined from a historical perspective. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

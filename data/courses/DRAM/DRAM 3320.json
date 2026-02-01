@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 3320",
+    "dept_code": "DRAM",
+    "id_number": "3320",
+    "title": "Scenic Painting Techniques",
+    "description": "Students will learn drawing and painting techniques used by scenic artists in the theatre. Students will be required to purchase scenic brushes and other basic tools needed for class.",
+    "credits": "3",
+    "requirement_description": "DRAM 1209. Open to sophomores and above.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

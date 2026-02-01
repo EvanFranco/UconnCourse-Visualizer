@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5804",
+    "dept_code": "EDCI",
+    "id_number": "5804",
+    "title": "Curriculum Planning",
+    "description": "Examines teachers' issues and problems from real-life cases with theoretical perspectives and pedagogical methods.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

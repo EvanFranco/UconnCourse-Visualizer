@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3005",
+    "dept_code": "PHRX",
+    "id_number": "3005",
+    "title": "Introduction to Therapeutics",
+    "description": "Foundational understanding of the main drug classes, including small molecules as well as protein and nucleotide-based therapeutics.",
+    "credits": "3",
+    "requirement_description": "Must have satisfied the Pharmacy Pre-Professional prerequisites for admission to the PharmD program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

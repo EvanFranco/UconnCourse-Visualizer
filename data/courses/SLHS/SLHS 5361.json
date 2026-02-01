@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 5361",
+    "dept_code": "SLHS",
+    "id_number": "5361",
+    "title": "Advanced Speech Science I",
+    "description": "Generation, transmission, detection, and analysis of the speech signal. Special attention is given the myology of speech production and the physiological correlates of the acoustic output. Theoretical models of speech production are examined in light of recent empirical findings. Biomedical and other research techniques are employed in the laboratory setting to investigate the speech communication processes.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

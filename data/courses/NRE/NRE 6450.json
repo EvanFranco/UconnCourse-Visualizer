@@ -1,0 +1,16 @@
+{
+    "name": "NRE 6450",
+    "dept_code": "NRE",
+    "id_number": "6450",
+    "title": "Teaching Practicum",
+    "description": "Doctoral students in the Natural Resources: Land, Water, and Air program take primary teaching responsibility for a course under the supervision of a faculty liaison. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

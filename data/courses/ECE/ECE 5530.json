@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5530",
+    "dept_code": "ECE",
+    "id_number": "5530",
+    "title": "Modeling and Control of Electric Drives",
+    "description": "Several topics related to modeling and control of electric drives. Fundamental equations related to inductance and flux variations in a rotating machine, leading to torque production. Reference frame theory and transformations for modeling purposes. Dynamic models of three-phase induction and permanent-magnet synchronous machines. Basic modeling of power electronic converters for electric drives, with focus on three-phase DC/AC inverters. Various control strategies with focus on vector control and different power electronic switching schemes in electric drives.",
+    "credits": "3",
+    "requirement_description": "ECE 3212.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

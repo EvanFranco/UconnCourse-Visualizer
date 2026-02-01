@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 2400",
+    "dept_code": "PHYS",
+    "id_number": "2400",
+    "title": "Mathematical Methods for the Physical Sciences",
+    "description": "Theoretical mathematical methods required for physical science courses.",
+    "credits": "3",
+    "requirement_description": "PHYS 1230 or PHYS 1402Q or PHYS 1502Q or PHYS 1530 or PHYS 1602Q; and MATH 2110Q; either or both may be taken concurrently; or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ANTH 1000",
+    "dept_code": "ANTH",
+    "id_number": "1000",
+    "title": "Peoples and Cultures of the World",
+    "description": "An introduction to the anthropological understanding of human society through ethnographic case studies of selected peoples and cultures, exploring the richness and variety of human life. Encourages students to learn about different cultures and to apply their knowledge to make sense of their own society. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

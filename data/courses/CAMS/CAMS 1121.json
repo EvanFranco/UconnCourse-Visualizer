@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 1121",
+    "dept_code": "CAMS",
+    "id_number": "1121",
+    "title": "Elementary Latin I",
+    "description": "A study of the essentials of Latin grammar designed to prepare the student to read simple classical Latin prose.",
+    "credits": "4",
+    "requirement_description": "May not be taken out of sequence after passing CAMS 1122, 1123, 1124. May not be taken for credit after passing any 2000-level or above course taught in Latin, or three or more years of high school Latin.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

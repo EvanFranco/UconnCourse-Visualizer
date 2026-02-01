@@ -1,0 +1,16 @@
+{
+    "name": "ME 3285",
+    "dept_code": "ME",
+    "id_number": "3285",
+    "title": "Sustainable Energy Sources and Systems",
+    "description": "Topics include current energy sources and usage, environmental pollution from use of fossil fuels, nuclear energy, biomass energy, geothermal energy resources and usage, hydroelectric, solar, wind and tidal energy conversion principles, hydrogen generation and usage in electrochemical devices, energy economics and effects of energy pricing on economically viable energy options.",
+    "credits": "3",
+    "requirement_description": "ME 2234 and 3250 (which may be taken concurrently).",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

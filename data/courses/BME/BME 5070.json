@@ -1,0 +1,16 @@
+{
+    "name": "BME 5070",
+    "dept_code": "BME",
+    "id_number": "5070",
+    "title": "Clinical Systems Engineering",
+    "description": "Primarily covers medical device connectivity and interoperability. This includes connecting medical devices to the hospital computer network to pass data to the patient medical record or to other medical devices for the purpose of feedback and control. The course will cover basic networking concepts, hospital network architecture, medical systems security and risk management, the role of interconnecting middleware, HL7 and DICOM data standards, moving data on the network, clinical information systems, digital imaging and image storage systems, medical device plug-and-play concepts, and a medical device integration project walkthrough.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 4043",
+    "dept_code": "PHRX",
+    "id_number": "4043",
+    "title": "Endocrine Module",
+    "description": "Principles of pathophysiology, pharmacology, medicinal chemistry, clinical pharmacokinetics and pharmacotherapy (including both prescription and non-prescription medications) as they apply to endocrinologic drug therapy management.",
+    "credits": "3",
+    "requirement_description": "PHRX 4040 and 4041; open only School of Pharmacy students. May not be taken out of sequence after passing PHRX 5052.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

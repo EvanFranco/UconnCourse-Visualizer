@@ -1,0 +1,23 @@
+{
+    "name": "AAAS 2225",
+    "dept_code": "AAAS",
+    "id_number": "2225",
+    "title": "The Pacific in World History",
+    "description": "(Also offered as HIST\u00a02225.) The Pacific Ocean as a lens for thinking about modern history. Topics include the flow of people, ideas, goods, elements of nature (such as whales and bird guano), and technology among the nations and peoples of the Pacific World; and the impact of colonialism, war, decolonization, and the Cold War on the history of the region and the fortunes of indigenous peoples. Sources include scholarly works, government documents, diaries, and literature. Formerly offered as AAAS/HIST 2101. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: HIST 1201 and HIST 2100.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

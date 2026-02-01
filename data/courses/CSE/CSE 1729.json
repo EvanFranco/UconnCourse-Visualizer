@@ -1,0 +1,16 @@
+{
+    "name": "CSE 1729",
+    "dept_code": "CSE",
+    "id_number": "1729",
+    "title": "Introduction to Principles of Programming",
+    "description": "Introduction to computer programming in a structured programming language including fundamental elements of program design and analysis. Data and functional abstraction as tools for constructing correct, efficient, and intelligible programs for a variety of common computing problems.",
+    "credits": "3",
+    "requirement_description": "CSE 1010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

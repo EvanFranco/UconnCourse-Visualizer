@@ -1,0 +1,20 @@
+{
+    "name": "PHIL 1175",
+    "dept_code": "PHIL",
+    "id_number": "1175",
+    "title": "Ethical Issues in Health Care",
+    "description": "Theories of ethics, with specific application to ethical issues in modern health care. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

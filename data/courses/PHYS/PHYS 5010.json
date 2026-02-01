@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 5010",
+    "dept_code": "PHYS",
+    "id_number": "5010",
+    "title": "Independent Study",
+    "description": "A special reading course. May be repeated for a total of 10 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

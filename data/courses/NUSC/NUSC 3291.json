@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 3291",
+    "dept_code": "NUSC",
+    "id_number": "3291",
+    "title": "Nutritional Sciences Internship",
+    "description": "Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for a total of 6 credits.",
+    "credits": "1-3",
+    "requirement_description": "NUSC 1165 and 2200. Open to juniors or higher; open to Nutritional Science majors with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

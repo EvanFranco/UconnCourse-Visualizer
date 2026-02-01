@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 3103",
+    "dept_code": "SPAN",
+    "id_number": "3103",
+    "title": "Spanish for Engineering III",
+    "description": "This course provides dual-degree Engineering and Spanish students more advanced vocabulary, methods, and field-specific knowledge. Students will learn to describe scientific processes, to follow presentations in Spanish, and to do research to create preparation materials for their interviews with engineers. Students will also learn practical job-seeking skills, including the cultural norms for CVs, job letters, and interviews.",
+    "credits": "1",
+    "requirement_description": "SPAN 3101 or instructor consent; open only to dual-degree Spanish and Engineering students. Not open for credit to students who have passed SPAN 3171. Recommended preparation: SPAN 1003 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

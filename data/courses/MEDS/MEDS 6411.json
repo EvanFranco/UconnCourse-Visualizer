@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6411",
+    "dept_code": "MEDS",
+    "id_number": "6411",
+    "title": "Clinical Practicum",
+    "description": "Clinical experience in the major disciplines including: Medicine, Surgery, Obstetrics and Gynecology, Psychiatry, Family Medicine, and Pediatrics. May be repeated for a total of 24 credits.",
+    "credits": "12",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

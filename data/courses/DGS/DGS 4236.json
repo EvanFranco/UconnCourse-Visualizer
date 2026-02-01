@@ -1,0 +1,16 @@
+{
+    "name": "DGS 4236",
+    "dept_code": "DGS",
+    "id_number": "4236",
+    "title": "Case Studies in Molecular Pathology",
+    "description": "Clinical cases in molecular pathology are presented and discussed.",
+    "credits": "1",
+    "requirement_description": "DGS 4235; open to Diagnostic Genetic Science students and Diagnostic Genetic Sciences certificate students in either Cytogenetics or Molecular concentrations.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

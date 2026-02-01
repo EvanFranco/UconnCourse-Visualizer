@@ -1,0 +1,16 @@
+{
+    "name": "ARAB 1004",
+    "dept_code": "ARAB",
+    "id_number": "1004",
+    "title": "Intermediate Arabic II",
+    "description": "Intermediate Modern Standard Arabic. Development of speaking, listening, reading, and writing skills. Taught in Arabic.",
+    "credits": "4",
+    "requirement_description": "ARAB 1003 or instructor consent. May not be taken out of sequence after passing ARAB 3100 or 3212. Not open for credit to students who have passed ARAB 1104.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3894",
+    "dept_code": "EEB",
+    "id_number": "3894",
+    "title": "Undergraduate Seminar",
+    "description": "Content varies with instructor. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

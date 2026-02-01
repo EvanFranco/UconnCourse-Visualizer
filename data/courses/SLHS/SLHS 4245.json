@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 4245",
+    "dept_code": "SLHS",
+    "id_number": "4245",
+    "title": "Neuroscience of Cognitive and Communication Disorders",
+    "description": "Anatomy and physiology of the central nervous system. Brain mechanisms that underlie speech, language, hearing, and cognition. Neurogenic communication disorders.",
+    "credits": "3",
+    "requirement_description": "SLHS 2203 and 2204; open to juniors or higher. May not be taken out of sequence after passing SLHS 4335.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "FREN 1057",
+    "dept_code": "FREN",
+    "id_number": "1057",
+    "title": "Medicine, Disability and Literature",
+    "description": "Introduction to the fields of Medical Humanities and Disability Studies, through a range of texts and visual works from a range of national, cultural, and historical contexts across the French and Francophone world. Awareness of current ethical, social, and conceptual issues related to healthcare and disability and emphasis on cultural competence while also allowing students to demonstrate skills in the critical analysis of texts and visual materials. Topics include the role of narrative structures in shaping public discourse and individual perception on issues of health and disability; perceptions of the lived experience of healthcare and disability, such as the efficiency of doctor/patient communication or the impact of strategies of inclusion; narratives of cultural identity and difference around notions of body normativity or the importance of sociocultural factors for notions of health and disability. Taught in English.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

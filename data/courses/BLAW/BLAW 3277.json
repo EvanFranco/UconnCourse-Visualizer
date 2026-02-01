@@ -1,0 +1,16 @@
+{
+    "name": "BLAW 3277",
+    "dept_code": "BLAW",
+    "id_number": "3277",
+    "title": "Law and Ethics for Professional Accountants",
+    "description": "This course provides an introduction to the legal and professional liability of accountants, ethical reasoning, integrity, and other core values of accounting institutions. Students learn to understand and apply the legal rules governing contract formation, contract performance, breach, bankruptcy, and the Uniform Commercial Code. Students gain experience in legal and ethical decision making in commercial transactions",
+    "credits": "3",
+    "requirement_description": "BLAW 3175 or BADM 3720; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

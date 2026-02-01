@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 2300",
+    "dept_code": "UNIV",
+    "id_number": "2300",
+    "title": "Tutoring Principles for Quantitative Learning",
+    "description": "An interdisciplinary introduction to peer-to-peer tutoring in quantitative courses. Readings on individualized learning assistance and adapting instruction to different learning styles. Training in techniques to guide peers towards becoming independent learners with higher levels of reasoning and assessment of knowledge in quantitative disciplines.  Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory).",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 1800",
+    "dept_code": "UNIV",
+    "id_number": "1800",
+    "title": "FYE University Learning Skills",
+    "description": "An overview of the university experience with a focus on acquiring learning skills and understanding resources available for academic success.",
+    "credits": "1",
+    "requirement_description": "Open to First-Year or Sophomore students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

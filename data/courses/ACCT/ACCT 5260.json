@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5260",
+    "dept_code": "ACCT",
+    "id_number": "5260",
+    "title": "Federal Income Taxation",
+    "description": "A study of the fundamentals of Federal income taxation for individuals and related issues of compliance, reporting, and planning. Focuses on income and deduction recognition, character, and timing and includes the tax treatment of property, investments, compensation, retirement, and estates.",
+    "credits": "3",
+    "requirement_description": "A B- or better in ACCT 2001; ACCT 5121 or equivalent at an accredited U.S. university.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

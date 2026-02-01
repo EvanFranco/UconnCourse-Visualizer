@@ -1,0 +1,22 @@
+{
+    "name": "ENGL 1301",
+    "dept_code": "ENGL",
+    "id_number": "1301",
+    "title": "Major Works of Eastern Literature",
+    "description": "Important works of poetry, drama, and literary prose from the Middle East, South Asia, China, Japan, and Southeast Asia. All works are read in translation. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

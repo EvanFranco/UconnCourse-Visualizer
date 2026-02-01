@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5003",
+    "dept_code": "NURS",
+    "id_number": "5003",
+    "title": "Holistic Nursing Practicum",
+    "description": "Provides students with an opportunity to apply theory from holistic nursing to individuals, families, and community groups in a variety of health care settings. Focus is on relationship-centered holistic care and selected CAM modalities applied across the wellness-illness continuum in collaboration with other members of the health care team. Selected readings, clinical experiences, and practicum project are determined in collaboration with faculty.",
+    "credits": "3",
+    "requirement_description": "NURS 5001 and NURS 5002, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

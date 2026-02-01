@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5555",
+    "dept_code": "ACCT",
+    "id_number": "5555",
+    "title": "Data Analytics: Accounting Applications",
+    "description": "Covers practical issues such as dealing with errors in data and preparing accounting data for analysis. Additional techniques for dealing with data anomalies are explored. This technical, hands-on course prepares students for entry level accounting data analysis.",
+    "credits": "3",
+    "requirement_description": "Department consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 5201",
+    "dept_code": "PHYS",
+    "id_number": "5201",
+    "title": "Theoretical Mechanics I",
+    "description": "Classical mechanics: Lagrange equations, central force motion, rigid body motions, small oscillations, Hamilton equations, canonical transformation.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

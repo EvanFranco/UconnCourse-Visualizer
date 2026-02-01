@@ -1,0 +1,16 @@
+{
+    "name": "BADM 5351",
+    "dept_code": "BADM",
+    "id_number": "5351",
+    "title": "Fund Management II",
+    "description": "Second part of a two-part Fund Management course. In addition to all the activities in the first part during fall, this course focuses on portfolio management, performance evaluation, attribution analysis, development of various trading and risk management strategies, and technical analysis. Students prepare the final annual report for presentation to the UConn Foundation.",
+    "credits": "3",
+    "requirement_description": "FNCE 5101; BADM 5350. Corequisite: FNCE 5202.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

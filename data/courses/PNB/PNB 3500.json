@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3500",
+    "dept_code": "PNB",
+    "id_number": "3500",
+    "title": "Cardiorespiratory Physiology",
+    "description": "Cellular and molecular mechanisms controlling cardiovascular and respiratory function in health and disease.",
+    "credits": "2",
+    "requirement_description": "One 2000 level course in PNB or consent of instructor; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

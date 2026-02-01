@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5512",
+    "dept_code": "GEOG",
+    "id_number": "5512",
+    "title": "Introduction to Spatial Data Science",
+    "description": "Introduction to the fundamentals of spatial data science. Students will also learn how to apply a high-level programming language, R, for spatial data analysis, visualization, and modeling.",
+    "credits": "3",
+    "requirement_description": "GEOG 5500 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 1166",
+    "dept_code": "NUSC",
+    "id_number": "1166",
+    "title": "Honors Colloquium in Nutrition",
+    "description": "Lectures, discussions, and laboratory exercises to complement topics from NUSC\u00a01165.",
+    "credits": "1",
+    "requirement_description": "Concurrent enrollment in NUSC 1165 is required. This course is primarily for, but not restricted to, honors students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

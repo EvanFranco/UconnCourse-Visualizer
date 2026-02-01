@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5512",
+    "dept_code": "OPIM",
+    "id_number": "5512",
+    "title": "Data Science using Python",
+    "description": "Data science concepts using the Python programming language. Data wrangling and management using Pandas; visualization using MatPlotLib; fundamentals of matrix algebra and regression, with illustrations using Numpy; machine learning, focusing on fundamental concepts, classification, and information extraction.",
+    "credits": "3",
+    "requirement_description": "OPIM 5604; MBA, MSBAPM, and MS FinTech students, others with consent. Not open to students who have passed OPIM 5894 when offered as Data Science with Python.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

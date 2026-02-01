@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4040",
+    "dept_code": "DMD",
+    "id_number": "4040",
+    "title": "Agency",
+    "description": "An immersive study of the role, structure, procedures, techniques and processes employed by a Brand Agency within the digital and social media spaces. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open to Digital Media Design majors only, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

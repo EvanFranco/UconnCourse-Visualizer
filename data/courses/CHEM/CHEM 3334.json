@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3334",
+    "dept_code": "CHEM",
+    "id_number": "3334",
+    "title": "Instrumental Analysis I",
+    "description": "Instrumental analytical techniques including molecular spectroscopy, atomic spectroscopy, electrochemistry, separations, and introductory electronics. This course is an extension of the instrumental portion of CHEM\u00a03332.",
+    "credits": "4",
+    "requirement_description": "CHEM 3332. Recommended preparation: CHEM 3564.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

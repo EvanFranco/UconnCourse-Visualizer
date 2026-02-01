@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 3300",
+    "dept_code": "PHYS",
+    "id_number": "3300",
+    "title": "Statistical and Thermal Physics",
+    "description": "The laws of thermodynamics and their microscopic statistical basis; entropy, temperature, Boltzmann factor, chemical potential, Gibbs factor, and the distribution functions.",
+    "credits": "3",
+    "requirement_description": "PHYS 1230 or 1402Q or 1502Q or 1530 or 1602Q; PHYS 2300; MATH 2110Q and 2410Q, or MATH 2130Q and 2420Q. Recommended preparation: PHYS 3201 and 3401.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

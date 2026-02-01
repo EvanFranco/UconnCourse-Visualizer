@@ -1,0 +1,16 @@
+{
+    "name": "BME 3600",
+    "dept_code": "BME",
+    "id_number": "3600",
+    "title": "Biomechanics",
+    "description": "Application of solid mechanics theory to describe and analyze mechanical behaviors of biological tissues. Basic concepts in mechanics of materials, including the essential mathematics, kinematics of deformation and motion, stress, constitutive relations. Biomechanics principles; identifying, formulating and solving problems related to bone, cartilage, tendon, cardiac and vascular tissues. Introduction of experimental methods and computational modeling of biological tissues. A separate laboratory component will introduce students to experimental methods in more detail. Laboratory reports with revisions are required.",
+    "credits": "4",
+    "requirement_description": "CE 2110; open only to Biomedical Engineering majors; others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

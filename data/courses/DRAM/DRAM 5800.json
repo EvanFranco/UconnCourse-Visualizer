@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5800",
+    "dept_code": "DRAM",
+    "id_number": "5800",
+    "title": "Studies in Movement for the Actor",
+    "description": "Topics and skills not normally included in DRAM\u00a05801-5807. Content may include (but is not limited to) stage violence, armed or unarmed combat, gymnastics, and T'ai Chi.  May be repeated with changes in topic. May be repeated for a total of 9 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

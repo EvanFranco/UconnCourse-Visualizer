@@ -1,0 +1,22 @@
+{
+    "name": "LLAS 1570",
+    "dept_code": "LLAS",
+    "id_number": "1570",
+    "title": "Migrant Workers in Connecticut",
+    "description": "(Also offered as HIST\u00a01570.) Interdisciplinary honors course on the life and work experiences of contemporary Latin American and Caribbean migrant workers with focus on Connecticut. Integrated service learning component. Field trips required. CA 1. CA 4.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

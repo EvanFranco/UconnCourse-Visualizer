@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 3820",
+    "dept_code": "UNIV",
+    "id_number": "3820",
+    "title": "Learning Community Advanced Seminar",
+    "description": "A variable topics course designed to help students engage with the advanced academic and enrichment opportunities unique to their learning community. This course is only open to sophomores, juniors, or seniors in learning communities. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "Open to sophomores, juniors, or seniors in learning communities.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

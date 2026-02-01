@@ -1,0 +1,21 @@
+{
+    "name": "MUSI 1115",
+    "dept_code": "MUSI",
+    "id_number": "1115",
+    "title": "Jazz Ensembles",
+    "description": "The preparation, study and performance of large jazz ensemble music, representing a spectrum of styles and periods, as a means to provide understanding of the genre\u2019s historical, social, and cultural contexts. CA 1. May be repeated for a total of 8 credits.",
+    "credits": "1",
+    "requirement_description": "Instructor consent and placement audition required. Recommended preparation: instrumental proficiency.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

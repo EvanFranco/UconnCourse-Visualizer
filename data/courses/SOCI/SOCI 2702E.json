@@ -1,0 +1,23 @@
+{
+    "name": "SOCI 2702E",
+    "dept_code": "SOCI",
+    "id_number": "2702E",
+    "title": "Human Societies and the Living Earth",
+    "description": "An overview of the different relationships between human societies and the living earth - aquatic and terrestrial ecosystems - and their different meanings and perspectives to shed light on this historical moment in human history in terms of climate change, environmental destruction, and species extinction.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

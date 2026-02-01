@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5721",
+    "dept_code": "FNCE",
+    "id_number": "5721",
+    "title": "Blockchain Applications",
+    "description": "This course expands on PKC, data structures, Consensus algorithms, data structures - Merkle trees, Consensus Algorithms. Explores uses of blockchain as a general purpose technology.",
+    "credits": "3",
+    "requirement_description": "FNCE 5711, 5720; and OPIM 5513. Open to MS in FinTech students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

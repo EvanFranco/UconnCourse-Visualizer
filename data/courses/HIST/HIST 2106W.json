@@ -1,0 +1,23 @@
+{
+    "name": "HIST 2106W",
+    "dept_code": "HIST",
+    "id_number": "2106W",
+    "title": "Revolution and Social Change",
+    "description": "An exploration of the mechanisms of revolution and the role that revolution plays in social change and in the creation and maintenance of political institutions in a specific country or region and time period. Specific topics in revolution and social change will vary. CA 1. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

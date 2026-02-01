@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5385",
+    "dept_code": "MEDS",
+    "id_number": "5385",
+    "title": "Molecular Mechanisms of Neurobiological Disorders",
+    "description": "Discussion of current papers relevant to molecular analyses of neurobiological diseases.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

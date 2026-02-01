@@ -1,0 +1,16 @@
+{
+    "name": "FREN 1102",
+    "dept_code": "FREN",
+    "id_number": "1102",
+    "title": "Elementary French II",
+    "description": "Elementary French grammar. Emphasis on speaking, listening, reading, and writing skills. Cultural and social content reinforces the linguistic skills taught in every class.",
+    "credits": "4",
+    "requirement_description": "FREN 1101 or permission of the Language Coordinator. Not open for credit to students who have had three or more years of high school French.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

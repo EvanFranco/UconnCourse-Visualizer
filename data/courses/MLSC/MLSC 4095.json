@@ -1,0 +1,16 @@
+{
+    "name": "MLSC 4095",
+    "dept_code": "MLSC",
+    "id_number": "4095",
+    "title": "Special Topics",
+    "description": "Application of the scientific method of inquiry to plan, implement, evaluate and report a study of a problem in medical technology or investigation of a special topic not covered in undergraduate medical technology courses. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Completion of first-year - sophomore requirements in the Medical Laboratory Sciences Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

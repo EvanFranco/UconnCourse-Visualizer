@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 5003",
+    "dept_code": "SOCI",
+    "id_number": "5003",
+    "title": "Teaching Sociology",
+    "description": "A survey and discussion of the content, viewpoints and methods that can be employed in teaching sociology. Emphasis is on course preparation for new teachers .",
+    "credits": "1-3",
+    "requirement_description": "Open only to graduate students in Sociology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

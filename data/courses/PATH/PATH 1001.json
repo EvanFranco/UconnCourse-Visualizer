@@ -1,0 +1,21 @@
+{
+    "name": "PATH 1001",
+    "dept_code": "PATH",
+    "id_number": "1001",
+    "title": "Diseases, Medicine, and Social Determinants of Health",
+    "description": "Introduction to the biology of disease, with an emphasis on health and medicine. Topics include disease mechanisms, defense responses, and sociological factors influencing disease.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

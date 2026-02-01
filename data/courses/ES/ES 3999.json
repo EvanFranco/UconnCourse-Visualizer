@@ -1,0 +1,16 @@
+{
+    "name": "ES 3999",
+    "dept_code": "ES",
+    "id_number": "3999",
+    "title": "Independent Study",
+    "description": "For thesis preparation or other intensive research project relating to Europe. Requires independent study authorization form. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

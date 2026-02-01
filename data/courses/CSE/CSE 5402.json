@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5402",
+    "dept_code": "CSE",
+    "id_number": "5402",
+    "title": "Network Security",
+    "description": "The principle and practices of how to provide secure communication between computer systems. Includes protection techniques at the physical, network, transport layers, and major approaches in Internet security. How cryptography is applied in network security. Topics include: denial-of-service, DNS, BGP, IPSec, SSL/TLS, Authentication/Kerberos, VPNs, PKI, firewalls, intrusion detection/prevention systems, and wireless security.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the Computer Science and Engineering program, others with permission; department consent required. Recommended preparation: CSE 3300 and 3400. Not open for credit to students who have passed CSE 4402.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

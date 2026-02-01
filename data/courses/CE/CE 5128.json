@@ -1,0 +1,16 @@
+{
+    "name": "CE 5128",
+    "dept_code": "CE",
+    "id_number": "5128",
+    "title": "Elastic Stability",
+    "description": "Buckling of elastic and inelastic columns; lateral buckling of beams; buckling of plates, rings and tubes; stability of frames.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

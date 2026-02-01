@@ -1,0 +1,18 @@
+{
+    "name": "BADM 2220",
+    "dept_code": "BADM",
+    "id_number": "2220",
+    "title": "Navigating the Future of Technology",
+    "description": "(Also offered as OPIM\u00a02220.) Explores the dynamic intersection of business and emerging technologies, preparing students to understand and address the challenges and opportunities of the tech-driven business world. Emphasizes creativity, critical thinking, and collaboration through engaging lectures, discussions, and projects. Students will have a foundational understanding of the impact of technologies like AI, blockchain, and IoT on businesses and society.",
+    "credits": "3",
+    "requirement_description": "Open only to non-business students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

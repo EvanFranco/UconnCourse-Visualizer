@@ -1,0 +1,18 @@
+{
+    "name": "HIST 3556W",
+    "dept_code": "HIST",
+    "id_number": "3556W",
+    "title": "History Workshop: Topics in American Society and Culture",
+    "description": "Techniques of primary historical research based on collaborative research and writing on a topic selected by the instructor. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

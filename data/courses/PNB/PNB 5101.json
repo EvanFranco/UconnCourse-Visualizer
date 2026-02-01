@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5101",
+    "dept_code": "PNB",
+    "id_number": "5101",
+    "title": "Anatomy and Physiology for Intraoperative Neuromonitoring",
+    "description": "Anatomy and physiology of the nervous and musculoskeletal systems.",
+    "credits": "4",
+    "requirement_description": "Recommended preparation: course background in biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

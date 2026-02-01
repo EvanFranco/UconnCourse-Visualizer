@@ -1,0 +1,16 @@
+{
+    "name": "BADM 5181",
+    "dept_code": "BADM",
+    "id_number": "5181",
+    "title": "Spreadsheet Modeling for Business Analysis",
+    "description": "Builds students' abilities for effective quantitative business analysis and communication, using a spreadsheet program such as Excel. Spreadsheet modeling uses such as regression, forecasting, simulation and decision models will be covered, in different functional areas including finance, marketing, operations, and management.",
+    "credits": "1.5",
+    "requirement_description": "Open only to MBA students, others with consent. Not open to students who have passed BLAW 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

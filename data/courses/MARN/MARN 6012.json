@@ -1,0 +1,16 @@
+{
+    "name": "MARN 6012",
+    "dept_code": "MARN",
+    "id_number": "6012",
+    "title": "Marine Genomics",
+    "description": "Concepts and principles of Genomics and other forms of -omics (transcriptomics, proteomics, metabolomics), resources and methods of analyses, and recent advances in biological oceanography and marine biogeochemistry achieved through the -omic approach.",
+    "credits": "3",
+    "requirement_description": "MARN 5010 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

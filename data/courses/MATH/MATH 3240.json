@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3240",
+    "dept_code": "MATH",
+    "id_number": "3240",
+    "title": "Introduction to Number Theory",
+    "description": "Euclid's algorithm, modular arithmetic, Diophantine equations, analogies between integers and polynomials, and quadratic reciprocity, with emphasis on developing both conjectures and their proofs.",
+    "credits": "3",
+    "requirement_description": "A grade of C or better in MATH 2142Q or 2710.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 5895",
+    "dept_code": "MKTG",
+    "id_number": "5895",
+    "title": "Special Topics in Marketing",
+    "description": "Investigation and discussion of special topics in marketing. May be repeated for a total of 9 credits.",
+    "credits": "1-6",
+    "requirement_description": "MKTG 5115, or MKTG 5181 and MKTG 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

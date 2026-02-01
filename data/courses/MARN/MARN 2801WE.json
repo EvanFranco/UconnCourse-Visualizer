@@ -1,0 +1,19 @@
+{
+    "name": "MARN 2801WE",
+    "dept_code": "MARN",
+    "id_number": "2801WE",
+    "title": "Marine Sciences and Society",
+    "description": "Scientific analysis of coastal zone issues and interdisciplinary implications for society, including theories, observations, and models of how humans impact the health and well-being of the natural world and how the natural world impacts the health of humans. Topics incorporate public policies, legal frameworks, and moral and/or ethical dimensions regarding the environment. Written analysis and discussion of primary literature.",
+    "credits": "3",
+    "requirement_description": "MARN 1002E or 1003E; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W",
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

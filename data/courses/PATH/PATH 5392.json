@@ -1,0 +1,16 @@
+{
+    "name": "PATH 5392",
+    "dept_code": "PATH",
+    "id_number": "5392",
+    "title": "Practicum in Veterinary Anatomic Pathology",
+    "description": "Service-based learning of veterinary anatomic pathology through gross and histologic evaluation of necropsy and biopsy case material by direct review with faculty pathologists. May be repeated for a total of 18 credits.",
+    "credits": "3",
+    "requirement_description": "Open only to veterinarians accepted into the residency program in veterinary pathology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

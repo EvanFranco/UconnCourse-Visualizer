@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5312",
+    "dept_code": "CSE",
+    "id_number": "5312",
+    "title": "Architecture of Internet of Things",
+    "description": "(Also offered as SE\u00a05402.) This course is designed to provide students and professional engineers with a thorough understanding of the design, development, validation and evaluation of IoT systems, especially in industrial domains with stringent timing and performance requirements. The student will develop skills in specifying the requirements for the target IoT systems, selecting the appropriate hardware and software platforms, and validating and evaluating the system performance. Special emphasis will be placed on the semester-based industrial projects that will be designed from selected industrial domains to address real-life problems.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the SE (Advanced Systems Engineering), CSE (Computer Science and Engineering), and ECE (Electrical and Computer Engineering) programs, others with consent. Recommended preparation: An undergraduate degree in electrical engineering, computer engineering, or computer science or completed a graduate level course in embedded or network systems.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

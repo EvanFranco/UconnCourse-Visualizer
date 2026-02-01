@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 5194",
+    "dept_code": "EPSY",
+    "id_number": "5194",
+    "title": "Seminar",
+    "description": "Analysis of the issues and research in the field of education. May be repeated for a total of 21 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

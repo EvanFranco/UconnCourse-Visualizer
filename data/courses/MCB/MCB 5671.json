@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5671",
+    "dept_code": "MCB",
+    "id_number": "5671",
+    "title": "Advanced Theory and Practice of Laboratory Techniques in Microbiology",
+    "description": "Advanced training in microbiology related technologies such as next-generation sequencing and other \"omic\" techniques including experimental design, sample preparation, library preparation, quality control, analysis of large data sets and processing of large number of samples will be covered. The course is taught as a series of modules with each focused on a different technique. With change of content, may be repeated for credit. May be repeated for a total of 10 credits.",
+    "credits": "1-2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

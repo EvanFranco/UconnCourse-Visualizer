@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4820",
+    "dept_code": "CSE",
+    "id_number": "4820",
+    "title": "Introduction to Machine Learning",
+    "description": "An introduction to the basic tools and techniques of machine learning, including models for both supervised and unsupervised learning, related optimization techniques, and methods for model validation. Topics include linear and logistic regression, SVM classification and regression, kernels, regularization, clustering, and on-line algorithms for regret minimization.",
+    "credits": "3",
+    "requirement_description": "MATH 2210Q; STAT 3025Q or 3345Q or 3375Q or MATH 3160; open only to students in the School of Engineering and declared Computer Science minors; juniors or higher. Recommended preparation: CSE 3500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

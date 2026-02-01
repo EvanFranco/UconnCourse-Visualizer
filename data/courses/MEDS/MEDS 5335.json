@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5335",
+    "dept_code": "MEDS",
+    "id_number": "5335",
+    "title": "Advanced Molecular and Cellular Immunology I",
+    "description": "Major areas covered include: (1) Development of the immune system with respect to lymphoid organs and lymphocyte subsets; (2) Mechanisms of antigen processing and presentation; (3) Lymphocyte activation including the role of costimulatory molecules and (4) Regulation of the immune response including tolerance induction, cytokine interactions and signal transduction.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

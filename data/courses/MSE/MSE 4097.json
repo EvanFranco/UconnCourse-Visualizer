@@ -1,0 +1,16 @@
+{
+    "name": "MSE 4097",
+    "dept_code": "MSE",
+    "id_number": "4097",
+    "title": "Undergraduate Research in Materials Science and Engineering",
+    "description": "Methods of research and development. Laboratory or computational investigation. Correlation and interpretation of experimental or modelling results. Writing technical reports and presenting conclusions. May be repeated for a total of 3 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

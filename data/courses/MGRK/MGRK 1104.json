@@ -1,0 +1,16 @@
+{
+    "name": "MGRK 1104",
+    "dept_code": "MGRK",
+    "id_number": "1104",
+    "title": "Intermediate Modern Greek II",
+    "description": "Increasing communicative abilities in Modern Greek with stronger emphasis on vocabulary and grammar using examples from media, politics, and culture.",
+    "credits": "4",
+    "requirement_description": "MGRK 1103.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

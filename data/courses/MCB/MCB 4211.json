@@ -1,0 +1,16 @@
+{
+    "name": "MCB 4211",
+    "dept_code": "MCB",
+    "id_number": "4211",
+    "title": "Basic Immunology",
+    "description": "An introduction to the genetic, biochemical, and cellular mechanisms of the immune system. This course will address basic aspects of immune function, and will examine abnormal immune function associated with cancer, autoimmune disease, AIDS, and other immunological abnormalities.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107. Recommended preparation: MCB 2210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

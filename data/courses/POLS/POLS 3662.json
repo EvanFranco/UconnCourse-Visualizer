@@ -1,0 +1,21 @@
+{
+    "name": "POLS 3662",
+    "dept_code": "POLS",
+    "id_number": "3662",
+    "title": "Latino Political Behavior",
+    "description": "(Also offered as LLAS\u00a03270.) Latino politics in the United States. Political histories of four different Latino populations: Mexican, Puerto Rican, Cuban and Central American. Different forms of political expressions, ranging from electoral behavior to political art. CA 4.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

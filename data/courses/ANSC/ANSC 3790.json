@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3790",
+    "dept_code": "ANSC",
+    "id_number": "3790",
+    "title": "Undergraduate Teaching Assistance in Animal Science",
+    "description": "Practical experience gained in teaching methods and materials preparation and assisting student learning through written and verbal communication. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "Instructor consent required. Open only to students with demonstrated competency in target course material.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

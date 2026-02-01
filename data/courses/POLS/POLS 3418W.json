@@ -1,0 +1,18 @@
+{
+    "name": "POLS 3418W",
+    "dept_code": "POLS",
+    "id_number": "3418W",
+    "title": "International Organizations and Law",
+    "description": "The role of intergovernmental and nongovernmental organizations and international law in world affairs with special attention to contemporary issues.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

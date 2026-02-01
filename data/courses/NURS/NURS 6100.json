@@ -1,0 +1,16 @@
+{
+    "name": "NURS 6100",
+    "dept_code": "NURS",
+    "id_number": "6100",
+    "title": "Philosophy of Science in Nursing",
+    "description": "A critical examination of the meanings, methods and logical structure of science. Contemporary and historical views pertaining to the nature of truth, explanation, law, theory, methodology, and innovation will be analyzed and compared. Examples drawn from nursing epistemology as well as that of other disciplines will be utilized to depict the prepositions of modern science.",
+    "credits": "3",
+    "requirement_description": "Open to nursing Ph.D. students; others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

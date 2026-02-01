@@ -1,0 +1,25 @@
+{
+    "name": "ANTH 1001W",
+    "dept_code": "ANTH",
+    "id_number": "1001W",
+    "title": "Anthropology Through Film",
+    "description": "An introduction to cultural anthropology, approached through the medium of ethnographic film. Particular attention is given to how films represent humans' varied beliefs and behavior.  CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

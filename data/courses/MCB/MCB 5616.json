@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5616",
+    "dept_code": "MCB",
+    "id_number": "5616",
+    "title": "Experiments in Bacterial Genetics",
+    "description": "Experiments in bacterial genetics emphasizing genetic manipulations using modern techniques for mutant isolation, DNA characterization and cloning. These include the use of transposons, DNA isolation, restriction analysis, gel electrophoresis, PCR and DNA sequencing. Each student conducts an independent project.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "LLAS 2293",
+    "dept_code": "LLAS",
+    "id_number": "2293",
+    "title": "Foreign Study",
+    "description": "Course work undertaken within approved Education Abroad programs, usually focusing on the history, culture, and society of a particular Latin American or Caribbean country or countries. May be repeated for a total of 12 credits.",
+    "credits": "1-12",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

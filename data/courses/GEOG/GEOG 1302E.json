@@ -1,0 +1,23 @@
+{
+    "name": "GEOG 1302E",
+    "dept_code": "GEOG",
+    "id_number": "1302E",
+    "title": "GIS Modeling of Environmental Change",
+    "description": "An introduction to environmental processes and patterns, especially assessing change in environmental systems using spatial analysis techniques.  Students will map field sites using Global Positioning System technology and aerial photographs, collect field data on various environmental systems, and build and test a Geographical Information System-based environmental model. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

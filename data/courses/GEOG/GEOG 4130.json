@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 4130",
+    "dept_code": "GEOG",
+    "id_number": "4130",
+    "title": "Geographical Analysis of Transportation",
+    "description": "Investigation of the role of transportation in global trade, spatial organization, economic development, and the natural and built environment. Application of GIS to the study of transport systems and modeling.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: GEOG 2100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PLSC 2500E",
+    "dept_code": "PLSC",
+    "id_number": "2500E",
+    "title": "Principles and Concepts of Agroecology",
+    "description": "Application of ecological processes to modern agricultural production practices. Soil quality and maintenance of soil health and productivity. Ecological management of soils, crops, and livestock systems. Sustainability and enhancement of ecological services within agroecosystems. Taught with SAPL\u00a0500. Formerly offered as SPSS 2500E.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: introductory course in plant biology, plant ecology, or environmental science.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

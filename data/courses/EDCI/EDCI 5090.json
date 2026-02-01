@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5090",
+    "dept_code": "EDCI",
+    "id_number": "5090",
+    "title": "TCPCG Directed Student Teaching",
+    "description": "Supervised student teaching in a subject-specific content area.",
+    "credits": "9",
+    "requirement_description": "Open to students in the Teaching Certification Program for College Graduates, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5516",
+    "dept_code": "GEOG",
+    "id_number": "5516",
+    "title": "Fundamentals of Spatial Database Systems",
+    "description": "The theories and principles behind Spatial Database Systems. Students will learn how to design and implement spatial databases.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed GEOG 4516.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "HIST 2104W",
+    "dept_code": "HIST",
+    "id_number": "2104W",
+    "title": "History through Fiction",
+    "description": "What novels and other works of fiction reveal about major historical periods and themes in history. Variable topics. Formerly offered as HIST 3101W. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

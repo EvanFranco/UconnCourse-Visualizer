@@ -1,0 +1,16 @@
+{
+    "name": "HIST 2421",
+    "dept_code": "HIST",
+    "id_number": "2421",
+    "title": "History of Modern England",
+    "description": "Cultural, political, economic, and intellectual development of modern Britain, with special emphasis on changing ideas of national identity.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

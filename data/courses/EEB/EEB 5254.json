@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5254",
+    "dept_code": "EEB",
+    "id_number": "5254",
+    "title": "Mammalogy",
+    "description": "The biology of mammals, including evolutionary history, diversity, behavior, ecology, morphology, and function. Lectures will include demonstration material and instruction in field methods.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

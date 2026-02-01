@@ -1,0 +1,22 @@
+{
+    "name": "CHEM 1122",
+    "dept_code": "CHEM",
+    "id_number": "1122",
+    "title": "Chemical Principles and Applications",
+    "description": "Brief but comprehensive survey of important chemical theories and applications of chemistry. Preparation for one-semester courses in organic chemistry and biochemistry. Atomic structures, chemical bonding, chemical reactions, stoichiometry, states of matter, and theories of solutions. Does not fulfill the two-semester general chemistry requirement for majors in biology, chemistry, pharmacy, physics or agriculture, health and natural resources. Does not satisfy the admission requirements of medical and dental schools. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Not open to students who have passed CHEM 1124. May not be taken out of sequence after passing CHEM 1127Q or 1137Q or 1147Q.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

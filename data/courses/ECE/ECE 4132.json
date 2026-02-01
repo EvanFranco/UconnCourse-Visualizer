@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4132",
+    "dept_code": "ECE",
+    "id_number": "4132",
+    "title": "Image Processing Systems Laboratory",
+    "description": "Laboratory experiments in image processing, imaging systems, data acquisition using detectors, pattern recognition, image restoration, image enhancement, signal processing, frequency plane filters, system performance evaluation, and metrics. Emphasis is on hands-on experiments with image processing systems with interface between image sensors and computer/processors. Applications, implementation and testing of image processing systems.",
+    "credits": "3",
+    "requirement_description": "ECE 4131, which may be taken concurrently (or instructor consent); open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ARAB 3570",
+    "dept_code": "ARAB",
+    "id_number": "3570",
+    "title": "Modern Arabic Literature",
+    "description": "Survey of fundamental texts in modern and contemporary Arabic Literature. Textual criticism in Arabic. Development of advanced oral and written skills in Modern Standard Arabic. Taught in Arabic.",
+    "credits": "3",
+    "requirement_description": "ARAB 3100 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "HIST 4989",
+    "dept_code": "HIST",
+    "id_number": "4989",
+    "title": "Directed Research",
+    "description": "An introduction to research methods and resources in history. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "Open only to senior history majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

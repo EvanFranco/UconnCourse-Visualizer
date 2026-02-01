@@ -1,0 +1,23 @@
+{
+    "name": "PHIL 1109",
+    "dept_code": "PHIL",
+    "id_number": "1109",
+    "title": "Global Existentialism",
+    "description": "An exploration of existential philosophy from a global, multicultural perspective. Focus will be on existentialists from the Global South in conversation with those in the Global North. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

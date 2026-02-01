@@ -1,0 +1,16 @@
+{
+    "name": "MARN 6010",
+    "dept_code": "MARN",
+    "id_number": "6010",
+    "title": "Advanced Biological Oceanography -- Pelagic Processes",
+    "description": "Pelagic communities, ecosystem structure and function, bioenergetic constraints, population dynamics, consequences of global climate and environmental change, and advances in the field driven by technological innovation.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

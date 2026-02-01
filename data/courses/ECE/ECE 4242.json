@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4242",
+    "dept_code": "ECE",
+    "id_number": "4242",
+    "title": "Micro/Opto-electronic Devices and Circuits Fabrication Laboratory",
+    "description": "Semiconductor wafer preparation and characterization including: determination of carrier concentration, mobility, and lifetime; oxidation, diffusion, metallization, mask layouts, and photolithographic techniques as employed in the realization of discrete devices (e.g., bipolar and MOS transistors, solar cells) and integrated circuits; design of basic IC components such as transistors, resistors, and capacitors; monolithic fabrication of simple digital/analog circuits. Design project. Written and oral presentations of laboratory results.",
+    "credits": "3",
+    "requirement_description": "ECE 4211 or 4225; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

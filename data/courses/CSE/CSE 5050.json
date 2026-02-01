@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5050",
+    "dept_code": "CSE",
+    "id_number": "5050",
+    "title": "Algorithms and Complexity",
+    "description": "Design and analysis of efficient computer algorithms. Algorithm design techniques, including divide-and-conquer, depth-first search, and greedy approaches. Worst-case and average-case analysis. Models of computation. NP-complete problems.",
+    "credits": "3",
+    "requirement_description": "Open to grad students in CSE, others with consent. Recommended preparation: Discrete math; fluency in a high-level programming language; data structures, algorithms at the level of CSE 2050. Students cannot receive credit for both CSE 3500 and 5050.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "GERM 2400E",
+    "dept_code": "GERM",
+    "id_number": "2400E",
+    "title": "The Environment in German Culture",
+    "description": "Ecological thinking in German culture from the Greeks (Plato) to the Greens (Amery). The second half of the semester consists of student projects on current environmental policies in the European Union. CA 1.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

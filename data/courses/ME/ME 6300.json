@@ -1,0 +1,16 @@
+{
+    "name": "ME 6300",
+    "dept_code": "ME",
+    "id_number": "6300",
+    "title": "Independent Study in Mechanical Engineering",
+    "description": "Individual exploration of special topics as arranged by student and instructor. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

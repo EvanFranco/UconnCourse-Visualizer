@@ -1,0 +1,20 @@
+{
+    "name": "ENGL 2201",
+    "dept_code": "ENGL",
+    "id_number": "2201",
+    "title": "American Literature to 1880",
+    "description": "American literature from the beginnings: May include such writers as Poe, Emerson, Thoreau, Hawthorne, Melville, Whitman, Douglass, Stowe, Dickinson, Twain, and others. This course is strongly recommended for English majors. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

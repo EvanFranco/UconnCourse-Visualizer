@@ -1,0 +1,19 @@
+{
+    "name": "LAND 3230WE",
+    "dept_code": "LAND",
+    "id_number": "3230WE",
+    "title": "Sustainable Environmental Planning and Landscape Design",
+    "description": "Theories, concepts, and methods for sustainable planning and design of the land to balance and integrate the needs for conservation and development. Literature and case-study based, writing intensive exploration across critical contemporary themes such as climate change, urbanization, health and wellness, and globalization.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W",
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

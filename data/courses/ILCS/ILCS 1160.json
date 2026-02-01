@@ -1,0 +1,23 @@
+{
+    "name": "ILCS 1160",
+    "dept_code": "ILCS",
+    "id_number": "1160",
+    "title": "Culture of Fascist Italy",
+    "description": "The way Italian literary and cinematic culture justified, survived, and fought the terrors of the Fascist totalitarian regime.  Taught in English. May not be used to meet the foreign language requirement. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

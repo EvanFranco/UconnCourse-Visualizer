@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3440",
+    "dept_code": "DMD",
+    "id_number": "3440",
+    "title": "Introduction to Mobile Application Development",
+    "description": "Through lecture and hands on exercises, students will be introduced to the processes, technologies, and environment of mobile applications.",
+    "credits": "3",
+    "requirement_description": "DMD 1060 and 1070; open only to Digital Media and Design majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

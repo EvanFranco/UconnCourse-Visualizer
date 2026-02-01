@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5540",
+    "dept_code": "ECE",
+    "id_number": "5540",
+    "title": "Electrical System Protection and Switchgear",
+    "description": "Methods to sense voltage and current in medium and low voltage applications. Voltage sensing techniques include differential voltage amplifiers, shunt voltage measurement, and potential transformers. Current sensing techniques include current transformers, Rogowski coils, series voltage measurement, and Hall-effect sensors. Solid-state and mechanical relays and timing functions. Fuses and circuit breakers at medium voltage levels with focus on ratings, application-specific selection, and response time. Protection methods, e.g. differential protection, of transformers, generators, and cables with focus on distance relays and specialized devices.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

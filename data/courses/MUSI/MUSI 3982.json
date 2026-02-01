@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3982",
+    "dept_code": "MUSI",
+    "id_number": "3982",
+    "title": "Practicum in Music",
+    "description": "Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for credit.",
+    "credits": "1-15",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5108",
+    "dept_code": "NURS",
+    "id_number": "5108",
+    "title": "Contemporary Foundations of Dementia",
+    "description": "This course will address two common types of dementia (Mild Cognitive Impairment and Alzheimer's Disease) and prepare nurses and other healthcare professionals on essential knowledge to assess, treat and care for patients with these diseases, as well as expand knowledge of the public health crisis dementia is in America.",
+    "credits": "1",
+    "requirement_description": "Bachelors degree in a health profession field. Instructor consent required. NURS 5105, 5106, and 5107 may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

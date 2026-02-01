@@ -1,0 +1,16 @@
+{
+    "name": "GERM 3233",
+    "dept_code": "GERM",
+    "id_number": "3233",
+    "title": "Building Language Skills Through Culture I",
+    "description": "Development of oral and written skills using a content-based methodology and drawing on texts that deal with issues in contemporary culture of German-speaking countries. Emphasis on acquisition of a sophisticated understanding of cultural differences while building vocabulary, improving accuracy, and increasing facility in self-expression and communication.",
+    "credits": "3",
+    "requirement_description": "GERM 1004. Not open to students who have passed GERM 2201, 2202, 2204, or 2205. May not be taken out of sequence after passing GERM 3234.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

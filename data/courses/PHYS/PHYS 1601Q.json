@@ -1,0 +1,24 @@
+{
+    "name": "PHYS 1601Q",
+    "dept_code": "PHYS",
+    "id_number": "1601Q",
+    "title": "Fundamentals of Physics I",
+    "description": "Foundational principles of mechanics: kinematics, forces, energy, momentum, angular momentum, torque, gravitation, waves, harmonic motion and nonlinear dynamics. Basic concepts of calculus are used. Recommended for prospective Physics majors, this course is taught integrating theory, experimental activities, and collaborative problem solving in an active learning setting. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Recommended preparation: MATH 1121Q or 1131Q or 1151Q (1151Q is preferred for physics majors). Not open to students who have passed PHYS 1401Q or 1501Q. May not be taken out of sequence after passing PHYS 1602Q. May be taken for not more than three credits, with instructor's permission, by students who passed PHYS 1201Q.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

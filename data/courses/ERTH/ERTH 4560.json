@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 4560",
+    "dept_code": "ERTH",
+    "id_number": "4560",
+    "title": "Fundamentals of Planetary Science",
+    "description": "(Also offered as PHYS\u00a04130.) Evolution of the solar system, celestial mechanics, tidal friction, internal composition of planets, black-body radiation, planetary atmospheres.",
+    "credits": "3",
+    "requirement_description": "PHYS 1230 or 1402Q or 1502Q or 1530 or 1602Q, any of which may be taken concurrently; MATH 1122 or 1126Q or 1131Q, any of which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

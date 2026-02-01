@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 3618",
+    "dept_code": "ENGL",
+    "id_number": "3618",
+    "title": "Indigenous Horror",
+    "description": "Focused study of Indigenous representation in horror media from pre-contact to the present day. CA 4.",
+    "credits": "3",
+    "requirement_description": "1007 or 1010 or 1011 or 2011. Recommended preparation: ENGL 2210 or ENGL 2608.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

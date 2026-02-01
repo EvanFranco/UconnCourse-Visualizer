@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5323",
+    "dept_code": "CHEG",
+    "id_number": "5323",
+    "title": "Surface Chemistry and Heterogeneous Catalysis",
+    "description": "Quantum Mechanics, Physical Chemistry. Grading Basis: Graded  The course will serve as an in-depth introduction to heterogeneous catalysis from a surface chemistry perspective. The course will cover topics of modern catalysis as well as the fundamental physics, chemistry, and engineering of catalysis and catalytic reactors.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Recommended preparation: CHEM 1128; Math 1132; CHEG 2103 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

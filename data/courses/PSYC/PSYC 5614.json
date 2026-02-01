@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5614",
+    "dept_code": "PSYC",
+    "id_number": "5614",
+    "title": "Personnel Psychology",
+    "description": "Techniques of personnel psychology: recruitment, selection, placement, evaluation, training, development, and related areas.",
+    "credits": "3",
+    "requirement_description": "Open only to doctoral students in Industrial/Organizational Psychology, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

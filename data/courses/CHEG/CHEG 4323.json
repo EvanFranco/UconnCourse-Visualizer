@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4323",
+    "dept_code": "CHEG",
+    "id_number": "4323",
+    "title": "Surface Chemistry and Heterogeneous Catalysis",
+    "description": "An in-depth introduction to heterogeneous catalysis from a surface chemistry perspective. Topics include modern catalysis as well as the fundamental physics, chemistry, and engineering of catalysis and catalytic reactors.",
+    "credits": "3",
+    "requirement_description": "CHEG 3151, CHEG 3220, and CHEG 3240, which may be taken concurrently. Not open for credit to students who have passed CHEG 4995 when offered as \"Surface Chemistry and Catalysis\" or as \"Heterogeneous Catalysis.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

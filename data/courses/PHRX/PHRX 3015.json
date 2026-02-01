@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3015",
+    "dept_code": "PHRX",
+    "id_number": "3015",
+    "title": "Cardiovascular Module",
+    "description": "Develop and demonstrate the breadth of knowledge in the foundational sciences associated with cardiovascular patient care. Apply foundational knowledge in prevention and/or treatment of commonly encountered cardiovascular disease states.",
+    "credits": "3",
+    "requirement_description": "PHRX 3004, PHRX 3005, PHRX 3030.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

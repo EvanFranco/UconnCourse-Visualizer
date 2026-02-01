@@ -1,0 +1,16 @@
+{
+    "name": "GERM 3221",
+    "dept_code": "GERM",
+    "id_number": "3221",
+    "title": "Introduction to the Sciences in German",
+    "description": "A series of lectures and discussion periods about basic concepts in the physical sciences presented in German. Topics will be primarily from the various engineering disciplines, chemistry, physics, and mathematics.",
+    "credits": "1",
+    "requirement_description": "GERM 1004; CHEM 1128Q; PHYS 1502Q or equivalent, all of which may be taken concurrently. May not be taken out of sequence after passing 3222.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

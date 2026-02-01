@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5240",
+    "dept_code": "ENVE",
+    "id_number": "5240",
+    "title": "Biodegradation and Bioremediation",
+    "description": "Biochemical basis of the transformation of key organic and inorganic pollutants; quantitative description of kinetics and thermodynamics of pollutant transformation; impact of physiochemical and ecological factors on biotransformation.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 1010",
+    "dept_code": "ENGL",
+    "id_number": "1010",
+    "title": "Seminar in Academic Writing",
+    "description": "Instruction in academic writing through interdisciplinary reading. Assignments emphasize interpretation, argumentation, and reflection. Revision of formal assignments and instruction on grammar, mechanics and style.",
+    "credits": "4",
+    "requirement_description": "Students placed in ENGL 1004 must pass that class before enrolling in ENGL 1010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

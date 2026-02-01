@@ -1,0 +1,16 @@
+{
+    "name": "JAPN 1102",
+    "dept_code": "JAPN",
+    "id_number": "1102",
+    "title": "Elementary Japanese II",
+    "description": "Further instruction in elementary Japanese emphasizing speaking, understanding, reading and writing skills using a communicative approach involving simple examples from contemporary media and culture.",
+    "credits": "4",
+    "requirement_description": "JAPN 1101 or equivalent. May not be taken out of sequence after passing JAPN 1103 or 1104.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5105",
+    "dept_code": "PSYC",
+    "id_number": "5105",
+    "title": "Foundations of Research in the Psychological Sciences II",
+    "description": "Expands on material covered in PSYC\u00a05104, including the development and application of correlational methods specific to conducting and understanding research in the psychological sciences.",
+    "credits": "3",
+    "requirement_description": "PSYC 5104; open to graduate students in Psychological Sciences, others by consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

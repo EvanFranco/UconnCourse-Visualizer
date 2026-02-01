@@ -1,0 +1,23 @@
+{
+    "name": "TRST 3010",
+    "dept_code": "TRST",
+    "id_number": "3010",
+    "title": "Translating Literature: Practice and Theory",
+    "description": "Introduction to theoretical aspects of literary translation. Translation of a diverse array of literary texts into English. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Working knowledge of a language other than English required.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

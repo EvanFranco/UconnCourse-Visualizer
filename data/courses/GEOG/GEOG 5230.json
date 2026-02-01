@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5230",
+    "dept_code": "GEOG",
+    "id_number": "5230",
+    "title": "Advanced GIS for Remote Sensing for Geoscience Applications",
+    "description": "(Also offered as ERTH\u00a05230.) Research methods for using Geographic Information Systems, remote sensing, and image interpretation to investigate problems in geoscience. Includes research techniques for data acquisition, processing and analysis of Digital Elevation Models and satellite imagery. Geologic materials, processes, landforms and landscapes.",
+    "credits": "3",
+    "requirement_description": "Not open to students who took ERTH 4230.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

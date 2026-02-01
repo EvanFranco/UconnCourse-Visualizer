@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5500",
+    "dept_code": "GRAD",
+    "id_number": "5500",
+    "title": "Post-Baccalaureate Research Training",
+    "description": "A non-credit course associated with supervised research training for post-baccalaureate students who are not registered for any other credit-bearing course and are participating in a sponsored research program. May be repeated. May be repeated for a total of 0 credits.",
+    "credits": "0",
+    "requirement_description": "Completed undergraduate degree and participation in a sponsored program for research experience; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

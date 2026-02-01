@@ -1,0 +1,16 @@
+{
+    "name": "MCB 4416",
+    "dept_code": "MCB",
+    "id_number": "4416",
+    "title": "Forensic Application of DNA Science",
+    "description": "DNA analysis in forensic science, with emphasis on molecular genetic technology in criminal investigations and issues surrounding the use of DNA evidence. Team-taught with forensic practitioners.",
+    "credits": "3",
+    "requirement_description": "MCB 2400 or 2410.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

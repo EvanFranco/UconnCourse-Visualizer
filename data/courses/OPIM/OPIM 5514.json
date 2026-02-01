@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5514",
+    "dept_code": "OPIM",
+    "id_number": "5514",
+    "title": "Mobile Application Development",
+    "description": "The focus of this course is to use cross-platform mobile application development technologies to develop mobile apps for both iOS and Android systems. Students will learn how to plan and create their own mobile apps. Graphical User Interface (GUI) design skills as well as programming logics will be taught and emphasized throughout the course. Upon completion of this course, students should be able to use the programming skills they learn to develop useful and user-friendly mobile apps for both iOS and Android devices.",
+    "credits": "3",
+    "requirement_description": "Open only to MS FinTech students, and others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

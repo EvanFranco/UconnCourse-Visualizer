@@ -1,0 +1,23 @@
+{
+    "name": "SPAN 3250",
+    "dept_code": "SPAN",
+    "id_number": "3250",
+    "title": "Film in Spain and Latin America",
+    "description": "Film language and genre in Spanish and Latin American cinema. Taught in English. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

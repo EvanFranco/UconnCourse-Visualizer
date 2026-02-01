@@ -1,0 +1,18 @@
+{
+    "name": "SPAN 3240W",
+    "dept_code": "SPAN",
+    "id_number": "3240W",
+    "title": "Advanced Spanish Composition",
+    "description": "Treatment of the finer points of Spanish grammar. Exercises in translation and free composition. Stylistic analysis of texts chosen from Spanish or Latin American authors, newspapers, and magazines.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: SPAN 3178.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

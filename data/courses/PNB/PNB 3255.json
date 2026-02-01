@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3255",
+    "dept_code": "PNB",
+    "id_number": "3255",
+    "title": "Human Neuroanatomy",
+    "description": "Anatomy of the human brain and spinal cord; emphasis on the structure and functions of major regions in the central nervous system.",
+    "credits": "2",
+    "requirement_description": "PNB 2264 or 2774; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

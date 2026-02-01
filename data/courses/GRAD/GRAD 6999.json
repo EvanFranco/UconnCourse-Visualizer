@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 6999",
+    "dept_code": "GRAD",
+    "id_number": "6999",
+    "title": "Dissertation Preparation",
+    "description": "A non-credit course to be used by doctoral students who have reached candidacy for the doctoral degree and who are not registered for any other credit-bearing course but are actively working on their dissertations. May be repeated for a total of 0 credits.",
+    "credits": "0",
+    "requirement_description": "Open only to doctoral students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

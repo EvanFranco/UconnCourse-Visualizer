@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5336",
+    "dept_code": "CHEM",
+    "id_number": "5336",
+    "title": "Electroanalytical Chemistry",
+    "description": "A study of the theoretical and practical basis for electroanalytical methods. Topics include voltammetric methods of analysis (including polarography, cyclic voltammetry, rotating disk voltammetry, pulse and square-wave methods, and stripping analysis), coulometric, and chronoamperometric methods. Recent advances using micro- and modified electrodes, thin-layer and flow cells, electrochemical sensors and detectors, and bioelectrochemistry may be included.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

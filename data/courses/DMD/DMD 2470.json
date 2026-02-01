@@ -1,0 +1,16 @@
+{
+    "name": "DMD 2470",
+    "dept_code": "DMD",
+    "id_number": "2470",
+    "title": "User Interface Design",
+    "description": "Interface design fundamentals of websites, mobile applications, and interactive media installations. Students learn aesthetically engaging and usable human-computer interfaces through hands-on course projects, critiques, and discussions.",
+    "credits": "3",
+    "requirement_description": "DMD 1070; open to Digital Media and Design majors only, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

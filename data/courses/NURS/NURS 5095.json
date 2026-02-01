@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5095",
+    "dept_code": "NURS",
+    "id_number": "5095",
+    "title": "Individualized Study",
+    "description": "Description will vary depending on the needs/goals for each occurrence. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

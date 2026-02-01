@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 5700",
+    "dept_code": "PLSC",
+    "id_number": "5700",
+    "title": "Soil Morphology",
+    "description": "Course covers the main components of soil morphology that include horizonation, soil texture, soil color, redoximorphic features, structure and consistence. This includes describing all that can be seen and felt about different soils in the field and learning how to create a standard soil description.",
+    "credits": "3",
+    "requirement_description": "Instructor consent and PLSC 2120, PLSC 2125 or PLSC 1300.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

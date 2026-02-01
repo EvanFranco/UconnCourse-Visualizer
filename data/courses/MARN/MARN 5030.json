@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5030",
+    "dept_code": "MARN",
+    "id_number": "5030",
+    "title": "Chemical Oceanography",
+    "description": "Composition, origin and solution chemistry of seawater and the marine biogeochemical cycles of salts, elements and gases. Distributions and transfer in the marine environment through chemical equilibria, rates, redox, partitioning, ocean circulation, biological cycles and crustal exchanges.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

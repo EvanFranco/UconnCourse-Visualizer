@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6651",
+    "dept_code": "EPSY",
+    "id_number": "6651",
+    "title": "Introduction to Methods for Causal Inference Using Educational Data",
+    "description": "A survey of four main designs for making causal inferences from educational data and the rationales for the use of these designs. The designs considered are: Randomized experiments, regression discontinuity, instrumental variables and non-equivalent control group. The course introduces Campbell's validity framework and applies this framework to the designs considered. Techniques for sample size planning and power analysis are introduced. Other topics covered include: mediation and moderation analysis and the ethics on research on human populations.",
+    "credits": "3",
+    "requirement_description": "EPSY 5605 and 5607.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

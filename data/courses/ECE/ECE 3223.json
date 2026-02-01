@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3223",
+    "dept_code": "ECE",
+    "id_number": "3223",
+    "title": "Optical Engineering",
+    "description": "Principles and techniques of optical engineering, including geometrical optics, optical fibers and systems, sources and detectors, measurements, imaging, lenses, wave optics, polarization, interference, diffraction, optical Fourier transforms, holography, interferometry, integrated optics, frequency conversion, interaction of light and matter.",
+    "credits": "3",
+    "requirement_description": "ECE 3001 or PHYS 3201; open only to students in the School of Engineering. Not open to students who have passed ECE 4231.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

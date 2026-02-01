@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6655",
+    "dept_code": "EPSY",
+    "id_number": "6655",
+    "title": "Advanced Causal Inference with Data",
+    "description": "This course is an exploration of the problems that arise in making inferences about causal effects from non-experimental data and some potential solutions to those problems. Topics covered include: regression approaches to causal inference; paradoxes that arise when interpreting non-experimental data; the \"potential outcomes\" approach to causal inference (often called Rubin's Causal Model); univariate and multivariate matching methods; multivariate distance measures; propensity score estimation methods; using the propensity score to match, subclassify and weight; Instrumental Variables applications of Rubin's Causal Model; Directed Acyclic Graphs.",
+    "credits": "3",
+    "requirement_description": "EPSY 5610 and EPSY 6651.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

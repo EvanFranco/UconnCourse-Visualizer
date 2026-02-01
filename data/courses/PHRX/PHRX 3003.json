@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3003",
+    "dept_code": "PHRX",
+    "id_number": "3003",
+    "title": "Nutrition",
+    "description": "Principles of enteral and parenteral nutrition related to prescription and non-prescription medication effects. Classification of nutrition status, and nutrition assessment . Identification of drug-nutrient deficiencies/interactions and preparation of disease-specific nutritional care plans. Evaluation, resources, and classification of complementary and alternative medicine (CAM).",
+    "credits": "2",
+    "requirement_description": "PHRX 3000, 3002; open only to students in the School of Pharmacy.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

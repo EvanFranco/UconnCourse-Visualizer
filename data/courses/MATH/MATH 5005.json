@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5005",
+    "dept_code": "MATH",
+    "id_number": "5005",
+    "title": "Advanced Content Knowledge for Math Teacher Leadership",
+    "description": "Exploration of some of the major ideas and concepts of the school mathematics curriculum from the advanced perspective of a teacher. Emphasis on mathematical reasoning and deep conceptual understanding. Main focus: Proportional reasoning as it constitutes the backbone structure for higher-level mathematical ideas, and mathematical modeling which provides a solid foundation for learning through meaningful problem solving.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

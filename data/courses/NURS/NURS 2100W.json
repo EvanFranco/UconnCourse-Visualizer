@@ -1,0 +1,22 @@
+{
+    "name": "NURS 2100W",
+    "dept_code": "NURS",
+    "id_number": "2100W",
+    "title": "Fostering a Culture of Health through Health Equity and Interprofessional Collaboration",
+    "description": "An in-depth examination of our nation's quest toward a Culture of Health, with movement toward health equity by reducing disparities and improving social determinants of health for all members of our society. The principles of interprofessional collaborative practice will be applied as a method to strengthen this work with under-represented, diverse, and vulnerable populations, including enhancing cultural continuity for groups from outside the US. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

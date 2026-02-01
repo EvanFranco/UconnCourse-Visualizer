@@ -1,0 +1,20 @@
+{
+    "name": "NURS 2300E",
+    "dept_code": "NURS",
+    "id_number": "2300E",
+    "title": "Body, Mind, Earth: A Holistic Approach to Planetary Health",
+    "description": "The deep and interconnected relationship between planetary health and human well-being, emphasizing a holistic approach that integrates environmental, physical, mental, emotional, and spiritual dimensions of health. Through a blend of scientific inquiry, traditional wisdom, and practical strategies, students examine critical issues such as climate change, pollution, plastics, and sustainable food systems, as well as the emotional and psychological impacts of environmental degradation. Students engage with solutions rooted in holistic health practices, including mindfulness, eco-therapy, and community engagement, gaining insights into how we can nourish both ourselves and the Earth. Participants will be empowered with the knowledge and tools to restore balance, promote sustainability, and advocate for planetary and personal well-being in both their personal and professional lives.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5313",
+    "dept_code": "FNCE",
+    "id_number": "5313",
+    "title": "Introduction to Econometric Analysis for Risk Managers",
+    "description": "The mathematical foundation for modeling financial risk as well as key concepts in algebra, statistics, calculus, time series and econometrics principles with applications to modeling risk management as a dynamic process over time.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

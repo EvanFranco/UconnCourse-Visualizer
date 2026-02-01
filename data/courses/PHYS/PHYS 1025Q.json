@@ -1,0 +1,24 @@
+{
+    "name": "PHYS 1025Q",
+    "dept_code": "PHYS",
+    "id_number": "1025Q",
+    "title": "Introductory Astronomy with Laboratory",
+    "description": "A basic introductory astronomy course including principles of celestial coordinate systems and telescope design; applications of fundamental physical laws to the sun, planets, stars and galaxies; evolution of stars, galaxies and the universe; recent space probe results, modern cosmology, astrobiology. Basic quantitative laboratory techniques relevant to astronomy. Night observing sessions are an integral part of the course. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Not open to students who have passed PHYS 1020.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5615",
+    "dept_code": "NRE",
+    "id_number": "5615",
+    "title": "EnviroAI: Artificial Intelligence Applications in Environmental Management",
+    "description": "Introduces students to the application of artificial intelligence (AI) and machine learning (ML) techniques from the rapidly growing field of AI to address environmental challenges. Through case studies on topics such as earth observation, forest ecosystems, water resources, wildlife and fisheries, and climate resilience, students will gain experience applying AI techniques to real-world environmental data. The course is designed to balance breadth and practice - providing an overview of applications across environmental domains while also offering manageable hands-on experiences that build practical skills without requiring in-depth technical expertise. Students will work with open-source datasets and AI tools, while critically examining the promises and limits of AI in advancing sustainability. Emphasizes both technical literacy and policy relevance, and prepares students to evaluate, design, and responsibly apply AI in environmental management contexts.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

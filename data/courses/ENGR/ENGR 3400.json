@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 3400",
+    "dept_code": "ENGR",
+    "id_number": "3400",
+    "title": "Engineering Data Analysis Techniques",
+    "description": "Introduction to statistics in an engineering context. Core concepts regarding mean, standard deviation, probability density, histograms, cumulative distribution, percentile rank, interquartile range, continuous and discrete distributions (e.g. normal, log normal, exponential, etc.), linear regression, and Bayesian Statistics. Additional topics may be covered based on the engineering discipline of the enrolled students.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 4750",
+    "dept_code": "ERTH",
+    "id_number": "4750",
+    "title": "Machine Learning and Numerical Modeling in Hydrology",
+    "description": "An introduction to process-based modeling techniques for surface and subsurface hydrology with a focus on groundwater flow, stream discharge, and land surface modeling. Students will use modern machine learning methods and neural networks to address current and emerging challenges in hydrology.",
+    "credits": "3",
+    "requirement_description": "Recommended Preparation: Previous course or research experience in hydrology and/or applied statistics, such as ERTH 4150, ERTH 4735, NRE 2215E, NRE 4135, STAT 1000Q, or STAT 1100Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

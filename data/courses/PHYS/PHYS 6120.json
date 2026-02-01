@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 6120",
+    "dept_code": "PHYS",
+    "id_number": "6120",
+    "title": "Molecular Physics",
+    "description": "Heitler-London and molecular orbital theories for diatomic molecules, semi-empirical methods of poly-atomic molecules.",
+    "credits": "3",
+    "requirement_description": "PHYS 6110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

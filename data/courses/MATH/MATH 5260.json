@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5260",
+    "dept_code": "MATH",
+    "id_number": "5260",
+    "title": "Mathematical Logic I",
+    "description": "Predicate calculus, completeness, compactness, Lowenheim-Skolem theorems, formal theories with applications to algebra, Godel's incompleteness theorem. Further topics chosen from: axiomatic set theory, model theory, recursion theory, computational complexity, automata theory and formal languages.",
+    "credits": "3",
+    "requirement_description": "MATH 5210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

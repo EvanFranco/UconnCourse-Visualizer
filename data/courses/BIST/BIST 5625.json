@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5625",
+    "dept_code": "BIST",
+    "id_number": "5625",
+    "title": "Introduction to Biostatistics",
+    "description": "Rates and proportions, sensitivity, specificity, two-way tables, odds ratios, relative risk, ordered and non-ordered classifications, rends, case-control studies, elements of regression including logistic and Poisson, additivity and interaction, combination of studies and meta-analysis.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Biostatistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SE 5502",
+    "dept_code": "SE",
+    "id_number": "5502",
+    "title": "Capstone Projects for Systems Engineering",
+    "description": "This project course is designed to provide students with a thorough understanding of cyber-physical systems modeling and design through a comprehensive capstone project. These projects will be practical and relevant to industry needs. Students submit a Project Proposal before registering for the course, and develop the proposal with feedback from a faculty member. The graduate student is expected to spend the same amount of time for the project course as any other graduate three-credit course in systems engineering.",
+    "credits": "3",
+    "requirement_description": "SE 5001 or 5101 or 5102. Not open for credit to students who have passed SE 5195.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

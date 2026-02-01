@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 5315",
+    "dept_code": "PHIL",
+    "id_number": "5315",
+    "title": "Seminar in Moral Philosophy",
+    "description": "A discussion and analysis of significant problems in ethical theory. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Philosophy, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

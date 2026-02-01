@@ -1,0 +1,16 @@
+{
+    "name": "KINS 5000",
+    "dept_code": "KINS",
+    "id_number": "5000",
+    "title": "Clinical Anatomy for Athletic Trainers",
+    "description": "A cadaver anatomy course focusing on the extremities. Emphasis will be placed on the link between anatomical structure, orthopedic injuries, and clinical practice.",
+    "credits": "4",
+    "requirement_description": "Open only to Athletic Training students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

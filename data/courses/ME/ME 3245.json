@@ -1,0 +1,16 @@
+{
+    "name": "ME 3245",
+    "dept_code": "ME",
+    "id_number": "3245",
+    "title": "Nanoscale Heat Transfer",
+    "description": "Overview of thermal transport and thermophysical properties at nanoscale, and will introduce the elements of quantum mechanics, solid state physics, statistical thermodynamics, and electrodynamics necessary to understand these phenomena.",
+    "credits": "3",
+    "requirement_description": "ME 3242. Not open for credit to students who have passed ME 3295 when offered as \"Nanoscale Heat Transfer.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

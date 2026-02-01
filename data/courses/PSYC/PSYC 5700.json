@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5700",
+    "dept_code": "PSYC",
+    "id_number": "5700",
+    "title": "Proseminar in Social Psychology",
+    "description": "Presentations on current research in all areas of social psychology. May be repeated for a total of 10 credits.",
+    "credits": "1",
+    "requirement_description": "Open to Social Psychology graduate students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2107",
+    "dept_code": "ENGL",
+    "id_number": "2107",
+    "title": "The British Empire, Slavery, and Resistance",
+    "description": "Literature and culture of the British empire from 1600-1830. Focus on conquest, colonization, the institution of slavery, and resistance to empire. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

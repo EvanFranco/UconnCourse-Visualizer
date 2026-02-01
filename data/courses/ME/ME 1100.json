@@ -1,0 +1,16 @@
+{
+    "name": "ME 1100",
+    "dept_code": "ME",
+    "id_number": "1100",
+    "title": "Technical Communication for Engineers",
+    "description": "Focus on both oral and written technical communication skills. Technical written communication topics include resumes, cover letters, business letters, memos, emails, and technical reports. Technical oral communication topics include technical presentations, interpersonal communication in diverse workplaces, and meeting management. Students will learn how to understand and share technical concepts with a diverse audience, with a particular focus on disseminating technical information to a lay audience.",
+    "credits": "3",
+    "requirement_description": "Open only to Mechanical Engineering students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

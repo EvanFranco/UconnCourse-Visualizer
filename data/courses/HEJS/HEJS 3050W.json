@@ -1,0 +1,18 @@
+{
+    "name": "HEJS 3050W",
+    "dept_code": "HEJS",
+    "id_number": "3050W",
+    "title": "Anthropology of Jews and Jewishness",
+    "description": "(Also offered as ANTH\u00a03050W.) Survey of the rich and growing ethnographic literature on Jews and Jewishness around the globe. Course materials include ethnographic texts, music, and videos/films.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: ANTH 1000 or 1006.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

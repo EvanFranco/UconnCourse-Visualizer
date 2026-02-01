@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6372",
+    "dept_code": "MEDS",
+    "id_number": "6372",
+    "title": "The Neurobiology of Glia",
+    "description": "Detailed introduction and advanced, in-depth discussion on specific topics related to the cellular biology and pathobiology of glia. First part of the course will be didactic lectures covering each of the types of glia in the central and peripheral nervous systems. Second part of the course will provide focused paper discussions on the specific roles of glia in particular diseases of the nervous system that may change with time to stay current with recent publications and innovations in the field.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

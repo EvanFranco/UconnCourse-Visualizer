@@ -1,0 +1,16 @@
+{
+    "name": "ME 3220",
+    "dept_code": "ME",
+    "id_number": "3220",
+    "title": "Mechanical Vibrations",
+    "description": "Free and forced vibrations, with damping, of linear systems with one and two degrees of freedom. Transient vibrations. Vibration isolation. Rigid rotor balancing. Elements of Laplace transforms.",
+    "credits": "3",
+    "requirement_description": "ME 3253; MATH 2110Q and 2410Q; CE 2120. May not be taken out of sequence after passing ME 3232.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

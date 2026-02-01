@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 6800",
+    "dept_code": "GEOG",
+    "id_number": "6800",
+    "title": "Practicum in College Teaching in Geography",
+    "description": "Guided development of college-level instruction. Drafting of course objectives, selection of texts, development of course and lecture outlines, selection of grading mechanisms, and incorporating feedback for improvement of instruction. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "Open to graduate students in Geography.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

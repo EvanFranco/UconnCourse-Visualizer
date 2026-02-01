@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 5655",
+    "dept_code": "MKTG",
+    "id_number": "5655",
+    "title": "Pricing and Revenue Management",
+    "description": "This course provides an overview of pricing strategies and tactics to achieve revenue management goals. Students learn how to develop pricing strategies to account for temporal changes in customer demands, differences across customer segments, loyalty programs, product inventory, and price-quality relationships. Students gain experience using analytic tools for revenue management.",
+    "credits": "3",
+    "requirement_description": "MKTG 5115, or MKTG 5181 and MKTG 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

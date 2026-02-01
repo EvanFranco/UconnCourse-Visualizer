@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5825",
+    "dept_code": "STAT",
+    "id_number": "5825",
+    "title": "Applied Time Series",
+    "description": "Introduction to prediction using time-series regression methods with non-seasonal and seasonal data. Smoothing methods for forecasting. Modeling and forecasting using univariate autoregressive moving average models.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Statistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

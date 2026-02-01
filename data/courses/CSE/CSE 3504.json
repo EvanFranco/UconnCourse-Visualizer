@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3504",
+    "dept_code": "CSE",
+    "id_number": "3504",
+    "title": "Probabilistic Performance Analysis of Computer Systems",
+    "description": "Introduction to the probabilistic techniques which can be used to represent random processes in computer systems. Markov processes, generating functions and their application to performance analysis. Models which can be used to describe the probabilistic performance of digital systems.",
+    "credits": "3",
+    "requirement_description": "CSE 2050 or 2100; CSE 2500; STAT 3025Q or 3345Q or 3375Q, or MATH 3160; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

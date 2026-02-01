@@ -1,0 +1,16 @@
+{
+    "name": "LLAS 3293",
+    "dept_code": "LLAS",
+    "id_number": "3293",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. Consent of Director of Latin American and Caribbean Studies required before departure. May count toward the major with consent of advisor. May be repeated for a total of 17 credits.",
+    "credits": "1-17",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

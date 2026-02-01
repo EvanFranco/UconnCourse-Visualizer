@@ -1,0 +1,16 @@
+{
+    "name": "NURS 1130",
+    "dept_code": "NURS",
+    "id_number": "1130",
+    "title": "Health Care Delivery System",
+    "description": "An exploration of the U.S. health care system, including its history and evolution and the challenges associated with balancing the competing interests of different facets of health care quality, i.e., safe, timely, effective, efficient, equitable, and patient-centered.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

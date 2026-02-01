@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3615",
+    "dept_code": "MATH",
+    "id_number": "3615",
+    "title": "Financial Mathematics Problems",
+    "description": "Preparation for the financial mathematics actuarial examination, which tests a student's knowledge of the theory of interest and financial economics at an introductory level.",
+    "credits": "1",
+    "requirement_description": "MATH 2620.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

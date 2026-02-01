@@ -1,0 +1,16 @@
+{
+    "name": "CLCS 3293",
+    "dept_code": "CLCS",
+    "id_number": "3293",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. Consent of department head required, normally to be granted prior to the student's departure. May count toward the major with consent of the advisor. May be repeated for credit.",
+    "credits": "1-15",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 3995",
+    "dept_code": "ENVE",
+    "id_number": "3995",
+    "title": "Special Topics in Environmental Engineering",
+    "description": "Classroom or laboratory course on specific topics as announced. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Prerequisites and recommended preparation vary.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

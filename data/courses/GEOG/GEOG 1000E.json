@@ -1,0 +1,23 @@
+{
+    "name": "GEOG 1000E",
+    "dept_code": "GEOG",
+    "id_number": "1000E",
+    "title": "Introduction to Geography",
+    "description": "Principles, concepts and methods of modern geography are developed both in general form and specific case studies. Examples pertaining to both the human and physical environment will be discusssed. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

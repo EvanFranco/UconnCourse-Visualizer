@@ -1,0 +1,22 @@
+{
+    "name": "AAAS 1000",
+    "dept_code": "AAAS",
+    "id_number": "1000",
+    "title": "Pathways to Asian American Studies",
+    "description": "Keywords, themes, and career paths in Asian American Studies; critical and historical perspective on Asian diasporic peoples in the United States within a global framework. Topics may include popular culture, history, social justice, and activism. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

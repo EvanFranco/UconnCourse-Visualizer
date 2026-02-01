@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5334",
+    "dept_code": "MSE",
+    "id_number": "5334",
+    "title": "Structure of Materials",
+    "description": "Translation symmetry and space lattices, crystallographic computations, point and space groups, reciprocal space treatment of diffraction, and use of the International Tables for Crystallography. Chemical bonding and descriptive crystal chemistry of metals, ceramics and molecular solids.  Structure of amorphous and vitreous materials and introduction to point, line and planar defects. Crystal anisotropy and relations between structure, symmetry and physical properties.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5377",
+    "dept_code": "MEDS",
+    "id_number": "5377",
+    "title": "Neurobiology of Hearing",
+    "description": "Provides in-depth analysis (using the Auditory System as a model system) with application of interdisciplinary approaches of cell and molecular biology, developmental neurobiology, neuroanatomy, neurophysiology/biophysics, neurochemistry, neural modeling, psychophysics, and plasticity, with state-of-the-art methods used in neuroscience research today. The team of faculty members contribute a variety of complementary fields of study.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

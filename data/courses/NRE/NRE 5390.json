@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5390",
+    "dept_code": "NRE",
+    "id_number": "5390",
+    "title": "Advanced Wetland Ecology",
+    "description": "The current state of wetlands research and field methods used to quantify wetland vegetation, hydrology, and soils. Discussions of the primary literature will be complemented by field trips to a variety of wetlands to implement field techniques and explore wetland natural history, classification, biogeochemistry, and responses to anthropogenic stressors.",
+    "credits": "3",
+    "requirement_description": "Instructor consent required. Recommended preparation: prior coursework in ecology and wetland science.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

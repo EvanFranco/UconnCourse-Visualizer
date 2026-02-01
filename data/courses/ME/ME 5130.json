@@ -1,0 +1,16 @@
+{
+    "name": "ME 5130",
+    "dept_code": "ME",
+    "id_number": "5130",
+    "title": "Advanced Heat and Mass Transfer",
+    "description": "Review of thermophysical properties of matter including nanoscale effects. Exact and computational solutions of heat conduction equation. Dimensionless conduction rate approach for steady-state and transient conduction. Species diffusion equations with emphasis on stationary media and partitioning effects. Navier-Stokes equations and exact solutions for special cases. Correlation approach for treatment of single phase laminar, turbulent and two-phase flow. Radiative properties and treatment of surface radiation with spectral and directional effects. Emphasis on multimode heat transfer with applications in manufacturing, nanotechnology, information technology and biotechnology.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

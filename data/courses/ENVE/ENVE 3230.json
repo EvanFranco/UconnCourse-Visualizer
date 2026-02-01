@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 3230",
+    "dept_code": "ENVE",
+    "id_number": "3230",
+    "title": "Air Pollution Control",
+    "description": "Gaseous pollutants and their properties; basic analytical techniques for air pollutants; particulate pollutants and their properties; equipment design for removal of gaseous and particulate materials; economic and environmental impact of air pollutants; federal and state regulations.",
+    "credits": "3",
+    "requirement_description": "ENVE 2310E or CHEG 2103; enrollment in the School of Engineering. Recommended preparation: CHEG 2111 or ME 2233.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

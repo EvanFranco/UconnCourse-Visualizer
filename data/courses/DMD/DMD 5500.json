@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5500",
+    "dept_code": "DMD",
+    "id_number": "5500",
+    "title": "Introduction to Digital Game Design",
+    "description": "Introduction to the principals of video game design and development. Exploration of the history of the industry, investigation of the theory of story, game mechanics and level progression, development of creativity skills that can be applied through an ideation process, and design and develop a 2D video game. Participation is conducted in a game-based environment.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

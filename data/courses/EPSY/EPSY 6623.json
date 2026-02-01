@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6623",
+    "dept_code": "EPSY",
+    "id_number": "6623",
+    "title": "Advanced Program Evaluation",
+    "description": "Graduate seminar on advanced content related to evaluation context, evaluators, methods, and research, with emphasis on conducting evaluations, current trends, and practical applications. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "EPSY 6621; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

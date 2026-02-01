@@ -1,0 +1,21 @@
+{
+    "name": "GERM 2500E",
+    "dept_code": "GERM",
+    "id_number": "2500E",
+    "title": "Intercultural Citizenship: Sustainable Futures through Creative Solutions and Human Rights Advocacy",
+    "description": "This course draws on interdisciplinary intercultural citizenship, creativity, plurilingualism, human rights education, and critical thinking to address environmental sustainability challenges. Throughout the course, students plan an action to address a problem related to environmental sustainability.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI1",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "WGSS 2256",
+    "dept_code": "WGSS",
+    "id_number": "2256",
+    "title": "Latin American and Latinx Feminist Theory and Praxis",
+    "description": "Introduction to the dynamic field of Latin American and Latinx feminist theory and praxis with special emphasis on theoretical, artistic, creative, and activist approaches. Includes creative assignments and curatorial projects.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

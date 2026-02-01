@@ -1,0 +1,24 @@
+{
+    "name": "MUSI 3407W",
+    "dept_code": "MUSI",
+    "id_number": "3407W",
+    "title": "History of Jazz",
+    "description": "Introduction to the historical, cultural, and musical contexts of jazz as an American art form and global practice. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

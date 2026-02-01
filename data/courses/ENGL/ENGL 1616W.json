@@ -1,0 +1,23 @@
+{
+    "name": "ENGL 1616W",
+    "dept_code": "ENGL",
+    "id_number": "1616W",
+    "title": "Major Works of English and American Literature",
+    "description": "Includes important works from the major genres and historical periods since Beowulf. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

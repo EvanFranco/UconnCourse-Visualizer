@@ -1,0 +1,16 @@
+{
+    "name": "SAAG 495",
+    "dept_code": "SAAG",
+    "id_number": "495",
+    "title": "Special Topics",
+    "description": "",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 6201",
+    "dept_code": "ACCT",
+    "id_number": "6201",
+    "title": "Introduction to Accounting Research",
+    "description": "This seminar introduces students to three major elements of accounting research: research validity, with an emphasis on examples in accounting research; paradigms used in accounting research; and basic research design issues and how those issues are illustrated in the accounting literature. Finally, students will be exposed to data sources and analysis with commonly used statistical software. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

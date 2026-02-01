@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6497",
+    "dept_code": "MEDS",
+    "id_number": "6497",
+    "title": "Graduate Seminar",
+    "description": "Reading and discussion of recent research developments in various areas of biomedical science. May be repeated for a total of 24 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

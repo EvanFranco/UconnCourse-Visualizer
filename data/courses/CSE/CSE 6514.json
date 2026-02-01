@@ -1,0 +1,16 @@
+{
+    "name": "CSE 6514",
+    "dept_code": "CSE",
+    "id_number": "6514",
+    "title": "Computational Topology",
+    "description": "Topology has traditionally generalized concepts of real analysis to metric spaces and set axioms. The new field of computational topology has great potential for encompassing abstractions to unify domain-specific techniques now used in computational geometry, geometric modeling, visualization, image processing, engineering analyses and molecular simulation. Includes perspectives from traditional topology and show how these need to be modified for realistic use in modern computing environments. Topics and emphases will vary.",
+    "credits": "3",
+    "requirement_description": "MATH 5310 and 5311; open to graduate students in the CSE program, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

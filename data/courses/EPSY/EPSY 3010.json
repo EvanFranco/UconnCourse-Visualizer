@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 3010",
+    "dept_code": "EPSY",
+    "id_number": "3010",
+    "title": "Educational Psychology",
+    "description": "The psychology of learning and teaching, and the study of the nature and development of children and adolescents.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100 or equivalent",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "SPAN 1010",
+    "dept_code": "SPAN",
+    "id_number": "1010",
+    "title": "Contemporary Spanish Culture and Society through Film",
+    "description": "Critical approaches to Spanish culture and society from the early 20th century to the present as portrayed in Spanish film. Introduction to filmic textual analysis and film history. Discussion of topics such as the avant-garde, social art, revolutionary movements, civil war, exile, Francoism, democratic transition, peripheral nationalisms, immigration, cultural diversity, postmodernity, globalization. Taught in English; Spanish not required; does not fulfill foreign language requirement. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

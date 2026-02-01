@@ -1,0 +1,16 @@
+{
+    "name": "SAPL 300",
+    "dept_code": "SAPL",
+    "id_number": "300",
+    "title": "Introduction to Soil Science",
+    "description": "Physical and chemical properties of soils; nature and use of fertilizer and lime materials; management of soils for crop production including soil testing, tillage and fertilization practices, and conservation practices.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing SAPL 315.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

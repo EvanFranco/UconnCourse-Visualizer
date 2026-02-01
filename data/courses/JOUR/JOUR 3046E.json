@@ -1,0 +1,20 @@
+{
+    "name": "JOUR 3046E",
+    "dept_code": "JOUR",
+    "id_number": "3046E",
+    "title": "Environmental Journalism",
+    "description": "Explores specialized coverage of environmental issues by journalists, emphasizing news reporting with the opportunity to produce print, visual and multimedia news reports.",
+    "credits": "3",
+    "requirement_description": "JOUR 2000W or consent of the instructor. Open to Juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ME 5311",
+    "dept_code": "ME",
+    "id_number": "5311",
+    "title": "Computational Fluid Dynamics",
+    "description": "An introduction to the fundamentals of computational fluid dynamics (CFD) including thermal transport. Introduces the main computational techniques and methods and analyze their properties. Strong emphasis will be given to the implementation and application of computational techniques and methods. The course is not training on how to use commercial CFD software, and we do not use or discuss such software in the class. The course serves the needs of students that conduct CFD-related research or students who want to develop an in-depth understanding of the subject to critically assess the results CFD software.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SAPL 110",
+    "dept_code": "SAPL",
+    "id_number": "110",
+    "title": "Turfgrass Management",
+    "description": "An overview of turfgrass adaptation, selection, and management. Topics include turfgrass growth, physiology, soil interactions, establishment, and maintenance. Cultural system practices for lawns, golf courses, athletic fields, and other turf areas. Turfgrass pest management practices for weeds, insects and diseases.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing SAPL 315.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5035",
+    "dept_code": "NURS",
+    "id_number": "5035",
+    "title": "Evidence-based Practice to Advance Clinical Scholarship",
+    "description": "The focus of this course includes use of evidence-based practice (EBP) processes for individual patient management aligned with advanced nursing practice expectations and Standard of Care. Emphasis is on clinical problem identification, accessing, analyzing, and applying primary and select secondary source literature and clinical practice guideline findings to facilitate quality, safe, and individual patient care management.",
+    "credits": "3",
+    "requirement_description": "Prerequisite or corequisite: NURS 5020 and 5030.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

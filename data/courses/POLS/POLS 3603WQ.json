@@ -1,0 +1,24 @@
+{
+    "name": "POLS 3603WQ",
+    "dept_code": "POLS",
+    "id_number": "3603WQ",
+    "title": "Congressional Apportionment and Redistricting",
+    "description": "Empirical analyses and reporting of research on these fundamental democratic processes. CA 2.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: POLS 1602; POLS 2072Q or STAT 1000Q or STAT 1100Q.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "Q",
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

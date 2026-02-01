@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5201",
+    "dept_code": "MARN",
+    "id_number": "5201",
+    "title": "Oceanographic Expedition",
+    "description": "Development of skills with modern and traditional methods used in making physical, chemical, biological and geological observations at sea from the R.V. Connecticut. Students should be prepared for a three-day or longer expedition. Instrumentation, methods, data analysis and synthesis will be conducted in pre- and post-cruise seminars. May be repeated to a maximum of six credits with a change of topic. May be repeated for a total of 8 credits.",
+    "credits": "4",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

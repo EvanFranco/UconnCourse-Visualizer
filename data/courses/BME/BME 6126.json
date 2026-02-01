@@ -1,0 +1,16 @@
+{
+    "name": "BME 6126",
+    "dept_code": "BME",
+    "id_number": "6126",
+    "title": "Fundamentals of Optical Imaging",
+    "description": "(Also offered as ECE\u00a06126.) Learning optical imaging fundamentals. Topics include: review of two-dimensional linear system theory; scalar diffraction theory, wave optics, Fresnel and Fraunhofer diffraction; imaging properties of lenses; image formation; optical resolution in imaging, frequency analysis of optical imaging systems; imaging with coherent and incoherent sources, coherent transfer function; optical transfer function, point spread function, fundamentals of microscopy, two-dimensional spatial filtering; coherent optical information processing; frequency-domain spatial filter synthesis; holography.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

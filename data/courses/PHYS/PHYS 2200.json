@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 2200",
+    "dept_code": "PHYS",
+    "id_number": "2200",
+    "title": "Computational Physics",
+    "description": "A basic introduction to numerical and mathematical methods required for the solution of physics problems using currently available scientific software for computation and graphics.",
+    "credits": "3",
+    "requirement_description": "PHYS 1230 or 1402Q or 1502Q or 1530 or 1602Q, any of which may be taken concurrently; MATH 2410Q, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

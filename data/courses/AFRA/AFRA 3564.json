@@ -1,0 +1,22 @@
+{
+    "name": "AFRA 3564",
+    "dept_code": "AFRA",
+    "id_number": "3564",
+    "title": "African American History Since 1865",
+    "description": "(Also offered as HIST\u00a03564.) History of African American people since the Civil war. Contributions by black people to American development. African American activity in international arenas.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

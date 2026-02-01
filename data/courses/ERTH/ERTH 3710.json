@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 3710",
+    "dept_code": "ERTH",
+    "id_number": "3710",
+    "title": "Engineering and Environmental Geology",
+    "description": "(Also offered as CE\u00a03530, ENVE\u00a03530.) Application of geological principles to engineering and environmental problems. Topics include site investigation, geologic hazards, slope processes, earthquakes, subsidence, and the engineering properties of geologic materials. Course intended for both geoscience and engineering majors.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ERTH 1050 or 1051.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

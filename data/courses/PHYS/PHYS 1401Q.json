@@ -1,0 +1,24 @@
+{
+    "name": "PHYS 1401Q",
+    "dept_code": "PHYS",
+    "id_number": "1401Q",
+    "title": "General Physics with Calculus I",
+    "description": "Quantitative study of the basic facts and principles of physics with an emphasis on mechanical phenomena. Concepts such as work, mechanical energy, linear and angular momentum, and energy conservation are explained. The laboratory offers fundamental training in physical measurements. Recommended for non-engineering students who desire to have a calculus-based physics sequence. It is also recommended for science majors for whom a one year introductory physics course is adequate. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Recommended preparation: MATH 1121Q or 1131Q. Not open for credit to students who have passed PHYS 1501Q or 1601Q. May not be taken out of sequence after passing PHYS 1402Q. May be taken for not more than two credits, with the permission of the instructor, after passing PHYS 1201Q.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

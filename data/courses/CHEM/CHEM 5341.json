@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5341",
+    "dept_code": "CHEM",
+    "id_number": "5341",
+    "title": "Advanced Organic Chemistry",
+    "description": "Review of the fundamentals of bonding, stereochemistry and conformations and basic reactions from undergraduate organic chemistry. These fundamental principles will then be elaborated to include more advanced concepts of reactions and reactivity.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

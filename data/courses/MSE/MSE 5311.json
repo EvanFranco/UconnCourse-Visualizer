@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5311",
+    "dept_code": "MSE",
+    "id_number": "5311",
+    "title": "Mechanical Properties of Materials",
+    "description": "Mechanics of deformation and fracture; dislocation theory; strength of ductile and brittle materials; toughness; strengthening mechanisms; toughening mechanisms; creep mechanisms; fatigue crack initiation and propagation; reliability and lifetime prediction.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

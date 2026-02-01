@@ -1,0 +1,18 @@
+{
+    "name": "ARTH 3020W",
+    "dept_code": "ARTH",
+    "id_number": "3020W",
+    "title": "Asian American Art and Visual Culture",
+    "description": "Topics in contemporary Asian American art and visual culture, 1960's to present. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to Art History and Art majors, others with consent of instructor; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

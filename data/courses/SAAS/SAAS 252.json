@@ -1,0 +1,16 @@
+{
+    "name": "SAAS 252",
+    "dept_code": "SAAS",
+    "id_number": "252",
+    "title": "Management of the Horse Breeding Farm",
+    "description": "Designed to develop technical and managerial skills necessary for operating horse farms. Programs for herd health, hoof care, nutrition, breeding, foaling and record keeping will be included.",
+    "credits": "3",
+    "requirement_description": "SAAS 251.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

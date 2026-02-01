@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6444",
+    "dept_code": "MEDS",
+    "id_number": "6444",
+    "title": "Medical Microbiology",
+    "description": "Provides first and second year graduate students with a broad understanding of the molecular and medical aspects viruses and bacteria.  For viruses, topics include entry, genome replication and gene expression, assembly, viral transformation, pathogenesis, host immune responses, clinical presentations viral immunology, treatment principles including vaccines and antiviral therapeutics, and emerging and re-emerging viruses that threaten human health. For bacteria, topics include development and differentiation, bacterial genetics and genomics, bacterial cell cycle (DNA replication, chromosome segregation and cell division), cell-cell communication, pathogenesis, host immune responses, clinical presentations and treatment principles. The course will include lecture, discussion of primary literature and student presentations.  Grading will be based on class participation, student presentation and a short paper.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

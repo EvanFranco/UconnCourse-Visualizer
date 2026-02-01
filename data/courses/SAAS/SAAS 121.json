@@ -1,0 +1,16 @@
+{
+    "name": "SAAS 121",
+    "dept_code": "SAAS",
+    "id_number": "121",
+    "title": "Animal Breeding and Genetics",
+    "description": "The principles of genetics, chemistry of nucleic acids, replication, transcription, translation and regulation of genes, population and quantitative genetics, and modern molecular genetics approaches as tools for breeding, and improving livestock production.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

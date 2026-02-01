@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3750",
+    "dept_code": "DMD",
+    "id_number": "3750",
+    "title": "Digital Media and Technology Ethics",
+    "description": "Explores the intersection of ethics, technology, and humanity in order to equip students with the critical thinking skills necessary to navigate the digital landscape.",
+    "credits": "3",
+    "requirement_description": "DMD 2700; open to Digital Media and Design majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

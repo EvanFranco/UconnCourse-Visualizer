@@ -1,0 +1,16 @@
+{
+    "name": "CE 3193",
+    "dept_code": "CE",
+    "id_number": "3193",
+    "title": "International Study",
+    "description": "Special advanced civil engineering topics taken in an international study program. May be repeated for a total of 12 credits.",
+    "credits": "1-6",
+    "requirement_description": "Consent of Department Head or Designee required, normally to be granted prior to the student's departure. May count toward the major with consent of the advisor and approved plan of study.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

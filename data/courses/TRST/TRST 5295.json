@@ -1,0 +1,16 @@
+{
+    "name": "TRST 5295",
+    "dept_code": "TRST",
+    "id_number": "5295",
+    "title": "Special Topics",
+    "description": "With a change in topic, may be repeated for a maximum of six credits. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

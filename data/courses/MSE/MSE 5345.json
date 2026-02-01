@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5345",
+    "dept_code": "MSE",
+    "id_number": "5345",
+    "title": "Degradation Mechanisms in High Temperature Materials",
+    "description": "A large number of conventional commercial alloys of common industrial interest remain prone to degradation due to corrosion and oxidation during exposure to high temperatures. While the bulk metal degradation, corrosion rates and type of corrosion products vary widely from alloy to alloy, a number of alloy formulations offer corrosion protection by forming slow growing, dense and adherent oxides. Oxidation of binary alloys will be studied with emphasis on internal and external oxidation and transition from internal oxidation to external oxidation. Oxide chemistry, morphology and metal loss of select Fe and Ni base alloys (chromia and alumina forming stainless steels and super alloys) will be analyzed and accelerated corrosion due to carburization, sulfidation, and oxide evaporation will be discussed. Melt assisted hot corrosion of super alloys will be examined. Approaches for corrosion protection (coatings) will be presented.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Recommended preparation: MSE 5334.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

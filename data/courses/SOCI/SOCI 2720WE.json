@@ -1,0 +1,19 @@
+{
+    "name": "SOCI 2720WE",
+    "dept_code": "SOCI",
+    "id_number": "2720WE",
+    "title": "Environmental Racism, Colonialism and Justice",
+    "description": "Examination of environmental racism and colonialism alongside movements toward liberation and justice; emphasis on environmental justice as theory, practice, narratives, and collective actions.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W",
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

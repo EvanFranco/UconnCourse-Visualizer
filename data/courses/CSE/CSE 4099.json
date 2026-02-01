@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4099",
+    "dept_code": "CSE",
+    "id_number": "4099",
+    "title": "Independent Study in Computer Science and Engineering",
+    "description": "Exposes the student to management principles and practices and the knowledge and skills necessary to develop an education project and to perform a research project. May be repeated for credit.",
+    "credits": "1-4",
+    "requirement_description": "Consent of instructor and department head required; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "KINS 6525",
+    "dept_code": "KINS",
+    "id_number": "6525",
+    "title": "Applied Muscle Physiology",
+    "description": "This course explores the structural, functional, metabolic, and physiological properties of muscle, with a focus on its force production. Muscle structure and function will be studied at multiple levels, including molecular, protein, single fiber, and whole tissue. Topics will include muscle fatigue, exercise training, muscle injury, inactivity, aging, and cardiovascular diseases. The course will emphasize molecular signaling, skeletal muscle, and neural innervation, covering muscle morphology, cross-bridge theory, actin-myosin interaction, and both in vitro and in vivo muscle function. Course material will be drawn from textbooks, scientific literature, and real-world problems based on current research. This class integrates a cellular and molecular approach to muscle physiology, especially in response to exercise, disuse atrophy, and disease states. Although the emphasis is on skeletal muscle, the course will also introduce basic aspects of neuronal function and its adaptations.",
+    "credits": "3",
+    "requirement_description": "Departmental consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

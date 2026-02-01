@@ -1,0 +1,23 @@
+{
+    "name": "DRAM 1501",
+    "dept_code": "DRAM",
+    "id_number": "1501",
+    "title": "Introduction to World Puppetry",
+    "description": "Introduction to the global culture of puppetry, from Punch and Judy and Javanese shadow theater to robots, sports mascots, and Burning Man. Puppet performances in terms of their combination of visual art, performance, text, and music; social, political, and religious contexts of puppet performances. CA 1.CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

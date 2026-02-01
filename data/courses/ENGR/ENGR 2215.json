@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 2215",
+    "dept_code": "ENGR",
+    "id_number": "2215",
+    "title": "Principles of Manufacturing Engineering",
+    "description": "Introduction to engineering aspects of modern manufacturing processes and systems with a focus on commercial-scale conversion of materials into components and components into products. Casting; forming and shaping; cutting and machining; joining; surface engineering; optical materials engineering; additive manufacturing; computer-integrated manufacturing; automation; and special manufacturing processes such as chemical and biological systems. Includes case studies.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

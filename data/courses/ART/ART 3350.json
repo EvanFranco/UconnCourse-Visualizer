@@ -1,0 +1,16 @@
+{
+    "name": "ART 3350",
+    "dept_code": "ART",
+    "id_number": "3350",
+    "title": "Aqua Media I",
+    "description": "Introduction to the materials and methods of painting in aqua media.",
+    "credits": "3",
+    "requirement_description": "ART 1030.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

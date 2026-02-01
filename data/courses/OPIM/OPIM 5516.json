@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5516",
+    "dept_code": "OPIM",
+    "id_number": "5516",
+    "title": "Advanced Deep Learning",
+    "description": "This course covers advanced AI models, including Bayesian Neural Networks, Graph Neural Networks, and Transformers. Students will gain hands-on experience implementing and evaluating these models using PyTorch, Keras and other software, with a focus on uncertainty quantification and explainable AI. Practical applications include tabular, time-series, and image data.",
+    "credits": "3",
+    "requirement_description": "OPIM 5604 and OPIM 5509; open only to MBA, MSBAPM, and MS FinTech students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

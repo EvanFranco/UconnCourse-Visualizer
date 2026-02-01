@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 4895",
+    "dept_code": "OPIM",
+    "id_number": "4895",
+    "title": "Special Topics",
+    "description": "Classroom course in special topics in operations management, operations research and information management as announced in advance for each semester. With a change in content, may be repeated for credit. May be repeated for credit.",
+    "credits": "1-3",
+    "requirement_description": "OPIM 3103 and others as announced separately for each offering; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

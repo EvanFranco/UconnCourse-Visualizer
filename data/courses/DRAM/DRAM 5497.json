@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5497",
+    "dept_code": "DRAM",
+    "id_number": "5497",
+    "title": "Special Topics in Costume Design",
+    "description": "A reading course under the direction of an appropriate staff member. May be repeated for a total of 6 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

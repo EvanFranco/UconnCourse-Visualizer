@@ -1,0 +1,16 @@
+{
+    "name": "MSE 4003",
+    "dept_code": "MSE",
+    "id_number": "4003",
+    "title": "Materials Characterization",
+    "description": "Principles and experimental methods of optical, electron, and x-ray examination of engineering materials. Emphasis on use of x-ray analysis, with introduction to electron microscopy, Auger spectroscopy, scanning electron microscopy, and microanalysis.",
+    "credits": "3",
+    "requirement_description": "MSE 2001 or 2101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

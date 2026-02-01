@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5327",
+    "dept_code": "CHEM",
+    "id_number": "5327",
+    "title": "Advanced Inorganic Chemistry IV",
+    "description": "Transition metal chemistry; organometallic and coordination compounds of the transition elements, including the lanthanides and actinides; selected topics in bioinorganic chemistry.",
+    "credits": "3",
+    "requirement_description": "CHEM 5326.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

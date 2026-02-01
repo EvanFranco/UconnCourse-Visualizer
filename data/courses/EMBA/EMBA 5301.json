@@ -1,0 +1,16 @@
+{
+    "name": "EMBA 5301",
+    "dept_code": "EMBA",
+    "id_number": "5301",
+    "title": "Using Statistics in Business",
+    "description": "Aims to improve the student's sophistication at interpreting data and their ability to use data as evidence in support of strategic decisions. Students will learn to ask probing questions about the specifics of data and statistical techniques, to understand the conditions for drawing reliable inferences, to assess the validity of statistical evidence, to master fundamental quantitative computations, and to draw logical data-driven conclusions.",
+    "credits": "1.5",
+    "requirement_description": "Open only to Executive MBA students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

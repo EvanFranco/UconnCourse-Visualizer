@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 2701",
+    "dept_code": "DRAM",
+    "id_number": "2701",
+    "title": "Acting III",
+    "description": "The study and practice of techniques for realism and naturalism typically used in performing works by the modern realists.",
+    "credits": "3",
+    "requirement_description": "DRAM 1702.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

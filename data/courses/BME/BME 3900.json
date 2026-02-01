@@ -1,0 +1,16 @@
+{
+    "name": "BME 3900",
+    "dept_code": "BME",
+    "id_number": "3900",
+    "title": "Junior Design",
+    "description": "Students work through a structured process that emulates an open-ended, real-world design of a biomedical engineering product. Project definition and product specifications, project scheduling and management, team interactions, failure and safety criteria, progress reporting, marketing concepts, ethical issues, prototype development, proper documentation and technical presentation of the final project outcomes. Includes a significant writing component, makes use of computers and design software, and involves hands-on design explorations. Students will complete a semester-long design project that demonstrates the skills and knowledge learned during the course in preparation for the capstone design experience.",
+    "credits": "3",
+    "requirement_description": "CE 2110, ECE 2001, and MSE 2101; open only to Biomedical Engineering majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

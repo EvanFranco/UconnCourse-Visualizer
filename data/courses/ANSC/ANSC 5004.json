@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 5004",
+    "dept_code": "ANSC",
+    "id_number": "5004",
+    "title": "Introduction to Data Analysis in Agriculture",
+    "description": "Concepts of data analysis applied to agriculture. Introduction to R/Rstudio and basic elements of coding, data management, data cleaning, graphics, and statistical analysis. The course covers software installation, basic and intermediate usage, and some of the common data analysis tools used in agricultural research. Additionally, the course covers some basic examples of bioinformatics that are commonly used in agriculture. Course includes recorded lectures, notes, homework, two small data analysis projects, and a capstone data analysis project.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

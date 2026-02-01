@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 3193",
+    "dept_code": "ENGR",
+    "id_number": "3193",
+    "title": "Foreign Study",
+    "description": "Special engineering topics taken in a foreign study program. May count toward major with consent of advisor and approved plan of study. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

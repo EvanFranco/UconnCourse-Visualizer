@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4830",
+    "dept_code": "CSE",
+    "id_number": "4830",
+    "title": "Computer Vision and Machine Learning for Image Analysis",
+    "description": "Computer vision, image processing, machine learning and deep learning techniques and their application to digital photography and medical image analysis.  Students will gain theoretical and practical skills in 2D and 3D image classification, segmentation, reconstruction and registration using computer vision and machine learning.",
+    "credits": "3",
+    "requirement_description": "MATH 2210Q; STAT 3025Q or STAT 3345Q or STAT 3375Q or MATH 3160; open only to students in the College of Engineering and declared Computer Science minors; juniors or higher. Recommended preparation: CSE 3500 and CSE 4820.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

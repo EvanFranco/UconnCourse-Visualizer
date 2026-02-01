@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 3202",
+    "dept_code": "PHIL",
+    "id_number": "3202",
+    "title": "Data Ethics",
+    "description": "Ethical and epistemological questions encountered in collecting, interpreting, inferring from and acting upon data\u2014including when these activities are automated or carried out on large observational data sets. Issues may include data privacy and ownership; informed consent; algorithmic bias, equity, and transparency; the theory-ladenness of data; the logic of scientific inference; corporate and institutional responsibility; and implications for democratic and other social values.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

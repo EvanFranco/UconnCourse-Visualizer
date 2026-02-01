@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5304",
+    "dept_code": "CSE",
+    "id_number": "5304",
+    "title": "High-Performance Parallel Computing",
+    "description": "Topics in high-performance computing such as the following (1) Parallel Algorithms and Parallel Computation: including programming models (Circuits and PRAMs), complexity analysis, modern parallel platforms and programming libraries; (2) Shared- and Distributed-Memory Parallel Architectures: including cache coherence, Memory consistency, processor synchronization, latency tolerance and hiding; (3) Interconnection Networks: including quantitative measures, topologies, switch architectures, routing strategies; as well as (4) Contemporary and Future HPC Systems.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 4302 and 4500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

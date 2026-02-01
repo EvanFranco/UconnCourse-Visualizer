@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3033",
+    "dept_code": "PHRX",
+    "id_number": "3033",
+    "title": "Foundations of Pharmaceutics I",
+    "description": "This course will provide an understanding of the basic principles of thermodynamics, ionic equilibrium, chemical kinetics and diffusion; application of these principles to formulation, stability and dissolution of a drug product, and drug release from the dosage form for optimum therapeutic outcome.",
+    "credits": "3",
+    "requirement_description": "PHRX 3030",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

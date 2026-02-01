@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5270",
+    "dept_code": "NURS",
+    "id_number": "5270",
+    "title": "Adv Theory and Practice in Nursing Ed III: Learning Principles and Instr Methods for Adult Learner",
+    "description": "This course will introduce students to important concepts, principles, and practices related to facilitating learning in the adult learner. The impact of content, context, and student attributes and unique learning needs on the selection and implementation of evidence-based teaching practices and instructional methods will be emphasized. Research from the science of learning and trends in teaching-learning technologies are also explored.",
+    "credits": "3",
+    "requirement_description": "NURS 5250, NURS 5259, NURS 5260, NURS 5269. Instructor consent required. Corequisite: NURS 5279.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

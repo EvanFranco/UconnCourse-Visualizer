@@ -1,0 +1,16 @@
+{
+    "name": "NURS 4300",
+    "dept_code": "NURS",
+    "id_number": "4300",
+    "title": "Clinical Science: Pharmacology and Pathophysiology",
+    "description": "Critical examination of concepts of pathophysiology and pharmacology as they apply to needs of diverse individuals and populations throughout the lifespan. Using the nursing process to examine systematic and individual factors in the application of pharmacology to pathophysiologic conditions in diverse individuals/populations.",
+    "credits": "3",
+    "requirement_description": "Student must be accepted into CEIN_B.S. Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

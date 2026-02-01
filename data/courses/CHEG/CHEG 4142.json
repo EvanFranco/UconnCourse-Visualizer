@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4142",
+    "dept_code": "CHEG",
+    "id_number": "4142",
+    "title": "Unit Operations and Process Simulation",
+    "description": "Design and analysis of chemical engineering unit operations and process equipment, computer-aided design of equipment and flow sheets; design and analysis of complete process plants. Computer-based simulation of chemical engineering processes and integration of multiple processes into a holistic plant design using modern chemical engineering process design tools.",
+    "credits": "3",
+    "requirement_description": "Open only to School of Engineering students. Corequisite: CHEG 4140.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

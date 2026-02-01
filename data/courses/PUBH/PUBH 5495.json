@@ -1,0 +1,16 @@
+{
+    "name": "PUBH 5495",
+    "dept_code": "PUBH",
+    "id_number": "5495",
+    "title": "Independent Study in Public Health",
+    "description": "An individual course for those wishing to pursue special topics in the public health sciences under faculty supervision. May be repeated for a total of 15 credits.",
+    "credits": "1-9",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

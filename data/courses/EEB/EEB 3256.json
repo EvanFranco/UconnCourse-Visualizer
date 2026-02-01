@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3256",
+    "dept_code": "EEB",
+    "id_number": "3256",
+    "title": "Plants and Civilization",
+    "description": "Plants and animals used by people; origin, history, biology, distribution, and role in development of civilizations.",
+    "credits": "3",
+    "requirement_description": "Three credits of introductory biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

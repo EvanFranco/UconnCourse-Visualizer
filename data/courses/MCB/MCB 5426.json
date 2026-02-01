@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5426",
+    "dept_code": "MCB",
+    "id_number": "5426",
+    "title": "Genetic Engineering and Functional Genomics",
+    "description": "Methods and applications of genetic engineering, including gene manipulation and transfer techniques in prokaryotes and eukaryotes. Emphasis on the application of recombinant DNA technology in the elucidation of gene function. Recent technological developments in molecular genetics and the societal issues related to these developments will also be addressed. Students will prepare a grant application or other written assignment.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

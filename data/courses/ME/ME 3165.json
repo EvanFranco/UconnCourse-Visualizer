@@ -1,0 +1,16 @@
+{
+    "name": "ME 3165",
+    "dept_code": "ME",
+    "id_number": "3165",
+    "title": "Soft Robotics",
+    "description": "Introduction to the principles, design, fabrication, and control of soft robotic systems. Unlike traditional rigid robots, soft robots leverage flexible and deformable materials for enhanced adaptability, safety, and bio-inspiration. Topics include material selection, actuation strategies, modeling and simulation, sensing, control, and real-world applications in healthcare, search and rescue, and industrial automation.",
+    "credits": "3",
+    "requirement_description": "CE 2110; ME 2120; and CSE 1010. Not open for credit to students who have passed ME 3295 when offered as \"Soft Robotics.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

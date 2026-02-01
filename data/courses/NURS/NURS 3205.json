@@ -1,0 +1,16 @@
+{
+    "name": "NURS 3205",
+    "dept_code": "NURS",
+    "id_number": "3205",
+    "title": "Nursing Research and Evidence-Based Practice",
+    "description": "An introduction to qualitative and quantitative research and application to evidence-based nursing practice.  Focus placed on developing the ability to understand, interpret, critically appraise, and apply research for high value nursing practice.",
+    "credits": "3",
+    "requirement_description": "STAT 1000Q or 1100Q, and ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

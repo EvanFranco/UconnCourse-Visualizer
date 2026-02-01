@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 1171",
+    "dept_code": "CAMS",
+    "id_number": "1171",
+    "title": "Intensive Elementary Ancient Greek",
+    "description": "Intensive introduction to ancient Greek. Basic morphology, syntax, and vocabulary through simple readings from the New Testament.",
+    "credits": "4",
+    "requirement_description": "Not open to students who have had three or more years of Greek in high school. May not be taken out of sequence after passing CAMS 1172.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

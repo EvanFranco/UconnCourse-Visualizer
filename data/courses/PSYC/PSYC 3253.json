@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3253",
+    "dept_code": "PSYC",
+    "id_number": "3253",
+    "title": "Sensory Neuroscience Laboratory",
+    "description": "Techniques employed in the experimental investigation of sensory neuroscience. Laboratory exercises in psychophysics and assessment of human and animal sensory abilities. Elementary computer programming is used to synthesize and process sound files and analyze psychophysics data.  A one-hour lecture and two two-hour labs each week.",
+    "credits": "3",
+    "requirement_description": "PSYC 2100Q and 3501.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5515",
+    "dept_code": "OPIM",
+    "id_number": "5515",
+    "title": "Generative AI for Business",
+    "description": "A focused course blending foundational knowledge and practical application of generative AI in business. It begins with an overview of generative AI architecture and its business applications, including essential skills in prompt engineering for effective AI model interaction. The course then advances to cover Retrieval-Augmented Generation (RAG) and agentic systems, tailoring AI to specific industry needs while emphasizing ethical and responsible AI usage. Designed for participants with a basic understanding of AI or relevant business technology experience, this course offers a hands-on approach, preparing students to skillfully integrate generative AI into their business strategies and operations.",
+    "credits": "3",
+    "requirement_description": "OPIM 5604; open only to MBA, MSBAPM, and MS FinTech students, others with consent. Not open to students who have passed OPIM 5894 when offered as Generative AI for Business.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

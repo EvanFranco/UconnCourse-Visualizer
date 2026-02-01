@@ -1,0 +1,16 @@
+{
+    "name": "NURS 6160",
+    "dept_code": "NURS",
+    "id_number": "6160",
+    "title": "Advanced Qualitative Methods",
+    "description": "This seminar is designed for students in nursing and other disciplines to achieve an advanced level of expertise in selected qualitative approaches. Expected course outcome is a completed qualitative project.",
+    "credits": "3",
+    "requirement_description": "NURS 6130.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

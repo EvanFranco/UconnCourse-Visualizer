@@ -1,0 +1,16 @@
+{
+    "name": "ILCS 4279",
+    "dept_code": "ILCS",
+    "id_number": "4279",
+    "title": "Capstone in Italian Studies",
+    "description": "Advanced language practicum and integration of studies in Italian Literature and Culture.",
+    "credits": "3",
+    "requirement_description": "ILCS 1004.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

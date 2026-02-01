@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5712",
+    "dept_code": "FNCE",
+    "id_number": "5712",
+    "title": "FinTech Economics and Business Models",
+    "description": "This course addresses the economics within the Fintech ecosystem, its various business models, and value creation with emphasis on the competitive landscape in Payments, Wealth management, Crowdfunding and Lending. Topics include contract theory and game theory.",
+    "credits": "3",
+    "requirement_description": "FNCE 5710 and 5711. Open to MS FinTech students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

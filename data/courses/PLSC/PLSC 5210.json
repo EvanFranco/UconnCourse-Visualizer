@@ -1,0 +1,22 @@
+{
+    "name": "PLSC 5210",
+    "dept_code": "PLSC",
+    "id_number": "5210",
+    "title": "Molecular Laboratory Technology",
+    "description": "Laboratory technologies for identification and characterization of molecules important for molecular biology research, genetic manipulation and disease diagnosis. Labs will provide hands-on experience performing basic molecular biology techniques, lectures will cover theoretical basis and application.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed PLSC 3210.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

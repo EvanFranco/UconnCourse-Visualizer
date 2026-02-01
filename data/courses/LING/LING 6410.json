@@ -1,0 +1,16 @@
+{
+    "name": "LING 6410",
+    "dept_code": "LING",
+    "id_number": "6410",
+    "title": "Semantics Seminar",
+    "description": "Classical and recent literature and current research in semantics. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "LING 5420.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

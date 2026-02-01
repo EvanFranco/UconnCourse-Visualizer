@@ -1,0 +1,16 @@
+{
+    "name": "LING 6040",
+    "dept_code": "LING",
+    "id_number": "6040",
+    "title": "Structure of a Selected Language",
+    "description": "Phonological and syntactic problems of a given language. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "LING 5310 and LING 5510.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

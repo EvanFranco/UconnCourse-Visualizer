@@ -1,0 +1,16 @@
+{
+    "name": "ARE 5353",
+    "dept_code": "ARE",
+    "id_number": "5353",
+    "title": "Data Ethics and Equity in the Era of Misinformation",
+    "description": "This course will introduce students to issues of ethics and equity in the contemporary practice of data science. The ability to collect, store, process, and analyze ever greater amounts of data offers great opportunities, as well as potential perils. This course will provide examine the ethical implications of data collection, usage, and distribution. Topics will include systematic approaches to assessing ethical issues; privacy and confidentiality; defining research and the responsibilities associated with conducting ethical research; implicit and structural biases in data collection and analysis.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

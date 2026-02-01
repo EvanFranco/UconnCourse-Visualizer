@@ -1,0 +1,18 @@
+{
+    "name": "ECE 4900W",
+    "dept_code": "ECE",
+    "id_number": "4900W",
+    "title": "Communicating Engineering Solutions in a Societal Context",
+    "description": "Analysis of engineering design solutions in a broader context. Written and oral technical communication.There are two writing assignments and one oral presentation. Class time will be divided between lectures, group discussions/exercises, and student oral presentations.",
+    "credits": "1",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to junior or higher Electrical Engineering, Computer Engineering, and Robotics Engineering majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

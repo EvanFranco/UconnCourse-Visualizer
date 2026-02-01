@@ -1,0 +1,16 @@
+{
+    "name": "SAPL 115",
+    "dept_code": "SAPL",
+    "id_number": "115",
+    "title": "Turfgrass Management Laboratory",
+    "description": "Grass establishment, grass identification, athletic field turfgrass playability evaluations, soil testing, turfgrass pest identification, turfgrass pest monitoring techniques and fertilizer spreader and sprayer calibration.",
+    "credits": "1",
+    "requirement_description": "SAPL 110, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

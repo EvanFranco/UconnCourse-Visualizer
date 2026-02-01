@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 6455",
+    "dept_code": "PHAR",
+    "id_number": "6455",
+    "title": "Advanced Toxicology",
+    "description": "A study of the harmful effects of toxic chemicals on biological systems. Emphasis is on mechanisms of toxicant action and on practical applications of modern techniques to assess toxicity and hazard.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

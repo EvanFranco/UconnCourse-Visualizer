@@ -1,0 +1,16 @@
+{
+    "name": "GERM 3200",
+    "dept_code": "GERM",
+    "id_number": "3200",
+    "title": "Intensive Language Practice",
+    "description": "Two or three weeks of concentrated study in Europe. Exclusive use of the language, with three to four daily contact hours. Practice in all active and passive language skills, combined with periodic review sessions during the rest of the semester.",
+    "credits": "3",
+    "requirement_description": "GERM 1003, which may be taken concurrently, or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

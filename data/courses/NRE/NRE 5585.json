@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5585",
+    "dept_code": "NRE",
+    "id_number": "5585",
+    "title": "Python Scripting for Geospatial Analysis",
+    "description": "GIS scripting techniques in Python for geospatial analyses, enabling students to pursue integrated research in earth resources data geoprocessing applications.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Recommended preparation: NRE 5215 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

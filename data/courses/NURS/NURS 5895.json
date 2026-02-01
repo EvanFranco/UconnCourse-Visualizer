@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5895",
+    "dept_code": "NURS",
+    "id_number": "5895",
+    "title": "Doctor of Nursing Practice Seminar Series for the DNP Project",
+    "description": "This recurring seminar series is designed to assist students in the development of the DNP Clinical Practice Dissertation (CPD). May be repeated for a total of 36 credits.",
+    "credits": "1-3",
+    "requirement_description": "NURS 5845, 5855, and 5850; Instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

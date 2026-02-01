@@ -1,0 +1,16 @@
+{
+    "name": "BME 3620",
+    "dept_code": "BME",
+    "id_number": "3620",
+    "title": "Failure Analysis for Biomedical Application",
+    "description": "Study and analysis of the causes of material and device failures as it relates to biomedical engineering. Types of material failures and failure mechanisms. Discussion of appropriate material selection, design and application as it relates to mitigating failure risk. Case studies of historical material failures in biomedical engineering.",
+    "credits": "3",
+    "requirement_description": "MSE 2001 or 2101; open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

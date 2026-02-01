@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 5650",
+    "dept_code": "ENGL",
+    "id_number": "5650",
+    "title": "Digital Humanities",
+    "description": "An introduction to the histories, methodologies, and theories of the digital humanities, and to the practices and tools of digital humanities projects.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English and Medieval Studies, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

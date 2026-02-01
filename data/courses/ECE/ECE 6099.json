@@ -1,0 +1,16 @@
+{
+    "name": "ECE 6099",
+    "dept_code": "ECE",
+    "id_number": "6099",
+    "title": "Independent Study in Electrical Engineering",
+    "description": "Individual exploration of special topics as arranged by the student with an instructor of his or her choice. May be repeated for a total of 36 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

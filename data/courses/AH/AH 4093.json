@@ -1,0 +1,16 @@
+{
+    "name": "AH 4093",
+    "dept_code": "AH",
+    "id_number": "4093",
+    "title": "International Study in Allied Health",
+    "description": "Courses taken in Allied Health and related areas as part of an approved Study Abroad Program. May be repeated for credit; may count up to six credits toward major with consent of advisor and Department Head. Department Head consent required prior to study abroad. Students may only count a maximum combined credit total of 6 credits toward the Allied Health major of foreign study, Independent Study and Internship credits. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Department Head consent required prior to study abroad.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

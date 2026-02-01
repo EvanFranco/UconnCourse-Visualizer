@@ -1,0 +1,18 @@
+{
+    "name": "EDCI 3100W",
+    "dept_code": "EDCI",
+    "id_number": "3100W",
+    "title": "Multicultural Education, Equity and Social Justice",
+    "description": "Introduction to multicultural education. Includes the nature and purposes of schooling, the relationship between diversity, schooling and society, and the concepts and practices of multicultural education and equity pedagogy.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to students in the Integrated Bachelor's/Master's Teacher Prep Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

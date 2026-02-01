@@ -1,0 +1,18 @@
+{
+    "name": "ENGL 4965W",
+    "dept_code": "ENGL",
+    "id_number": "4965W",
+    "title": "Advanced Studies in Early Literature",
+    "description": "Advanced studies in literature written in English before 1800.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; at least 12 credits of 2000-level or above English courses or consent of instructor; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5668",
+    "dept_code": "OPIM",
+    "id_number": "5668",
+    "title": "Agile Project Management and Methodologies",
+    "description": "The Agile revolution has crossed over from manufacturing to software, product design, startups, and innovation. Dissect the types of organizations where Agile will work and where hybrid or Kanban approaches are utilized. Examine leadership qualities required at the transformation level for organizations adopting Agile, as well as the roles of the product owner, scrum master, and sprint team. Evaluate the impact of personas, backlog grooming, and estimation and their effect on development and product design. Test Driven Development and Extreme Programming theories underscore the evolution from traditional project management. Introduction to SAFe, Agile metrics and principles, and understanding the management decisions required when risk threatens an Agile effort. Leverages Jira, one of the most popular Agile project management software packages used in companies today.",
+    "credits": "3",
+    "requirement_description": "OPIM 5270; open to MBA and BAPM students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

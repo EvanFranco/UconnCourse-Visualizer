@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 2001",
+    "dept_code": "ENGL",
+    "id_number": "2001",
+    "title": "Introduction to Grant Proposal Writing",
+    "description": "An introduction to the basics of grants and grant proposal writing, including the purpose of writing grant proposals, grant opportunities available to undergraduates, and features of successful grant proposals. Requires submission of a grant proposal.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

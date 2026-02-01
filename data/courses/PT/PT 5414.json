@@ -1,0 +1,16 @@
+{
+    "name": "PT 5414",
+    "dept_code": "PT",
+    "id_number": "5414",
+    "title": "Clinical Human Physiology",
+    "description": "Discussion of the biochemical, nutritional, cellular and physiological principles necessary for the analysis of the normal and abnormal function and for the rehabilitation of the human musculoskeletal, cardiovascular and respiratory systems using patient cases.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

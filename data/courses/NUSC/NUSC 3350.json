@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 3350",
+    "dept_code": "NUSC",
+    "id_number": "3350",
+    "title": "Nutrient and Food Analysis",
+    "description": "An overview of analytical techniques and instrumentations commonly used in the food industry to determine food quality. Laboratories involve hands-on trainings on analytical equipment to collect and analyze experimental data on various food samples.",
+    "credits": "3",
+    "requirement_description": "CHEM 2241 and NUSC 1165. Not open for credit to students who have passed NUSC 5350.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

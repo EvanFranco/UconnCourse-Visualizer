@@ -1,0 +1,16 @@
+{
+    "name": "ECE 6122",
+    "dept_code": "ECE",
+    "id_number": "6122",
+    "title": "Digital Signal Processing",
+    "description": "Discrete-time signals and systems. The z-transform. The Discrete Fourier Transform (DFT). Convolution and sectioned convolution of sequences. IIR and FIR digital filter design and realization. Computation of the DFT: The Fast Fourier Transform (FFT), algorithms. Decimation and interpolation. Parametric and nonparametric spectral estimation. Adaptive filtering. Finite word length effects.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

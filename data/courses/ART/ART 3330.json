@@ -1,0 +1,16 @@
+{
+    "name": "ART 3330",
+    "dept_code": "ART",
+    "id_number": "3330",
+    "title": "Advanced Painting",
+    "description": "Individually determined painting projects. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "ART 3310 or 3360; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5515",
+    "dept_code": "BIST",
+    "id_number": "5515",
+    "title": "Design of Experiments",
+    "description": "(Also offered as STAT\u00a05515.) One way analysis of variance, multiple comparison of means, randomized block designs, Latin and Graeco-Latin square designs, factorial designs, two-level factorial and fractional factorial designs, nested and hierarchical designs, split-plot designs.",
+    "credits": "3",
+    "requirement_description": "STAT 5005 or graduate student in Biostatistics. Not open for credit to students who have passed STAT 3515Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

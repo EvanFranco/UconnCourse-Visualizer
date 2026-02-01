@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4353",
+    "dept_code": "CHEG",
+    "id_number": "4353",
+    "title": "Polymer Processing",
+    "description": "Various polymer processing techniques: extrusion; injection molding; film and sheet processing; blow molding; thermoforming; fiber spinning; processing of thermosets and special polymers.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed CHEG 4995 when offered as \"Polymer Processing.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 3214",
+    "dept_code": "PHIL",
+    "id_number": "3214",
+    "title": "Symbolic Logic II",
+    "description": "Logical concepts developed in Philosophy 2211 applied to the study of philosophical issues in the foundations of mathematics.",
+    "credits": "3",
+    "requirement_description": "PHIL 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

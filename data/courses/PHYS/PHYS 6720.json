@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 6720",
+    "dept_code": "PHYS",
+    "id_number": "6720",
+    "title": "Galaxies and the Interstellar Medium",
+    "description": "Galaxy formation and evolution in the hierarchical expanding Universe. Properties of the interstellar medium, including star formation and radiative transfer; stellar populations, structure, kinematics and dynamics of galaxies.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: proficiency in calculus. May be taught with PHYS 4720. Not open for credit to students who have passed PHYS 4720.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ARE 6464",
+    "dept_code": "ARE",
+    "id_number": "6464",
+    "title": "Experimental Methods for Program Evaluation",
+    "description": "Theory and practice of field-based program experiments, often referred to as randomized controlled trials (RCTs). All aspects of experimental program evaluation, including the design of evaluation strategy and working with survey and program staff. Examples from both developing country contexts and Western country program evaluation.",
+    "credits": "3",
+    "requirement_description": "A graduate level introduction to statistics or econometrics class or equivalent. Recommended preparation: A graduate level macroeconomic theory course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

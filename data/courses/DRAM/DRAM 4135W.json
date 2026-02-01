@@ -1,0 +1,18 @@
+{
+    "name": "DRAM 4135W",
+    "dept_code": "DRAM",
+    "id_number": "4135W",
+    "title": "Advanced Topics in Theatre and Performance",
+    "description": "An in-depth exploration of theatre and performance studies. Topics will vary by semester, and may include performance trends or styles, periods in theatre history, or theoretical approaches to analyzing theatre and performance. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "DRAM 2130 and 2131; ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

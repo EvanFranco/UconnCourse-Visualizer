@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 3260",
+    "dept_code": "MKTG",
+    "id_number": "3260",
+    "title": "Marketing Research",
+    "description": "This course provides an introduction to obtaining and using data to gain marketing insights. Students learn to translate managerial problems into research questions and identify and apply appropriate methods to collect and analyze data. Students gain hands-on computer-based experience analyzing marketing data, interpreting analyses, and communicating findings to aid managerial decision making.",
+    "credits": "3",
+    "requirement_description": "MKTG 3101 or BADM 3750; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

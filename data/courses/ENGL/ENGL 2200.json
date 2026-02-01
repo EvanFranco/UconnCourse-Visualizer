@@ -1,0 +1,20 @@
+{
+    "name": "ENGL 2200",
+    "dept_code": "ENGL",
+    "id_number": "2200",
+    "title": "Literature and Culture of North America before 1800",
+    "description": "(Also offered as AMST\u00a02200.) An examination of the early written and oral culture of the area that eventually became the United States. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

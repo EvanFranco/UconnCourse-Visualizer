@@ -1,0 +1,22 @@
+{
+    "name": "HIST 3568",
+    "dept_code": "HIST",
+    "id_number": "3568",
+    "title": "Hip Hop, Politics and Youth Culture in America",
+    "description": "(Also offered as AFRA\u00a03568, AMST\u00a03568, MUSI\u00a03568.) History of hip-hop, its musical antecedents and its role in popular culture. Race, class, and gender are examined as well as hip-hop's role in popular political discourse.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

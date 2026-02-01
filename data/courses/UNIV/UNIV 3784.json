@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 3784",
+    "dept_code": "UNIV",
+    "id_number": "3784",
+    "title": "Interdisciplinary Honors Seminar",
+    "description": "An interdisciplinary seminar designed for honors students and open to other qualified students. Topics vary from semester to semester. May be repeated  for credit with change of topic. Sponsored by the Honors Program. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": null
+}

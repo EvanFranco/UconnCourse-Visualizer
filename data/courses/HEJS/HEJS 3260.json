@@ -1,0 +1,21 @@
+{
+    "name": "HEJS 3260",
+    "dept_code": "HEJS",
+    "id_number": "3260",
+    "title": "The Bible, the Holy Land, and History",
+    "description": "The historical, literary, and archaeological investigation of the Old and New Testaments. Formerly offered as INTD 3260. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

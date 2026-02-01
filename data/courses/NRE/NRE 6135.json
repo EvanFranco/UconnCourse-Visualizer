@@ -1,0 +1,16 @@
+{
+    "name": "NRE 6135",
+    "dept_code": "NRE",
+    "id_number": "6135",
+    "title": "Small Watershed Modeling",
+    "description": "Students will develop proficiency in fundamental modeling principles used to describe watershed hydrology and various associated ecosystem functions. Topics include ecohydrology focusing on catchment water and energy balances, hydrologic modeling (potential evapotranspiration, snow accumulation and melt, soil moisture, plant growth, surface runoff), forest-water modeling, introduction to model sensitivity and calibration techniques, application of tracers in ecohydrology, issues in parameterized hydrologic model climate-transferability, and basic R scripting.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: A general familiarity with R scripting.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

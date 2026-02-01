@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 3247",
+    "dept_code": "SLHS",
+    "id_number": "3247",
+    "title": "Introduction to Phonetic Principles",
+    "description": "The analysis of speech through the application of phonetic theory.",
+    "credits": "3",
+    "requirement_description": "SLHS 2156 and 2203; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

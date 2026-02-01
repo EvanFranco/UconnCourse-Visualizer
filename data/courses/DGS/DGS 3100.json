@@ -1,0 +1,16 @@
+{
+    "name": "DGS 3100",
+    "dept_code": "DGS",
+    "id_number": "3100",
+    "title": "Cytogenetic Technologies",
+    "description": "Study of human chromosome morphology and identification, including chromosome variants and abnormalities. Methodologies in cytogenetic testing for multiple sample types.",
+    "credits": "3",
+    "requirement_description": "Open to students in the Diagnostic Genetic Sciences Program and Diagnostic Genetic Sciences certificates.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

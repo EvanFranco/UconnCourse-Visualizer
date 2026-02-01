@@ -1,0 +1,18 @@
+{
+    "name": "STAT 3345Q",
+    "dept_code": "STAT",
+    "id_number": "3345Q",
+    "title": "Probability Models for Engineers",
+    "description": "Probability set functions, random variables, expectations, moment generating functions, discrete and continuous random variables, joint and conditional distributions, multinomial distribution, bivariate normal distribution, functions of random variables, central limit theorms, computer simulation of probability models.",
+    "credits": "3",
+    "requirement_description": "MATH 2110Q or 2130Q. Students may not receive more than three credits from STAT 3025Q and 3345Q, or from STAT 3345Q and 3375Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

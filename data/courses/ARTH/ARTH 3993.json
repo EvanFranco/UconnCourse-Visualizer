@@ -1,0 +1,16 @@
+{
+    "name": "ARTH 3993",
+    "dept_code": "ARTH",
+    "id_number": "3993",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. Consent of Department Head required, normally before the student's departure to study abroad. May be repeated with a change in course content. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

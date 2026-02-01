@@ -1,0 +1,16 @@
+{
+    "name": "HCMI 3243",
+    "dept_code": "HCMI",
+    "id_number": "3243",
+    "title": "Health Care Economics",
+    "description": "This course demonstrates how basic economic concepts, principles, and theories can be used to think about and illuminate various health care issues. Rather than focus on a few current health care problems, attention is directed toward an array of health-related topics. Students are provided with a set of economic tools to evaluate a theoretical or empirical argument relating to health or medical care. The course culminates with an in-depth analysis of the structure, conduct, and performance of the markets for physician services, hospital services, pharmaceutical products, and long-term care.",
+    "credits": "3",
+    "requirement_description": "HCMI 3240, or ECON 1201, or ARE 1150; open only to business majors and Allied Health majors in the Healthcare Administration concentration of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

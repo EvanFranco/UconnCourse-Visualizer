@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4145",
+    "dept_code": "CHEG",
+    "id_number": "4145",
+    "title": "Chemical Engineering Analysis",
+    "description": "Mathematical and numerical methods for solving engineering problems; description and computer modeling of physical and chemical processes with ordinary and partial differential equations; treatment and interpretation of engineering data.",
+    "credits": "3",
+    "requirement_description": "CHEG 3151, 3220, 3240, and MATH 2110Q, 2210Q, 2410Q; open only to School of Engineering students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

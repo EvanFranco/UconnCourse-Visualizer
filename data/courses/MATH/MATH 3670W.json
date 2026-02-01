@@ -1,0 +1,18 @@
+{
+    "name": "MATH 3670W",
+    "dept_code": "MATH",
+    "id_number": "3670W",
+    "title": "Technical Writing for Actuaries",
+    "description": "Students will write a technical report on an advanced topic in actuarial science.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6400",
+    "dept_code": "ECON",
+    "id_number": "6400",
+    "title": "Independent Study",
+    "description": "Students pursue an in-depth study of an area of interest under the guidance of a faculty member. May be repeated for a total of 9 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

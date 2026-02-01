@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5108",
+    "dept_code": "PNB",
+    "id_number": "5108",
+    "title": "Cadaver Lab for Intraoperative Neuromonitoring",
+    "description": "Hands on laboratory featuring anterior and posterior dissection of bodies from human donors. Emphasis on muscle origins, insertions, innervations, and nerve plexuses.",
+    "credits": "1",
+    "requirement_description": "PNB 5101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

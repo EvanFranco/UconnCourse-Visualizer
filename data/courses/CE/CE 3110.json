@@ -1,0 +1,16 @@
+{
+    "name": "CE 3110",
+    "dept_code": "CE",
+    "id_number": "3110",
+    "title": "Mechanics of Materials",
+    "description": "Simple and combined stress, torsion, flexure and deflection of beams, continuous and restrained beams, combined axial and bending loads, columns.",
+    "credits": "3",
+    "requirement_description": "CE 2110; enrollment in School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

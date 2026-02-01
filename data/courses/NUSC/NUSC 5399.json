@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5399",
+    "dept_code": "NUSC",
+    "id_number": "5399",
+    "title": "Independent Study in Nutritional Science",
+    "description": "Research problems or critical review of literature in any area of nutrition. May be repeated for a total of 9 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

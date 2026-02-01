@@ -1,0 +1,18 @@
+{
+    "name": "NRE 3385W",
+    "dept_code": "NRE",
+    "id_number": "3385W",
+    "title": "Fisheries Techniques",
+    "description": "Techniques used in fisheries science to manage and conserve wild populations of fishes (and select bivalves and crustaceans). Topics include sampling design, gear selection, gear bias, animal capture and handling, habitat measurement and characterization, population estimation, commonly used data analyses, and scientific report writing. Laboratory meetings are often held outside at local waterbodies. Course is designed as a pre-professional experience for students interested in fisheries careers, and counts towards individual certification requirements set by the American Fisheries Society.",
+    "credits": "3",
+    "requirement_description": "STAT 1000Q or higher, ENGL 1007 or 1010 or 1011; open to junior or higher Natural Resources majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

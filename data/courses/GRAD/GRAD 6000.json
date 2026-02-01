@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 6000",
+    "dept_code": "GRAD",
+    "id_number": "6000",
+    "title": "Seminars in College Instruction",
+    "description": "Explores teaching skills that promote learning within a diverse student body in higher education. Sessions each address a specific topic in educational theory and practice. Students must complete five seminars of their choosing to fulfill the course requirement. Students will be self-directed in the completion of the course and are encouraged to select seminars that meet their professional interests, needs, and professional goals. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

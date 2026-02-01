@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2444",
+    "dept_code": "ECON",
+    "id_number": "2444",
+    "title": "Women and Minorities in the Labor Market",
+    "description": "Issues and problems confronting women and minorities in the workplace, using economic theory, institutional analysis, and empirical investigation. Historical background, allocation of time, discrimination, earnings determination, occupational structure, labor unions, and public policy.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or both ECON 1201 (or ARE 1150) and 1202.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

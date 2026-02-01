@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 3226",
+    "dept_code": "PHIL",
+    "id_number": "3226",
+    "title": "Philosophy of Law",
+    "description": "The nature of law; law's relation to morality; law's relation to social facts; the obligation to obey the law; interpreting texts; spheres of law; international law; the justification of state punishment; the good of law; related doctrines of contemporary theorists such as Herbert Hart and Ronald Dworkin.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5099",
+    "dept_code": "STAT",
+    "id_number": "5099",
+    "title": "Independent Study",
+    "description": "Independent study on statistics and its applications under the supervision of a faculty instructor. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

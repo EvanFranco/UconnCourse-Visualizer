@@ -1,0 +1,16 @@
+{
+    "name": "MLSC 4321",
+    "dept_code": "MLSC",
+    "id_number": "4321",
+    "title": "Clinical Immunology",
+    "description": "Methods for detection of antigens and antibodies in blood and body fluids; immunological methods for the diagnosis of infectious diseases and abnormalities of the immune system.",
+    "credits": "2",
+    "requirement_description": "A grade of C or better in AH 3121. Open only to Medical Laboratory Sciences majors and Medical Laboratory Sciences certificate students; others with consent of Medical Laboratory Sciences Program Director.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

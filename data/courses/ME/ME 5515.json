@@ -1,0 +1,16 @@
+{
+    "name": "ME 5515",
+    "dept_code": "ME",
+    "id_number": "5515",
+    "title": "Introduction to Hands-On Finite Element Analysis",
+    "description": "This course introduces the basic theory of finite element analysis (FEA) and the use of ANSYS\u00ae Workbench in the modeling and simulation of engineering problems. It uses simple mechanics problems as examples and focuses on the application of one-dimensional bar and beam elements, two-dimensional plane stress and plane strain elements, plate and shell elements, and three-dimensional solid elements in the analysis of engineering structures. It covers the application of FEA to the analysis of mechanical stresses, vibrations, dynamics, thermal effects, and failure. In each of these application areas, ANSYS\u00ae Workbench is introduced through hands-on case studies. Clear understanding of the FEA principles, element behaviors, solution procedures, and correct usage of the FEA software is emphasized throughout the course.",
+    "credits": "3",
+    "requirement_description": "CE 2110 or 3110 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

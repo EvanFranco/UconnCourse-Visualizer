@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3416",
+    "dept_code": "ECON",
+    "id_number": "3416",
+    "title": "Special Problems in Money and Banking",
+    "description": "Emphasis on public policy: commercial bank regulations; the relation of liquidity to economic fluctuations; government lending agencies; and central bank policies and credit control.",
+    "credits": "3",
+    "requirement_description": "ECON 2202 or 2212; ECON 2411.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

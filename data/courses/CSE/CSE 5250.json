@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5250",
+    "dept_code": "CSE",
+    "id_number": "5250",
+    "title": "Social Media Mining and Analysis",
+    "description": "Introduction to techniques and skills useful in mining social media content, including Large Language Models. A semester-long project is the highlight of this course. Students should have preliminary knowledge of data analysis, statistics, probability, and machine learning, and proficiency in either R or Python.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in CSE, others with consent. Recommended preparation: preliminary statistics, machine learning. Programming in Python or R.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

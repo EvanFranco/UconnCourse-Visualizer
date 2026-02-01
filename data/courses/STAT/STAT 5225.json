@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5225",
+    "dept_code": "STAT",
+    "id_number": "5225",
+    "title": "Data Management",
+    "description": "(Also offered as BIST\u00a05225.) Creation and management of datasets for statistical analysis: software tools and databases, user-defined functions, importing/exporting/manipulation of data, conditional and iterative processing, generation of reports.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

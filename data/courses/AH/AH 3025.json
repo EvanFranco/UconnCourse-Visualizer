@@ -1,0 +1,16 @@
+{
+    "name": "AH 3025",
+    "dept_code": "AH",
+    "id_number": "3025",
+    "title": "Human Physiology of Health and Disease",
+    "description": "An overview of the structure and function of the human body in health and common pathologic conditions associated with each organ system. Does not satisfy the anatomy and physiology admission requirements for undergraduate or post-baccalaureate health programs that require anatomy and physiology with lab.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107; juniors or higher; open to AH, DGS, Enviro Sci (Human Health conc), Exercise Science, MLSC and Nutritional Sciences majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

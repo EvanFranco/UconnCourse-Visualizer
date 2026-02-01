@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5420",
+    "dept_code": "MEDS",
+    "id_number": "5420",
+    "title": "Molecular Genomics Practicum",
+    "description": "Coupling classical molecular biology techniques to high throughput sequencing for nucleic acid detection has revolutionized how scientists study biology. Students will be introduced to the command line and gradually build upon concepts and skills so that they will be capable of building workflows to process and analyse high throughput sequencing data. After basic concepts and command line competency are established, the course will focus on the analysis of ChIP-seq, RNA-seq, and ATAC-seq data. Students will learn to use many common genomics software packages to perform such tasks as genome alignment, peak calling, motif analysis, and differential expression analysis. Students will be introduced to the statistical computing language R and perform analyses and visualization using an R interface.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3002",
+    "dept_code": "PHRX",
+    "id_number": "3002",
+    "title": "Foundations in Bioorganic Chemistry",
+    "description": "Fundamental knowledge of medicinal and natural products chemistry, metabolic biotransformation, and drug design.",
+    "credits": "3",
+    "requirement_description": "Open to students in the School of Pharmacy who have satisfied the pre-pharmacy prerequisites.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

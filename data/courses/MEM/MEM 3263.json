@@ -1,0 +1,16 @@
+{
+    "name": "MEM 3263",
+    "dept_code": "MEM",
+    "id_number": "3263",
+    "title": "Manufacturing Sensing",
+    "description": "Introduction to the design and behavior of common sensors employed in manufacturing processes, highlighting their proper use and physical limitations. In the lab, each type of sensor is used in a practical engineering problem, with data being taken via data acquisition software. Data analysis techniques, including Gaussian statistics, uncertainty analysis, frequency domain studies, are also covered and used on the acquired data.",
+    "credits": "2",
+    "requirement_description": "ME 2233 or ME 2232E; PHYS 1230 or PHYS 1402Q or PHYS 1502Q or PHYS 1530; CE 3110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

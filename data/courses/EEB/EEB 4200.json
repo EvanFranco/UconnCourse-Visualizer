@@ -1,0 +1,16 @@
+{
+    "name": "EEB 4200",
+    "dept_code": "EEB",
+    "id_number": "4200",
+    "title": "Biology of Fishes",
+    "description": "An introduction to the biology of fishes, with an emphasis on adaptation and evolutionary diversification. Topics include the evolution of major groups, morphology, physiology, behavior, and population and community ecology. Lectures, critical discussions of current journal articles, student presentations, and exercises in the field and laboratory. Field trips required.",
+    "credits": "4",
+    "requirement_description": "BIOL 1108.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

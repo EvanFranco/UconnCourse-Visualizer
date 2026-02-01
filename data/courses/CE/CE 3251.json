@@ -1,0 +1,16 @@
+{
+    "name": "CE 3251",
+    "dept_code": "CE",
+    "id_number": "3251",
+    "title": "Civil and Environmental Engineering Applications of Probability and Statistics",
+    "description": "Multiple regression. Analysis of variance. Student project applying probability or statistics in a civil or environmental engineering context.",
+    "credits": "1",
+    "requirement_description": "STAT 1100Q; open only to CE and ENVE majors. This course and CE 2251 or ENVE 2251 may not both be taken for credit. Recommended preparation: MATH 1121 or 1131Q or 1151Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

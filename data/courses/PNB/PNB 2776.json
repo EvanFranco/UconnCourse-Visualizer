@@ -1,0 +1,16 @@
+{
+    "name": "PNB 2776",
+    "dept_code": "PNB",
+    "id_number": "2776",
+    "title": "Enhanced Human Physiology and Anatomy Laboratory",
+    "description": "Fundamentals of human physiology and anatomy enhanced through inquiry-based laboratories.",
+    "credits": "2",
+    "requirement_description": "PNB 2775, which may be taken concurrently. Not open to students who have passed PNB 2264, PNB 2265, PNB 2274, or PNB 2275.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

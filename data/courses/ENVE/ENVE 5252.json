@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5252",
+    "dept_code": "ENVE",
+    "id_number": "5252",
+    "title": "Environmental Remediation",
+    "description": "Regulatory framework. Soil clean-up criteria. Risk analysis.  In situ and ex situ Treatment technologies: chemical oxidation, chemical reduction, pump-and-treat, permeable reactive barriers, solidification, stabilization, thermal processes, bioremediation.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MCB 2225",
+    "dept_code": "MCB",
+    "id_number": "2225",
+    "title": "Cell Biology Laboratory",
+    "description": "A laboratory experience that will prepare students for thesis research in the biological sciences. Experimental design, quantitative analysis and presentation of data. Topics include cell culture, fluorescence and time-lapse microscopy, DNA transfection, image processing, and flow cytometry. Students will also pursue independent research projects.",
+    "credits": "4",
+    "requirement_description": "BIOL 1107 or equivalent; open to honors students, non-honors students with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

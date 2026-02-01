@@ -1,0 +1,22 @@
+{
+    "name": "EEB 2202",
+    "dept_code": "EEB",
+    "id_number": "2202",
+    "title": "Evolution and Human Diversity",
+    "description": "The biological bases of human diversity from genetic and evolutionary perspectives. Topics include the genetic basis for human variation and race; adaptations of human populations; the role of genes and environments in producing human variability; cultural evolution; origin and spread of  \"modern\" humans. CA 3. CA 4-INT",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

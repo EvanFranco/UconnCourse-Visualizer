@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3411",
+    "dept_code": "ECE",
+    "id_number": "3411",
+    "title": "Microprocessor Applications Laboratory",
+    "description": "Design of software and interface hardware to use a microcomputer as an on-line, real-time element in data acquisition, filtering and control systems. Use of clocks, DAC's, ADC's, speech synthesis modules, and movement generators. Design project. Written and oral presentations of laboratory results.",
+    "credits": "3",
+    "requirement_description": "CSE 3100 or ECE 1401; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

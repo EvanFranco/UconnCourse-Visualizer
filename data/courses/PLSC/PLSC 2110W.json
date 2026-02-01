@@ -1,0 +1,18 @@
+{
+    "name": "PLSC 2110W",
+    "dept_code": "PLSC",
+    "id_number": "2110W",
+    "title": "Sustainable Plant Pest Management Communication",
+    "description": "Communication of the impacts, economic importance, identification, and sustainable management of new and emerging plant pests, such as insects, mites, weeds/invasive plants, and diseases of food and non-food (ornamental) crops, in agricultural and landscape settings. Connections with UConn Extension and real-world pest occurrences will be incorporated. Formerly offered as SPSS 2110W.",
+    "credits": "1",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to Plant Science, Horticulture, or Turfgrass Science majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

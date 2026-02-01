@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3530",
+    "dept_code": "DMD",
+    "id_number": "3530",
+    "title": "Game Systems Design",
+    "description": "Students in this course learn and apply advanced game design techniques and game theory. Students focus on the concepts of balance, design, and player psychology, synthesizing these elements into cohesive and interesting gameplay.",
+    "credits": "3",
+    "requirement_description": "DMD 2500; open to Digital Media and Design majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

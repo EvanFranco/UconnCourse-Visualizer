@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5130",
+    "dept_code": "MATH",
+    "id_number": "5130",
+    "title": "Functional Analysis I",
+    "description": "Normed linear spaces and algebras, the theory of linear operators, spectral analysis.",
+    "credits": "3",
+    "requirement_description": "MATH 5111.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

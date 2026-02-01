@@ -1,0 +1,18 @@
+{
+    "name": "AH 2410",
+    "dept_code": "AH",
+    "id_number": "2410",
+    "title": "Digital Health",
+    "description": "An exploration of key topics in digital health including health informatics, big data, interoperability, artificial intelligence in healthcare and mental health, wearable devices, mobile health apps, virtual reality in medicine, user-centered design, ethical challenges, and regulatory considerations.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "HDFS 2142E",
+    "dept_code": "HDFS",
+    "id_number": "2142E",
+    "title": "Exploring Conservation and Sustainability with Preschoolers",
+    "description": "Introduction to the broad fields of sustainability and conservation through place-based learning experiences. Explores the importance of environmental stewardship by actively engaging with preschool children in project-based learning related to conservation and sustainability throughout the semester. CA 2.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Recommended preparation: HDFS 1070.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

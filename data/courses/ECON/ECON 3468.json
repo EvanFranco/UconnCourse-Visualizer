@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3468",
+    "dept_code": "ECON",
+    "id_number": "3468",
+    "title": "Economics of the Law",
+    "description": "The law as an economic institution. Primary focus on the Common Law, property, tort, and contract. Applications to pollution control, land-use, hazardous wastes, product liability, and worker safety. Ethical as well as economic approaches to the law.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

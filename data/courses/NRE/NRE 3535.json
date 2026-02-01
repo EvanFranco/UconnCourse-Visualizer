@@ -1,0 +1,16 @@
+{
+    "name": "NRE 3535",
+    "dept_code": "NRE",
+    "id_number": "3535",
+    "title": "Remote Sensing of the Environment",
+    "description": "The principles of the interpretation of remote sensing imagery acquired from aircraft and satellite platforms will be studied. Applications of remote sensing to natural resources and the environment will be discussed.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher. Recommended preparation: NRE 2000 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

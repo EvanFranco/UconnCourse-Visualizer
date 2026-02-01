@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3440",
+    "dept_code": "PSYC",
+    "id_number": "3440",
+    "title": "Developmental Cognitive Neuroscience",
+    "description": "Survey of current research and methods in developmental cognitive neuroscience, an interdisciplinary scientific field at the boundaries of neuroscience, developmental psychology, and cognitive science.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

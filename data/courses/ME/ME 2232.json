@@ -1,0 +1,16 @@
+{
+    "name": "ME 2232",
+    "dept_code": "ME",
+    "id_number": "2232",
+    "title": "Engineering Thermodynamics",
+    "description": "The laws of thermodynamics and their application to optimizing performance of thermodynamic systems. Key topics include energy transfer by heat and work, the first and second laws of thermodynamics, thermodynamic properties of pure substances, ideal gases, and gas mixtures. These principles are applied to analyze and evaluate the performance and energy efficiency of ideal and real processes in thermodynamic systems.",
+    "credits": "4",
+    "requirement_description": "CHEM 1127Q or CHEM 1147Q, or both CHEM 1124Q and CHEM 1125Q; PHYS 1230 or PHYS 1401Q or PHYS 1501Q or PHYS 1601Q; MATH 2110Q, which may be taken concurrently. Not open for credit to students who have passed ME 2233 or ME 2234.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

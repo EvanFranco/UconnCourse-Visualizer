@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3330",
+    "dept_code": "MATH",
+    "id_number": "3330",
+    "title": "Elements of Topology",
+    "description": "Metric spaces, topological spaces and functions, topological properties, surfaces, elementary topics in geometric topology.",
+    "credits": "3",
+    "requirement_description": "MATH 2110Q or 2130Q or 2143Q; and a grade of C or better in either MATH 2142Q or 2710.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

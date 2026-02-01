@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5347",
+    "dept_code": "CHEM",
+    "id_number": "5347",
+    "title": "Organic Synthesis",
+    "description": "An investigation of efficient strategies for the synthesis of natural and unnatural organic molecules. Topics include: retrosynthetic analysis, synthetic strategies, common carbon-carbon bond formation reactions, multiple bond disconnection strategies (applications of pericyclic reactions), organometallic coupling reactions, radical and carbene reactions in organic synthesis, strategies to construct carbocyclic and heterocyclic ring systems.",
+    "credits": "3",
+    "requirement_description": "CHEM 5343 and CHEM 5344.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

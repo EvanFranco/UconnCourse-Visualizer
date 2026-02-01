@@ -1,0 +1,16 @@
+{
+    "name": "PATH 5201",
+    "dept_code": "PATH",
+    "id_number": "5201",
+    "title": "Microbiology of Atypical Bacteria",
+    "description": "An in-depth presentation of current information on medically significant atypical bacteria, with emphasis on molecular aspects of pathogenesis.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

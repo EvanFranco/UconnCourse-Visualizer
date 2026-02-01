@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5518",
+    "dept_code": "PSYC",
+    "id_number": "5518",
+    "title": "Introduction to Programming Complex Systems",
+    "description": "An introduction to programming in Python by exploring a series of complex systems phenomena. Course is open to students with no, intermediate or advanced programming skills. Topics may include selection from dynamical systems, cellular automata, power laws, self-organization, fractals, neural networks, probabilistic grammars, synchronization, among others.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

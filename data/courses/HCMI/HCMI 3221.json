@@ -1,0 +1,16 @@
+{
+    "name": "HCMI 3221",
+    "dept_code": "HCMI",
+    "id_number": "3221",
+    "title": "Risk Management and Insurance",
+    "description": "A study of the concept of risk and its treatment by insurance. It covers why the individual or corporation purchases insurance, what constitutes an intelligent insurance plan and what products are available in the insurance marketplace.",
+    "credits": "3",
+    "requirement_description": "Open only to Business and Mathematics-Actuarial Science-Finance majors of junior or higher status. Not open to students who have passed FNCE 3221.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

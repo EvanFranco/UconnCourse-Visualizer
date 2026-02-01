@@ -1,0 +1,23 @@
+{
+    "name": "ECON 1107E",
+    "dept_code": "ECON",
+    "id_number": "1107E",
+    "title": "Honors Core: Economics, Nature, and the Environment",
+    "description": "Impact of nature on societies; effects of geography and climate on economic development and income inequality. Impact of humans on their environment; environmental problems; collapse of societies; sustainable development. CA 2.",
+    "credits": "3",
+    "requirement_description": "Open to honors students, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

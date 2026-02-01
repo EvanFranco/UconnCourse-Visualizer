@@ -1,0 +1,16 @@
+{
+    "name": "MARN 3002",
+    "dept_code": "MARN",
+    "id_number": "3002",
+    "title": "Foundations of Marine Sciences",
+    "description": "Relationships between biological and physical processes in the ocean. Topics include spatial structure of physical properties, patterns and mechanisms of circulation, biological production, food web structure and function, recycling and export of nutrients and organic matter.",
+    "credits": "3",
+    "requirement_description": "MARN 1002 or 1003; MATH 1110Q or 1071Q or 1131Q; BIOL 1107 and 1108; CHEM 1127Q and 1128Q; and PHYS 1201Q or 1401Q. Not open for credit to students who have passed MARN 2002.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

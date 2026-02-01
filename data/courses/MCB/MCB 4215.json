@@ -1,0 +1,16 @@
+{
+    "name": "MCB 4215",
+    "dept_code": "MCB",
+    "id_number": "4215",
+    "title": "Fundamentals of Light Microscopy and Digital Imaging",
+    "description": "The principles behind a wide range of microscopy techniques, including epifluorescence, confocal, Total Internal Reflectance Microscopy (TIRFM), and super-resolution and expansion microscopy.",
+    "credits": "3",
+    "requirement_description": "MCB 2210 or 2215. Recommended preparation: MCB 2225; experience with fluorescence microscopy gained through independent study in a biological sciences laboratory. Not open for credit to students who have passed MCB 3895 when offered as \"Fundamentals of Light Microscopy and Digital Imaging.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

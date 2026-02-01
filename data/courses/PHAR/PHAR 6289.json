@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 6289",
+    "dept_code": "PHAR",
+    "id_number": "6289",
+    "title": "Pharmacokinetics",
+    "description": "A discussion of absorption, distribution, and clearance mechanisms, and their impact on concentration-time profiles and drug response.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

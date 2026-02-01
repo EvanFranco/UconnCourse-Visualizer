@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5394",
+    "dept_code": "CHEG",
+    "id_number": "5394",
+    "title": "Seminar",
+    "description": "",
+    "credits": "0",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

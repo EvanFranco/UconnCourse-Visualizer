@@ -1,0 +1,16 @@
+{
+    "name": "POLS 5615",
+    "dept_code": "POLS",
+    "id_number": "5615",
+    "title": "Seminar in Qualitative Methods of Political Science",
+    "description": "A survey of qualitative research methods.  Training in use of case studies, comparative historical approach, interviewing and focus groups, ethnography and interpretive methods.",
+    "credits": "3",
+    "requirement_description": "POLS 5600 and 5605.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

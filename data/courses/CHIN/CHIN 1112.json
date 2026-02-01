@@ -1,0 +1,16 @@
+{
+    "name": "CHIN 1112",
+    "dept_code": "CHIN",
+    "id_number": "1112",
+    "title": "Elementary Chinese II",
+    "description": "Development of ability to communicate in Chinese, orally and in writing.",
+    "credits": "4",
+    "requirement_description": "CHIN 1111; not open to students who have had three or more years of Chinese in high school. Cannot be taken for credit after passing CHIN 1102, 1103, 1104, 1113, 1114.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2411",
+    "dept_code": "ECON",
+    "id_number": "2411",
+    "title": "Money and Banking",
+    "description": "The nature of money, the origins of monetary standards and systems, the development and operation of commercial banking, the Federal Reserve System, and international monetary agencies.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or both ECON 1201 (or ARE 1150) and ECON 1202; ECON 1201 (or ARE 1150) may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

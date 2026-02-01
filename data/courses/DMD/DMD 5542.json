@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5542",
+    "dept_code": "DMD",
+    "id_number": "5542",
+    "title": "Introduction to Scripting for Games",
+    "description": "Introduction to the fundamentals of gameplay scripting utilizing a current game engine. At the end of this course students will have a basic understanding of scripting concepts, constructs like numbers, strings, assignment, loops, functions, arrays and available engine commands.",
+    "credits": "3",
+    "requirement_description": "Open to DMD majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

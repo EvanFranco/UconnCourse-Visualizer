@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3209",
+    "dept_code": "ECON",
+    "id_number": "3209",
+    "title": "Behavioral Economics",
+    "description": "Overview of the field of behavioral economics, the intersection between economics and psychology. Behavioral models of individual decision-making, with particular focus on intertemporal choice, decisions under uncertainty, and probabilistic judgments and learning. Applications to fields such as development economics and health economics.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q; STAT 1000Q or 1100Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

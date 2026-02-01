@@ -1,0 +1,22 @@
+{
+    "name": "HIST 3375W",
+    "dept_code": "HIST",
+    "id_number": "3375W",
+    "title": "The Devil in German History: Magic, Evil, and Faust",
+    "description": "Magic, conjuration, and witchcraft in the northern Renaissance; the problem of evil in historical analysis; the myth of Faust as a metaphor for the long course of German history.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "SOCI 2501",
+    "dept_code": "SOCI",
+    "id_number": "2501",
+    "title": "Sociology of Injustice",
+    "description": "Sociological concepts of intolerance and injustice and how they affect members of marginalized groups; case studies may consider social class, race/ethnicity, gender, sexuality, age, religion, and disability. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

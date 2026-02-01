@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5601",
+    "dept_code": "ISG",
+    "id_number": "5601",
+    "title": "Interpreting Clinical Genomic Data",
+    "description": "Interrogation of database resources for the identification and interpretation of genetic variation in the context of clinical case management. Accurate communication of genetic information in an accessible format according to established guidelines. Either semester and summer. Online.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Recommended preparation: ISG 5100, 5102, 5103, 5730.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

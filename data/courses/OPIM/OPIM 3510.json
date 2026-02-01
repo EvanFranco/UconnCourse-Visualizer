@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 3510",
+    "dept_code": "OPIM",
+    "id_number": "3510",
+    "title": "Business Data Analytics I",
+    "description": "Presents essential data analytics topics. Covers basic programming logic and techniques necessary for developing business data applications. The course will also cover topics related to data preprocessing and data cleaning with a light introduction to data mining and visualization techniques. Cannot be used to fulfill Analytics and Information Management (AIM) major requirements. Offered only at regional campus locations.",
+    "credits": "3",
+    "requirement_description": "OPIM 3103 or equivalent; open only to business majors of junior or higher status, others with the consent of the OPIM Department Head. Cannot be used to fulfill Analytics and Information Management (AIM) major requirements.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DENT 6463",
+    "dept_code": "DENT",
+    "id_number": "6463",
+    "title": "Radiation Physics, Safety and Biology in Oral and Maxillofacial Diagnostic Imaging",
+    "description": "A lecture, seminar and discussion-based course examining the fundamentals of the physics involving the most commonly used diagnostic imaging modalities in oral and maxillofacial radiology. The first part of the course deals with the physics of plain film radiography, panoramic radiography, CT, CBCT, MRI. Fundamentals of digital imaging will also be discussed. The last part of the course deals with radiation safety. Radiation safety measures and guidelines for practicing safe radiation techniques that will minimize the risk for patients and the operators during image acquisition will be discussed.",
+    "credits": "2",
+    "requirement_description": "Open only to current UConn Health Dental Residents in the combined Certificate/Master of Dental Science Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

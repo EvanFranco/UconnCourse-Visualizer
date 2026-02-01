@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 4473",
+    "dept_code": "MUSI",
+    "id_number": "4473",
+    "title": "Seminar: History of Musical Forms",
+    "description": "Sonata, concerto, madrigal, motet, or other musical forms. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "MUSI 3403 and one MUSI 2000 level or higher W course; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 5641",
+    "dept_code": "ANSC",
+    "id_number": "5641",
+    "title": "Food Chemistry",
+    "description": "Chemical, physical and biological changes in foods and food macromolecules that occur during processing and storage that affect texture, color, flavor, stability and nutritive qualities. Field trips may be required.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

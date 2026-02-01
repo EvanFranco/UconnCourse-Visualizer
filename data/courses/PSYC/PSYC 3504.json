@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3504",
+    "dept_code": "PSYC",
+    "id_number": "3504",
+    "title": "Music Perception and Cognition",
+    "description": "(Also offered as MUSI\u00a03504.) Perception and cognition of music including physics of sound, auditory perception and characteristic qualities of music.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

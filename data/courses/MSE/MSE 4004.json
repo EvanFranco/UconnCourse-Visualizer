@@ -1,0 +1,16 @@
+{
+    "name": "MSE 4004",
+    "dept_code": "MSE",
+    "id_number": "4004",
+    "title": "Thermal/Mechanical Processing of Materials",
+    "description": "Fundamental principles of materials processing and their quantitative application to process design will be illustrated for deformation processes: forging, rolling, drawing, extrusion, injection molding, powder compaction and sintering.",
+    "credits": "3",
+    "requirement_description": "MSE 3004, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

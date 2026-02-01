@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 5610",
+    "dept_code": "ENGR",
+    "id_number": "5610",
+    "title": "Foundations in Engineering Education Research",
+    "description": "Introduction to the research in the field of engineering education. The course will begin with a brief history of the field of engineering education research and then expand to prominent topics, including but not limited to learning theories applied to engineering education research, motivation and identity in engineering education, diversity, justice, equity, and inclusivity in engineering, design in engineering education, sociotechnical engineering education, informal learning, co-curricular supports, workforce development, and industry collaborations.",
+    "credits": "3",
+    "requirement_description": "Graduate standing or permission from instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

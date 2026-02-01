@@ -1,0 +1,21 @@
+{
+    "name": "AMST 2550",
+    "dept_code": "AMST",
+    "id_number": "2550",
+    "title": "Crime, Policing, and Punishment in the United States",
+    "description": "(Also offered as HIST\u00a02550.) A survey of political, legal, and cultural development of the American criminal justice system and its social impact from the early republic to the present. Formerly offered as AMST/HIST 2810. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

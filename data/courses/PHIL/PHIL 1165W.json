@@ -1,0 +1,20 @@
+{
+    "name": "PHIL 1165W",
+    "dept_code": "PHIL",
+    "id_number": "1165W",
+    "title": "Philosophy and Literature",
+    "description": "Philosophical problems raised by, and illuminated in, major works of literature. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

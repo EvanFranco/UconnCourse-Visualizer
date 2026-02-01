@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 5094",
+    "dept_code": "PHYS",
+    "id_number": "5094",
+    "title": "Physics Seminar",
+    "description": "The treatment of special topics, primarily by individual readings and reports. May be repeated for a total of 2 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

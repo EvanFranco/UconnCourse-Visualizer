@@ -1,0 +1,16 @@
+{
+    "name": "BME 5099",
+    "dept_code": "BME",
+    "id_number": "5099",
+    "title": "Independent Study",
+    "description": "Individual exploration of special topics as arranged by the student with an instructor of his or her choice. May be repeated for a total of 18 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

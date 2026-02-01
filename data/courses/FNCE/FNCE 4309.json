@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 4309",
+    "dept_code": "FNCE",
+    "id_number": "4309",
+    "title": "High Frequency Trading Management",
+    "description": "Focus on finance machines and automatic bots as essentials part of the current trading infrastructure in the U.S. market. Exposes students to the world of high frequency trading and market making. Intent is to be less theoretical but more practical so that students will experience firsthand some of the issues that high frequency trading system operators have.",
+    "credits": "3",
+    "requirement_description": "FNCE 3101 for Business majors or MATH 3650 Math-Act Sci-Finance majors; FNCE 3302 or 3303 for Business majors or MATH 3660 Math-Act Sci-Finance majors; open only to Business majors or Mathematics-Actuarial Science-Finance majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5284",
+    "dept_code": "MCB",
+    "id_number": "5284",
+    "title": "Current Topics in Cell and Developmental Biology",
+    "description": "Reading and discussion of papers from the recent literature. Topics include cytoskeletal function, cell motility, gene expression, and signal transduction, with special focus on their relationship to development, host-pathogen interactions, the immune system, and cancer. May be repeated for a total of six credits. May be repeated for a total of 6 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

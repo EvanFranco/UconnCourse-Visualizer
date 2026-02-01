@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 3080",
+    "dept_code": "UNIV",
+    "id_number": "3080",
+    "title": "Peer Mentor Leadership Development Course",
+    "description": "Focus on personal growth and leadership development to foster empowerment of self and others through peer mentoring. Students will explore social, cultural, personal, and academic issues that affect first-year students, in particular first-generation college students from underrepresented populations. Some topics covered are empathy, MBTI, effective communications, the transition to college, growth mindset, cultural diversity, and self-awareness. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open only with consent of instructor, open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

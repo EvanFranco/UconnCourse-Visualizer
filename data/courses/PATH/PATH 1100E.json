@@ -1,0 +1,23 @@
+{
+    "name": "PATH 1100E",
+    "dept_code": "PATH",
+    "id_number": "1100E",
+    "title": "One Health: People, Animals, Plants, and the Environment",
+    "description": "Exploration of health concepts and ecosystems where people, animals, plants, and the environment interconnect and impact each other. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

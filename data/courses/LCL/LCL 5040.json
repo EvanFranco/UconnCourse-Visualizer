@@ -1,0 +1,16 @@
+{
+    "name": "LCL 5040",
+    "dept_code": "LCL",
+    "id_number": "5040",
+    "title": "Introduction to Literary and Cultural Theory",
+    "description": "A broad introduction to the historical, interdisciplinary, and contemporary theoretical parameters and models in literary, visual and cultural studies.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in LCL, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

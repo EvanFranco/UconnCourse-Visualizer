@@ -1,0 +1,16 @@
+{
+    "name": "SOWK 3100",
+    "dept_code": "SOWK",
+    "id_number": "3100",
+    "title": "Human Behavior and Social Environment I",
+    "description": "Examines theories of human behavior in the social environment from a \"person-in-environment\" approach. Focuses on macro contextual factors that shape human experience.",
+    "credits": "3",
+    "requirement_description": "Open only to Bachelor of Social Work students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

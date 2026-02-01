@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5008",
+    "dept_code": "EDCI",
+    "id_number": "5008",
+    "title": "Philosophical Analysis in Education",
+    "description": "Introduction to philosophical analysis of significant educational concepts.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

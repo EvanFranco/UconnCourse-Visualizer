@@ -1,0 +1,16 @@
+{
+    "name": "MARN 4001",
+    "dept_code": "MARN",
+    "id_number": "4001",
+    "title": "Measurement and Analysis in Coastal Ecosystems",
+    "description": "Examination of oceanographic processes in local coastal systems; collection and analyses of samples from field trips and lab experiments; data analysis using computers. Required field trips.",
+    "credits": "4",
+    "requirement_description": "MARN 3001 and MARN 3002.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

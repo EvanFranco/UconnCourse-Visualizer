@@ -1,0 +1,16 @@
+{
+    "name": "EMBA 5212",
+    "dept_code": "EMBA",
+    "id_number": "5212",
+    "title": "Financial Statement Analysis",
+    "description": "Students gain in-depth knowledge of accounting principles used to record assets, liabilities, and owner's equity and the effects of these accounting principles on the analysis of the enterprise. Students construct and interpret the major metrics that are used in financial statement analysis, and apply the techniques to create pro-forma financial statements.",
+    "credits": "1.5",
+    "requirement_description": "Open only to Executive MBA students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

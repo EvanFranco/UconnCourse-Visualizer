@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4139",
+    "dept_code": "CHEG",
+    "id_number": "4139",
+    "title": "Chemical Engineering Senior Laboratory",
+    "description": "Open-ended laboratory investigations in chemical engineering focusing on reaction kinetics, reactor design, process control, and mass transfer; emphasis on student teamwork and on design of experiments to meet objectives; technical report writing; oral presentations.",
+    "credits": "2",
+    "requirement_description": "CHEG 3112; CHEG 3123; CHEG 3124; open only to Chemical Engineering majors. Recommended preparation: CHEG 3151, 4137 and 4147.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

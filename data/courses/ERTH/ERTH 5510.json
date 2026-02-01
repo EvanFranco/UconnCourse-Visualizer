@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5510",
+    "dept_code": "ERTH",
+    "id_number": "5510",
+    "title": "Applied and Environmental Geophysics",
+    "description": "Principles of imaging the Earth's interior using observations of electric, magnetic, and gravity fields, with applications to environmental problems.",
+    "credits": "3",
+    "requirement_description": "MATH 1131Q and PHYS 1201Q or equivalent. Not open for credit to students who have passed ERTH 4510.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

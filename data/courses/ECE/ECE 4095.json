@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4095",
+    "dept_code": "ECE",
+    "id_number": "4095",
+    "title": "Special Topics in Electrical and Computer Engineering",
+    "description": "Classroom and/or laboratory course in special topics as announced in advance for each semester. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

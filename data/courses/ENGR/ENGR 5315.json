@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 5315",
+    "dept_code": "ENGR",
+    "id_number": "5315",
+    "title": "M.Eng. Capstone",
+    "description": "Required for students matriculated in the Master of Engineering program to complete an interdisciplinary engineering project where the subject matter/content spans more than one field of interest. The project should draw upon and demonstrate the application of material taught in the M.Eng. program. The subject of the project selected could be one that supports the company for which the graduate student is employed or can be created in collaboration with the student's capstone faculty advisor.",
+    "credits": "3",
+    "requirement_description": "Open only to students in the Master of Engineering (MENG) program who have successfully completed at least 24 credits of coursework.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

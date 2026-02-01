@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5250",
+    "dept_code": "MCB",
+    "id_number": "5250",
+    "title": "Techniques in Cellular Analysis",
+    "description": "Examination of methodologies used to address cell biological questions: how they work, how they synergize, their advantages and disadvantages. Topics include detection and measurement of protein activities and interactions, molecular genetic manipulation of gene expression and protein function, determination of cellular localization and in vivo functional assays.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Molecular and Cell Biology, others with permission. Recommended preparation: a course in cell biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

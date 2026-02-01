@@ -1,0 +1,16 @@
+{
+    "name": "SAPL 640",
+    "dept_code": "SAPL",
+    "id_number": "640",
+    "title": "Plant Propagation",
+    "description": "Theory and practice in sexual and asexual propagation of horticultural plants, emphasizing the anatomical, physiological, and ecological principles involved. Laboratories provide practical experience with seeds, division, cuttings, budding, grafting, layering and tissue culture.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

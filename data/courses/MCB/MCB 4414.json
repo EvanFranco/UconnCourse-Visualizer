@@ -1,0 +1,16 @@
+{
+    "name": "MCB 4414",
+    "dept_code": "MCB",
+    "id_number": "4414",
+    "title": "Genome Dynamics and Epigenetics",
+    "description": "An examination of the mechanisms of eukaryotic genome function and dynamics. Topics include, but are not limited to, chromatin organization, chromosome structure and function, and nuclear architecture.",
+    "credits": "3",
+    "requirement_description": "MCB 2400 or MCB 2410. Recommended preparation: MCB 2210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

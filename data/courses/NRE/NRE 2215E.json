@@ -1,0 +1,20 @@
+{
+    "name": "NRE 2215E",
+    "dept_code": "NRE",
+    "id_number": "2215E",
+    "title": "Introduction to Water Resources",
+    "description": "Introduction to surface and ground water resource assessment, development and management. Integration of scientific, legal, environmental and human factors that enter into developing and maintaining sustainable water resources. Examines current and future plight of water shortages and water quality issues here and abroad. Three class periods and two field trips (two virtual field trips if taken online).",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher. Recommended preparation: NRE 1000 and ERTH 1050.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

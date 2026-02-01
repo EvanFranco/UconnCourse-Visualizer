@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 5088",
+    "dept_code": "HDFS",
+    "id_number": "5088",
+    "title": "Supervised Field Work in Family Development",
+    "description": "Work in a community agency related to the field of family development. May be repeated for a total of 21 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open to graduate students in Human Development and Family Sciences; others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

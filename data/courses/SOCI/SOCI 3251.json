@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 3251",
+    "dept_code": "SOCI",
+    "id_number": "3251",
+    "title": "Social Theory",
+    "description": "Overview of classic and contemporary sociological theories, and how these theories help explain current society and shape contemporary sociological research.",
+    "credits": "3",
+    "requirement_description": "SOCI 1001, 1251, 1501, or 1701; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

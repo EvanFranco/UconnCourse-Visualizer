@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3219",
+    "dept_code": "MCB",
+    "id_number": "3219",
+    "title": "Developmental and Regenerative Biology",
+    "description": "Fundamental principles that govern animal embryonic development and regeneration with emphasis on the cellular and molecular basis of pattern formation and cell differentiation in a variety of model organisms. Relevance to human development and disease and therapeutic applications will be discussed.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107. Recommended preparation: MCB 2210 and 2400 or 2410 which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

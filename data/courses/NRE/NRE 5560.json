@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5560",
+    "dept_code": "NRE",
+    "id_number": "5560",
+    "title": "High Resolution Remote Sensing: Applications of UAS and LiDAR",
+    "description": "Introduction to high-resolution remote sensing data and collection platforms. The first half of the course focuses on unmanned aerial systems (UAS) including operations, data collection, and post-processing of acquired data. Topics include laws, safety, and ethical considerations; mission planning, sensor selection, and photogrammetric processing of the collected data in commercial software. The second half of the course focuses on the fundamentals of light detection and ranging (LiDAR) and applications of LiDAR in mapping and environmental analysis. Topics include LiDAR point-cloud visualization and interpretation, creation of digital elevation and surface models, and feature extraction using ArcGIS and LAS Tools.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

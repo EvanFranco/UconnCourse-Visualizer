@@ -1,0 +1,16 @@
+{
+    "name": "PNB 6415",
+    "dept_code": "PNB",
+    "id_number": "6415",
+    "title": "Ion Channels and Physiology",
+    "description": "Exploration of major classes of ion channels, including ligand-gated, voltage-gated, mechanosensitive, thermosensitive and light-sensitive channels and their roles in physiology. Discussions of research approaches and emerging technologies in ion channel physiology.",
+    "credits": "3",
+    "requirement_description": "PNB 5001 and 5002.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

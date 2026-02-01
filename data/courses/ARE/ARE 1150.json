@@ -1,0 +1,20 @@
+{
+    "name": "ARE 1150",
+    "dept_code": "ARE",
+    "id_number": "1150",
+    "title": "Principles of Applied and Resource Economics",
+    "description": "An introduction to microeconomic analysis with applications to food, nutrition, health, natural resources, and the environment. Topics include consumer and firm behavior, supply, demand, markets, and economic policy. CA 2.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed ECON 1201.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

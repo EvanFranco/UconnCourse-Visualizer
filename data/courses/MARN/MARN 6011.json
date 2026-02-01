@@ -1,0 +1,16 @@
+{
+    "name": "MARN 6011",
+    "dept_code": "MARN",
+    "id_number": "6011",
+    "title": "Advanced Biological Oceanography - Benthic Processes",
+    "description": "Physical and physiological constraints on the benthos, benthic-pelagic coupling, species interactions, community assembly and dynamics, and anthropogenic impacts.",
+    "credits": "3",
+    "requirement_description": "MARN 5010 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

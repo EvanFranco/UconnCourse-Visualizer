@@ -1,0 +1,16 @@
+{
+    "name": "DENT 5432",
+    "dept_code": "DENT",
+    "id_number": "5432",
+    "title": "Biomaterials for Dental Graduates",
+    "description": "Literature review/seminar covering various subjects of current interest in dental materials. Some prior knowledge of dental materials or of materials science is assumed.",
+    "credits": "2",
+    "requirement_description": "Open only to current UConn Health Dental Residents in the combined Certificate/Master of Dental Science Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

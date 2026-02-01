@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5131",
+    "dept_code": "MATH",
+    "id_number": "5131",
+    "title": "Functional Analysis II",
+    "description": "Normed linear spaces and algebras, the theory of linear operators, spectral analysis. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "MATH 5111.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

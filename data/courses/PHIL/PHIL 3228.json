@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 3228",
+    "dept_code": "PHIL",
+    "id_number": "3228",
+    "title": "American Philosophy",
+    "description": "Doctrines advanced by recent American philosophers.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CE 6725",
+    "dept_code": "CE",
+    "id_number": "6725",
+    "title": "Statistical and Econometric Methods for Transportation Data Analysis",
+    "description": "Application of various statistical methods for analysis of transportation data, including linear regression, count data models, logistic regression, discrete outcome models, ordered probability models, random parameter models, and duration models among others.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: CE 2251, CE 5720 or 5730 or 5740 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5242",
+    "dept_code": "ECE",
+    "id_number": "5242",
+    "title": "Micro-Optoelectronic Devices and IC Fabrication",
+    "description": "Semiconductor wafer characterization using Hall effect, X-ray diffraction, and Photoluminescence; Semiconductor wafer processing using Diffusion, Oxidation, Epitaxial growth and/or Qdot self-assembly, Photolithographic techniques; Project work including design, modeling and fabrication of solar cells, FETs, Memory, LED and Lasers, sensors, and IC building blocks for digital and analog circuits.",
+    "credits": "3",
+    "requirement_description": "ECE 3221 and 4211. Not open for credit for students who have passed ECE 4242.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "LCL 6040",
+    "dept_code": "LCL",
+    "id_number": "6040",
+    "title": "Interdisciplinary Seminar",
+    "description": "An interdisciplinary LCL seminar team-taught by at least two faculty with different areas of specialization within LCL. Variable topics, depending on the interests of the faculty. Offered once a year (fall or spring) with change of topic. Although the course will taught in English in order to facilitate working across different languages, students will be expected to do research and and/or write seminar papers in the language(s) of their specialization, as appropriate. Candidates for the Ph.D. in Literatures, Cultures and Languages will be required to complete at least one such interdisciplinary seminar before advancing to candidacy. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "Open only to LCL graduate students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

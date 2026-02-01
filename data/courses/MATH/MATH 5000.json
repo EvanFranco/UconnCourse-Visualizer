@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5000",
+    "dept_code": "MATH",
+    "id_number": "5000",
+    "title": "Mathematical Pedagogy",
+    "description": "The theory and practice of teaching mathematics at the college level. Basic skills, grading methods, cooperative learning, active learning, use of technology, classroom problems, history of learning theory, reflective practice. Open to graduate students in Mathematics, others with consent of instructor. May not be used to satisfy degree requirements in mathematics.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

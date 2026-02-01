@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3252",
+    "dept_code": "PNB",
+    "id_number": "3252",
+    "title": "Physiological Model Systems",
+    "description": "Comparative exploration of classic and emerging model organisms and their translational research applications towards human health and well-being. Environmental, ethical, and policy considerations relating to animal experimentation.",
+    "credits": "3",
+    "requirement_description": "A 2000-level PNB course. Recommended preparation: Undergraduate class in basic comparative animal physiology such as BIOL 1108 or EEB 2214 or PNB 2250.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

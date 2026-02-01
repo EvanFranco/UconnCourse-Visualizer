@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 3120",
+    "dept_code": "ENGR",
+    "id_number": "3120",
+    "title": "LabVIEW Basics for Engineers",
+    "description": "Introduces LabVIEW programming environment. The fundamentals of using graphical programming to collect, analyze, display and store data are covered. Learn techniques for designing stand alone applications, creating interactive user interfaces and optimizing data flow.",
+    "credits": "1",
+    "requirement_description": "CSE 1010 or 1100; open only to School of Engineering majors. Not open for credit to students who have passed BME 3120.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

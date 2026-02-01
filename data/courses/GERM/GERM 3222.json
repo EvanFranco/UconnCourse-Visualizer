@@ -1,0 +1,16 @@
+{
+    "name": "GERM 3222",
+    "dept_code": "GERM",
+    "id_number": "3222",
+    "title": "Fields of Technology",
+    "description": "A series of lectures and discussion periods on special topics in science and engineering.",
+    "credits": "1",
+    "requirement_description": "GERM 3220 and 3221.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ARE 4900",
+    "dept_code": "ARE",
+    "id_number": "4900",
+    "title": "Farm Credit Fellows Seminar",
+    "description": "Course offered with Farm Credit East. Students learn agribusiness concepts from the lender's perspective. Students taking this course will be assigned a grade of S (satisfactory) or U (unsatisfactory).",
+    "credits": "1",
+    "requirement_description": "One or more of the following courses: ARE 2150, 2210, 2215; ACCT 2001; BADM 3730; or FNCE 3101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

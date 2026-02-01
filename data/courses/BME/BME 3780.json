@@ -1,0 +1,16 @@
+{
+    "name": "BME 3780",
+    "dept_code": "BME",
+    "id_number": "3780",
+    "title": "Introduction to Biomanufacturing: Pharmaceutical Proteins",
+    "description": "This course provides an overview of the large scale bioprocessing and biomanufacturing of biopharmaceutical products (biologics). Topics include conventional versus biologic drug manufacturing, key phases in the process of drug manufacturing (bench to bottle), upstream and downstream operations, bioreactor design, purification process, safety and efficiency of biologics, quality assurance, regulation and introduction to Good Manufacturing Practices (GMP) in bio-manufacturing.",
+    "credits": "3",
+    "requirement_description": "Open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

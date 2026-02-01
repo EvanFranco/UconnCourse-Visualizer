@@ -1,0 +1,16 @@
+{
+    "name": "BADM 5103",
+    "dept_code": "BADM",
+    "id_number": "5103",
+    "title": "Statistics and Spreadsheet Modeling",
+    "description": "Covers classical inference procedures and basic statistical concepts often essential to interpretation of business data. Students will learn to ask probing questions about the specifics of data and statistical techniques, to understand the conditions for drawing reliable inferences, and to assess the validity of statistical evidence. Topics include: discrete and continuous random variables, sampling, confidence intervals and hypothesis testing. Builds students' abilities for effective quantitative business analysis and communication, using a spreadsheet program such as Excel. Spreadsheet modeling uses such as regression, forecasting, simulation and decision models will be covered, in different functional areas including finance, marketing, operations, and management.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed BADM 5180, 5181, or OPIM 5103.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

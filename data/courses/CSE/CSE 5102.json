@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5102",
+    "dept_code": "CSE",
+    "id_number": "5102",
+    "title": "Advanced Programming Languages",
+    "description": "The theory and pragmatics of modern programming languages. Topics include syntax, semantics, type systems and control mechanisms. Key contributions from Functional and Logic Programming including first-order functions, closures, continuations, non-determinism and unification are studied. Study of declarative and operational semantics of recent entries in the field like Constraint Programming and Aspect Oriented Programming.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 4102 and 3502 or the equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

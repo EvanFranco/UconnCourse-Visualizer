@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 6203",
+    "dept_code": "OPIM",
+    "id_number": "6203",
+    "title": "Seminar in Management Information Systems",
+    "description": "A topic on a significant applied or theoretical aspect of information systems will be chosen. Broadly, these aspects will encompass modeling, design, implementation, testing, and operation of computer information systems, and the implications of information technologies for the organization. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

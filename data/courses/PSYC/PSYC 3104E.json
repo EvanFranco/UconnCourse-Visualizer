@@ -1,0 +1,20 @@
+{
+    "name": "PSYC 3104E",
+    "dept_code": "PSYC",
+    "id_number": "3104E",
+    "title": "Environmental Psychology",
+    "description": "Reciprocal relationships between built and natural environments and human behavior.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100 and 1101 or 1103.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

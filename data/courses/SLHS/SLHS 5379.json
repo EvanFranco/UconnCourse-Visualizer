@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 5379",
+    "dept_code": "SLHS",
+    "id_number": "5379",
+    "title": "Introduction to Medical Speech Pathology 1",
+    "description": "Lectures and clinical rotations at UConn Health to prepare students for their off-campus medical practicum.",
+    "credits": "1",
+    "requirement_description": "Intended for first year graduate students currently enrolled in the SLHS MA program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5920",
+    "dept_code": "NUSC",
+    "id_number": "5920",
+    "title": "Advances in Immunological Research",
+    "description": "A discussion-based course reviewing the latest developments in the field of Immunology with an emphasis on the impact of nutritional and other environmental factors on immune-mediated diseases. Topics include novel conceptual and technological advances as it pertains to the study of immunological mechanisms, role of the immune system in various diseases, and application of immunological principles in basic science research and drug development.",
+    "credits": "3",
+    "requirement_description": "NUSC 4270 or NUSC 5270 or equivalent or Instructor Consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

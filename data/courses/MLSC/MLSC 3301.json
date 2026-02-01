@@ -1,0 +1,16 @@
+{
+    "name": "MLSC 3301",
+    "dept_code": "MLSC",
+    "id_number": "3301",
+    "title": "Fundamentals of Medical Laboratory Sciences",
+    "description": "Introduction to the various disciplines of study in laboratory medicine. Principles of laboratory safety, quality assurance and quality control and laboratory mathematics, as well as use of common laboratory equipment.",
+    "credits": "3",
+    "requirement_description": "Open only to Medical Laboratory Sciences majors and Medical Laboratory Sciences certificate students; others with consent of Medical Laboratory Sciences Program Director.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

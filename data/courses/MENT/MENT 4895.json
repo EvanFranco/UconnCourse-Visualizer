@@ -1,0 +1,16 @@
+{
+    "name": "MENT 4895",
+    "dept_code": "MENT",
+    "id_number": "4895",
+    "title": "Special Topics",
+    "description": "Classroom course in special topics in management as announced in advance for each semester. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Prerequisites and recommended preparation vary by section; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

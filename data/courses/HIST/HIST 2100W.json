@@ -1,0 +1,18 @@
+{
+    "name": "HIST 2100W",
+    "dept_code": "HIST",
+    "id_number": "2100W",
+    "title": "The Historian's Craft",
+    "description": "Learning critical reading, thinking, and writing skills by interpreting a variety of primary sources.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Open only to history majors. May not be taken out of sequence after passing HIST 4996 or 4997.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

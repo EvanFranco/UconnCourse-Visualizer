@@ -1,0 +1,18 @@
+{
+    "name": "ME 4973W",
+    "dept_code": "ME",
+    "id_number": "4973W",
+    "title": "Senior Design Project II",
+    "description": "Projects which have started in the previous semester will be completed. The project analysis, design, and manufacture stages will take place. Both written and oral reports will be required.",
+    "credits": "3",
+    "requirement_description": "ME 3260 or 3264; ME 3262 or 3263; and ME 4972; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

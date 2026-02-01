@@ -1,0 +1,16 @@
+{
+    "name": "STAT 2255",
+    "dept_code": "STAT",
+    "id_number": "2255",
+    "title": "Statistical Programming",
+    "description": "Introduction to statistical programming via Python including data types, control flow, object-oriented programming, and graphical user interface-driven applications such as Jupyter notebooks. Emphasis on algorithmic thinking, efficient implementation of different data structures, control and data abstraction, file processing, and data analysis and visualization.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q, or instructor consent. Recommended preparation: CSE 1010 or prior programming experience. Not open to students who have passed CSE 2050 or 2500 or ECON 3322 or 5322.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

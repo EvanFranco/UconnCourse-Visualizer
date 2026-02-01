@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 4193",
+    "dept_code": "DRAM",
+    "id_number": "4193",
+    "title": "Foreign Study",
+    "description": "Coursework undertaken within approved Study Abroad programs, with a focus on the theatre history, dramatic literature and production in a particular country or region. May count towards the major with consent of the advisor. Consent of Department head required, normally to be granted prior to the student's departure. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

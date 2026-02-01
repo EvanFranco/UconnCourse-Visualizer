@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 3124",
+    "dept_code": "CHEG",
+    "id_number": "3124",
+    "title": "Heat and Mass Transfer",
+    "description": "Conductive heat transfer; heat transfer coefficients and design of heat exchange systems. Radiation heat transfer, evaporation; design of mass transfer processes including distillation and extraction; analysis and design of diffusional processes such as gas absorption and humidification. Analytical and numerical methods for the solution of simple partial differential equations describing transport phenomena.",
+    "credits": "3",
+    "requirement_description": "CHEG 3123 and MATH 2410Q. Corequisite: CHEG 3128, 3151; open only to School of Engineering students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

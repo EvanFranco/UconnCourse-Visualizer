@@ -1,0 +1,16 @@
+{
+    "name": "ME 3299",
+    "dept_code": "ME",
+    "id_number": "3299",
+    "title": "Problems in Mechanical Engineering",
+    "description": "Designed primarily for students who wish to pursue a special line of study or investigation. The program of study is to be approved by the head of the department or director of undergraduate studies and by the instructor before registration is completed. May be repeated for a total of 9 credits.",
+    "credits": "1-4",
+    "requirement_description": "Open only to juniors and seniors in mechanical engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

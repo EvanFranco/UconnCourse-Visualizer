@@ -1,0 +1,16 @@
+{
+    "name": "POLS 2607",
+    "dept_code": "POLS",
+    "id_number": "2607",
+    "title": "American Political Parties",
+    "description": "An analysis of the aims, organization, and growth of parties in the United States.",
+    "credits": "3",
+    "requirement_description": "POLS 1602.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

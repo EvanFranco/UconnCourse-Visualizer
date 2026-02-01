@@ -1,0 +1,16 @@
+{
+    "name": "ARE 5993",
+    "dept_code": "ARE",
+    "id_number": "5993",
+    "title": "Teaching Practicum in Applied Economics",
+    "description": "Teaching practicum in the field of applied economics and policy related to agribusiness management, marketing and financial analysis, food systems, environmental and resource management, sustainability, economic development, and data analysis. Requires a learning agreement and student's advisor approval. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open only to graduate students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 3210",
+    "dept_code": "ACCT",
+    "id_number": "3210",
+    "title": "Introduction to Accounting Analytics",
+    "description": "In Introduction to Accounting Analytics, students will develop their ability to ask and answer meaningful accounting questions through data analytics. Using different types of data analysis software, students will identify business questions that can be answered using data, prepare data for analysis, perform tests, and analyze and communicate the results of testing. Students will learn to think critically about what makes a good accounting question and how data can be used to answer those questions. Students will apply these skills within an accounting framework, in areas such as financial reporting, auditing, and managerial accounting.",
+    "credits": "3",
+    "requirement_description": "ACCT 2001.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

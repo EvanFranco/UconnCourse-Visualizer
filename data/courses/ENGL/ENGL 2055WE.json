@@ -1,0 +1,22 @@
+{
+    "name": "ENGL 2055WE",
+    "dept_code": "ENGL",
+    "id_number": "2055WE",
+    "title": "Writing, Rhetoric, and Environment",
+    "description": "Critical analysis of and community-based practice in writing for nonspecialist audiences about complex environmental phenomena and issues such as climate. Attention to questions of rhetoric, representation, and ethics.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI1",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "W",
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

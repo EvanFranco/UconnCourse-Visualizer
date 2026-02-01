@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5102",
+    "dept_code": "NURS",
+    "id_number": "5102",
+    "title": "Basic and Clinical Pain Research",
+    "description": "Review of leading edge methods used to quantify and study pain in both human and nonhuman animal pain models.",
+    "credits": "3",
+    "requirement_description": "Recommended Preparation: Background in nursing or other healthcare-related training recommended but not required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

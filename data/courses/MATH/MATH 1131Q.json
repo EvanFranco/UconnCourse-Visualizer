@@ -1,0 +1,18 @@
+{
+    "name": "MATH 1131Q",
+    "dept_code": "MATH",
+    "id_number": "1131Q",
+    "title": "Calculus I",
+    "description": "Limits, continuity, differentiation, antidifferentiation, definite integral, with applications to the physical sciences and engineering sciences. Suitable for students with some prior calculus experience. Substitutes for MATH 1120Q, 1126Q, or 1151Q as a requirement. Two credits for students who have passed MATH 1125Q.",
+    "credits": "4",
+    "requirement_description": "A qualifying score on the math placement assessment (placement.uconn.edu/mathematics-placement). Students cannot receive credit for MATH 1131Q and either MATH 1120Q, 1121Q, 1126Q, or 1151Q (2 credits for students who have passed MATH 1125Q). May not be taken out of sequence after passing MATH 1132Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

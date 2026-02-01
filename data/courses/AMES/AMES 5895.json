@@ -1,0 +1,16 @@
+{
+    "name": "AMES 5895",
+    "dept_code": "AMES",
+    "id_number": "5895",
+    "title": "Special Topics in Advanced Manufacturing for Energy Systems",
+    "description": "Classroom and/or laboratory courses in special topics as announced in advance for each semester. The field of study or investigation is to be approved by the Program Director before announcement of the course. May be repeated for a total of 12 credits.",
+    "credits": "1-4",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

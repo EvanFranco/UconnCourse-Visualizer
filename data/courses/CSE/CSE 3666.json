@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3666",
+    "dept_code": "CSE",
+    "id_number": "3666",
+    "title": "Introduction to Computer Architecture",
+    "description": "Structure and operation of digital systems and computers. Instruction sets and assembly language. Integer and floating-point arithmetic. Machine organization, control and data paths, pipeline, and the memory hierarchy.",
+    "credits": "3",
+    "requirement_description": "CSE 2050 or 2100, and CSE 2301 or 2500; open only to students in the School of Engineering and declared Computer Science minors. Not open for credit after passing CSE 2304. May not be taken out of sequence after passing 4302.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

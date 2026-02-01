@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5440",
+    "dept_code": "DMD",
+    "id_number": "5440",
+    "title": "Mobile Application Development 1",
+    "description": "Provides an introductory experience into mobile application development. Through lecture and hands-on exercises, students will be introduced to the progresses, technologies, an environment or mobile applications. Emphasis will be on building simple android applications with the MIT App inventor to gain introductory knowledge of programming concepts and design.",
+    "credits": "3",
+    "requirement_description": "DMD 5070; open to DMD majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

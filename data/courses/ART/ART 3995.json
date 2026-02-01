@@ -1,0 +1,16 @@
+{
+    "name": "ART 3995",
+    "dept_code": "ART",
+    "id_number": "3995",
+    "title": "Investigation of Special Topics",
+    "description": "Special topics. Field trips may be required. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

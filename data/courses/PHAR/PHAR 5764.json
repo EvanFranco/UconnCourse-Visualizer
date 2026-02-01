@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5764",
+    "dept_code": "PHAR",
+    "id_number": "5764",
+    "title": "Advanced Pharmacy Administration",
+    "description": "A study of modern management techniques applicable in terminal drug distribution. Special emphasis is placed upon quantitative methods and the utilization of electronic data processing.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

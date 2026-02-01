@@ -1,0 +1,16 @@
+{
+    "name": "CLTR 5020",
+    "dept_code": "CLTR",
+    "id_number": "5020",
+    "title": "Biostatistical Methods in Clinical Research",
+    "description": "Quantitative procedures including descriptive and inferential statistics, non-parametric approaches to data, and parametric analyses through factorial analysis of variance.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

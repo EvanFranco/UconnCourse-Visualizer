@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 5314",
+    "dept_code": "ENGR",
+    "id_number": "5314",
+    "title": "Advanced Engineering Mathematics",
+    "description": "Advanced math topics including Laplace, Fourier and z-Transform methods, probability theory, ordinary differential equations and systems of ODEs, partial differential equations, vector calculus, elements of statistics, linear and non-linear optimization, matrix theory, and special functions like Bessel, Legendre, and gamma. This course is set up as modules. Students will be required to complete certain modules depending on their background and concentrations. Taught with AMES\u00a05101.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

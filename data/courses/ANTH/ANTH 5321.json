@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 5321",
+    "dept_code": "ANTH",
+    "id_number": "5321",
+    "title": "Ethnographic Methods I",
+    "description": "Theoretical foundations and basic tools used to conduct professional field studies in anthropology. Research design; moral and ethical dimensions of field work; designing and conducting informal, semi-structured and structured interviews (one-on-one and in groups); managing field notes, questionnaires, and data; computer data management; summary statistics and graphics; identifying and interpreting random variation; modeling and testing explanations. May be repeated for a total of 9 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

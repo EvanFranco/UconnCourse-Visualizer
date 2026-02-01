@@ -1,0 +1,16 @@
+{
+    "name": "CE 4541",
+    "dept_code": "CE",
+    "id_number": "4541",
+    "title": "Advanced Soil Mechanics",
+    "description": "Introduction of soil as a multi-phase material; stress and strain analysis in soil; soil compression and consolidation; shear strength of sand and clay; critical state soil mechanics; advanced topics in complex constitutive relationships; introduction to fracture mechanics.",
+    "credits": "3",
+    "requirement_description": "CE 3510 or equivalent; enrollment in the School of Engineering. Not open for credit for students who have passed CE 5541.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

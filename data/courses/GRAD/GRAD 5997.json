@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5997",
+    "dept_code": "GRAD",
+    "id_number": "5997",
+    "title": "Continuous Registration (Certificate)",
+    "description": "This is a non-credit course for which certificate students must register in cases where they are not otherwise registered for coursework but want to remain active in their program. May be repeated for a total of 0 credits.",
+    "credits": "0",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

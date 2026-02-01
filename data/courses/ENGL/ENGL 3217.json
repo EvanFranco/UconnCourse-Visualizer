@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 3217",
+    "dept_code": "ENGL",
+    "id_number": "3217",
+    "title": "Studies in African American Literature and Culture",
+    "description": "(Also offered as AFRA\u00a03217.) Focused study of a theme, form, author, or movement in African American literature or culture. CA 4. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

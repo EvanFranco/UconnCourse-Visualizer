@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2198",
+    "dept_code": "ECON",
+    "id_number": "2198",
+    "title": "Topics in Economic History and Thought",
+    "description": "Special topics in economic history, the history of economic thought, the philosophy and methodology of economics, or alternative economic theories. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or both ECON 1201 (or ARE 1150) and ECON 1202 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

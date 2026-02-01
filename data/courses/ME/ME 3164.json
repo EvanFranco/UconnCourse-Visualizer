@@ -1,0 +1,16 @@
+{
+    "name": "ME 3164",
+    "dept_code": "ME",
+    "id_number": "3164",
+    "title": "Aerospace Control Systems",
+    "description": "A comprehensive introduction to the principles and applications of control systems in aerospace engineering. Students will learn to model, analyze, and design control systems for aircraft and spacecraft, with an emphasis on both theoretical understanding and practical implementation. Key topics include the kinematics and dynamics of aircraft motion, modeling of aerospace vehicles, and time-domain and frequency-domain methods for control system analysis and design. Integrates classical control techniques to address stability, performance, and robustness in aerospace applications.",
+    "credits": "3",
+    "requirement_description": "ME 3253 or ME 3254. Not open to students who have passed ME 3295 when offered as \"Aerospace Control Systems.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

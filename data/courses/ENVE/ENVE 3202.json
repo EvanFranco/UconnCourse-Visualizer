@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 3202",
+    "dept_code": "ENVE",
+    "id_number": "3202",
+    "title": "Environmental Engineering Laboratory II",
+    "description": "Dispersion modeling, air pollution control sampling and design, air quality modeling, stormwater sampling, soil processes, environmental health assessment, BMP design and modeling. Interpretation of analytical results through written reports.",
+    "credits": "1",
+    "requirement_description": "Corequisite: ENVE 3230 and 4320; enrollment in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6466",
+    "dept_code": "ECON",
+    "id_number": "6466",
+    "title": "Environmental Economics",
+    "description": "(Also offered as ARE\u00a06466.) Economic analysis of environmental problems and corrective policy instruments. Theory of externalities and public goods, role of uncertainty and imperfect information in policy design, benefit-cost analysis, and non-market valuation. Applications to environmental problems (such as air and water pollution, hazardous waste, and occupational health and safety).",
+    "credits": "3",
+    "requirement_description": "ARE 5201 or ECON 5201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

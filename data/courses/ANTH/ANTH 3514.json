@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3514",
+    "dept_code": "ANTH",
+    "id_number": "3514",
+    "title": "European Prehistory",
+    "description": "Interdisciplinary survey of the archaeological, biological, cultural, and behavioral evolution of prehistoric humans and their societies across Europe and portions of western Asia.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

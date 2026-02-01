@@ -1,0 +1,23 @@
+{
+    "name": "URBN 3400E",
+    "dept_code": "URBN",
+    "id_number": "3400E",
+    "title": "Urban Parks and Sustainability",
+    "description": "Historical and contemporary analysis of park issues related to the social, ecological, and economic sustainability of cities, such as the racial politics of park advocacy, the changing social practices of park use, the privatization of public space, urban resilience and green infrastructure, and the relationship between parks, gentrification, and urban sustainability. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

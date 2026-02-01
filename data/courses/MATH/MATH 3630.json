@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3630",
+    "dept_code": "MATH",
+    "id_number": "3630",
+    "title": "Long-Term Actuarial Mathematics I",
+    "description": "Mathematical foundations of life contingencies and their applications to quantifying risks in other actuarial contexts. Topics include long-term insurance products, survival and longevity models, life tables, life insurance, life annuities, premium calculations, reserves.",
+    "credits": "4",
+    "requirement_description": "MATH 3160 or 3165 or STAT 3375Q; MATH 2620. Cannot be taken for credit after passing MATH 3631 or 5630.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

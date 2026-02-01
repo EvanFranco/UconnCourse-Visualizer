@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6504",
+    "dept_code": "MEDS",
+    "id_number": "6504",
+    "title": "The Genetics of Model Organisms",
+    "description": "The course is required for all students in the Genetics and Developmental Biology area of concentration and all students supported by the UConn/JAX Training Program in Genomic Science T32, although any other students in the Biomedical Sciences Graduate Program are welcome to enroll. The course is designed to provide students an in-depth overview of modern genetic approaches to studying biology. Genetics is a powerful and variable approach to dissect gene and organismal function. Through time, increasingly specific and sophisticated genetic approaches have been developed that further increase the power of genetics to studying biology. The course will investigate the full breadth of experimental paradigms for genetic analysis in six model genetic organisms (S. cerevisiae, Drosophila melanogaster, C. elegans, Zebrafish, mouse and human) through a structured series of lectures with a focus on the primary research literature. A series of research paper discussions will also be integrated with the lectures. In addition, the final session in each module will be a detailed discussion of a classical genetic paper using the organisms discussed in that module.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

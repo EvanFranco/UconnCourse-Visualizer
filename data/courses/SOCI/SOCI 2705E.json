@@ -1,0 +1,20 @@
+{
+    "name": "SOCI 2705E",
+    "dept_code": "SOCI",
+    "id_number": "2705E",
+    "title": "Sociology of Food",
+    "description": "Social factors shaping the industrial food system, as well as a social analysis of viable alternatives. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

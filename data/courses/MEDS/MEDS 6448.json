@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6448",
+    "dept_code": "MEDS",
+    "id_number": "6448",
+    "title": "Foundations of Biomedical Science I",
+    "description": "Encompasses topics considered fundamental to any student pursuing a Ph.D. in any Area of Concentration in the Biomedical Science Graduate Program. Combines an introduction to fundamental concepts along with a more in-depth analysis of the research that underlies some of these ideas. A variety of topics will be examined in approximately one-week modules that will include a basic, introductory one hour lecture on Mondays, a more in-depth discussion of one to two critical historical papers on an aspect of the topic on Wednesdays and then a small group discussion on a more modern paper related to the area on Fridays. Periodically, the course will include Consolidation weeks that discuss key methodologies in the context of new concepts or concepts previously discussed.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

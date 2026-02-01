@@ -1,0 +1,16 @@
+{
+    "name": "PNB 2264",
+    "dept_code": "PNB",
+    "id_number": "2264",
+    "title": "Human Physiology and Anatomy",
+    "description": "Fundamentals of human anatomy and physiology, for students in human health and human performance related majors. Topics covered include the musculoskeletal system, membrane potential, neurophysiology, the central nervous system, sensation, and the endocrine system. May not be counted toward the Biological Sciences or PNB majors.",
+    "credits": "4",
+    "requirement_description": "BIOL 1107; CHEM 1122 or 1124Q or 1127Q. Not open to students who have passed PNB 2274. May not be taken out of sequence after passing PNB 2265. Repeat restrictions apply; see advising.uconn.edu/repeat-policy for more information.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

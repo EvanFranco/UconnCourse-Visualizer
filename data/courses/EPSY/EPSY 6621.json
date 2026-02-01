@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6621",
+    "dept_code": "EPSY",
+    "id_number": "6621",
+    "title": "Program Evaluation",
+    "description": "An overview of quantitative and qualitative procedures used in the evaluation of educational programs. Current trends and practical applications are stressed.",
+    "credits": "3",
+    "requirement_description": "EPSY 5605, EPSY 5607, and EPSY 6601.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

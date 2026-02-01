@@ -1,0 +1,20 @@
+{
+    "name": "HDFS 1060",
+    "dept_code": "HDFS",
+    "id_number": "1060",
+    "title": "Close Relationships Across the Lifespan",
+    "description": "Theory and research on topics in the close relationship literature including attraction, relationship development and maintenance, friendship and social support, love, sexuality, intimacy, power, communication, conflict, dissolution and divorce, and bereavement. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

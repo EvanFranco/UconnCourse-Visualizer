@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4450",
+    "dept_code": "CHEG",
+    "id_number": "4450",
+    "title": "Membrane Separations",
+    "description": "This course provides an overview of how membrane technology impacts various parts of our industrial and commercial sector.  The course will cover the following: Fundamentals of liquid and gas separations, membrane fabrication and manufacturing, membrane characterization, introductory membrane systems engineering, conventional and emergent applications in membrane technology. The course will include reviews of the refereed literature, in-class presentations, and laboratory tours/demonstrations when appropriate.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: CHEG 2103, CHEG 2111, CHEG 3124.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

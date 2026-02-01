@@ -1,0 +1,16 @@
+{
+    "name": "COMM 2110",
+    "dept_code": "COMM",
+    "id_number": "2110",
+    "title": "Presenting in the Digital World",
+    "description": "Fundamentals of applying computer mediated communication skills, with emphasis on best practices for producing a range of effective digital presentations.",
+    "credits": "3",
+    "requirement_description": "COMM 1000. Recommended preparation: COMM 2100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

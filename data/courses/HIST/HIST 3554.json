@@ -1,0 +1,22 @@
+{
+    "name": "HIST 3554",
+    "dept_code": "HIST",
+    "id_number": "3554",
+    "title": "Immigrants and the Shaping of American History",
+    "description": "(Also offered as AAAS\u00a03554.) The origins of immigration to the United States and the interaction of immigrants with the social, political, and economic life of the nation after 1789, with emphasis on such topics as nativism, assimilation, and the \"ethnic legacy.\" CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: One course in American history.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

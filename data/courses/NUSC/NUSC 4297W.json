@@ -1,0 +1,18 @@
+{
+    "name": "NUSC 4297W",
+    "dept_code": "NUSC",
+    "id_number": "4297W",
+    "title": "Senior Thesis in Nutrition",
+    "description": "Consent of honor advisor and department head required.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011 or 2011; open only by consent of honors advisor and department head;",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

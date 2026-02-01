@@ -1,0 +1,16 @@
+{
+    "name": "SAAS 363",
+    "dept_code": "SAAS",
+    "id_number": "363",
+    "title": "Management Skills and Practices - Dairy Cattle I",
+    "description": "Practical experience in common management practices is offered by working in the University facilities under supervision. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory).",
+    "credits": "1",
+    "requirement_description": "May not be taken out of sequence after passing SAAS 364.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

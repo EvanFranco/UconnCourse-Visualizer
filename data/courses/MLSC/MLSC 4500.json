@@ -1,0 +1,16 @@
+{
+    "name": "MLSC 4500",
+    "dept_code": "MLSC",
+    "id_number": "4500",
+    "title": "Laboratory Operations and Professional Practice",
+    "description": "Professionalism and basic management practice in the clinical laboratory. Human resource management, continuous quality improvement/performance improvement, financial management. Educational methodology and terminology and communication skills.",
+    "credits": "2",
+    "requirement_description": "Open to Medical Laboratory Sciences and Diagnostic Genetic Sciences programs, others with consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 6455",
+    "dept_code": "MEDS",
+    "id_number": "6455",
+    "title": "Introduction to Systems Biology",
+    "description": "Guides students into a biology world as seen by engineers, physicists, mathematicians and computer scientists. Discussion of different kinds of predictive mathematical models and their dynamical behavior; stability, switching and stochasticity of a biological system; resources needed to start building a model; models exchange, simulation and visualization; public databases and software tools available for a modeler. Provides the necessary background to read modeling papers, choose Systems Biology resources that will help in biological projects, and be able to select a modeling technique appropriate for a given biological project.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EEB 6481",
+    "dept_code": "EEB",
+    "id_number": "6481",
+    "title": "Seminar in Biodiversity",
+    "description": "Provides the opportunity for students to present research plans, reports of work in progress, and full-length seminars on completed research projects in ecology, systematics, and evolutionary biology to a supportive but critical audience. May be repeated for a total of 24 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

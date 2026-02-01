@@ -1,0 +1,16 @@
+{
+    "name": "AH 5370",
+    "dept_code": "AH",
+    "id_number": "5370",
+    "title": "Applied Advanced Nutrition",
+    "description": "Provides student with advanced nutrition information for the effective management of complex medical and public health problems. Emphasizes the impact of nutrients and food components on human health. The research regarding the physiological, pathological and metabolic basis for nutrients in health and disease will be emphasized.",
+    "credits": "3",
+    "requirement_description": "DIET 4272, 4350, 4360 and 4365 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

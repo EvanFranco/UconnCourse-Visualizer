@@ -1,0 +1,16 @@
+{
+    "name": "CLTR 5099",
+    "dept_code": "CLTR",
+    "id_number": "5099",
+    "title": "Independent Study in Clinical and Translational Research",
+    "description": "A reading course for those wishing to pursue special topics in the clinical and translational research under faculty supervision. May be repeated for a total of 6 credits.",
+    "credits": "1-4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3323",
+    "dept_code": "ANSC",
+    "id_number": "3323",
+    "title": "Animal Embryology and Biotechnology",
+    "description": "Introduction to recent research in animal embryology and related reproductive biotechnologies. Basic principles, methodology and state of the technology for numerous established and emerging animal biotechnologies such as transgenesis and cloning.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher. Recommended preparation: ANSC 3122 or MCB 4219.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

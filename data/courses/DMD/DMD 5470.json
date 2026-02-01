@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5470",
+    "dept_code": "DMD",
+    "id_number": "5470",
+    "title": "Advanced Web Design and Development",
+    "description": "Explores intermediate and advanced web design and development techniques, covering Cascading Style Sheets, XML, dynamic HTML with Javascript, common frameworks, and the principles of site management. Through projects, the course will also cover more advanced design concepts in Website creation, such as efficient navigation design, designing or portability and accessibility, separating content from presentation for easy site updating and maintenance, planning interactivity, and search engine optimization.",
+    "credits": "3",
+    "requirement_description": "DMD 5070; open to DMD majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

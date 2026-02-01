@@ -1,0 +1,21 @@
+{
+    "name": "HRTS 2150",
+    "dept_code": "HRTS",
+    "id_number": "2150",
+    "title": "Devising Theatre for Social Justice I",
+    "description": "(Also offered as DRAM\u00a02150.) Making theatre without a pre written script to address a social justice topic of interest, moving from initial stimulus to concluding performance. Students will center a contemporary issue of social justice while developing theatre making skills, emphasizing collaborative co creation, small group work, and the development and presentation of a range of performance forms. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

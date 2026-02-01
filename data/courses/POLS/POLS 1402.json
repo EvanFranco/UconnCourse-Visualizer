@@ -1,0 +1,23 @@
+{
+    "name": "POLS 1402",
+    "dept_code": "POLS",
+    "id_number": "1402",
+    "title": "Introduction to International Relations",
+    "description": "The nature and problems of international politics. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

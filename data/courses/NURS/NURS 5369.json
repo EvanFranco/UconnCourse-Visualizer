@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5369",
+    "dept_code": "NURS",
+    "id_number": "5369",
+    "title": "Advanced Neonatal Practicum I",
+    "description": "Focuses on the acquisition and application of in-depth physiological and psychosocial knowledge to the nursing care of neonates and their families. Emphasis is placed on the role of advanced practice in nursing management of high-risk neonatal populations.",
+    "credits": "2",
+    "requirement_description": "NURS 5365; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

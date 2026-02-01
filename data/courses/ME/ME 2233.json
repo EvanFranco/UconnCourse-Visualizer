@@ -1,0 +1,16 @@
+{
+    "name": "ME 2233",
+    "dept_code": "ME",
+    "id_number": "2233",
+    "title": "Thermodynamic Principles",
+    "description": "Introduction to the First and Second Laws of Thermodynamics. Thermodynamic properties of pure substances and ideal gases. Analysis of ideal and real processes - including turbines, pumps, heat exchangers, and compressors.",
+    "credits": "3",
+    "requirement_description": "CHEM 1127Q or both CHEM 1124Q and CHEM 1125Q; PHYS 1401Q or PHYS 1501Q; MATH 2110Q , which may be taken concurrently. May not be taken out of sequence after passing ME 3232, 3242, or 3250.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

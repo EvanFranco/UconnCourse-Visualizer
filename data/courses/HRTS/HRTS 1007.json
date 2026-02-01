@@ -1,0 +1,23 @@
+{
+    "name": "HRTS 1007",
+    "dept_code": "HRTS",
+    "id_number": "1007",
+    "title": "Introduction to Human Rights",
+    "description": "Exploration of central human rights institutions, selected human rights themes and political controversies, and key political challenges of contemporary human rights advocacy. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

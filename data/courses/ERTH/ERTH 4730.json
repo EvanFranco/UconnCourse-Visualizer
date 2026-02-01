@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 4730",
+    "dept_code": "ERTH",
+    "id_number": "4730",
+    "title": "Global Biogeochemical Cycles",
+    "description": "An introduction to the global cycles of carbon, oxygen, nitrogen, sulfur, phosphorus, and trace metals that regulate Earth\u2019s climate, ecosystems, and habitability. Topics include the structure and dynamics of modern cycles, the role of human activities in altering them, and their evolution through Earth\u2019s history. Methods for studying cycles, such as simple box modeling and geochemical proxies, are also covered.",
+    "credits": "3",
+    "requirement_description": "CHEM 1124Q, CHEM 1125Q, and CHEM 1126Q; or CHEM 1127Q and CHEM 1128Q; or CHEM 1147Q and CHEM 1148Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

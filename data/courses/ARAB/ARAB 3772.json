@@ -1,0 +1,23 @@
+{
+    "name": "ARAB 3772",
+    "dept_code": "ARAB",
+    "id_number": "3772",
+    "title": "Stereotypes of Arabs and Muslims",
+    "description": "Representations of Muslims in medieval textbooks, 18th- and 19th-century Western travel accounts. Their influence on stereotypes of Arabs and Muslims in Western cinema and media from early Hollywood films to the present. Taught in English.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

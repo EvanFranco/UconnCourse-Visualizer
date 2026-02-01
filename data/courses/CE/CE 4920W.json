@@ -1,0 +1,18 @@
+{
+    "name": "CE 4920W",
+    "dept_code": "CE",
+    "id_number": "4920W",
+    "title": "Civil Engineering Projects II",
+    "description": "Design of civil engineering projects. Students working singly or in groups implement previously developed proposals for civil engineering design projects from first concepts through preliminary proposals, sketches, cost estimations, design, evaluation, consideration of realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability, oral presentation and written reports.",
+    "credits": "2",
+    "requirement_description": "CE 4900W or 4910W; ENGL 1007 or 1010 or 1011; open only to senior Civil Engineering majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

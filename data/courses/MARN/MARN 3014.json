@@ -1,0 +1,16 @@
+{
+    "name": "MARN 3014",
+    "dept_code": "MARN",
+    "id_number": "3014",
+    "title": "Marine Biology",
+    "description": "(Also offered as EEB\u00a03230.) The study of the kinds and distributions of marine organisms. Particular attention is paid to biotic features of the oceans, organism-habitat and relationships and general ecological concepts influencing marine populations and communities. Field trips are required.",
+    "credits": "3",
+    "requirement_description": "One year of laboratory biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ARAB 1003",
+    "dept_code": "ARAB",
+    "id_number": "1003",
+    "title": "Intermediate Arabic I",
+    "description": "Intermediate Modern Standard Arabic. Development of speaking, listening, reading, and writing skills. Taught in Arabic.",
+    "credits": "4",
+    "requirement_description": "ARAB 1002 or instructor consent. Students with prior knowledge of Arabic should contact the instructor or the program coordinator prior to registration. Cannot be taken for credit after passing ARAB 1004, 1113, or 1114.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

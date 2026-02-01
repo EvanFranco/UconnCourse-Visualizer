@@ -1,0 +1,16 @@
+{
+    "name": "STAT 4845",
+    "dept_code": "STAT",
+    "id_number": "4845",
+    "title": "Applied Spatio-Temporal Statistics",
+    "description": "Applied statistical methodology and computing for spatio-temporal data, including visualization, models, and inferences. Extreme value analysis in spatio-temporal contexts. Focus on models that account for spatio-temporal dependence and inferences that provide appropriate uncertainty measures, with applications to real-world problems using open-source software.",
+    "credits": "3",
+    "requirement_description": "STAT 3445; STAT 3215Q or 3675Q or instructor consent. Recommended preparation: Experience with R.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

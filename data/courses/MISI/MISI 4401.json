@@ -1,0 +1,16 @@
+{
+    "name": "MISI 4401",
+    "dept_code": "MISI",
+    "id_number": "4401",
+    "title": "General Military Science IV",
+    "description": "Army staff organization, unit administration and management, logistics, military intelligence, leadership seminar, the international system, and strategic doctrine. One weekend field training exercise.",
+    "credits": "3",
+    "requirement_description": "MISI 3302.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

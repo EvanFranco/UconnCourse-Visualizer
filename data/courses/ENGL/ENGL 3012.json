@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3012",
+    "dept_code": "ENGL",
+    "id_number": "3012",
+    "title": "Books and Book Publishing",
+    "description": "Intensive focus on trade book and e-book publishing, geared to writers and students preparing for entry level publishing jobs.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher. Cannot be taken for credit after passing ENGL 3011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

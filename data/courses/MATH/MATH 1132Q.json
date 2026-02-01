@@ -1,0 +1,18 @@
+{
+    "name": "MATH 1132Q",
+    "dept_code": "MATH",
+    "id_number": "1132Q",
+    "title": "Calculus II",
+    "description": "Transcendental functions, formal integration, polar coordinates, infinite sequences and series, vector algebra and geometry, with applications to the physical sciences and engineering. Substitutes for MATH 1122Q as a requirement.",
+    "credits": "4",
+    "requirement_description": "A qualifying score on the math placement assessment (placement.uconn.edu/mathematics-placement); one of MATH 1121Q, MATH 1126Q, MATH 1131Q, or MATH 1151Q, or AP credit for calculus. Recommended preparation: C- or better in MATH 1121Q or MATH 1126Q or MATH 1131Q. Not open to students who have passed MATH 1122Q or MATH 1152Q. Substitutes for MATH 1122Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

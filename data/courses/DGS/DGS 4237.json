@@ -1,0 +1,16 @@
+{
+    "name": "DGS 4237",
+    "dept_code": "DGS",
+    "id_number": "4237",
+    "title": "Introductory Bioinformatics for Genomics Analysis",
+    "description": "An introductory bioinformatics course working with genetic and genomic data for clinical and research applications.",
+    "credits": "3",
+    "requirement_description": "DGS 3100 or MCB 2410 or 2413; open to students in the Diagnostic Genetic Sciences program, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

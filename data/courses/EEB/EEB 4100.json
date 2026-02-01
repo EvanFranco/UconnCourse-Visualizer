@@ -1,0 +1,16 @@
+{
+    "name": "EEB 4100",
+    "dept_code": "EEB",
+    "id_number": "4100",
+    "title": "Big Data Science for Biologists",
+    "description": "Introduction to basic concepts and approaches associated with big datasets in the biological sciences. Online laboratories include examples from molecular biology, ecology, evolutionary biology, and systems biology. Topics include data creation, integration, curation, manipulation, and visualization.",
+    "credits": "4",
+    "requirement_description": "MCB 2400 or 2410 or EEB 2245.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

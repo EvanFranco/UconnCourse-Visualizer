@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5845",
+    "dept_code": "EDCI",
+    "id_number": "5845",
+    "title": "Seminar in International Education",
+    "description": "Concentrated study of culture and education in a major geographical region such as Africa, Asia, or Latin America; or cross-cultural studies of educational issues.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

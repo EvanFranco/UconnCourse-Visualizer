@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5792",
+    "dept_code": "DRAM",
+    "id_number": "5792",
+    "title": "Independent Study in Performance",
+    "description": "Independent study under the direction of an appropriate faculty member. May be repeated for a total of 9 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

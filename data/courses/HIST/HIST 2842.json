@@ -1,0 +1,23 @@
+{
+    "name": "HIST 2842",
+    "dept_code": "HIST",
+    "id_number": "2842",
+    "title": "History of Vietnam",
+    "description": "(Also offered as AAAS\u00a02842.) Introduction to the history of the Vietnamese from the late Bronze Age to the present: the ancient culture of the Red River delta, the millennium of Chinese rule, the independent kingdom of Dai Viet and its successors, French colonialism, the Vietnam War, and postwar Vietnam. Formerly offered as AAAS/HIST 3842.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

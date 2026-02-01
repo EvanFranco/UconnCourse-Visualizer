@@ -1,0 +1,16 @@
+{
+    "name": "AH 3121",
+    "dept_code": "AH",
+    "id_number": "3121",
+    "title": "Immunology for the Medical Laboratory Sciences",
+    "description": "Mechanisms of innate and acquired immunity, antigen-antibody interactions, function of the human immune system in normal and diseased states.",
+    "credits": "3",
+    "requirement_description": "MLSC 3130 or MCB 2610 which may be taken concurrently; open to students in: Allied Health Sciences, Diagnostic Genetic Sciences, Medical Laboratory Sciences and Diagnostic Genetic Sciences certificate students; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

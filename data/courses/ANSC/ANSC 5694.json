@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 5694",
+    "dept_code": "ANSC",
+    "id_number": "5694",
+    "title": "Animal Science Seminar",
+    "description": "Students present a seminar on the topic of their thesis research. May be repeated for a total of 2 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

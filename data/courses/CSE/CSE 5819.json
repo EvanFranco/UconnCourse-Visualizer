@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5819",
+    "dept_code": "CSE",
+    "id_number": "5819",
+    "title": "Introduction to Machine Learning",
+    "description": "An introduction to the basic tools and techniques of machine learning, including models for both supervised and unsupervised learning, related optimization techniques, and methods for model validation. Topics include linear and logistic regression, SVM classification and regression, kernels, regularization, clustering, and on-line algorithms for regret minimization.",
+    "credits": "3",
+    "requirement_description": "Department consent required; open to graduate students in the Computer Science and Engineering program, others with permission. Recommended preparation: MATH 2210Q; STAT 3025, or 3345, or 3375, or MATH 3160; CSE 3500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "SOCI 3996W",
+    "dept_code": "SOCI",
+    "id_number": "3996W",
+    "title": "Senior Thesis in Sociology",
+    "description": "",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

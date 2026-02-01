@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 3430",
+    "dept_code": "ERTH",
+    "id_number": "3430",
+    "title": "GIS and Remote Sensing for Geoscience Applications",
+    "description": "(Also offered as GEOG\u00a03430.) Application of Geographic Information Systems, remote sensing, and image interpretation to problems in geoscience. Data acquisition, processing and analysis of Digital Elevation Models and satellite imagery. Geologic materials, processes, landforms and landscapes. Formerly offered as ERTH 4230 and GEOG 4230.",
+    "credits": "3",
+    "requirement_description": "GEOG 2300, or ERTH 1050, or both ERTH 1052 and one of ERTH 1010 or 1051 or 1055 or 1070 or GEOG 1070.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "JOUR 3050",
+    "dept_code": "JOUR",
+    "id_number": "3050",
+    "title": "Professional Seminar",
+    "description": "Journalists discuss the economic, technological, sociological and ethical issues that challenge their profession.",
+    "credits": "3",
+    "requirement_description": "JOUR 2000W, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

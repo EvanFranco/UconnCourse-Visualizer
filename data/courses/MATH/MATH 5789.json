@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5789",
+    "dept_code": "MATH",
+    "id_number": "5789",
+    "title": "Independent Study",
+    "description": "With a change in content, may be repeated for credit. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

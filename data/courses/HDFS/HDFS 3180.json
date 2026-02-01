@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 3180",
+    "dept_code": "HDFS",
+    "id_number": "3180",
+    "title": "Programs for Young Children: Introductory Laboratory",
+    "description": "Guided observation and participation in a program for young children.",
+    "credits": "1",
+    "requirement_description": "Open only to students concurrently enrolled in HDFS 3120.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

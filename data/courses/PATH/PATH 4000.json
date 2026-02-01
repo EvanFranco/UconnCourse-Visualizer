@@ -1,0 +1,16 @@
+{
+    "name": "PATH 4000",
+    "dept_code": "PATH",
+    "id_number": "4000",
+    "title": "Bioinformatics in Molecular Epidemiology of Infectious Diseases",
+    "description": "Basic concepts and terminologies in bioinformatics and infectious disease epidemiology. Hands-on, practical experiences in sequence analysis: database, alignment, phylogenetic analysis, and visualization of data.",
+    "credits": "3",
+    "requirement_description": "ANSC 3121, MCB 2400, or MCB 2410.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5105",
+    "dept_code": "NURS",
+    "id_number": "5105",
+    "title": "Alzheimer's and Dementia: Disease Trajectory and Management",
+    "description": "Introduction to the disease process of several types of Dementia. This will be the first in a series of three courses. The course will begin with an effort to describe the pathophysiology, diagnostic testing, current treatments, and current clinical trials of Alzheimer\u2019s disease, Frontotemporal Lobe Dementia, Lewy Body/Parkinson\u2019s Disease Dementia, Young Onset Dementia, Vascular Dementia, Down\u2019s Syndrome and Dementia, Creutzfeldt-Jakob Disease, Huntington\u2019s Disease, Korsakoff Syndrome, Mixed Dementia, and Mild Cognitive Impairment. Students should be able to compare and contrast the pathophysiology, treatment, and symptom presentation of each dementia type as well as a public health approach to dementia.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

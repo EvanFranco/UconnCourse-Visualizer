@@ -1,0 +1,16 @@
+{
+    "name": "MARN 6034",
+    "dept_code": "MARN",
+    "id_number": "6034",
+    "title": "Trace Elements in Aquatic Ecosystems",
+    "description": "Global biogeochemical cycles of trace elements and their impact on ecosystem function and biogeochemisty. Trace elements include required (nutrient), potentially toxic, metals and metalloids. Topics include biogeochemical tracers, reaction rates, chemical speciation, equilibria, solubility, oxidation-reduction, adsorption, complexation, and relationships to the marine food web and human activity.",
+    "credits": "3",
+    "requirement_description": "MARN 5030 or instructor consent. Not open for credit to students who have passed MARN 5995 when offered as Trace Elements and Isotopes.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

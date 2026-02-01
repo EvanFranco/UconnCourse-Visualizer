@@ -1,0 +1,16 @@
+{
+    "name": "PATH 2800",
+    "dept_code": "PATH",
+    "id_number": "2800",
+    "title": "Medical Cell Biology",
+    "description": "Foundations of cellular structures and molecular basis of disease, from essential components of eukaryotic cells to cellular responses to injury and disease.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

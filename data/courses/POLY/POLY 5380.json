@@ -1,0 +1,16 @@
+{
+    "name": "POLY 5380",
+    "dept_code": "POLY",
+    "id_number": "5380",
+    "title": "Polymer Synthesis",
+    "description": "(Also offered as CHEM\u00a05380.) Chemistry of the formation of high polymers, including kinetics, mechanisms, and stereochemistry of step growth and addition polymerization. Recent advances in polymer synthesis.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed CHEM 5380. (RG5494)",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

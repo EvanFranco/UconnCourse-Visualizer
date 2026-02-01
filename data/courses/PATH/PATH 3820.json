@@ -1,0 +1,16 @@
+{
+    "name": "PATH 3820",
+    "dept_code": "PATH",
+    "id_number": "3820",
+    "title": "Systems Pathophysiology II",
+    "description": "Organ-based study of human and animal diseases. Use of gross, microscopic, and physiologic evidence to diagnose disease. Topics covered include central nervous, skin, hepatobiliary, endocrine, and digestive systems.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Previous coursework in Cell Biology. PATH 3810 and PATH 3820 can be taken in any order.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

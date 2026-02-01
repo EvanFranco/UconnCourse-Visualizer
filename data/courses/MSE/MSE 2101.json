@@ -1,0 +1,16 @@
+{
+    "name": "MSE 2101",
+    "dept_code": "MSE",
+    "id_number": "2101",
+    "title": "Materials Science and Engineering I",
+    "description": "Relation of crystalline structure to chemical, physical, and mechanical properties of metals and alloys. Testing, heat treating, and engineering applications of ferrous and non-ferrous alloys.",
+    "credits": "3",
+    "requirement_description": "CHEM 1127Q or 1147Q. Not open to students who have passed MSE 2001.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

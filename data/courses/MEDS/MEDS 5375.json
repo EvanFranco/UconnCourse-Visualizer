@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5375",
+    "dept_code": "MEDS",
+    "id_number": "5375",
+    "title": "Advanced Methods in Neuroscience",
+    "description": "Survey of contemporary research methods in neuroscience. Ongoing advances in techniques for carrying out neuroscience research, including in vivo imaging methods, single-cell transcriptomics, computational modeling, and super-resolution microscopy. Designed to provide PhD students with a structured overview of several of the most advanced techniques in modern neuroscience. Students taking MEDS\u00a05371 are strongly encouraged to take MEDS\u00a05375 concurrently. May be repeated for a total of 4 credits.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

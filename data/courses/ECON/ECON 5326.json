@@ -1,0 +1,16 @@
+{
+    "name": "ECON 5326",
+    "dept_code": "ECON",
+    "id_number": "5326",
+    "title": "Operations Research for Economics",
+    "description": "Use of mathematical programming for optimization of input-output mixes, of delivery routes, of communication networks and for performance evaluation based on economic theory of producer behavior.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

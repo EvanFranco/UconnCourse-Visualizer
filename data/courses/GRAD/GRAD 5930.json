@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5930",
+    "dept_code": "GRAD",
+    "id_number": "5930",
+    "title": "Full-Time Directed Studies (Master's Level)",
+    "description": "This course denotes that the student is participating in a full-time internship, field work experience, or other course of off-campus study required as part of the student's Master's program. No other courses may be taken concurrently. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "To be used by master's students only, not Ph.D. students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

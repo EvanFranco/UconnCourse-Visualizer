@@ -1,0 +1,16 @@
+{
+    "name": "BME 5060",
+    "dept_code": "BME",
+    "id_number": "5060",
+    "title": "Clinical Engineering Rotations I",
+    "description": "Associated with the clinical engineering rotations that interns experience in hospitals, such as surgeries, CT, MRI, ICU, clinical laboratory and physical therapy.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

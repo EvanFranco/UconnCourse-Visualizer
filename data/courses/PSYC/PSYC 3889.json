@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3889",
+    "dept_code": "PSYC",
+    "id_number": "3889",
+    "title": "Undergraduate Research",
+    "description": "Participant activities related to research. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Recommended Preparation: PSYC 2100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

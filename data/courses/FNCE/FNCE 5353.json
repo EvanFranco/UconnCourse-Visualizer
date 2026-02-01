@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5353",
+    "dept_code": "FNCE",
+    "id_number": "5353",
+    "title": "Fintech Applications in Risk Management",
+    "description": "The course addresses how financial technology helps companies better manage their risks. Financial Technology has been a significant disruption to the Financial Services Industry and Financial Markets around the world. This course will review the major FinTech trends and the risks these trends have created for both legacy enterprises and new entrants. The course will include real-life examples and case studies to reinforce the course concepts. Topics will include mitigation of cybersecurity risk (e.g. by using encryption or hashing), payment risk (e.g. by using P2P systems), fraud risk (e.g. by using applications of machine learning to fraud detection and default prediction), operation risk (e.g. by using smart contracts).",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "ANTH 2200",
+    "dept_code": "ANTH",
+    "id_number": "2200",
+    "title": "Race and Human Biological Diversity",
+    "description": "An introduction to race and racism, concepts of racial difference, and the patterns of human biological variation. Special emphasis on understanding human biodiversity within historical, scientific, and social contexts. CA 3. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

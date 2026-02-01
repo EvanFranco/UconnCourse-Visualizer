@@ -1,0 +1,26 @@
+{
+    "name": "ILCS 3268WE",
+    "dept_code": "ILCS",
+    "id_number": "3268WE",
+    "title": "Views of the Environment from Italy",
+    "description": "Application of current perspectives of ecocriticism to analysis of Italian literature and films that have recorded and imagined the relationship between human and non-human life. Articulation and appraisal of the student's personal relationship to the environment through writing and reflection. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "W",
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

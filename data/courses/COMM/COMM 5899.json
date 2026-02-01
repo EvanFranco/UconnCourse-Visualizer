@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5899",
+    "dept_code": "COMM",
+    "id_number": "5899",
+    "title": "Independent Study in Communication",
+    "description": "This course is an independent study course in which periodic conferences with the instructor are required. May be repeated for a total of 18 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

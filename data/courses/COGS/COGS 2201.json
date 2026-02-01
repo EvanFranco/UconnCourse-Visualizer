@@ -1,0 +1,20 @@
+{
+    "name": "COGS 2201",
+    "dept_code": "COGS",
+    "id_number": "2201",
+    "title": "Foundations of Cognitive Science",
+    "description": "Origins of and current developments within scientific study of the mind-brain. Topics include: computational theories of mind, artificial and natural intelligence, cognitive neuroscience and the mind/body problem, embodied and distributed cognition, neural networks, self-organizing cognitive systems, learning and innateness. CA 3.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing COGS 3584, 3599 or 4596.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

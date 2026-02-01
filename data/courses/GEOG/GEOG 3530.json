@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 3530",
+    "dept_code": "GEOG",
+    "id_number": "3530",
+    "title": "Introduction to GeoComputing",
+    "description": "Introduction to GIS programming and scripting to automate GIS and spatial analyses. Students will develop geospatial models using geoprocessing tools within ArcGIS, gain fundamental programming skills in the Python programming language, and employ Python scripting to solve geospatial problems.",
+    "credits": "3",
+    "requirement_description": "GEOG 2500. Recommended preparation: GEOG 2505.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

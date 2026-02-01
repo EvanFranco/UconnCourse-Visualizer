@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3503",
+    "dept_code": "PSYC",
+    "id_number": "3503",
+    "title": "Computer Modeling of Cognitive Processes",
+    "description": "Symbolic and connectionist approaches to modelling vision, problem solving, planning, deduction, language understanding, learning, and memory.",
+    "credits": "3",
+    "requirement_description": "PSYC 2501 or 3501.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5470",
+    "dept_code": "NURS",
+    "id_number": "5470",
+    "title": "Advanced Pharmacology for Advanced Nursing Practice Primary Care Focus",
+    "description": "This course emphasizes pharmacodynamics and pharmacokinetics required for appropriate evidence-based pharmacotherapeutic management in primary care.",
+    "credits": "3",
+    "requirement_description": "NURS 5060; Instructor consent; Open only to Post-Graduate APRN Certificate, MS, and BS-DNP Family Nurse Practitioner and Adult Gerontology Primary Care Nurse Practitioner students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

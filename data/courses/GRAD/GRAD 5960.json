@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5960",
+    "dept_code": "GRAD",
+    "id_number": "5960",
+    "title": "Full-Time Master's Research",
+    "description": "For students who have completed all courses on the plan of study and who are performing master's level research on a full-time basis. It may contribute to meeting the nine credit Master's research requirement. No other courses may be taken concurrently. In the summer, this is a 12-week (Summer 4) course. Since this course denotes a full time commitment, students may not hold graduate assistantships while taking this course. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "Open only to graduate students enrolled in a Plan A Master's Degree Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

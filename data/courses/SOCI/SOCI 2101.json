@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 2101",
+    "dept_code": "SOCI",
+    "id_number": "2101",
+    "title": "Sports and Society",
+    "description": "Sports as an institution and its impact on society. Gender, race, and class inequality in sports. Cultural, economic, political, and legal influences on sports at the professional, intercollegiate, scholastic, and recreational levels.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

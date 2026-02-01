@@ -1,0 +1,16 @@
+{
+    "name": "CLTR 5357",
+    "dept_code": "CLTR",
+    "id_number": "5357",
+    "title": "Principles of Clinical and Translational Research I",
+    "description": "First core course in research methods, biostatistics and topics in clinical and translational research. In the methods section, the topics covered include Defining a Research Question, Cross-Sectional Studies, and Case-Control Studies. The Biostatistics section covers Probability Distributions, Sample Size Calculations, Hypothesis Testing, Odds Ratios and Logistic Regression. The major other topic is ethical issues in research, including specifically those related to the conduct of research with human beings.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

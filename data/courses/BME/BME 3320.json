@@ -1,0 +1,16 @@
+{
+    "name": "BME 3320",
+    "dept_code": "BME",
+    "id_number": "3320",
+    "title": "Biosensors and Nanodevices for Biomedical Applications",
+    "description": "Current and emerging technologies in biosensors for biomedical applications. Topics include principles of molecular and bio/chemical sensing, techniques for sensor integration, nano/micro electro mechanical systems (NEMS/MEMS) technologies used in biosensors, and commercial/clinical applications of biosensors.",
+    "credits": "3",
+    "requirement_description": "Open only to BME majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

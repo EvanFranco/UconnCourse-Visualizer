@@ -1,0 +1,23 @@
+{
+    "name": "ENVE 1000E",
+    "dept_code": "ENVE",
+    "id_number": "1000E",
+    "title": "Environmental Sustainability",
+    "description": "Detailed examination of anthropogenic impacts on the environment, resulting from the need for energy, food and shelter. Subtopics in the broad areas of energy, food, shelter, waste, water, sustainable development will be grounded with case studies of UConn activities/programs in sustainability. Overarching and linking each topic is the impact of population and water resources with a focus on environmental literacy. Resolution of scientific/technological, public policy and economic aspects of environmental sustainability issues will be explored, including strategies for success, and possible pitfalls, in achieving environmental sustainability in the subtopic areas. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

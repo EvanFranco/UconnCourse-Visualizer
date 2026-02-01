@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5338",
+    "dept_code": "CHEM",
+    "id_number": "5338",
+    "title": "Separation Methods",
+    "description": "A study of the theoretical and practical basis for modern separation methods. Topics to be discussed include the various methods dealing with gas-liquid, liquid-liquid, liquid-solid, gas-solid, ion-exchange, size exclusion, chromatography, electrophoresis, and mass spectrometry.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

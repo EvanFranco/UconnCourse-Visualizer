@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5446",
+    "dept_code": "MCB",
+    "id_number": "5446",
+    "title": "3D Genome in Development, Disease, and Evolution",
+    "description": "The principles underlying 3D genome organization and function in multicellular organisms. Emphasis on genomics and imaging approaches such as single-cell and spatial omics. Topics include genome organization and gene regulation in normal and disease states, development, and evolution.",
+    "credits": "3",
+    "requirement_description": "Instructor consent required. Background in genetics (MCB 2410 or equivalent) and cell biology (MCB 2210 or equivalent).",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

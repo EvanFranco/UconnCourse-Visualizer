@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3260",
+    "dept_code": "PNB",
+    "id_number": "3260",
+    "title": "Stem Cell Biology",
+    "description": "Principles of stem cell biology and the use and applications of stem cells in research and therapy. Emphasis on molecular, cellular and physiological properties of stem cells, mechanisms of differentiation, use of recombinant DNA technology and application of stem cells in disease models.",
+    "credits": "3",
+    "requirement_description": "PNB 2250 or PNB 2774. Recommended preparation: MCB 2000 or MCB 2210 or MCB 2410, any of which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

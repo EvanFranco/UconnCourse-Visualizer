@@ -1,0 +1,16 @@
+{
+    "name": "CE 4530",
+    "dept_code": "CE",
+    "id_number": "4530",
+    "title": "Geoenvironmental Engineering",
+    "description": "(Also offered as ENVE\u00a04530.) Subsurface contaminant fate and transport, site characterization, overview of soil remediation techniques.",
+    "credits": "3",
+    "requirement_description": "ENVE 2310E; open to juniors or higher in the School of Engineering. Recommended preparation: CE 3510.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

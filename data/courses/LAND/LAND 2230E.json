@@ -1,0 +1,21 @@
+{
+    "name": "LAND 2230E",
+    "dept_code": "LAND",
+    "id_number": "2230E",
+    "title": "Biophilic Cities and Landscapes",
+    "description": "An introduction to the science and application of biodiversity with an emphasis on urban design strategies to promote biophilic cities and landscapes.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

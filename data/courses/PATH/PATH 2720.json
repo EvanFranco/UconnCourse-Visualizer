@@ -1,0 +1,16 @@
+{
+    "name": "PATH 2720",
+    "dept_code": "PATH",
+    "id_number": "2720",
+    "title": "Medical Microbiology: Viruses and Parasites",
+    "description": "Fundamental biology of medically relevant viruses and parasites including host-pathogen interactions and microbiological laboratory techniques.",
+    "credits": "4",
+    "requirement_description": "BIOL 1107 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

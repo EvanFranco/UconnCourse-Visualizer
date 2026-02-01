@@ -1,0 +1,16 @@
+{
+    "name": "MFGE 5120",
+    "dept_code": "MFGE",
+    "id_number": "5120",
+    "title": "Advanced Manufacturing Processes and Products",
+    "description": "Integrated analysis of traditional and non-traditional manufacturing processes. Topics include tolerance/ precision, surface finish/roughness, material properties of products such as hardness, and specific processes such as cutting, welding, metal deformation, ceramic processing, powder processing/metallurgy, and additive manufacturing.",
+    "credits": "3",
+    "requirement_description": "Department consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

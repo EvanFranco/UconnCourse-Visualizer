@@ -1,0 +1,16 @@
+{
+    "name": "PNB 2275",
+    "dept_code": "PNB",
+    "id_number": "2275",
+    "title": "Enhanced Human Physiology and Anatomy",
+    "description": "Fundamentals of human physiology and anatomy enhanced through inquiry-based laboratories.",
+    "credits": "4",
+    "requirement_description": "PNB 2274. Not open to students who have passed PNB 2265. Must be taken after PNB 2274 to count for credit. Repeat restrictions apply; see advising.uconn.edu/repeat-policy for information.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BME 6520",
+    "dept_code": "BME",
+    "id_number": "6520",
+    "title": "Biosensors",
+    "description": "Principles and design of acoustic imaging transducers, and force, pressure and hearing sensors. Covers also optical biosensors including oxygen monitoring sensors, glucose sensors and optical sensors used in imaging.",
+    "credits": "3",
+    "requirement_description": "BME 5500 or consent of the instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

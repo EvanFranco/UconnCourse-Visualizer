@@ -1,0 +1,16 @@
+{
+    "name": "BADM 3301",
+    "dept_code": "BADM",
+    "id_number": "3301",
+    "title": "Spreadsheet Modeling for Business Analysis",
+    "description": "(Also offered as OPIM\u00a03301.) This course provides an introduction to business decision and data analysis with electronic spreadsheets in Excel, the primary quantitative analysis software in business environments. Modeling and decision techniques are covered in combination with Excel functions and tools. Applications in different business functional areas are also covered. Each student is required to bring a laptop installed with Microsoft Excel that can connect to the internet.",
+    "credits": "3",
+    "requirement_description": "OPIM or BADM 3103; Open only to non-business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SOCI 3823",
+    "dept_code": "SOCI",
+    "id_number": "3823",
+    "title": "The Sociology of Law: Global and Comparative Perspectives",
+    "description": "The relationship between law and social change cross-nationally, including dispute processing in kinship societies, the impact of Western law on Third World countries,  legal strategies that challenge inequality based on class, race, sex, religion, and sexuality, and the impact of international human rights treaties on inequality. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 1002",
+    "dept_code": "PHAR",
+    "id_number": "1002",
+    "title": "Fundamentals of Pharmacology",
+    "description": "Fundamental concepts of pharmacology. The content empowers students to identify how drugs are formulated, how they work in the body, some of the main drug classes, and the main drugs within those classes.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,24 @@
+{
+    "name": "ANTH 2000W",
+    "dept_code": "ANTH",
+    "id_number": "2000W",
+    "title": "Social Anthropology",
+    "description": "A comparative study of social structure including an analysis of kinship, marriage, community organization, political and economic institutions, and the role of the individual in these institutions. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Not open to students who have passed ANTH 4001.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

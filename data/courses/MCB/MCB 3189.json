@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3189",
+    "dept_code": "MCB",
+    "id_number": "3189",
+    "title": "Clinical Research Laboratory",
+    "description": "Participation in a clinical research study at a medical center (transportation to this off-campus site to be arranged by the student). May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "MCB 3100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

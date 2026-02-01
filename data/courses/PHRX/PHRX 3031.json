@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3031",
+    "dept_code": "PHRX",
+    "id_number": "3031",
+    "title": "Foundations in Pharmaceutics I",
+    "description": "Principles underlying the formulation, dissolution, stability and release of drug products for optimum delivery.  Dosage forms discussed include colloids, suspensions, emulsions, suppositories, aerosols, ointments and transdermals.",
+    "credits": "4",
+    "requirement_description": "PHRX 3030; open only to students in the School of Pharmacy. May not be taken out of sequence after passing PHRX 4030.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

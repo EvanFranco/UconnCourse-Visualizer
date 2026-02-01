@@ -1,0 +1,18 @@
+{
+    "name": "COGS 2500Q",
+    "dept_code": "COGS",
+    "id_number": "2500Q",
+    "title": "Coding for Cognitive Science",
+    "description": "Introduction to computer programming for students with little or no prior programming experience. Core concepts and essential skills, with special emphasis on typical tasks and applications in the Cognitive Sciences.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

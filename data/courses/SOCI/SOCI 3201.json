@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 3201",
+    "dept_code": "SOCI",
+    "id_number": "3201",
+    "title": "Methods of Social Research",
+    "description": "Quantitative and qualitative methods used in sociological research: designs for gathering data, problems of measurement, and techniques of data analysis. Lectures and laboratory work. Majors in sociology should take this required course in their junior year.",
+    "credits": "3",
+    "requirement_description": "SOCI 1001, 1251 or 1501 or 1701; open to sophomores or higher. May not be taken out of sequence after passing SOCI 3203, 3211 or 3213.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PP 1001",
+    "dept_code": "PP",
+    "id_number": "1001",
+    "title": "Introduction to Public Policy",
+    "description": "Public policy history and institutions, government administration and systems, policy analysis, contemporary policy issues, polling and influences on policy making. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

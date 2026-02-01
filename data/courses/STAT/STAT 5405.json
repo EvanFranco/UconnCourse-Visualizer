@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5405",
+    "dept_code": "STAT",
+    "id_number": "5405",
+    "title": "Applied Statistics for Data Science",
+    "description": "Statistics essential for data science incorporating descriptive statistics; integrative numerical description and visualization of data; graphical methods for determining and comparing distributions of data; data-driven statistical inference of one-sample, two-sample, and k-sample problems; linear regression;  non-linear regression; and dependent data models.",
+    "credits": "3",
+    "requirement_description": "Instructor consent and undergraduate course in statistics. Not open to students who have passed STAT 5505 or STAT 5605 or BIST 5505 or BIST 5605.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

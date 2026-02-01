@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5512",
+    "dept_code": "ECE",
+    "id_number": "5512",
+    "title": "Power Distribution",
+    "description": "Principles of distribution system planning, automation and real-time operation with applications. Concepts of AC/DC Electricity. Three-phase power distribution as well as DC and Hybrid circuits. Load flow calculations, fault analysis, and reliability evaluation. Distributed power resources. Distribution system protection and reconfiguration. Smart distribution technologies. Efficient and resilient energy utilization.",
+    "credits": "3",
+    "requirement_description": "ECE 3231.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5620",
+    "dept_code": "GEOG",
+    "id_number": "5620",
+    "title": "Computer Applications in Spatial Analysis",
+    "description": "Advanced seminar in the design of Geographic Information Systems software for solving problems in spatial analysis.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EDLR 6465",
+    "dept_code": "EDLR",
+    "id_number": "6465",
+    "title": "Educational Administration Issues and Research",
+    "description": "Designing educational research studies; current topics in school administration. Ordinarily meets for 10 full days for special research activities. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "EPSY 5605, EPSY 5607, and EPSY 6601.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

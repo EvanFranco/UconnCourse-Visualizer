@@ -1,0 +1,16 @@
+{
+    "name": "PNB 1000",
+    "dept_code": "PNB",
+    "id_number": "1000",
+    "title": "Introduction to Academic and Scientific Methods in Physiology and Neurobiology",
+    "description": "A project-based introduction to scientific methods for first-year declared and prospective Physiology and Neurobiology students. May include discussions of educational and laboratory based research in Physiology and Neurobiology. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory).",
+    "credits": "2",
+    "requirement_description": "Open to first-year students majoring in Physiology and Neurobiology, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5370",
+    "dept_code": "MSE",
+    "id_number": "5370",
+    "title": "Ceramics",
+    "description": "A graduate-level treatment of the science and engineering of Ceramic Materials. Concepts to be studied include the structure of both crystalline and non-crystalline material, and defects (including point defects, dislocations and interfaces) in these materials. A broad range of special (for ceramics) methods for the preparation, processing and characterization of these materials will run throughout the course. An important component of the course is consideration of how the crystal structure determines or influences mechanical, electronic, magnetic, and thermal properties. Special topics may include functional ceramics, 2D ceramics, and connections between ceramics, economics and global affairs.",
+    "credits": "3",
+    "requirement_description": "MSE 5001 or a knowledge of Materials Science at the undergraduate level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

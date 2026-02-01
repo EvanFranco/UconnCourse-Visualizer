@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3400",
+    "dept_code": "CSE",
+    "id_number": "3400",
+    "title": "Introduction to Cryptography and Cybersecurity",
+    "description": "Introduction to applied cryptography and cybersecurity. The course covers basic elements of symmetric-key and public-key cryptography, including encryption, authentication, signatures and key agreement, as well as integrity (hash functions, blockchains and more), pseudorandomness, shared key protocols, and the Transport Layer Protocol (TLS). Discuss principles of cybersecurity and ethics.",
+    "credits": "3",
+    "requirement_description": "CSE 2500 and 3140; open only to students in the College of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

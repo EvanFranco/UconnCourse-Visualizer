@@ -1,0 +1,16 @@
+{
+    "name": "SE 5201",
+    "dept_code": "SE",
+    "id_number": "5201",
+    "title": "Embedded/Networked Systems Modeling Abstractions",
+    "description": "Familiarizes students with design flows for designing, implementing and verifying embedded systems, and to provide skills necessary to specify requirements and perform platform-based design, analysis and modeling of embedded and networked systems. These models will be motivated by applications which demonstrate embedded systems design challenges of satisfying time-critical, event-driven, and data-centric requirements. Students will be cognizant of the role of embedded controllers and devices in the system design process, as they relate to event-driven and data-driven systems, and supervisory control of hybrid (continuous and discrete-time) systems. This will include exposure to platform-based design principles with an emphasis on requirements capture and refinement to platform architecture mapping, analysis and verification. Students will learn the technical aspects of modeling principles relevant to embedded systems, specifically modeling system architecture, system functions, computation, software, real-time systems, and distributed systems.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Background in hardware and/or software design. Not open to students who have passed SE 5301.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

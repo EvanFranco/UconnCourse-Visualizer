@@ -1,0 +1,21 @@
+{
+    "name": "SOCI 1001",
+    "dept_code": "SOCI",
+    "id_number": "1001",
+    "title": "Introduction to Sociology",
+    "description": "Modern society and its social organization, institutions, communities, groups, and social roles: the socialization of individuals, family, gender, race and ethnicity, religion, social class, crime and deviance, population, cities, political economy, and social change. CA 2.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing SOCI 3203.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

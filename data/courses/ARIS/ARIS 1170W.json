@@ -1,0 +1,25 @@
+{
+    "name": "ARIS 1170W",
+    "dept_code": "ARIS",
+    "id_number": "1170W",
+    "title": "Women's Contemporary Writing in the Arab World",
+    "description": "(Also offered as WGSS\u00a01170W.) An exploration of feminist texts, literary texts, and popular fiction. Topics may include: the role of women\u2019s writing from the nineteenth century to the present in public life; women\u2019s writing in social and political movements such as the Arab Spring; the intersectionality of class, race, gender, and nation in Arabic literature; and the unique challenges faced by Arab women writers. Taught in English. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

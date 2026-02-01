@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 5317",
+    "dept_code": "ANTH",
+    "id_number": "5317",
+    "title": "Environmental Anthropology",
+    "description": "Examines the theories and methods of environmental anthropology and its application to contemporary human-environmental problems including climate change, environmental degradation, and environmental injustice.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Strong background in the one or more of the four fields of anthropology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5850",
+    "dept_code": "ERTH",
+    "id_number": "5850",
+    "title": "Paleoclimatology",
+    "description": "Introduction to the geological evidence, research methods, and hypotheses associated with major climatic events in Earth's history through a combination of lectures, paper discussions, and a climate modeling project.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed ERTH 4850.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

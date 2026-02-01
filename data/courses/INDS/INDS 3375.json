@@ -1,0 +1,22 @@
+{
+    "name": "INDS 3375",
+    "dept_code": "INDS",
+    "id_number": "3375",
+    "title": "Indian Art and Popular Culture: Independence to the Present",
+    "description": "(Also offered as ART\u00a03375, AAAS\u00a03375.) An interdisciplinary lecture/studio art course introducing diverse forms of Indian Art from the traditional through the contemporary. Students complete either research or studio art assignments responding to the course content. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

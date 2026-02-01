@@ -1,0 +1,16 @@
+{
+    "name": "COGS 3589",
+    "dept_code": "COGS",
+    "id_number": "3589",
+    "title": "Undergraduate Research",
+    "description": "Participation in activities related to cognitive science research. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open only with consent of instructor and program director of Undergraduate Studies. Recommended Preparation: At least two of ANTH 3002, CSE 4705, PHIL 3250, PSYC 2501.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

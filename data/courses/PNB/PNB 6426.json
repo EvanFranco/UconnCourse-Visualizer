@@ -1,0 +1,16 @@
+{
+    "name": "PNB 6426",
+    "dept_code": "PNB",
+    "id_number": "6426",
+    "title": "Molecular and Cellular Neurobiology",
+    "description": "Molecular and cellular aspects of modern neurobiology including the analysis of neuronal proteins and their post-translational modifications, the dynamics of cellular substructures, and various signaling mechanisms in nerve cells including synaptic transmission. Molecular and cellular biology of selected neurological disorders.",
+    "credits": "3",
+    "requirement_description": "Open to PNB grad students or seniors who have passed PNB 3251, PNB 3275, and one of MCB 2000, 2210, or MCB 3010. Consent of instructor required for non-PNB graduate students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MARN 3060",
+    "dept_code": "MARN",
+    "id_number": "3060",
+    "title": "Coastal Circulation and Sediment Transport",
+    "description": "Circulation and mixing in estuaries and the inner continental shelf, including surface gravity waves, tides, and buoyancy and wind-driven circulation. Coastal sediments, geomorphology, and processes of sedimentation, erosion and bioturbation. Required field trips.",
+    "credits": "3",
+    "requirement_description": "MARN 3001.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

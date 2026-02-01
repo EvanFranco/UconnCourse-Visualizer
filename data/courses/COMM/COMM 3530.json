@@ -1,0 +1,16 @@
+{
+    "name": "COMM 3530",
+    "dept_code": "COMM",
+    "id_number": "3530",
+    "title": "Public Relations",
+    "description": "Practical applications of major theories of communication and mass media to public relations practiced by organizations.",
+    "credits": "3",
+    "requirement_description": "COMM 2500 or 2600.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

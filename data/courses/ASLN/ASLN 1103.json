@@ -1,0 +1,16 @@
+{
+    "name": "ASLN 1103",
+    "dept_code": "ASLN",
+    "id_number": "1103",
+    "title": "Intermediate American Sign Language I",
+    "description": "Development of intermediate expressive and receptive skills in ASL.",
+    "credits": "4",
+    "requirement_description": "ASLN 1102. May not be taken out of sequence after passing ASLN 1104.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

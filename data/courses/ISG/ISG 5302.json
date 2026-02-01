@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5302",
+    "dept_code": "ISG",
+    "id_number": "5302",
+    "title": "Concepts in Genomic Data Analysis II",
+    "description": "In-depth introduction to genome assembly, variant detection, functional genomics, and tools to manage bioinformatic code-bases and ensure reproducibility, git and nextflow.",
+    "credits": "2",
+    "requirement_description": "ISG 5301 and 5311. Corequisite: ISG 5312. Recommended preparation: Undergraduate degree in biology or related discipline. Background in genetics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

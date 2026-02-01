@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5511",
+    "dept_code": "OPIM",
+    "id_number": "5511",
+    "title": "Survival Analysis with SAS",
+    "description": "Describes the various methods used for modeling and evaluating survival data, also called time-to-event data. General statistical concepts and techniques, including survival and hazard functions, Kaplan-Meier graphs, log-rank, and related tests, Cox proportional hazards model, and the extended Cox model for time-varying covariates and non-proportional hazards.",
+    "credits": "3",
+    "requirement_description": "OPIM 5604; open only to MBA and MSBAPM students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

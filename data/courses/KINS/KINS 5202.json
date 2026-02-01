@@ -1,0 +1,16 @@
+{
+    "name": "KINS 5202",
+    "dept_code": "KINS",
+    "id_number": "5202",
+    "title": "Athletic Training Clinical Experience II",
+    "description": "Students work directly with a certified athletic trainer and are assigned to a specific athletic training practice setting. Involves providing day-to-day care for the participants, as well as administering treatments and rehabilitation under supervision of the preceptor. Students will be expected to be immersed daily into the role of the athletic trainer. May be repeated for a total of 3 credits.",
+    "credits": "3",
+    "requirement_description": "KINS 5201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

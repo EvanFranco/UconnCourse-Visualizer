@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 5150",
+    "dept_code": "PLSC",
+    "id_number": "5150",
+    "title": "Design and Analysis of Agricultural Experiments",
+    "description": "Design and analysis of experiments commonly conducted in agricultural field, greenhouse, and laboratory research. Emphasis on replicated treatment experiments based on completely random, randomized block, Latin square, split-plot, and split-block designs. Limited coverage of non-replicated treatment observational-type experiments. Statistical analyses performed primarily in SAS (Statistical Analysis System) software. Presentation of summarized data using computer generated graphics from various software packages.",
+    "credits": "4",
+    "requirement_description": "Recommended Preparation: Introductory college-level statistics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

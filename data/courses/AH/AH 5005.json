@@ -1,0 +1,16 @@
+{
+    "name": "AH 5005",
+    "dept_code": "AH",
+    "id_number": "5005",
+    "title": "Biostatistics for Health Professions",
+    "description": "Basic statistical methods in a broad range of medical or public health problems. Emphasizes the use of these methods and the interpretation of results using biomedical and health sciences applications.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

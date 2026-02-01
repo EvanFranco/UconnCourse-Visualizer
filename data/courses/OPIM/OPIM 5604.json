@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5604",
+    "dept_code": "OPIM",
+    "id_number": "5604",
+    "title": "Predictive Modeling",
+    "description": "Introduces the techniques of predictive modeling in a data-rich business environment. Covers the process of formulating business objectives, data selection, preparation, and partition to successfully design, build, evaluate and implement predictive models for a variety of practical business applications. Predictive models such as neural networks, decision trees, Bayesian classification, and others will be studied. The course emphasizes the relationship of each step to a company's specific business needs, goals and objectives. The focus on the business goal highlights how the process is both powerful and practical.",
+    "credits": "3",
+    "requirement_description": "OPIM Python Bootcamp; Open only to MBA, MSBAPM, and MS FinTech students, others with consent. Corequisite: OPIM 5603.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

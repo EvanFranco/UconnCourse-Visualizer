@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5202",
+    "dept_code": "MARN",
+    "id_number": "5202",
+    "title": "Models of the Ocean Carbon Cycle",
+    "description": "Introduction to the chemical/biological reactions and transport dynamics of ocean models with the focus on attribution of anthropogenic carbon in the global ocean. Quantitative topics include mass balances, the coupled dynamics of oceans and the atmosphere as biogeochemical systems, and parameterizations of important biogeochemical processes.",
+    "credits": "4",
+    "requirement_description": "Not open for credit to students who have passed MARN 4202Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

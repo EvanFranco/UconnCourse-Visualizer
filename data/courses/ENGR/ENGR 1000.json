@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 1000",
+    "dept_code": "ENGR",
+    "id_number": "1000",
+    "title": "Orientation to Engineering",
+    "description": "A series of orientation lectures on the many fields of engineering, followed by a series of seminars and discussions in engineering discipline-specific sections on engineering topics.",
+    "credits": "1",
+    "requirement_description": "Not open to juniors or seniors in the College of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

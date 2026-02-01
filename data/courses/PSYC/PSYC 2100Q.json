@@ -1,0 +1,18 @@
+{
+    "name": "PSYC 2100Q",
+    "dept_code": "PSYC",
+    "id_number": "2100Q",
+    "title": "Principles of Research in Psychology",
+    "description": "Design, analysis, and reporting of psychological research. Experimental and quasi-experimental designs, laboratory and correlational techniques, research ethics.",
+    "credits": "4",
+    "requirement_description": "PSYC 1100; PSYC 1101 or 1103; STAT 1000Q or 1100Q or Statistics Q 1000 level. May not be taken out of sequence after passing PSYC 3250, 3251, 3450, 3550, 3551, 3552, or 3899.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5325",
+    "dept_code": "CHEM",
+    "id_number": "5325",
+    "title": "Advanced Inorganic Chemistry II",
+    "description": "In depth study of general principles of inorganic chemistry; the structure of the elements and of inorganic compounds; group theory; different approaches to understanding the chemical bond.",
+    "credits": "3",
+    "requirement_description": "CHEM 5324.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

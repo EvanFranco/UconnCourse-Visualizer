@@ -1,0 +1,16 @@
+{
+    "name": "LING 6530",
+    "dept_code": "LING",
+    "id_number": "6530",
+    "title": "Comparative Syntax",
+    "description": "Cross-linguistic study of syntactic structure; implications for linguistic theory. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "LING 5520.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

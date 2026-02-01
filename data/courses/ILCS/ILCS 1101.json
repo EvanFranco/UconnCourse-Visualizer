@@ -1,0 +1,23 @@
+{
+    "name": "ILCS 1101",
+    "dept_code": "ILCS",
+    "id_number": "1101",
+    "title": "The Italian Renaissance",
+    "description": "A survey of Italian Renaissance civilization, with emphasis on literature and intellectual life. Taught in English. May not be used to meet the foreign language requirement. A knowledge of Italian in not required. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

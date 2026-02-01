@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3265",
+    "dept_code": "EEB",
+    "id_number": "3265",
+    "title": "Herpetology",
+    "description": "Physiological ecology, reproductive biology, behavior, and community ecology of amphibians and reptiles. Laboratories cover evolution,  systematics, and distribution of amphibians and reptiles of the world. Field trips required.",
+    "credits": "4",
+    "requirement_description": "Six credits of 2000 or above level biology. Recommended preparation: EEB 2214.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

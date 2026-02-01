@@ -1,0 +1,16 @@
+{
+    "name": "SAPL 675",
+    "dept_code": "SAPL",
+    "id_number": "675",
+    "title": "Greenhouse Management Field Study",
+    "description": "Students will be introduced to greenhouse crop production techniques and methodologies. Course follows a travel-course format, in which students participate in regularly scheduled field trips to commercial greenhouse operations in Connecticut and neighboring states. Students will make observations on the mechanical systems, management considerations, and crop production practices employed by commercial businesses.",
+    "credits": "1",
+    "requirement_description": "SAPL 670, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5243",
+    "dept_code": "MCB",
+    "id_number": "5243",
+    "title": "Molecular Analysis of Development",
+    "description": "An analysis of the mechanisms of morphogenesis and differentiation with special emphasis on molecular aspects.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "MCB 4897W",
+    "dept_code": "MCB",
+    "id_number": "4897W",
+    "title": "Senior Research Thesis",
+    "description": "Writing of a thesis based upon the student's independent laboratory research project.",
+    "credits": "3",
+    "requirement_description": "Three credits of MCB 3989 or 4989, which may be taken concurrently; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

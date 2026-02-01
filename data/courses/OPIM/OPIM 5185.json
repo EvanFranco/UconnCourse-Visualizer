@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5185",
+    "dept_code": "OPIM",
+    "id_number": "5185",
+    "title": "Introduction to Data Analytics and Managing Information Systems",
+    "description": "Introduction to key issues and concepts in data analytics. Delineates differences between standard statistical analysis, including model estimation and evaluation, and the data driven approach of data analytics. Emphasis on critical issues underlying almost all data analytics projects, including data quality (accuracy, objectivity, and reliability), missing values, outliers, and data standardization. Introduction to basic analytics techniques and processes. Prepares students to execute IT-related responsibilities effectively, and to be able to do so even as the set of available technologies changes over time. Presents students with frameworks that let them analyze business situations involving IT in a structured way. Students will develop sophisticated understanding of the links between IT, business strategy, and business process. Students will also gain an appreciation of the organizational and management practices that complement IT investments.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed OPIM 5165, 5181, or 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ME 2250",
+    "dept_code": "ME",
+    "id_number": "2250",
+    "title": "Fluid Dynamics I",
+    "description": "Laws of conservation of mass, momentum, and energy in fluid systems, fluid statics, dimensional analysis, incompressible, inviscid and viscous flows, internal and external flows. Formerly offered as ME 3250.",
+    "credits": "3",
+    "requirement_description": "ME 2232 or ME 2233; MATH 2110Q. Corequisite: MATH 2410Q. May not be taken for credit after passing CE/ENVE 3120. May not be taken out of sequence after passing ME 3242, 3251, 3270, 3275, 3276, 3280, or 4972.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

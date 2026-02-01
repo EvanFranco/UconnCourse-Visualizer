@@ -1,0 +1,16 @@
+{
+    "name": "PNB 5002",
+    "dept_code": "PNB",
+    "id_number": "5002",
+    "title": "Principles of Physiology and Neurobiology II",
+    "description": "Foundations of physiology and neurobiology. Discussion of classic and emerging literature, experimental design, and research technologies. Emphasis on systems physiology.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

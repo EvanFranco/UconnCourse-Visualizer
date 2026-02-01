@@ -1,0 +1,16 @@
+{
+    "name": "MEM 3231",
+    "dept_code": "MEM",
+    "id_number": "3231",
+    "title": "Computers in Manufacturing",
+    "description": "The utilization of computers and information systems in manufacturing, with special emphasis placed on decision support systems and operations analytics.",
+    "credits": "3",
+    "requirement_description": "MEM 2211, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

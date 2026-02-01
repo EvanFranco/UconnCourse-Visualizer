@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5010",
+    "dept_code": "GEOG",
+    "id_number": "5010",
+    "title": "Geography Proseminar",
+    "description": "Presentation by geography faculty of current research topics.",
+    "credits": "1",
+    "requirement_description": "Open to graduate students in Geography.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

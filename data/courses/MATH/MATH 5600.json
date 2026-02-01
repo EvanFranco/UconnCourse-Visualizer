@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5600",
+    "dept_code": "MATH",
+    "id_number": "5600",
+    "title": "Fundamentals of Financial Mathematics",
+    "description": "The risk-neutral model for pricing and hedging derivative financial instruments within the context of binomial and trinomial models of the stock price process.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5211",
+    "dept_code": "DMD",
+    "id_number": "5211",
+    "title": "Experimental and Alternative Techniques",
+    "description": "Explores non-traditional techniques/mediums for creating motion graphics and animation. Some common forms of experimental techniques include: stop motion (photographing physical models), pixilation (stop motion with people), collage, direct-to-film, filming with/out a lens, tilt-shift, mixed media compositing, the exquisite corpse, digital cell animation, among others.",
+    "credits": "3",
+    "requirement_description": "DMD 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

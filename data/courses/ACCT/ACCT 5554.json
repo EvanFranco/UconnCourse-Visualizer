@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5554",
+    "dept_code": "ACCT",
+    "id_number": "5554",
+    "title": "Data Analytics: Skills for Accountants",
+    "description": "Introduction to the skills and technologies used to analyze data with an emphasis on preparing accountants to interact with data scientists and others. The role of data analysis in the accounting profession will be explored. May be repeated for a total of 3 credits.",
+    "credits": "3",
+    "requirement_description": "Department consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

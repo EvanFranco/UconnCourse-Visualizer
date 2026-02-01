@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5205",
+    "dept_code": "DRAM",
+    "id_number": "5205",
+    "title": "Audio Production",
+    "description": "Audio recording and playback techniques used in the preparation of theatrical sound scores. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

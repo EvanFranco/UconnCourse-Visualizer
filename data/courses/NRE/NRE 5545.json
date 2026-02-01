@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5545",
+    "dept_code": "NRE",
+    "id_number": "5545",
+    "title": "Quantitative Remote Sensing Methods",
+    "description": "Quantitative remote sensing methods for solving real-world problems, and methods for quantitative analysis of remotely sensed imagery plus various remote sensing applications.",
+    "credits": "3",
+    "requirement_description": "A course in remote sensing image processing.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

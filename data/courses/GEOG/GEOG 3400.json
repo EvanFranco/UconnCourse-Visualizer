@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 3400",
+    "dept_code": "GEOG",
+    "id_number": "3400",
+    "title": "Climate and Weather",
+    "description": "Analysis of atmospheric processes giving rise to weather systems and climatic patterns. The dynamic integration of atmospheric systems is emphasized.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: GEOG 1300 or 2300E.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

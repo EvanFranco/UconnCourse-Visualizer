@@ -1,0 +1,21 @@
+{
+    "name": "HDFS 3311",
+    "dept_code": "HDFS",
+    "id_number": "3311",
+    "title": "Parenthood and Parenting",
+    "description": "Parent behavior and the dynamics of parenthood; interpersonal, familial, and societal roles of parents and variables influencing these roles across the lifespan. CA 2.",
+    "credits": "3",
+    "requirement_description": "HDFS 2100 or PSYC 2400; HDFS 1070 or 2200; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

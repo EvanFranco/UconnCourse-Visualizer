@@ -1,0 +1,23 @@
+{
+    "name": "HEJS 3419",
+    "dept_code": "HEJS",
+    "id_number": "3419",
+    "title": "Jewish Responses to the Holocaust",
+    "description": "(Also offered as HIST\u00a03419.) Interdisciplinary exploration of Jewish responses to the Holocaust. Examines social, religious, theological, political, cultural, psychological, and literary responses both during and after the Second World War. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

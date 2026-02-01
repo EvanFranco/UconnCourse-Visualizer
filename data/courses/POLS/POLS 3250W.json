@@ -1,0 +1,23 @@
+{
+    "name": "POLS 3250W",
+    "dept_code": "POLS",
+    "id_number": "3250W",
+    "title": "The Political Economy of East Asia",
+    "description": "Economic, political, and social development of East Asia. CA 2.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher. Recommended preparation: 1000-level courses in political science and economics.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

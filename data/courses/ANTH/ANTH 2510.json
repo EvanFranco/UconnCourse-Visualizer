@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 2510",
+    "dept_code": "ANTH",
+    "id_number": "2510",
+    "title": "Methods in Maritime Archaeology",
+    "description": "Methods and techniques in underwater archaeology covering both maritime (ships, ports, etc.) and submerged settlements archaeology. Overview of the aqueous environment, underwater archaeological methods, geophysical/geotechnical surveying and data interpretation, diver and ROV-based documentation and excavation techniques survey methods.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ANTH 2501.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

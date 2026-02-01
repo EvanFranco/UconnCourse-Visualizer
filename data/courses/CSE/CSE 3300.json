@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3300",
+    "dept_code": "CSE",
+    "id_number": "3300",
+    "title": "Computer Networks and Data Communication",
+    "description": "Introduction to computer networks and data communications. Network types, components and topology, protocol architecture, routing algorithms, and performance. Case studies including LAN and other architectures.",
+    "credits": "3",
+    "requirement_description": "CSE 3100; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

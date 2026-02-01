@@ -1,0 +1,16 @@
+{
+    "name": "DMD 2230",
+    "dept_code": "DMD",
+    "id_number": "2230",
+    "title": "3D Motion I",
+    "description": "Introduction to techniques of 3D motion such as modeling, lighting and texturing 3D forms; keyframes and keyframe interpolations; and motion graphics effectors and simulations.",
+    "credits": "3",
+    "requirement_description": "DMD 2200, open to Digital Media and Design majors only, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

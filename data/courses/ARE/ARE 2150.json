@@ -1,0 +1,16 @@
+{
+    "name": "ARE 2150",
+    "dept_code": "ARE",
+    "id_number": "2150",
+    "title": "Intermediate Applied and Resource Economics",
+    "description": "Applications of intermediate level microeconomic theory to problems and policy issues in agriculture, natural resources, and the environment. Topics include supply, demand, market equilibrium, consumer and producer behavior, perfect competition, and welfare economics. Emphasis will be placed on using the theory in applied and computational exercises.",
+    "credits": "3",
+    "requirement_description": "ARE 1150 or ECON 1200 or ECON 1201; ARE 1333Q or ARE 3333 or equivalent with instructor consent. ARE 1333Q or ARE 3333 may be taken concurrently . May not be taken out of sequence after passing ARE 3223.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

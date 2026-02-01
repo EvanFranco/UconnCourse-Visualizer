@@ -1,0 +1,16 @@
+{
+    "name": "FED 5340",
+    "dept_code": "FED",
+    "id_number": "5340",
+    "title": "Field Practicum Extension",
+    "description": "Field Practicum Extension of hours.",
+    "credits": "1-5",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2409",
+    "dept_code": "ENGL",
+    "id_number": "2409",
+    "title": "The Modern Novel",
+    "description": "The study of major novels since 1900 using a mix of creative and critical reading activities. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

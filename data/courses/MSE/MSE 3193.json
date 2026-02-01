@@ -1,0 +1,16 @@
+{
+    "name": "MSE 3193",
+    "dept_code": "MSE",
+    "id_number": "3193",
+    "title": "International Study in Materials Science and Engineering",
+    "description": "Special engineering topics taken in an international study program. May count toward the Major, substituting a core course or as a Professional or Technical Elective, only with consent of the advisor and approved plan of study. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

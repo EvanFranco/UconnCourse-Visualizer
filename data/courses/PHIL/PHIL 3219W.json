@@ -1,0 +1,18 @@
+{
+    "name": "PHIL 3219W",
+    "dept_code": "PHIL",
+    "id_number": "3219W",
+    "title": "Topics in Philosophy and Human Rights",
+    "description": "(Also offered as HRTS\u00a03219W.) What are human rights? Why are they important? Topics may include the philosophical precursors of human rights, the nature and justification of human rights, or contemporary issues bearing on human rights. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy or instructor consent; ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

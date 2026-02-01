@@ -1,0 +1,16 @@
+{
+    "name": "DMD 1001",
+    "dept_code": "DMD",
+    "id_number": "1001",
+    "title": "Foundations in Digital Media and Design I",
+    "description": "Creative problem solving; empathy, ideation, prototyping, and testing as means to innovate discovery in diverse fields.",
+    "credits": "3",
+    "requirement_description": "Open to Digital Media and Design majors only, others by instructor consent. Not open for credit to students who have passed DMD 1000.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

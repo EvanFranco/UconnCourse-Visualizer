@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3091",
+    "dept_code": "ENGL",
+    "id_number": "3091",
+    "title": "Writing Internship",
+    "description": "Training in writing in a supervised field placement. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory.) May be repeated for credit. No more than eight credits may be earned in a single placement, and no more than three credits may be counted towards completion of requirements for the English major. May be repeated for credit.",
+    "credits": "1-8",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

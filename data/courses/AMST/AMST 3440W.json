@@ -1,0 +1,18 @@
+{
+    "name": "AMST 3440W",
+    "dept_code": "AMST",
+    "id_number": "3440W",
+    "title": "Visual Culture of the United States, 19th Century",
+    "description": "(Also offered as ARTH\u00a03440W.) An exploration of how visual culture in the long 19th century contributed to the formation of the United States.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

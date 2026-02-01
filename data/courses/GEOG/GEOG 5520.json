@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5520",
+    "dept_code": "GEOG",
+    "id_number": "5520",
+    "title": "GIS Modeling of the Urban Environment",
+    "description": "Survey of GIS methods and spatial analysis for studying spatial patterns of land use and human activity in an urban environment.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

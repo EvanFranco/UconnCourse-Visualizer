@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 5620",
+    "dept_code": "ENGR",
+    "id_number": "5620",
+    "title": "Power and Politics of STEM Education",
+    "description": "This course will trace histories of engineering education in the US to understand how disciplines have been shaped and seemingly stabilized over time. Over the semester, we will critically examine the political economies and cultures of educational institutions to understand the power relations that exist in present-day educational institutions. This historical approach will yield insights into present-day ideologies of rigor, objectivity, and meritocracy that legitimize inequities of who is served in educational systems. This course will focus on higher education, yielding insights into broader engineering disciplinary cultures that inform K-12 and industry contexts.",
+    "credits": "3",
+    "requirement_description": "Graduate standing or permission from instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

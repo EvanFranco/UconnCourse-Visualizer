@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 3241",
+    "dept_code": "SPAN",
+    "id_number": "3241",
+    "title": "Spanish Phonetics",
+    "description": "A study of the sounds of the language and drills to improve pronunciation. Recommended for all majors and for those who expect to teach Spanish.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: SPAN 3178 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

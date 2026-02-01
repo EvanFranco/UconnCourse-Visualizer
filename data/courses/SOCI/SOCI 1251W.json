@@ -1,0 +1,24 @@
+{
+    "name": "SOCI 1251W",
+    "dept_code": "SOCI",
+    "id_number": "1251W",
+    "title": "Social Problems",
+    "description": "An examination of how institutional and organizational features of societies generate contemporary social problems, public policies for their alleviation, and questions of ethics and social justice. Topics may include substance use and misuse, mental illness, crime, social inequality, racism, gender disparities, climate change, and human rights. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

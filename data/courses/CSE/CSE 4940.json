@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4940",
+    "dept_code": "CSE",
+    "id_number": "4940",
+    "title": "Computer Science and Engineering Design Project II",
+    "description": "The second semester of the required year long major design experience. The semester will be spent developing, testing, and evaluating the software and/or hardware system begun in CSE4939W. The project will culminate in the delivery of a working system and will include a formal public presentation, and written documentation. Oral and written progress reports are required.",
+    "credits": "3",
+    "requirement_description": "CSE 4939W; open only to Computer Science and Engineering, Computer Science, Data Science and Engineering, and Robotics Engineering majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

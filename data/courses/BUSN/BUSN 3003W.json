@@ -1,0 +1,18 @@
+{
+    "name": "BUSN 3003W",
+    "dept_code": "BUSN",
+    "id_number": "3003W",
+    "title": "Business Communications",
+    "description": "Techniques for improving professional writing and oral communications skills and ways in which visual communications, document design, and use of workplace technologies shape the message.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; Open only to Business majors of sophomore or higher status. Not open for credit to students who have passed BUSN 3002W or 3004W, or BADM 4075W or MENT 3070W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

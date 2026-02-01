@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 3020",
+    "dept_code": "ENGR",
+    "id_number": "3020",
+    "title": "EDOC: Confidence, Communication and Presentation",
+    "description": "Builds confidence, communication and presentation skills for engineering students that are imperative for building a successful self, and thus a successful engineer. A deep understanding of cognitive, emotional, and the integration of the two states will be explored. Innovative presentation techniques, communication strategies (written and oral) for varied audiences, and utilization of varied presentation styles, demonstrations, and visual aids will be studied and practiced. Some attention will be given to communication and presentation strategies for effective leadership and networking.",
+    "credits": "1",
+    "requirement_description": "Not open to students who have passed ENGR 3021.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

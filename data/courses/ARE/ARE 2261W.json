@@ -1,0 +1,18 @@
+{
+    "name": "ARE 2261W",
+    "dept_code": "ARE",
+    "id_number": "2261W",
+    "title": "Writing in Food Policy",
+    "description": "A writing intensive course on issues related to food policy, integrated with course content in ARE\u00a02260.",
+    "credits": "1",
+    "requirement_description": "ARE 2260, may be taken concurrently; ENGL 1007 or 1010 or 1011; open to Applied and Resource Economics majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

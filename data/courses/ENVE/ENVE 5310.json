@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5310",
+    "dept_code": "ENVE",
+    "id_number": "5310",
+    "title": "Environmental Transport Phenomena",
+    "description": "Development and solutions of partial differential equations describing diffusion, advection, and sources/sinks common to transport of mass, energy, and momentum. Mass sources/sinks used to describe sorption and chemical reaction. Extension to dispersion and turbulent mixing. Applications to predicting the movement of environmental contaminants.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

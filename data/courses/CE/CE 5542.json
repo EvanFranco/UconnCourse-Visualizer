@@ -1,0 +1,16 @@
+{
+    "name": "CE 5542",
+    "dept_code": "CE",
+    "id_number": "5542",
+    "title": "Earthquake Engineering",
+    "description": "Global tectonics and earthquake sources, seismic wave propagation, strong ground motion analysis, seismic hazards, site effects and liquefaction, seismic load to slopes, retaining structures and foundations, structure response to dynamic loads; term paper.",
+    "credits": "3",
+    "requirement_description": "This course and CE 4542 may not be both taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

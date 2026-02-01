@@ -1,0 +1,16 @@
+{
+    "name": "MSE 2053",
+    "dept_code": "MSE",
+    "id_number": "2053",
+    "title": "Materials Characterization and Processing Laboratory",
+    "description": "First semester of a three-semester MSE laboratory sequence. Foundational aspects of materials processing, specimen preparation, materials characterization, and materials design/selection will be introduced through experiments involving qualitative and quantitative microscopy, mechanical testing, thermal and mechanical processing. Course modules focus on metals, ceramics, and polymers.",
+    "credits": "2",
+    "requirement_description": "MSE 2001 and MSE 2002, the latter can be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

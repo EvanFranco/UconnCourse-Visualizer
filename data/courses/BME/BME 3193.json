@@ -1,0 +1,16 @@
+{
+    "name": "BME 3193",
+    "dept_code": "BME",
+    "id_number": "3193",
+    "title": "International Study",
+    "description": "Special Biomedical Engineering topics taken in an international study program. May be repeated for up to six credits with change in topic. May count toward the major with consent of the adviser and approved plan of study. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

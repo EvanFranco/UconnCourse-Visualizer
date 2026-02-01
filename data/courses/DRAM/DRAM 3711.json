@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 3711",
+    "dept_code": "DRAM",
+    "id_number": "3711",
+    "title": "Advanced Study of Acting and Directing",
+    "description": "While focusing on the creative process of actors and directors working together, students will engage in practical exercises, collaborative projects, and critical reflection. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "DRAM 1701, DRAM 1710, or DRAM 1711; open to Dramatic Arts majors and minors; others by instructor consent. Recommended preparation: DRAM 2141.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

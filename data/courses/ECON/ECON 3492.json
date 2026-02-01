@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3492",
+    "dept_code": "ECON",
+    "id_number": "3492",
+    "title": "Practicum",
+    "description": "A maximum of six credits may be counted toward the major. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "ECON 2201 or ECON 2211Q; ECON 2202 or ECON 2212Q; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2202",
+    "dept_code": "ECON",
+    "id_number": "2202",
+    "title": "Intermediate Macroeconomic Theory",
+    "description": "Intermediate macroeconomic theory, covering  national income accounting; the determination of aggregate output, employment and price levels; elements of business cycles and economic growth.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or 1202; one of MATH 1071Q, 1110Q, 1121Q, 1131Q, 1151Q, or 2141Q. Recommended preparation: ECON 1201. Not open for credit to students who have passed ECON 2212Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

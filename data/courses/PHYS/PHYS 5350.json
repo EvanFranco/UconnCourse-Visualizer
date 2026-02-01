@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 5350",
+    "dept_code": "PHYS",
+    "id_number": "5350",
+    "title": "Introduction to Computational Physics",
+    "description": "Introduction to computational physics, including programming in C, C++, and Python. Topics include numerical integration of ordinary differential equations, finite differences and stability analysis, numerical solution of partial differential equations (e.g., the Schroedinger and diffusion equations) in more than one dimension, Krylov space methods (e.g., eigensystem solvers and matrix inversion), and Monte Carlo integration. Introductory machine learning and high-performance computing methods may be covered. Writing code to solve current problems from selected areas of physics and astrophysics.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Python, C, C++, Unix.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

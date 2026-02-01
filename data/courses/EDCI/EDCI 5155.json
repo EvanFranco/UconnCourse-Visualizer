@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5155",
+    "dept_code": "EDCI",
+    "id_number": "5155",
+    "title": "Advanced Reading/Language Arts Clinic",
+    "description": "For prospective reading/language arts specialists. A laboratory course in planning and implementing remedial reading/language arts instruction for persons with severe or complex reading and writing disabilities.",
+    "credits": "6",
+    "requirement_description": "EDCI 5150.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

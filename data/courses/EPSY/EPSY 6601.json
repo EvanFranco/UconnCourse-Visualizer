@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6601",
+    "dept_code": "EPSY",
+    "id_number": "6601",
+    "title": "Methods and Techniques of Educational Research",
+    "description": "A survey of the principal methods employed in the investigation of educational problems, including problem formulation, stating hypotheses, sampling, instrument design, types of research methods and design principles.",
+    "credits": "3",
+    "requirement_description": "EPSY 5605 or master's level introductory educational statistics class.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

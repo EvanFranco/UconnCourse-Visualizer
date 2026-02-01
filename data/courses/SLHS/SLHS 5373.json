@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 5373",
+    "dept_code": "SLHS",
+    "id_number": "5373",
+    "title": "Pediatric Audiology",
+    "description": "Physiological and perceptual maturation of the auditory system from gestation through two years of age. Assessment of children's hearing, including difficult to test children, public school and neonatal screening.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "LLAS 4994W",
+    "dept_code": "LLAS",
+    "id_number": "4994W",
+    "title": "Latin American Studies Research Seminar",
+    "description": "Capstone course in which majors and minors in Latin American Studies design, execute and write up original, library-based research on Latin America. Some readings may be in Spanish or Portuguese.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

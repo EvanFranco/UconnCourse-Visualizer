@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 1115",
+    "dept_code": "PLSC",
+    "id_number": "1115",
+    "title": "Turfgrass Management Lab",
+    "description": "Grass establishment, grass identification, athletic field turfgrass playability evaluations, soil testing, turfgrass pest identification, turfgrass pest monitoring techniques, and fertilizer spreader and sprayer calibration. Formerly offered as SPSS 1115.",
+    "credits": "1",
+    "requirement_description": "PLSC 1100, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

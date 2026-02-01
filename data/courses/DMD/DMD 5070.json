@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5070",
+    "dept_code": "DMD",
+    "id_number": "5070",
+    "title": "Introduction to Web Design",
+    "description": "Survey of the concepts and methodologies of Web design. Introduction to the key concepts of Web design and development as well as the software that facilitates it. No prior experience in Web design is necessary, but students must be willing to embrace a new perspective on the design process as it pertains to the creation of functioning, interactive sites. Both technically and conceptually demanding. Will require, in addition to design time, many hours of self-initiated software exploration. Comprised of a series of exercises and projects beginning with basic HTML and increasing in complexity to include multiple pages sites using CSS and simple scripting.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 4099",
+    "dept_code": "HDFS",
+    "id_number": "4099",
+    "title": "Independent Study for Undergraduates",
+    "description": "Students, working with a faculty supervisor, develop plans for an independent research project or review paper, execute the project, and complete a report. May be taken more than one semester. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "HDFS 2004.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

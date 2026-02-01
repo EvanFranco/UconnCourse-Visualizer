@@ -1,0 +1,21 @@
+{
+    "name": "ARTH 3640",
+    "dept_code": "ARTH",
+    "id_number": "3640",
+    "title": "Mexican and Chicano Art from Muralism to La Raza",
+    "description": "Topics in Mexican and Chicano art from Mexican Independence to the present. CA 4.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

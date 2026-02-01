@@ -1,0 +1,16 @@
+{
+    "name": "CE 4510",
+    "dept_code": "CE",
+    "id_number": "4510",
+    "title": "Foundation Design",
+    "description": "Application of soil properties to design of foundations, retaining structures, excavation drainage, shallow footings, deep foundations, specifications, subsurface exploration.",
+    "credits": "3",
+    "requirement_description": "CE 3510; enrollment in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3321",
+    "dept_code": "ECON",
+    "id_number": "3321",
+    "title": "Programming and Computation with R for Economists",
+    "description": "Basics of R programming. Objects, data structures, logical design, functions. Applications to matrix algebra, optimization, data visualization, and econometric analysis.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q; ECON 2202 or 2212Q. Not open for credit to students who have passed ECON 5321.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

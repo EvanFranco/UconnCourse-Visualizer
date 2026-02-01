@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5810",
+    "dept_code": "ERTH",
+    "id_number": "5810",
+    "title": "Modeling the Changing Atmosphere and Ocean",
+    "description": "Modeling past and future climate, with an emphasis on conceptual understanding of the earth system and simulation results from climate models of different complexities.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed ERTH 4810.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

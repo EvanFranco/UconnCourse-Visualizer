@@ -1,0 +1,18 @@
+{
+    "name": "ASLN 3306W",
+    "dept_code": "ASLN",
+    "id_number": "3306W",
+    "title": "Advanced American Sign Language Level II",
+    "description": "Continuation of advanced study of American Sign Language and Deaf culture. Emphasis on composition in ASL, involving critical engagement with primary research in ASL literature and Deaf culture, and guidance on how to compose and revise in ASL using an online video recording platform.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; ASLN 3305 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

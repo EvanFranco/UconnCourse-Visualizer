@@ -1,0 +1,16 @@
+{
+    "name": "BME 3500",
+    "dept_code": "BME",
+    "id_number": "3500",
+    "title": "Biomedical Engineering Measurements",
+    "description": "A lecture and laboratory course that covers fundamentals of biomedical measurement and patient safety. Measurements of physical quantities by means of electronic instruments, mechanical devices and biochemical processes. Analysis of measurement systems using  mathematical models. Methods of measuring signals in the presence of  noise. Use of  computers in measurement systems.",
+    "credits": "4",
+    "requirement_description": "ECE 2001, open only to BME majors, others by instructor consent. Recommended preparation: BME 3120 and BME 3400 or ECE 3101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 5316",
+    "dept_code": "ENGR",
+    "id_number": "5316",
+    "title": "Independent Study",
+    "description": "Independent Study for Engineering Professional Education.",
+    "credits": "3",
+    "requirement_description": "Departmental consent required. A minimum of 21 credits toward the M.Eng. degree.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

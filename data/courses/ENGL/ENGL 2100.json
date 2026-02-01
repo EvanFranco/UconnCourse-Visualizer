@@ -1,0 +1,20 @@
+{
+    "name": "ENGL 2100",
+    "dept_code": "ENGL",
+    "id_number": "2100",
+    "title": "British Literature I",
+    "description": "British literature, medieval through 18th century. Intended to provide preparation for more advanced courses in British literature. Strongly recommended for English majors. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

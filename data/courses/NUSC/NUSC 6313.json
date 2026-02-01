@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 6313",
+    "dept_code": "NUSC",
+    "id_number": "6313",
+    "title": "Nutrition and Gene Expression",
+    "description": "Studies the regulations of eukaryotic gene expression by various macro-/micronutrients and their metabolites in the scope of epigenetic, transcriptional, post-transcriptional, translational, and post-translational mechanisms.",
+    "credits": "3",
+    "requirement_description": "NUSC 5200 and 5300.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

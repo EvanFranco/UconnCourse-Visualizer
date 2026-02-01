@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5321",
+    "dept_code": "CHEG",
+    "id_number": "5321",
+    "title": "Reaction Kinetics I",
+    "description": "Chemical kinetics and reactor design. An advanced study of chemical reaction engineering with emphasis on catalysis. Applications to stirred-tanks, fixed-bed, and fluidized bed reactors.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

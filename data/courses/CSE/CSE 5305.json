@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5305",
+    "dept_code": "CSE",
+    "id_number": "5305",
+    "title": "Operating Systems",
+    "description": "Introduction to the theory, design, and implementation of software systems to support the management of computing resources. Topics include the synchronization of concurrent processes, memory management, processor management, scheduling, device management, file systems, and protection.",
+    "credits": "3",
+    "requirement_description": "Department consent required; open to graduate students in the Computer Science and Engineering program, others with permission. Not open for credit to students who have passed CSE 4300. Recommended preparation: CSE 3100, 2304 or 3666.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

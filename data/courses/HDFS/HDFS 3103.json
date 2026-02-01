@@ -1,0 +1,21 @@
+{
+    "name": "HDFS 3103",
+    "dept_code": "HDFS",
+    "id_number": "3103",
+    "title": "Adolescent Development",
+    "description": "Theoretical approaches to adolescence; contextual research findings regarding adolescent development, with an emphasis on evaluating the match between these findings and the lived experience of adolescents; interventions designed to help adolescents meet the challenges of contemporary life.",
+    "credits": "3",
+    "requirement_description": "HDFS 2100, or PSYC 2400; HDFS 2004, or NURS 3205, or PSYC 2100Q, or SOCI 3201, which may be taken concurrently; open to juniors or higher. May not be taken out of sequence after passing HDFS 3341.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

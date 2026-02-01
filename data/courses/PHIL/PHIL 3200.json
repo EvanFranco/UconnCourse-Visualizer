@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 3200",
+    "dept_code": "PHIL",
+    "id_number": "3200",
+    "title": "Philosophical Issues in Contemporary Life",
+    "description": "Philosophical dimensions of problems in contemporary life. Topics vary by semester. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

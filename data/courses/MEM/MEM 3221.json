@@ -1,0 +1,16 @@
+{
+    "name": "MEM 3221",
+    "dept_code": "MEM",
+    "id_number": "3221",
+    "title": "Introduction to Products and Processes",
+    "description": "Overview of the factors affecting the design of products and the various processes used in their manufacture. An introduction to manufacturing processes and their capabilities and limitations. Value engineering, methods improvement and simplification techniques will be covered.",
+    "credits": "3",
+    "requirement_description": "MEM 2211.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

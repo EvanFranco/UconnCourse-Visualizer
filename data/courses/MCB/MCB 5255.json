@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5255",
+    "dept_code": "MCB",
+    "id_number": "5255",
+    "title": "Cellular and Molecular Immunology",
+    "description": "Genetic, biochemical, and cellular control of the immune system, addressing such topics as antigen recognition, immune regulation, stress and immunity, apoptosis, and signal transduction. May be repeated for a total of 8 credits.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

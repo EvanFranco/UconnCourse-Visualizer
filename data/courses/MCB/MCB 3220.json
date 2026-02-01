@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3220",
+    "dept_code": "MCB",
+    "id_number": "3220",
+    "title": "Developmental Biology Laboratory",
+    "description": "Zebrafish used as an experimental model system to investigate molecular mechanisms of vertebrate development. Self-directed experiments utilize cellular, genetic, pharmacological and microscopic techniques to recreate established findings and pursue new knowledge.",
+    "credits": "4",
+    "requirement_description": "MCB 2210 or 2215, and MCB 2400 or 2410. Recommended preparation: MCB 3219.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

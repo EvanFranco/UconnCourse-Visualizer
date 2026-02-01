@@ -1,0 +1,22 @@
+{
+    "name": "SPAN 3260",
+    "dept_code": "SPAN",
+    "id_number": "3260",
+    "title": "Studies in Spanish-American Literature",
+    "description": "Readings and discussions of specific aspects of Spanish-American literature. Consult department for particulars each year. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Recommended Preparation: SPAN 3201",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

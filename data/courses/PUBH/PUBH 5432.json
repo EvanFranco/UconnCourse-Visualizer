@@ -1,0 +1,16 @@
+{
+    "name": "PUBH 5432",
+    "dept_code": "PUBH",
+    "id_number": "5432",
+    "title": "SAS Programming and Data Management",
+    "description": "Focuses on SAS programming to introduce the most commonly used features of the language, including data definition, modification and organization; data manipulation and selection; data display and basic data analysis using descriptive statistics. Students also learn to create datasets using data entry or importing from other programs.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

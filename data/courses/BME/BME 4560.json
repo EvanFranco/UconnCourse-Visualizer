@@ -1,0 +1,16 @@
+{
+    "name": "BME 4560",
+    "dept_code": "BME",
+    "id_number": "4560",
+    "title": "Biomedical Signal Processing Laboratory",
+    "description": "This course provides students the opportunity to develop skills to use computational methods in time- and frequency domains to analyze some of most commonly used biomedical signals such as ECG, photoplethysmogram (PPG), electromyogram (EMG), and electrodermal activity (EDA). All data analyses are performed using Matlab software.",
+    "credits": "3",
+    "requirement_description": "BME 3100, 3500, and BME 4500; Open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3150",
+    "dept_code": "CSE",
+    "id_number": "3150",
+    "title": "C++ Essentials",
+    "description": "Leverages existing knowledge of C and covers all the essential capabilities of the most recent C++ standard, illustrating their specificities as well as how the language can be used to model object-oriented implementation of a number of classic problems.",
+    "credits": "3",
+    "requirement_description": "CSE 3100; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

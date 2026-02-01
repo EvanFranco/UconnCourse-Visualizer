@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3501",
+    "dept_code": "PSYC",
+    "id_number": "3501",
+    "title": "Sensation and Perception",
+    "description": "Sensory and perceptual processes in vision, hearing, touch, taste, and smell.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100; PSYC 1101 or 1103.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

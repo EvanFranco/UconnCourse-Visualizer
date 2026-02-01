@@ -1,0 +1,18 @@
+{
+    "name": "GEOG 4001W",
+    "dept_code": "GEOG",
+    "id_number": "4001W",
+    "title": "Writing in Geography",
+    "description": "Techniques for, and practice in, research, writing, citation, and data presentation in geography.",
+    "credits": "1",
+    "requirement_description": "One Geography course at the 2000 level or higher; ENGL 1007 or 1010 or 1011; open to junior or higher Geography and GIS majors. Corequisite: One Geography course at the 3000 level or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

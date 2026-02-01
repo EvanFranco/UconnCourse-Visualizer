@@ -1,0 +1,16 @@
+{
+    "name": "STAT 6315",
+    "dept_code": "STAT",
+    "id_number": "6315",
+    "title": "Statistical Inference I",
+    "description": "Exponential families, sufficient statistics, loss function, decision rules, convexity, prior information, unbiasedness, Bayesian analysis, minimaxity, admissibility, simultaneous and shrinkage estimation, invariance, equivariant estimation.",
+    "credits": "3",
+    "requirement_description": "Open to Ph.D. students who have passed the Ph.D. Qualifying Exam in Statistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

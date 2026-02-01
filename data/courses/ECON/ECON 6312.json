@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6312",
+    "dept_code": "ECON",
+    "id_number": "6312",
+    "title": "Econometrics III",
+    "description": "Special topics from recent advances in econometrics.",
+    "credits": "3",
+    "requirement_description": "A grade of B- or better in ECON 6311.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

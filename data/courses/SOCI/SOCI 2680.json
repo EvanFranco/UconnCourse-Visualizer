@@ -1,0 +1,21 @@
+{
+    "name": "SOCI 2680",
+    "dept_code": "SOCI",
+    "id_number": "2680",
+    "title": "Sociology of Sexualities",
+    "description": "(Also offered as WGSS\u00a02680.) Explores the social organization, construction, and politics of sexualities, particular focus on lesbian, gay, bisexual, transgender, and queer experiences and the intersection of sexualities, gender, race, and class. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

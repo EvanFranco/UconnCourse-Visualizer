@@ -1,0 +1,16 @@
+{
+    "name": "BME 5020",
+    "dept_code": "BME",
+    "id_number": "5020",
+    "title": "Clinical Engineering Fundamentals",
+    "description": "Provides the fundamental concepts involved in managing medical technology, establishing and operating a clinical engineering department, and the role of the clinical engineering designing facilities used in patient care. Topics covered include managing safety programs, technology assessment, technology acquisition, the design of clinical facilities, personnel management, budgeting and ethical issues of concern to the clinical engineer.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,25 @@
+{
+    "name": "LING 3610W",
+    "dept_code": "LING",
+    "id_number": "3610W",
+    "title": "Language and Culture",
+    "description": "The study of language, culture, and their relationship. Topics include the evolution of the human language capacity; the principles of historical language change including reconstruction of Indo-European and Native American language families; writing systems; linguistic forms such as Pidgins and Creoles arising from languages in contact; the interaction between language and political systems, the struggle for human rights, gender, ethnicity, and ethnobiology. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

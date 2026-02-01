@@ -1,0 +1,19 @@
+{
+    "name": "NRE 3305",
+    "dept_code": "NRE",
+    "id_number": "3305",
+    "title": "African Field Ecology and Renewable Resources Management",
+    "description": "An intensive, field oriented methods course conducted primarily in South Africa at the Basil Kent Field Station, Great Fish River Reserve in collaboration with the University of Fort Hare. An introduction to South Africa culture and history, ecology, and natural resources is provided in weekly meetings during the semester. This is followed by three weeks in the field in South Africa. Topics covered include vegetation and faunal surveys, data collection and analysis, biodiversity monitoring, and conservation management. A research paper relating to an independent study conducted by the student in the field is required. CA 4-INT.",
+    "credits": "4",
+    "requirement_description": "Recommended preparation: EEB 2244.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

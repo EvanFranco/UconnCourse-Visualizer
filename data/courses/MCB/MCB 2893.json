@@ -1,0 +1,16 @@
+{
+    "name": "MCB 2893",
+    "dept_code": "MCB",
+    "id_number": "2893",
+    "title": "Foreign Study",
+    "description": "Special topics taken in an international study program. Consent of Associate Department Head for Undergraduate Research and Education required, normally to be granted before the student's departure. May be repeated for credit.",
+    "credits": "1-5",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

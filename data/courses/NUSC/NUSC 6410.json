@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 6410",
+    "dept_code": "NUSC",
+    "id_number": "6410",
+    "title": "Advanced Clinical Nutrition",
+    "description": "Interrelationships of physiology and biochemistry of disease and dietary intervention involving complex conditions, alternative approaches to therapeutic nutrition and extension to special populations. Clinical nutrition research in the context of therapeutic practice and case studies.",
+    "credits": "3",
+    "requirement_description": "NUSC 5410.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

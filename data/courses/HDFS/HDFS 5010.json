@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 5010",
+    "dept_code": "HDFS",
+    "id_number": "5010",
+    "title": "Practicum in University Teaching of Human Development and Family Sciences",
+    "description": "Supervised teaching of undergraduate courses in Human Development and Family Sciences.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

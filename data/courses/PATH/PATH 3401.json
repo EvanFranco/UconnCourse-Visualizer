@@ -1,0 +1,16 @@
+{
+    "name": "PATH 3401",
+    "dept_code": "PATH",
+    "id_number": "3401",
+    "title": "Immunobiology",
+    "description": "Principles of basic and clinical immunobiology; phylogeny and ontogeny of the immune response, characteristics of the immune response, cellular and humoral immunity; central and peripheral lymphoid tissues; mechanisms of immunologic injury and immunologic diseases; comparative and veterinary immunology; transplantation and tumor immunology.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

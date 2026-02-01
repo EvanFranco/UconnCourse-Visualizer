@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 6319",
+    "dept_code": "SLHS",
+    "id_number": "6319",
+    "title": "Practicum in Research",
+    "description": "Practicum. May be repeated for credit. May be repeated for a total of 24 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

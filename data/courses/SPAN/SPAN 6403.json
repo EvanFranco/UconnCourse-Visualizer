@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 6403",
+    "dept_code": "SPAN",
+    "id_number": "6403",
+    "title": "Studies in Spanish Literature",
+    "description": "May be repeated for up to nine credits with a change of topic. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

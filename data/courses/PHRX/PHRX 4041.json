@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 4041",
+    "dept_code": "PHRX",
+    "id_number": "4041",
+    "title": "Immunology Module",
+    "description": "Principles of pathophysiology, pharmacology, medicinal chemistry, clinical pharmacokinetics and pharmacotherapy (including both prescription and non-prescription medications) as they apply to immunologic drug therapy management.",
+    "credits": "2",
+    "requirement_description": "PHRX 3001 and PHRX 3040; open only to students in the School of Pharmacy.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

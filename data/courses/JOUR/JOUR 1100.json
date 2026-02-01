@@ -1,0 +1,20 @@
+{
+    "name": "JOUR 1100",
+    "dept_code": "JOUR",
+    "id_number": "1100",
+    "title": "News Literacy for the Digital Age",
+    "description": "Better scrutinize what you see, hear, read, watch and share. Recognize the differences between fact and rumor, news and advertising, news and opinion, bias and fairness. Discover why people get duped by misinformation and how it can spread and become entrenched. Practice journalistic methods of fact checking, investigation, and verification.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3554",
+    "dept_code": "ANSC",
+    "id_number": "3554",
+    "title": "Equine Sports Rehabilitation Practicum",
+    "description": "Provides students with an opportunity to apply concepts of equine rehabilitation. May be repeated once with change in specific rehabilitation activity. May be repeated for a total of 4 credits.",
+    "credits": "2",
+    "requirement_description": "ANSC 3551 and instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

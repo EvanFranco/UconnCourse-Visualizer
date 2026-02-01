@@ -1,0 +1,16 @@
+{
+    "name": "ME 5650",
+    "dept_code": "ME",
+    "id_number": "5650",
+    "title": "Design Under Uncertainty and Health Prognostics",
+    "description": "Explores probabilistic machine learning methods for engineering design and health prognostics. Provide students with a hands-on experience applying these methods to analyze and improve the reliability of engineered systems; applications of probabilistic machine learning methods to engineering design and health prognostics; hands-on learning of various probabilistic design methods, such as surrogate modeling, uncertainty quantification, reliability-based design, and robust design. Real-world examples of using probabilistic machine learning methods for fault diagnostics and health prognostics in two industrial applications: prognostics of implantable-grade Li-ion battery and deep learning and Industrial Internet of Things (IIoT) for predictive maintenance of industrial equipment.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed ME 5895 when offered as Probabilistic Machine Learning for Engineering Design and Health Prognostics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

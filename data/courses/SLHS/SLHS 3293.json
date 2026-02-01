@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 3293",
+    "dept_code": "SLHS",
+    "id_number": "3293",
+    "title": "Foreign Study",
+    "description": "Special topics taken in foreign study program. Consent of Department Head required, normally granted prior to the student's departure. May count toward the major with consent of the advisor. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

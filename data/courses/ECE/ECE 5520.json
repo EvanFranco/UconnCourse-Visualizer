@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5520",
+    "dept_code": "ECE",
+    "id_number": "5520",
+    "title": "Advanced Power Electronics",
+    "description": "Advanced converter and inverter topologies for high efficiency applications. Non-ideal component characteristics. Necessary components such as gate drive circuits and magnetic component design (that are not covered in introductory power electronics courses).",
+    "credits": "3",
+    "requirement_description": "ECE 3211.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

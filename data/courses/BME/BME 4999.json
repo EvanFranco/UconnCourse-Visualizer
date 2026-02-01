@@ -1,0 +1,16 @@
+{
+    "name": "BME 4999",
+    "dept_code": "BME",
+    "id_number": "4999",
+    "title": "Independent Study",
+    "description": "Independent study project carried on by the student under the guidance of a faculty member. The student is required to submit a report on the study at the end of the semester. With a change in content, this course may be repeated for credit. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open only to Biomedical Engineering majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

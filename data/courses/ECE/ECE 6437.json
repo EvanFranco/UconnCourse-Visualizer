@@ -1,0 +1,16 @@
+{
+    "name": "ECE 6437",
+    "dept_code": "ECE",
+    "id_number": "6437",
+    "title": "Computational Methods for Optimization",
+    "description": "Computational methods for optimization in static and dynamic problems. Ordinary function minimization, linear programming, gradient methods and conjugate direction search, nonlinear problems with constraints. Extension of search methods to optimization of dynamic systems, dynamic programming.",
+    "credits": "3",
+    "requirement_description": "ECE 5101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

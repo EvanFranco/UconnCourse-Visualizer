@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 4370",
+    "dept_code": "CHEM",
+    "id_number": "4370",
+    "title": "Environmental Chemistry - Atmosphere",
+    "description": "Sources, transport, effects, fate, analytical chemistry, monitoring and management of chemical species; chemical principles, equilibria and reactions. The earth's atmosphere and atmospheric pollution; acid rain, global warming, ozone. Intended for senior chemistry majors choosing the environmental chemistry option, or as an elective, and for environmental science majors pursuing a concentration in environmental chemistry.",
+    "credits": "3",
+    "requirement_description": "CHEM 2443, CHEM 2444, and CHEM 2445; or CHEM 2241, CHEM 2242; CHEM 3332 and 3563 both of which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "BUSN 3004W",
+    "dept_code": "BUSN",
+    "id_number": "3004W",
+    "title": "Business Writing and Communication",
+    "description": "Rhetorical strategies and practices for improving professional writing and oral communications, as well as ways in which visual communications, document design, and emerging genres (e.g., new media, social media) shape professional messages.",
+    "credits": "2",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to Business Majors of sophomore or higher status. Not open for credit to students who have passed BADM 4075W; or BUSN 3002W or 3003W; or MENT 3070W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

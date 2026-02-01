@@ -1,0 +1,16 @@
+{
+    "name": "ART 3655",
+    "dept_code": "ART",
+    "id_number": "3655",
+    "title": "Ceramics: Mold Making and Casting",
+    "description": "Investigation of ceramic art mold making and casting principles, techniques, and processes. Covers plaster mold making for clay and slip casting, formal design and conceptual invention with cast forms, ceramic surface treatment, installation and display strategies. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "ART 2610; open only to Art and Art History majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

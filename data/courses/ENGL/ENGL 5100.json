@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 5100",
+    "dept_code": "ENGL",
+    "id_number": "5100",
+    "title": "The Theory and Teaching of Writing",
+    "description": "An exploration of the relationship between the theories and practice of writing, with attention given to the teaching of writing and recent developments in rhetoric and composition.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "HEJS 5312",
+    "dept_code": "HEJS",
+    "id_number": "5312",
+    "title": "Readings in Talmudic Literature",
+    "description": "Selected readings from the Babylonian or Palestinian Talmud. Focus will be either a particular theme or a specific tractate. May be repeated for credit with a change of topic to a maximum of nine credits. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Literatures, Cultures, and Languages; undergraduates by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ART 5308",
+    "dept_code": "ART",
+    "id_number": "5308",
+    "title": "Graduate Studio Art (Video)",
+    "description": "Open to students in studio art, others with permission. May be repeated for a total of 24 credits.",
+    "credits": "3-6",
+    "requirement_description": "RC Art MFA students only",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

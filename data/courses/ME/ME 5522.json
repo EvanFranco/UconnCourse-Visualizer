@@ -1,0 +1,16 @@
+{
+    "name": "ME 5522",
+    "dept_code": "ME",
+    "id_number": "5522",
+    "title": "Advanced Analysis of Composite Materials and Structures",
+    "description": "Advanced course in composite materials analysis that focuses on micromechanics analysis, failure prediction and hygrothermal effects. It will provide students with the skills to perform elasticity-based micromechanics analysis of composite thermal and mechanical properties and failure. Students will also learn about the analysis of discontinuous fiber composites. The analysis of the effects of temperature and moisture on multidirectional composite laminate properties and constitutive behavior will be covered along with the analysis of processing-induced residual stresses and laminate deformation. Students will work on a project that applies the skills learnt in the course to a practical composite application.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Recommended preparation: undergraduate degree in mechanical engineering or similar discipline.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

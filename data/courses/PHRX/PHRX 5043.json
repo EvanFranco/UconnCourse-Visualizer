@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 5043",
+    "dept_code": "PHRX",
+    "id_number": "5043",
+    "title": "Infectious Disease Module",
+    "description": "Principles of pathophysiology, pharmacology, medicinal chemistry, clinical pharmacokinetics and pharmacotherapy (including both prescription and non-prescription medications) as they apply to infectious disease drug therapy management.",
+    "credits": "4",
+    "requirement_description": "PHRX 5040, 5063 (or PHRX 5041 and 5042); Open only to students in the School of Pharmacy PharmD program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

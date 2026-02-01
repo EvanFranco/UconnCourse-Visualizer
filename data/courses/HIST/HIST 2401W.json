@@ -1,0 +1,23 @@
+{
+    "name": "HIST 2401W",
+    "dept_code": "HIST",
+    "id_number": "2401W",
+    "title": "Europe in the Nineteenth Century",
+    "description": "Examines the Restoration, the mid-century revolutions, and the forces of nationalism, liberalism and imperialism. New social and economic movements and currents of thought are described and explored. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: HIST 1400.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

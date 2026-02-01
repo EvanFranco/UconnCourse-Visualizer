@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 6204",
+    "dept_code": "OPIM",
+    "id_number": "6204",
+    "title": "Seminar in Operations Research and Optimization",
+    "description": "Introduces classical and state-of-the-art optimization methods, modeling techniques, exact algorithms and heuristics, emphasizing deterministic operations research and computational complexity theory. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

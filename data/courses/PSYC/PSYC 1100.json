@@ -1,0 +1,20 @@
+{
+    "name": "PSYC 1100",
+    "dept_code": "PSYC",
+    "id_number": "1100",
+    "title": "General Psychology I",
+    "description": "Basic principles that underlie mental processes and behavior; research methodology, biopsychology, sensation, perception, learning, memory and language. Ordinarily this course should be taken in the fall semester. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GERM 1001",
+    "dept_code": "GERM",
+    "id_number": "1001",
+    "title": "Elementary German I",
+    "description": "Using project-based learning and authentic materials, students will learn to communicate in the German language about familiar topics and gain intercultural competence.",
+    "credits": "4",
+    "requirement_description": "May not be taken out of sequence after passing GERM 1002, 1003, or 1004; may not be taken for credit after passing any 2000-level or above course taught in German, or three or more years of high school German.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

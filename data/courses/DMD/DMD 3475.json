@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3475",
+    "dept_code": "DMD",
+    "id_number": "3475",
+    "title": "Coding for Web and Interactive Media Design",
+    "description": "Explores intermediate programming techniques for web and interactive media projects.",
+    "credits": "3",
+    "requirement_description": "DMD 1060 and 1070; open to Digital Media and Design majors; others with instructor consent. Recommended corequisite: DMD 3470.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

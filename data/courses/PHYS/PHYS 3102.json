@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 3102",
+    "dept_code": "PHYS",
+    "id_number": "3102",
+    "title": "Mechanics II",
+    "description": "Further applications of Newton's Laws; continuous media; Lagrange's and Hamilton's formulation of dynamics.",
+    "credits": "3",
+    "requirement_description": "MATH 2410Q or 2420Q; PHYS 3101 or CE 2120.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

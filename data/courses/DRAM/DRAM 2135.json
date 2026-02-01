@@ -1,0 +1,22 @@
+{
+    "name": "DRAM 2135",
+    "dept_code": "DRAM",
+    "id_number": "2135",
+    "title": "History of Popular Theatre and Live Entertainment",
+    "description": "Global survey of popular forms such as circus, stage magic, melodrama, vaudeville, musicals, and clowning in relation to themes such as expressing identity, speaking back to power, questioning gender norms, and making money. CA1. CA4 INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

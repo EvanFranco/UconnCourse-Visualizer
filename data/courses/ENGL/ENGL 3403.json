@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3403",
+    "dept_code": "ENGL",
+    "id_number": "3403",
+    "title": "Modern and Contemporary Poetry in English",
+    "description": "Poetry since 1900, from major modernist innovators to significant contemporaries.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

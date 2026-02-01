@@ -1,0 +1,18 @@
+{
+    "name": "COMM 3420W",
+    "dept_code": "COMM",
+    "id_number": "3420W",
+    "title": "Health Communication",
+    "description": "Overview of health communication, including health behavior change interventions, emergency communication, risk assessment, media influences, provider-patient communication, socialization and identity, stereotyping, social support, diverse populations, and new communication technologies.",
+    "credits": "3",
+    "requirement_description": "COMM 1000; ENGL 1007 or 1010 or 1011. Recommended preparation: COMM 2300 or 2500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

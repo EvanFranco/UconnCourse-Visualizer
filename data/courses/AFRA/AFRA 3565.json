@@ -1,0 +1,21 @@
+{
+    "name": "AFRA 3565",
+    "dept_code": "AFRA",
+    "id_number": "3565",
+    "title": "African American Women's History",
+    "description": "(Also offered as HIST\u00a03565, WGSS\u00a03565.) African American women's history in the United States, including black women's activism and leadership; roles within the larger African Diaspora; engagement in local, national, and international freedom struggles; and redefinitions of identities as wives, mothers, leaders, citizens, and workers. Special attention given to the diversity of black women\u2019s experiences, and to the dominant images of black women in America from Mumbet (the first enslaved woman to sue for her freedom and win) to contemporary issues of race, sex, and class. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

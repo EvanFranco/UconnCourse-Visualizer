@@ -1,0 +1,20 @@
+{
+    "name": "PHIL 2410",
+    "dept_code": "PHIL",
+    "id_number": "2410",
+    "title": "Know Thyself",
+    "description": "Nature, value and limitations of self-knowledge; introspection, unconscious phenomena, self- deception, affective forecasting, interaction of neurophysiological and psychological explanations of behavior. Western as well as non-Western (specifically Buddhist) perspectives on the self. Readings from classical and contemporary sources. CA 1.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

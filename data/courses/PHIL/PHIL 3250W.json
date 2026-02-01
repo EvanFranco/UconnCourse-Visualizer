@@ -1,0 +1,18 @@
+{
+    "name": "PHIL 3250W",
+    "dept_code": "PHIL",
+    "id_number": "3250W",
+    "title": "Philosophy of Mind",
+    "description": "Contemporary issues in the philosophy of mind. Topics may include the nature of the mental; the mind-body problem, the analysis of sensory experience, the problem of intentionality, and psychological explanation.",
+    "credits": "3",
+    "requirement_description": "At least one 2000 level or above, three credit, philosophy course or consent of instructor; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

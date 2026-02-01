@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 3440",
+    "dept_code": "DRAM",
+    "id_number": "3440",
+    "title": "Costume Technology",
+    "description": "Basic foundation in the fabrication of clothing and costume items for the theater, wider entertainment fields and related industries.",
+    "credits": "3",
+    "requirement_description": "DRAM 1215 or DRAM 1217 or instructor consent, open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

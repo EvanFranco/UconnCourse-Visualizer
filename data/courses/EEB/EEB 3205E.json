@@ -1,0 +1,23 @@
+{
+    "name": "EEB 3205E",
+    "dept_code": "EEB",
+    "id_number": "3205E",
+    "title": "Current Issues in Environmental Science",
+    "description": "Readings and discussions of current issues in environmental science, emphasizing linkages between earth, oceans, atmosphere, and biosphere. Topics include climate change; watershed changes; alternative energy; population growth; endangered biodiversity; genetically-engineered organisms; deforestation/restoration; risk assessment; tradeoffs; problem-solving; alternative futures. Includes attendance at departmental seminar and field trips. CA 3.",
+    "credits": "4",
+    "requirement_description": "Open to honors students, others with instructor consent. Recommended preparation: eight credits of college level science. May not be taken concurrently with EEB 3894.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

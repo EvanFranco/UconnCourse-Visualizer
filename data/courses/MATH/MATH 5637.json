@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5637",
+    "dept_code": "MATH",
+    "id_number": "5637",
+    "title": "Statistics for Actuarial Modeling",
+    "description": "Data analysis for actuaries, linear models including generalized linear models, time series, principal component analysis, decision trees, cluster analysis, statistical computing with R, actuarial applications.",
+    "credits": "4",
+    "requirement_description": "Not open to students who have passed MATH 3636 or 3637.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "ANTH 2600",
+    "dept_code": "ANTH",
+    "id_number": "2600",
+    "title": "Microscopy in Applied Archaeobotany Research",
+    "description": "Introduction to research trends in archaeobotany and use of microscopy tools. Design and execution of a research project. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Recommended preparation: STAT 1000Q or 1100Q; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

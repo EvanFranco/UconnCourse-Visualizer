@@ -1,0 +1,18 @@
+{
+    "name": "NRE 2146",
+    "dept_code": "NRE",
+    "id_number": "2146",
+    "title": "Climatology",
+    "description": "Fundamentals of climatology: elements, processes, and mechanisms that govern or affect the climate and climate change, climatological theories and observations, climate across spatial and temporal scales, scientific methods for climatic analysis and applications. Formerly offered as NRE 3146.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

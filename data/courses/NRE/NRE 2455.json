@@ -1,0 +1,16 @@
+{
+    "name": "NRE 2455",
+    "dept_code": "NRE",
+    "id_number": "2455",
+    "title": "Forest Ecology",
+    "description": "Forest structure and functional processes and their relation to physical environment (light, temperature, water, soil); the influence of time (succession, disturbance, stand dynamics) and space (landscape ecology, ecosystem management). Laboratory will be in the field or computer lab.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: NRE 2415, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

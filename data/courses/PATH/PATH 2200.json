@@ -1,0 +1,16 @@
+{
+    "name": "PATH 2200",
+    "dept_code": "PATH",
+    "id_number": "2200",
+    "title": "Modern Biomedical Laboratory Techniques",
+    "description": "Comprehensive project-based laboratory course utilizing a variety of modern biomedical techniques to identify an unknown pathogen and express antigens for vaccine and diagnostic assay development. Topics covered include next-generation sequencing, CRISPR gene editing, mRNA technology, gene cloning and expression, protein purification and analysis, immunoassay, and reverse transcription quantitative PCR development.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

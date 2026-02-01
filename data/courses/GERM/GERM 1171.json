@@ -1,0 +1,22 @@
+{
+    "name": "GERM 1171",
+    "dept_code": "GERM",
+    "id_number": "1171",
+    "title": "The German Film",
+    "description": "Weekly showings of German films from the twenties to the present. Introduction to film history, analysis and interpretation of films, outside readings, term papers. Reading and lectures in English. May not be used to meet the undergraduate language requirement. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

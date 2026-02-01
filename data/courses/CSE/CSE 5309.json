@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5309",
+    "dept_code": "CSE",
+    "id_number": "5309",
+    "title": "Networked Embedded Systems",
+    "description": "Introduction to the design, analysis and implementation of networked embedded systems that interact with the physical environment. Applications of such systems include environmental monitoring, consumer electronics, medical devices, automotive systems, industrial process control, distributed robotics, and smart structures. Topics covered include concepts, technologies and protocols for low-power and resource-restricted wireless networks; models of computation and physical systems; embedded system architectures; and real-time system concepts, theory and design principles.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 2300W, CSE 3300 and CSE 3666.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 3425",
+    "dept_code": "SOCI",
+    "id_number": "3425",
+    "title": "Social Welfare and Social Work",
+    "description": "Social welfare needs and programs; introduction to social work as a professional service.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

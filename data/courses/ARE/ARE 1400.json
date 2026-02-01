@@ -1,0 +1,23 @@
+{
+    "name": "ARE 1400",
+    "dept_code": "ARE",
+    "id_number": "1400",
+    "title": "Pricing Pleasure: Controversial Consumption",
+    "description": "Interdisciplinary exploration of the complex and often controversial production, trade, and consumption of global commodities such as chocolate, coffee, fast fashion, and marine-based resources through both economic and social perspectives. The specific goods studied may change over time to explore timely issues relevant to society. Examines the hidden costs of production - including labor exploitation, environmental degradation, and social injustice - while also considering market dynamics, ethics of consumption, fair trade, and sustainability. Through discussions, in-class activities, and collaborative projects, students develop critical thinking, ethical reasoning, and global awareness.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

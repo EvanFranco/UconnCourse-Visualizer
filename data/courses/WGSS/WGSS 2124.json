@@ -1,0 +1,23 @@
+{
+    "name": "WGSS 2124",
+    "dept_code": "WGSS",
+    "id_number": "2124",
+    "title": "Gender and Globalization",
+    "description": "Construction and reproduction of gender inequality and the gendered nature of global structures and processes. Key topics include women's rights as human rights; women's work; gender, development, and the global economy; migration; religious fundamentalism; reproduction, health, and HIV/AIDS; education; violence against women; and gender, war, and peace advocacy. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

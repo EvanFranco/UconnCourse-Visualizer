@@ -1,0 +1,16 @@
+{
+    "name": "POLS 4994",
+    "dept_code": "POLS",
+    "id_number": "4994",
+    "title": "Senior Seminar",
+    "description": "Required for students in the Honors Program. Weekly seminar on selected topics in political science. Students must complete this course prior to their final semester.",
+    "credits": "3",
+    "requirement_description": "POLS 4894; open only to juniors or higher; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

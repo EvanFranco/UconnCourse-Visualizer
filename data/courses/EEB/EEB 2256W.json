@@ -1,0 +1,18 @@
+{
+    "name": "EEB 2256W",
+    "dept_code": "EEB",
+    "id_number": "2256W",
+    "title": "Current Topics in Evolutionary Medicine and Disease Ecology",
+    "description": "Engagement with primary research literature in evolutionary medicine and disease ecology, and development of written communication skills through writing, editing, revising, and peer feedback.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Three credits of coursework in BIOL, EEB, MCB, or PNB.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

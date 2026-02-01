@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5250",
+    "dept_code": "MATH",
+    "id_number": "5250",
+    "title": "Linear Algebra",
+    "description": "Abstract vector spaces and linear transformations, eigenvectors and eigenvalues, inner product spaces, matrix decompositions, normed spaces, duality, bilinear forms, multilinear algebra.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "ENGL 2637WE",
+    "dept_code": "ENGL",
+    "id_number": "2637WE",
+    "title": "Environmental Justice Writing",
+    "description": "Critical analysis of literary and nonliterary writing and other artworks by Black, Indigenous, immigrant, working class, and women writers who are disproportionately affected by ecological crisis, as well as community based practice in writing for combined environmental and social justice advocacy. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [],
+    "skill_codes": [
+        "W",
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

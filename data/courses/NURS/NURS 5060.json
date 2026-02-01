@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5060",
+    "dept_code": "NURS",
+    "id_number": "5060",
+    "title": "Advanced Pathophysiology: Concepts for Advanced Nursing Practice Across the Lifespan",
+    "description": "This course is designed for nurses preparing for advanced nursing practice roles across varying population foci. Concepts will include advanced human physiology, pathophysiology, and common clinical manifestations. A body-systems framework will be used.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed NURS 5362 or 5369.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

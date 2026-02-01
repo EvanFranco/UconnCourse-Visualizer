@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5799",
+    "dept_code": "MCB",
+    "id_number": "5799",
+    "title": "Independent Study",
+    "description": "A reading course for those wishing to pursue special work in biology. It may also be elected by undergraduate students preparing to be candidates for degrees with distinction. May be repeated for a total of four credits. May be repeated for a total of 4 credits.",
+    "credits": "1",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PNB 2250",
+    "dept_code": "PNB",
+    "id_number": "2250",
+    "title": "Comparative Animal Physiology",
+    "description": "An introduction to comparative animal physiology, emphasizing the evolutionary impacts of diverse physical, chemical, and environmental factors on vertebrates and invertebrates.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107. Recommended preparation: BIOL 1108.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3310",
+    "dept_code": "DMD",
+    "id_number": "3310",
+    "title": "3D Modeling, Lighting and Rendering II",
+    "description": "Instruction and guidance in the techniques and critical understanding of modeling, including texturing the model, lighting, and rendering in animation specific to a 3D environment.",
+    "credits": "3",
+    "requirement_description": "DMD 2310 and 2320; open to B.F.A Digital Media and Design 3D Animation concentration students, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

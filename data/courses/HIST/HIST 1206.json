@@ -1,0 +1,23 @@
+{
+    "name": "HIST 1206",
+    "dept_code": "HIST",
+    "id_number": "1206",
+    "title": "Living Through War in World History Since 1500",
+    "description": "Experiences and perceptions of both military and civilian participants in different kinds of wars around the world over the past 500 years. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

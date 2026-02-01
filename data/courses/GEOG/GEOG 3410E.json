@@ -1,0 +1,21 @@
+{
+    "name": "GEOG 3410E",
+    "dept_code": "GEOG",
+    "id_number": "3410E",
+    "title": "Human Modifications of Natural Environments",
+    "description": "A geographical and historical interpretation of the changing relationships between culture and environment. Emphasis on the modifications of the natural environment by preagricultural, agricultural, and urban societies.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

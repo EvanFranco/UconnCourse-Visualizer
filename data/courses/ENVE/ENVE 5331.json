@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5331",
+    "dept_code": "ENVE",
+    "id_number": "5331",
+    "title": "Predictive Analytics for Scientists and Engineers",
+    "description": "Topics include exploratory data analysis, clustering, dimensionality reduction, classification and regression models, text mining, geospatial data processing and more. Individual in-depth data analysis projects. Some background in programming and statistics desired.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

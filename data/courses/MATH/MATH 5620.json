@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5620",
+    "dept_code": "MATH",
+    "id_number": "5620",
+    "title": "Financial Mathematics I",
+    "description": "The mathematics of measurement of interest, accumulation and discount, present value, annuities, loans, bonds, and other securities.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed MATH 2620.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SAAS 255",
+    "dept_code": "SAAS",
+    "id_number": "255",
+    "title": "Foundations of Training",
+    "description": "Fundamental ground work and training techniques used when working with young horses. Prior working experience with horses is highly recommended.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

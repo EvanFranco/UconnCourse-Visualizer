@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3313",
+    "dept_code": "MUSI",
+    "id_number": "3313",
+    "title": "Harmony III",
+    "description": "Continuation of MUSI\u00a01314.",
+    "credits": "3",
+    "requirement_description": "MUSI 1314.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

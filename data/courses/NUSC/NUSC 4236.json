@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 4236",
+    "dept_code": "NUSC",
+    "id_number": "4236",
+    "title": "Nutritional Biochemistry and Metabolism",
+    "description": "Metabolism and functions of carbohydrates, proteins, fats, minerals, and vitamins.",
+    "credits": "4",
+    "requirement_description": "NUSC 1165; MCB 2000 or 3010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

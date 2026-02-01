@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 3101",
+    "dept_code": "HDFS",
+    "id_number": "3101",
+    "title": "Infant and Toddler Development",
+    "description": "Study of children from birth to three years from an integrated human development perspective; biological and social contextual influences.",
+    "credits": "3",
+    "requirement_description": "HDFS 2100, or PSYC 2400; HDFS 2004, or NURS 3205, or PSYC 2100Q, or SOCI 3201, which may be taken concurrently; open to juniors or higher. May not be taken out of sequence after passing HDFS 4181.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

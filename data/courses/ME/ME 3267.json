@@ -1,0 +1,16 @@
+{
+    "name": "ME 3267",
+    "dept_code": "ME",
+    "id_number": "3267",
+    "title": "Mechatronics",
+    "description": "Lab-based course introducing the principles and practices of mechatronic system design, integrating mechanical components, electronics, sensors, actuators, and embedded control. Students explore embedded system architecture, signal conditioning, analog filter design using OP-AMPs, and communication protocols such as UART and CAN bus. More professional STM32CubeIDE will be adopted as the software tool as an alternative to Arduino, providing a robust environment for programming and implementing microcontroller-based control systems. Emphasizes practical skills in sensing, filtering, actuation, and embedded system for modern mechatronic applications.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed ME 3295 when offered as \"Mechatronics.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

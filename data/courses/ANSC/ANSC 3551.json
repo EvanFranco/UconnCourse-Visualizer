@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3551",
+    "dept_code": "ANSC",
+    "id_number": "3551",
+    "title": "Equine Training I - Foundations",
+    "description": "Fundamental ground work and techniques used to train young horses. Prior working experience with horses recommended. May be repeated for a total of 4 credits.",
+    "credits": "2",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

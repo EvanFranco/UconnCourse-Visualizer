@@ -1,0 +1,18 @@
+{
+    "name": "AH 4240W",
+    "dept_code": "AH",
+    "id_number": "4240W",
+    "title": "Writing for Allied Health Research",
+    "description": "Develop scientific writing skills through completing a scientific research proposal.",
+    "credits": "1",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; a course in statistics; open only to Allied Health Sciences majors; others with instructor consent; open to juniors or higher. Corequisite: AH 4239. Not open to students who have passed AH 4241W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

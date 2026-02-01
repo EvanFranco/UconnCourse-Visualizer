@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4997",
+    "dept_code": "CSE",
+    "id_number": "4997",
+    "title": "Senior Thesis in Computer Science and Engineering",
+    "description": "Students are expected to choose an advisor and seek approval of a thesis topic by the time of registration. Students will author a formal thesis based on independent research conducted under the advisor supervision. Thesis proposal and final thesis must follow the guidelines developed by the department.",
+    "credits": "3",
+    "requirement_description": "Senior standing in Computer Science, Computer Science and Engineering, or Computer Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

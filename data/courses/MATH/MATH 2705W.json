@@ -1,0 +1,18 @@
+{
+    "name": "MATH 2705W",
+    "dept_code": "MATH",
+    "id_number": "2705W",
+    "title": "Technical Writing in Mathematics",
+    "description": "An introduction to the communication of mathematics through formal writing.",
+    "credits": "1",
+    "requirement_description": "ENGL 1007 or 1010 or 1011, and MATH 1132Q or 2141Q; completion of or concurrent enrollment in either MATH 2110Q, 2142Q, 2210Q, or 2410Q; open only to Mathematics majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

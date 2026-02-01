@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 3221",
+    "dept_code": "ACCT",
+    "id_number": "3221",
+    "title": "Cost Accounting",
+    "description": "(Also offered as BADM\u00a03221.) The study of (1) product costing as a basis for income determination and inventory valuation and (2) accounting concepts for planning and controlling organizational operations.",
+    "credits": "3",
+    "requirement_description": "ACCT 2101 or BADM 2101; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

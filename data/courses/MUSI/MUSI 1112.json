@@ -1,0 +1,21 @@
+{
+    "name": "MUSI 1112",
+    "dept_code": "MUSI",
+    "id_number": "1112",
+    "title": "University Symphony Orchestra",
+    "description": "Standard symphonic repertoire, technique of orchestral routine, preparation and presentation of concerts. CA 1. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

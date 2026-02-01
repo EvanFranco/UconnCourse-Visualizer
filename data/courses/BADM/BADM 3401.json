@@ -1,0 +1,16 @@
+{
+    "name": "BADM 3401",
+    "dept_code": "BADM",
+    "id_number": "3401",
+    "title": "Business Software Development",
+    "description": "(Also offered as OPIM\u00a03401.) This course introduces students to the development of computer software for business information processing. Topics include flowcharting, pseudocode, programming with a business-oriented computer language, file processing concepts, and on-line and batch processing. Formerly offered as OPIM 3220.",
+    "credits": "3",
+    "requirement_description": "Open only to non-business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ARE 5311",
+    "dept_code": "ARE",
+    "id_number": "5311",
+    "title": "Applied Econometrics I",
+    "description": "This course deals with the estimation and inference of statistical parameters that describe the data generating process of a society, the process that cannot be reproduced like in a pure science experimentation. In other words, the data are generated from economic systems of equations that are stochastic, dynamic, and simultaneous. An attempt is made to obtain the best, unbiased, and consistent estimates of the statistical parameters that describe the inherent economic phenomena.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

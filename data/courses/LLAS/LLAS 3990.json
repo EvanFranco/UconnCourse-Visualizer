@@ -1,0 +1,16 @@
+{
+    "name": "LLAS 3990",
+    "dept_code": "LLAS",
+    "id_number": "3990",
+    "title": "Field Study",
+    "description": "Work in cultural community-oriented setting(s). May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

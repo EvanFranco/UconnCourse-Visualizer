@@ -1,0 +1,16 @@
+{
+    "name": "BME 3401",
+    "dept_code": "BME",
+    "id_number": "3401",
+    "title": "Introduction to Computational and Systems Biology",
+    "description": "Introduction to the role of computational and mathematical analyses in biological sequence (DNA, RNA, proteins) analysis and quantitative mathematical models of cell biological processes (systems and quantitative biology). Algorithms for sequence alignment, analysis of networks involved in transcription, development, and signal transduction. Programming in the Python language will be an integral part of the course, but no prior experience with Python is necessary.",
+    "credits": "3",
+    "requirement_description": "MATH 2210Q, 2410Q; STAT 3025Q or 3345Q or MATH 3160.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

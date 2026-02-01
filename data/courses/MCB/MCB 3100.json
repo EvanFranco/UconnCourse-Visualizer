@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3100",
+    "dept_code": "MCB",
+    "id_number": "3100",
+    "title": "Introduction to Translational Research",
+    "description": "Basic science and design of human subject research; participation in clinical, patient-oriented research projects at CT Children's Medical Center emergency department in Hartford, CT.",
+    "credits": "3",
+    "requirement_description": "Open to Honors students; instructor consent required. Recommended preparation: MCB 2000, MCB 2210, MCB 2610, or MCB 3010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

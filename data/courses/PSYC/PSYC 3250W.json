@@ -1,0 +1,18 @@
+{
+    "name": "PSYC 3250W",
+    "dept_code": "PSYC",
+    "id_number": "3250W",
+    "title": "Laboratory in Animal Behavior and Learning",
+    "description": "A laboratory course to supplement PSYC\u00a03201.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; PSYC 2100Q; PSYC 2200 or 2500 or 3201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "ENGL 3115W",
+    "dept_code": "ENGL",
+    "id_number": "3115W",
+    "title": "Literature of Enlightenment, Empire, and Revolution: 1660-1800",
+    "description": "A survey of British literature composed between 1660 and 1800 that bore witness to, challenged, and promoted the ideals of the Enlightenment, the practice and institutions of the British empire, and the economic, social, and political revolutions of the Atlantic world during this historical period.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

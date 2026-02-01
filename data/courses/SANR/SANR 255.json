@@ -1,0 +1,16 @@
+{
+    "name": "SANR 255",
+    "dept_code": "SANR",
+    "id_number": "255",
+    "title": "Forest Ecology",
+    "description": "Forest structure and functional processes and their relation to physical environment (light, temperature, water, soil); the influence of time (succession, disturbance, stand dynamics) and space (landscape ecology, ecosystem management). Laboratory will be in the field or computer lab. Taught with NRE\u00a02455.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: SANR 215.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5395",
+    "dept_code": "CHEG",
+    "id_number": "5395",
+    "title": "Investigation of Special Topics",
+    "description": "Designed for special topics, or for individual students who desire to pursue investigations in a specialized field. May be repeated for a total of 12 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

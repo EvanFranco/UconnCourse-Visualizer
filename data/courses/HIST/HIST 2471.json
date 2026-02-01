@@ -1,0 +1,16 @@
+{
+    "name": "HIST 2471",
+    "dept_code": "HIST",
+    "id_number": "2471",
+    "title": "History of Russia Since 1855",
+    "description": "Continuation of History 3470. Late imperial Russia, the former Soviet Union, and contemporary Russia.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: HIST 3470.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

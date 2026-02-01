@@ -1,0 +1,16 @@
+{
+    "name": "COMM 3110",
+    "dept_code": "COMM",
+    "id_number": "3110",
+    "title": "Organizational Communication",
+    "description": "Communication in formal organizations; horizontal and vertical communication; effectiveness of different organizational structures and channels; feedback; networks; norms and roles.",
+    "credits": "3",
+    "requirement_description": "COMM 2100 or 2200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

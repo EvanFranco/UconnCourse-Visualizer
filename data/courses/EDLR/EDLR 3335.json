@@ -1,0 +1,16 @@
+{
+    "name": "EDLR 3335",
+    "dept_code": "EDLR",
+    "id_number": "3335",
+    "title": "Sport Law",
+    "description": "An introductory course in the law as it pertains to sport and recreational experiences. Students are exposed to fundamentals concerning the derivation of legal concepts and their application to sport and related activities.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

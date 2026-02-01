@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3360",
+    "dept_code": "EEB",
+    "id_number": "3360",
+    "title": "Physiological Ecology of Plants",
+    "description": "The complex relationships between plants and their environment, with a focus on the unique physiological processes of plants that underlie their ecology. The impact of human-driven global change is a cross-cutting theme.",
+    "credits": "3",
+    "requirement_description": "BIOL 1108 or 1110 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "LING 5520",
+    "dept_code": "LING",
+    "id_number": "5520",
+    "title": "Syntax II",
+    "description": "Transformational analysis within a Chomskyan framework; deep structure, surface structure, universal conditions on the form and application of transformational rules.",
+    "credits": "3",
+    "requirement_description": "LING 5510.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

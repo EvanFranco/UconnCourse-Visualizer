@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 5308",
+    "dept_code": "ANTH",
+    "id_number": "5308",
+    "title": "Human Evolutionary Theory",
+    "description": "Evolutionary concepts applied to human body size and shape, diet, disease, group composition, and reproductive behavior.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

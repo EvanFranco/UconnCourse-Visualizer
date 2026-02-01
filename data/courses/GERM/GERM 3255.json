@@ -1,0 +1,21 @@
+{
+    "name": "GERM 3255",
+    "dept_code": "GERM",
+    "id_number": "3255",
+    "title": "Studies in 20th Century German Literature",
+    "description": "Study of a cohesive group of texts that mark the period. Attention will be given to the relevant socio-historical context and to the visual and performing arts.  Taught in German. CA 1.",
+    "credits": "3",
+    "requirement_description": "Recommended Preparation: GERM 3233, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

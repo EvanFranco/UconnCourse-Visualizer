@@ -1,0 +1,16 @@
+{
+    "name": "CE 2710",
+    "dept_code": "CE",
+    "id_number": "2710",
+    "title": "Transportation Engineering and Planning",
+    "description": "Design of transportation facilities. Traffic flow and capacity analysis. Travel demand analysis and planning methods.",
+    "credits": "3",
+    "requirement_description": "PHYS 1201Q or 1401Q or 1501Q. Prerequisite or corequisite: CE 2251 or STAT 1100Q; CE 2411 or ENVE 2411.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

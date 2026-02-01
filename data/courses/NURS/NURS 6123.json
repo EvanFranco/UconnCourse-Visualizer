@@ -1,0 +1,16 @@
+{
+    "name": "NURS 6123",
+    "dept_code": "NURS",
+    "id_number": "6123",
+    "title": "Quantitative Methods for Design and Analysis in Nursing Research II",
+    "description": "Second course in a three-semester sequence that focuses on the study and application of quantitative research methods from design through statistical analysis for experimental, quasi-experimental, and non-experimental designs in nursing and healthcare. Limitations to the justification/feasibility of applying an experimental approach to human subjects will be reviewed. Research methods for quasi and non-experimental designs in nursing and healthcare will be emphasized. Basic psychometric properties and statistical methods underlying instrument development will be presented.",
+    "credits": "3",
+    "requirement_description": "NURS 6122; open to students not in the Nursing PhD Program with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

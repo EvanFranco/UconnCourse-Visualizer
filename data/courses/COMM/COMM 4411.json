@@ -1,0 +1,16 @@
+{
+    "name": "COMM 4411",
+    "dept_code": "COMM",
+    "id_number": "4411",
+    "title": "International Communication and Conflict",
+    "description": "Communication in international conflicts and crises. Negotiation, mediation, and transformational approaches; globalization and the media; communication in war and peace; cultural, social, political, and economic effects.",
+    "credits": "3",
+    "requirement_description": "COMM 2200 and 2500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

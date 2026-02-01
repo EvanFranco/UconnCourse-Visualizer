@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5310",
+    "dept_code": "MATH",
+    "id_number": "5310",
+    "title": "Introduction to Geometry and Topology I",
+    "description": "Topological spaces, maps, induced topologies, separation axioms, compactness, connectedness, classification of surfaces, the fundamental group and its applications, covering spaces.",
+    "credits": "3",
+    "requirement_description": "MATH 5110, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

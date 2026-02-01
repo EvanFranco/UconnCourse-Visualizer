@@ -1,0 +1,16 @@
+{
+    "name": "MSE 3020",
+    "dept_code": "MSE",
+    "id_number": "3020",
+    "title": "Failure Analysis",
+    "description": "Methods for determining the nature and cause of materials failure in structures and other mechanical devices. Analysis of case histories.",
+    "credits": "3",
+    "requirement_description": "MSE 2001 or 2101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

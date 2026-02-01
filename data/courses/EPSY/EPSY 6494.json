@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6494",
+    "dept_code": "EPSY",
+    "id_number": "6494",
+    "title": "Doctoral Practicum",
+    "description": "The implementation and application of theory in the student's area of specialization. May be repeated for a total of 21 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

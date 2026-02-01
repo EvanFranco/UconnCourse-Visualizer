@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 6450",
+    "dept_code": "ENGL",
+    "id_number": "6450",
+    "title": "Seminar in American Literature",
+    "description": "With a change in content, this course may be repeated for credit. May be repeated for a total of 15 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

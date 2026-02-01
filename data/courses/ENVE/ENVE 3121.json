@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 3121",
+    "dept_code": "ENVE",
+    "id_number": "3121",
+    "title": "Fluid Mechanics Laboratory",
+    "description": "Experimental and computational work in fluid mechanics topics, such as measurement of viscosity and flow rate, impact of water jets on surfaces, water distribution network analysis with Hardy-Cross method, hydraulic jump, open channel flow. Written laboratory reports.",
+    "credits": "1",
+    "requirement_description": "Instructor consent required. CE 2110; MATH 2110Q; 2410Q and a lecture course in fluid mechanics; open only to students in the College of Engineering. Recommended preparation: CE 2120. This course and ENVE 3120 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

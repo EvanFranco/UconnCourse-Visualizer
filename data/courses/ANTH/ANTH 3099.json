@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3099",
+    "dept_code": "ANTH",
+    "id_number": "3099",
+    "title": "Independent Study",
+    "description": "With a change of content, may be repeated for credit. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

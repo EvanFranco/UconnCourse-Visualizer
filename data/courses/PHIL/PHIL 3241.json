@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 3241",
+    "dept_code": "PHIL",
+    "id_number": "3241",
+    "title": "Philosophy of Language",
+    "description": "Philosophical issues raised by language. Topics may include the nature and functions of language; theories of meaning, reference, and truth; speech acts; the evolutionary origin of language; and language's relation to thought, gender, race, and politics.",
+    "credits": "3",
+    "requirement_description": "At least one three-credit 2000-level or above course in Philosophy or Linguistics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MARN 2996",
+    "dept_code": "MARN",
+    "id_number": "2996",
+    "title": "Directed Research 1",
+    "description": "Investigation of a special problem involving field and/or laboratory observations in marine sciences. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5372",
+    "dept_code": "MEDS",
+    "id_number": "5372",
+    "title": "Neuroscience: Cellular and Molecular Neuroscience",
+    "description": "Part of a core series in the Neuroscience Program, this course provides an introduction to basic concepts in the study of cell biology, neuroanatomy, neurophysiology, neurochemistry, and molecular biology of the nervous system.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

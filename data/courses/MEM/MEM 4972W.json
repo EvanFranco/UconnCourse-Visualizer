@@ -1,0 +1,18 @@
+{
+    "name": "MEM 4972W",
+    "dept_code": "MEM",
+    "id_number": "4972W",
+    "title": "Senior Design Project II",
+    "description": "Part 2 of the capstone design course for the MEM Program. Students will perform the design, fabrication, and testing of their product design; or implementation, testing, and procedure writing for their process design. The proposal from MEM\u00a04971W will guide the fabrication, or implementation, and testing, to meet a detailed specification of engineering requirements. Both written and oral reports will be required. The Business and Engineering faculty will be jointly involved.",
+    "credits": "2",
+    "requirement_description": "MEM 4971W. Not open to students who have passed MEM 4915W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

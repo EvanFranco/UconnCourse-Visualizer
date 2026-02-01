@@ -1,0 +1,16 @@
+{
+    "name": "POLS 2002",
+    "dept_code": "POLS",
+    "id_number": "2002",
+    "title": "Classical and Medieval Political Theory",
+    "description": "An examination of Greek, Roman and early Judeo-Christian political ideas and institutions, and their relevance to the present. Formerly offered as POLS 3002.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

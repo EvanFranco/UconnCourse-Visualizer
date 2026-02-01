@@ -1,0 +1,22 @@
+{
+    "name": "MUSI 1003",
+    "dept_code": "MUSI",
+    "id_number": "1003",
+    "title": "Popular Music and Diversity in American Society",
+    "description": "An introduction to popular music and diversity in America: jazz, blues, Top-40 pop, rock, hip-hop and other genres. Musicians and their music studied in the context of twentieth-century and contemporary American society, emphasizing issues of race, gender, class, and resistance. No prior musical training or knowledge required. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

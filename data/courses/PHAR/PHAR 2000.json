@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 2000",
+    "dept_code": "PHAR",
+    "id_number": "2000",
+    "title": "Special Topics",
+    "description": "Credits and hours as determined by the Senate Curricula and Courses Committee. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

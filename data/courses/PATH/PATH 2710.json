@@ -1,0 +1,16 @@
+{
+    "name": "PATH 2710",
+    "dept_code": "PATH",
+    "id_number": "2710",
+    "title": "Medical Microbiology: Bacteria and Fungi",
+    "description": "Fundamental biology of pathogenic bacteria and fungi including host-pathogen interactions and microbiological laboratory techniques.",
+    "credits": "4",
+    "requirement_description": "BIOL 1107 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

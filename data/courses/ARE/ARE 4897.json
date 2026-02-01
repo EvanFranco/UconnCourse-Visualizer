@@ -1,0 +1,16 @@
+{
+    "name": "ARE 4897",
+    "dept_code": "ARE",
+    "id_number": "4897",
+    "title": "Honors Thesis",
+    "description": "",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

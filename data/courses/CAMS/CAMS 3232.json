@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 3232",
+    "dept_code": "CAMS",
+    "id_number": "3232",
+    "title": "Medieval Latin",
+    "description": "Reading of texts from a number of periods and in a variety of styles, with consideration of morphological, syntactical, and semantic developments. Taught in Latin.",
+    "credits": "3",
+    "requirement_description": "CAMS 1124 or 3 years or more of high school Latin.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

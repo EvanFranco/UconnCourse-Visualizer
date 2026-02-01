@@ -1,0 +1,20 @@
+{
+    "name": "EPSY 1100",
+    "dept_code": "EPSY",
+    "id_number": "1100",
+    "title": "Introduction to Special Education",
+    "description": "Special education services in American education, including various exceptionalities and the roles of professionals. CA 4",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

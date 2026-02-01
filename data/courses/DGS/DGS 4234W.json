@@ -1,0 +1,18 @@
+{
+    "name": "DGS 4234W",
+    "dept_code": "DGS",
+    "id_number": "4234W",
+    "title": "Diagnostic Molecular Technologies",
+    "description": "DNA and RNA diagnostic technologies used in clinical settings; clinical applications in prenatal diagnosis; cancer management, transplantation, paternity testing, forensic medicine and microbiology.",
+    "credits": "3",
+    "requirement_description": "MCB 2400 or 2410; ENGL 1007 or 1010 or 1011; AH 3121 or MCB 4211 (can be taken concurrently); open to students in DGS or MLS Prgm, others with instructor consent. Cannot be taken out of sequence after passing DGS 4235, 4503, 4510, 4511, 4514, 4515, 4550.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

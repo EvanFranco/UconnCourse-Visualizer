@@ -1,0 +1,21 @@
+{
+    "name": "PHAR 2001",
+    "dept_code": "PHAR",
+    "id_number": "2001",
+    "title": "Fundamentals in Chemical Biology",
+    "description": "Bridges the gap between traditional undergraduate curricula in chemistry and biology through the interdisciplinary topic of chemical biology. Fundamental topics in chemistry are reviewed and explained within the context of biological environments. Introduction to current state-of-the art techniques and methods used in chemical biology research. Analysis and interpretation of data from chemical biology experiments and use this information to generate scientific conclusions.",
+    "credits": "3",
+    "requirement_description": "CHEM 1128Q or CHEM 1148Q, and BIOL 1107.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

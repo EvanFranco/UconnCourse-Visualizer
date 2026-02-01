@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 3109",
+    "dept_code": "ENGR",
+    "id_number": "3109",
+    "title": "Navy STEM Professional Development Seminar",
+    "description": "Seminar series focusing on science, engineering and technology concepts in the design, construction, operation and maintenance of surface ships and submarines. Provides industry-specific knowledge for engineering students interested in pursuing Navy-related careers in the public or private sectors. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

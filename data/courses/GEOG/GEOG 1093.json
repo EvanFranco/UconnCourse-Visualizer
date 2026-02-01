@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 1093",
+    "dept_code": "GEOG",
+    "id_number": "1093",
+    "title": "International Study",
+    "description": "Special topics are taken in an international study program. Consent of Department Head or advisor may be required prior to the student's departure. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Consent of Department Head or advisor may be required prior to the student's departure.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

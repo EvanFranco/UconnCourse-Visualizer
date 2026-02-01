@@ -1,0 +1,23 @@
+{
+    "name": "ANTH 1006",
+    "dept_code": "ANTH",
+    "id_number": "1006",
+    "title": "Introduction to Anthropology",
+    "description": "The biological and cultural development of humans from their origin to the present. A brief survey of human evolution is followed by a comparative study of behavior and beliefs of our own and other societies. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

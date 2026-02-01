@@ -1,0 +1,18 @@
+{
+    "name": "HDFS 4087W",
+    "dept_code": "HDFS",
+    "id_number": "4087W",
+    "title": "Honors Thesis",
+    "description": "Individual study with student's honors thesis supervisor for the purpose of writing the honors thesis. Student must have a thesis advisor and have an approved thesis topic.",
+    "credits": "3-6",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to students in the Honors Program only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

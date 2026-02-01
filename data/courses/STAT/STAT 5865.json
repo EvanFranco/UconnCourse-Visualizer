@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5865",
+    "dept_code": "STAT",
+    "id_number": "5865",
+    "title": "Deep Learning",
+    "description": "Foundations of modern deep learning including the statistical learning framework, optimization and gradient descent, and various learning algorithms such as multi-layer perceptrons, convolutional neural networks, transformers, and more.",
+    "credits": "3",
+    "requirement_description": "STAT 5545 and STAT 5505; or instructor consent. Not open for credit to students who have passed STAT 5095 when offered as \"Deep Learning.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

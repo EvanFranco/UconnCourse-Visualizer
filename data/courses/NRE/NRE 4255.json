@@ -1,0 +1,16 @@
+{
+    "name": "NRE 4255",
+    "dept_code": "NRE",
+    "id_number": "4255",
+    "title": "Water Quality Management",
+    "description": "An introduction to all aspects of water quality problems relating to the many beneficial uses of water, including the physical, chemical, and biological properties. Formerly offered as NRE 3155.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher. Recommended preparation: NRME 3125 or 4165.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

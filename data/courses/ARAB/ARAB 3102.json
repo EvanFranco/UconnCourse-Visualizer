@@ -1,0 +1,16 @@
+{
+    "name": "ARAB 3102",
+    "dept_code": "ARAB",
+    "id_number": "3102",
+    "title": "Media Arabic",
+    "description": "Modern Standard Arabic of the news media: television, press, and internet. Taught in Arabic.",
+    "credits": "3",
+    "requirement_description": "ARAB 3100 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

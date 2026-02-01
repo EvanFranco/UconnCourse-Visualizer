@@ -1,0 +1,16 @@
+{
+    "name": "AHNR 1093",
+    "dept_code": "AHNR",
+    "id_number": "1093",
+    "title": "Foreign Study",
+    "description": "Courses taken in agriculture, natural resources, and related areas as part of approved Study Abroad programs. Credits and topics must be approved by department head or dean of the College of Agriculture, Health and Natural Resources. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Department consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

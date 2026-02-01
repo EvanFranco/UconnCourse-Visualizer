@@ -1,0 +1,18 @@
+{
+    "name": "SLHS 4296W",
+    "dept_code": "SLHS",
+    "id_number": "4296W",
+    "title": "Senior Thesis",
+    "description": "Preparation of a thesis and its presentation to the department.",
+    "credits": "1-6",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to junior or higher Honors students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

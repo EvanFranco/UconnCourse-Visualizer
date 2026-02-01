@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5605",
+    "dept_code": "BIST",
+    "id_number": "5605",
+    "title": "Applied Statistics II",
+    "description": "(Also offered as STAT\u00a05605.) Analysis of variance, regression and correlation, analysis of covariance, general liner models, robust regression procedures, and regression diagnostics.",
+    "credits": "3",
+    "requirement_description": "BIST/STAT 5505.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

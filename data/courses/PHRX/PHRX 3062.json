@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3062",
+    "dept_code": "PHRX",
+    "id_number": "3062",
+    "title": "Pharmacy Skills Development I",
+    "description": "This course will ensure students have basic introductory pharmacotherapy knowledge, immunization essentials, and foundational skills for pharmacy math.",
+    "credits": "3",
+    "requirement_description": "Must have satisfied the Pharmacy Pre-Professional prerequisites for admission to the PharmD program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

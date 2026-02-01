@@ -1,0 +1,16 @@
+{
+    "name": "ART 3440",
+    "dept_code": "ART",
+    "id_number": "3440",
+    "title": "Color Photography",
+    "description": "The processes and aesthetics of color photography. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ART 2410; open to Art and Art History majors only; others by consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

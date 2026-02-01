@@ -1,0 +1,18 @@
+{
+    "name": "PATH 4197W",
+    "dept_code": "PATH",
+    "id_number": "4197W",
+    "title": "Pathobiology Honors Thesis",
+    "description": "Writing of Honors thesis based on an independent research project in Pathobiology.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to Honors students; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

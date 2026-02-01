@@ -1,0 +1,16 @@
+{
+    "name": "GERM 4246",
+    "dept_code": "GERM",
+    "id_number": "4246",
+    "title": "The Finishing Touch: A Capstone in German Studies",
+    "description": "Advanced students assess and polish their German language skills, consolidate their learning in German Studies, and demonstrate that learning in a final project.",
+    "credits": "3",
+    "requirement_description": "GERM 3234; Six additional 2000 level or above credits in GERM.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

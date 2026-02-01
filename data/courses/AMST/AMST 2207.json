@@ -1,0 +1,22 @@
+{
+    "name": "AMST 2207",
+    "dept_code": "AMST",
+    "id_number": "2207",
+    "title": "Empire and U.S. Culture",
+    "description": "(Also offered as ENGL\u00a02207, HIST\u00a02207.) How the frontier and overseas ambitions have shaped U.S. institutions and culture. The impact of U.S. expansion on people outside its borders. These topics are explored through literary narratives and historical documents. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

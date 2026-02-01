@@ -1,0 +1,22 @@
+{
+    "name": "LLAS 3230",
+    "dept_code": "LLAS",
+    "id_number": "3230",
+    "title": "Latina Narrative",
+    "description": "(Also offered as WGSS\u00a03258.) Feminist topics in contemporary Latina literature and cultural studies.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

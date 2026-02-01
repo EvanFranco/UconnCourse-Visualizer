@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 5333",
+    "dept_code": "ANTH",
+    "id_number": "5333",
+    "title": "Evolution and Cognition",
+    "description": "An introduction to recent work in evolutionary psychology, exploring the variety of ways in which we can understand human cognition as a product of evolution.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

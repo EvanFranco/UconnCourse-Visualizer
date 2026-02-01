@@ -1,0 +1,20 @@
+{
+    "name": "DMD 2020",
+    "dept_code": "DMD",
+    "id_number": "2020",
+    "title": "Design Thinking",
+    "description": "Core values that shape creative production. Mindset that promotes diversity, inquiry, and a human-centered approach to designing and implementing real-world technological solutions. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "PLSC 3210",
+    "dept_code": "PLSC",
+    "id_number": "3210",
+    "title": "Molecular Laboratory Technology",
+    "description": "Laboratory technologies for identification and characterization of molecules important for molecular biology research, genetic manipulation and disease diagnosis. Labs will provide hands-on experience performing basic molecular biology techniques, lectures will cover theoretical basis and application. Formerly offered as SPSS 3210.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107 or 1108 or 1110 or equivalent.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

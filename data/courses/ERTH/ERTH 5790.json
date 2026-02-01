@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5790",
+    "dept_code": "ERTH",
+    "id_number": "5790",
+    "title": "Field Methods in Hydrogeology",
+    "description": "Field methods associated with ground water and contamination assessments. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

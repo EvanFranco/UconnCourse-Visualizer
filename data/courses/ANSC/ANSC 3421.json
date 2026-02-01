@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3421",
+    "dept_code": "ANSC",
+    "id_number": "3421",
+    "title": "Animal Training Project - Chair",
+    "description": "Oversee and teach Training assistants to ensure appropriate animal handling, training, fitting, and showing instruction to Introduction to Animal Science students. Teach and assist Introduction to Animal Science students at weekly practices, along with Training assistants. May be repeated for a total of 6 credits.",
+    "credits": "2",
+    "requirement_description": "ANSC 3420 or SAAS 420; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

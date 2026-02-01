@@ -1,0 +1,16 @@
+{
+    "name": "IS 5394",
+    "dept_code": "IS",
+    "id_number": "5394",
+    "title": "Independent Study",
+    "description": "Special social work topics not included in the curriculum may be the subject of an Independent Study.  A proposal to do an independent study must be presented no later than the second session of the semester in which the course is to be completed and be approved by the Director of Student Services. A maximum of three independent study courses or nine credits may be applied toward degree requirements. May be repeated for a total of 9 credits.",
+    "credits": "1-9",
+    "requirement_description": "Open only to students enrolled in the MSW program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

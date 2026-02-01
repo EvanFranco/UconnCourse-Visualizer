@@ -1,0 +1,16 @@
+{
+    "name": "SSW 6412",
+    "dept_code": "SSW",
+    "id_number": "6412",
+    "title": "Research III: Multivariate Statistics I",
+    "description": "Builds upon an introductory level of statistical knowledge and assumes that students have completed an introductory statistics course, including experiences with data analyses that involve computer interactions (SPSS). Develops an understanding of the general linear model (GLM). Once students gain a solid understanding of GLM, students can extend their knowledge to a variety of more complex statistical tests. Selection and application of appropriate statistical procedures to answer research questions or test hypotheses in social work research, and involves the extensive use of available statistical packages. While the course emphasizes the understanding of statistical testing, interpretation and written presentation of statistical results, knowledge of the mathematical formulae and assumptions underlying each statistical procedure may be required and are discussed in class.",
+    "credits": "4",
+    "requirement_description": "SSW 6410, which may be taken concurrently; open to doctoral students in Social Work, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

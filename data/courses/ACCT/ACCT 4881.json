@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 4881",
+    "dept_code": "ACCT",
+    "id_number": "4881",
+    "title": "Internship in Accounting",
+    "description": "Designed to provide students with an opportunity for a supervised internship. Students will work with one or more professionals in their major academic area. Student performance will be evaluated on the basis of an appraisal by the field supervisor and an appropriate summative activity submitted by the student. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "ACCT 2101 or BADM 2101; ACCT 3201 or BADM 3201, and at least three credits of 3000-level ACCT courses; consent of instructor and department head; open only to Business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

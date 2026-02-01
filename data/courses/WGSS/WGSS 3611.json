@@ -1,0 +1,21 @@
+{
+    "name": "WGSS 3611",
+    "dept_code": "WGSS",
+    "id_number": "3611",
+    "title": "Women's Literature 1900 to the Present",
+    "description": "(Also offered as ENGL\u00a03611.) Modern and contemporary works written by women from different countries. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

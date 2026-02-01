@@ -1,0 +1,16 @@
+{
+    "name": "AAAS 4999",
+    "dept_code": "AAAS",
+    "id_number": "4999",
+    "title": "Independent Study",
+    "description": "Credits, not to exceed three per semester, and hours by arrangement. With a change of subject, this course may be repeated for credit. May be repeated for credit.",
+    "credits": "1-3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

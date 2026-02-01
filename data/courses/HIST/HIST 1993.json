@@ -1,0 +1,16 @@
+{
+    "name": "HIST 1993",
+    "dept_code": "HIST",
+    "id_number": "1993",
+    "title": "Foreign Study",
+    "description": "Credits and hours by arrangement. Open only with consent of department head, Normally granted before the student's departure. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

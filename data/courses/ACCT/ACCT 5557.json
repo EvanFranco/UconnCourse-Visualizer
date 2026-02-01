@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5557",
+    "dept_code": "ACCT",
+    "id_number": "5557",
+    "title": "Advanced Accounting Information Systems",
+    "description": "An overview of Accounting Information Systems with emphasis on business process analysis, data modeling, business analytics, and internal controls. Highlights emerging trends in data analytics and its growing impact in accounting. Students work directly with various software tools to learn relational database design, data retrieval, and analysis. Introduces principles of Big Data, data visualization and software for fraud detection and internal controls.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

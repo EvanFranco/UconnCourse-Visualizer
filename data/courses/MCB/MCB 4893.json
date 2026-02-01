@@ -1,0 +1,16 @@
+{
+    "name": "MCB 4893",
+    "dept_code": "MCB",
+    "id_number": "4893",
+    "title": "Foreign Study",
+    "description": "Special topics taken in an international study program. Consent of program director required, normally to be granted before the student's departure. May be repeated for credit.",
+    "credits": "1-5",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

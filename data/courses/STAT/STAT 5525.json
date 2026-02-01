@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5525",
+    "dept_code": "STAT",
+    "id_number": "5525",
+    "title": "Sampling Theory",
+    "description": "Sampling and nonsampling error, bias, sampling design, simple random sampling, sampling with unequal probabilities, stratified sampling, optimum allocation, proportional allocation, ratio estimators, regression estimators, super population approaches, inference in finite populations.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Statistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

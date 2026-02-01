@@ -1,0 +1,16 @@
+{
+    "name": "MENT 4997",
+    "dept_code": "MENT",
+    "id_number": "4997",
+    "title": "Senior Thesis in Management",
+    "description": "Preparation of a thesis for one or two credits and the development and presentation of that thesis to the department in the following semester for two or three credits. Minimum of three credits required to graduate with Honors. May be repeated for a total of 4 credits.",
+    "credits": "1-3",
+    "requirement_description": "Open only to Management Department Honors students who are juniors or higher with consent of instructor and Department Head.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 4
+}

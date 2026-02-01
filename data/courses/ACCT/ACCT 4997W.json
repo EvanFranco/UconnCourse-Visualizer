@@ -1,0 +1,18 @@
+{
+    "name": "ACCT 4997W",
+    "dept_code": "ACCT",
+    "id_number": "4997W",
+    "title": "Senior Thesis in Accounting",
+    "description": "",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

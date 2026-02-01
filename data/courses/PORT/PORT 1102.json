@@ -1,0 +1,16 @@
+{
+    "name": "PORT 1102",
+    "dept_code": "PORT",
+    "id_number": "1102",
+    "title": "Elementary Portuguese II",
+    "description": "Development of ability to communicate in Portuguese, orally and in writing, to satisfy basic survival needs within a cultural setting.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

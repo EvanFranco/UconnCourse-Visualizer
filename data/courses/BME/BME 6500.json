@@ -1,0 +1,16 @@
+{
+    "name": "BME 6500",
+    "dept_code": "BME",
+    "id_number": "6500",
+    "title": "Biomedical Instrumentation I",
+    "description": "Origins of bioelectric signals; analysis and design of electrodes and low noise preamplifiers used in their measurement. Statistical techniques applied to the detection and processing of biological signals in noise, including the treatment of nerve impulse sequences as stochastic point processes. Methods of identifying the dynamic proper ties of biosystems.   Assumes a background in linear systems and electronics.",
+    "credits": "3",
+    "requirement_description": "BME 5500 or consent of the instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

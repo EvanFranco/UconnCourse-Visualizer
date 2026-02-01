@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5312",
+    "dept_code": "FNCE",
+    "id_number": "5312",
+    "title": "Risk Management of Financial Institutions",
+    "description": "The course covers the activities of different types of financial institutions and the standard methods in which financial institutions identify their risks and manage them. We analyze various dimensions of financial risk such as market risk, credit risk, volatility risk, and model risk. Furthermore, the course introduces banking regulations such as capital requirement, Basel I, II, III, and discusses the 2008 financial crisis.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

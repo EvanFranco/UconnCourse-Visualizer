@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5504",
+    "dept_code": "OPIM",
+    "id_number": "5504",
+    "title": "Adaptive Business Intelligence",
+    "description": "The use of techniques from statistics and optimization to implement adaptive business intelligence (ABI) decision support systems. The course will introduce students to the different components of ABI systems as well as to the fundamentals of adaptive statistical methods, simulation adaptive methods, and evolutionary algorithms. Applications to diverse management contexts evolving in time will also be discussed.",
+    "credits": "3",
+    "requirement_description": "OPIM 5603; open only to MBA and MSBAPM students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

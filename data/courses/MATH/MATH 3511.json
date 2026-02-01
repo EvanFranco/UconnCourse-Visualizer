@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3511",
+    "dept_code": "MATH",
+    "id_number": "3511",
+    "title": "Numerical Analysis II",
+    "description": "Approximate integration, difference equations, solution of ordinary and partial differential equations.",
+    "credits": "3",
+    "requirement_description": "MATH 3510.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

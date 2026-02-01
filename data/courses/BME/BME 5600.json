@@ -1,0 +1,16 @@
+{
+    "name": "BME 5600",
+    "dept_code": "BME",
+    "id_number": "5600",
+    "title": "Human Biomechanics",
+    "description": "Applies principles of engineering mechanics in the examination of human physiological subsystems such as the musculoskeletal system and the cardiovascular system.  Topics drawn for biosolid mechanics, biofluids, and biodynamics, the viscoelastic modeling of muscle and bone, non-Newtonian fluid rheology, blood flow dynamics, respiratory mechanics, biomechanics of normal and impaired gait, and sport biomechanics.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: BME 3600W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

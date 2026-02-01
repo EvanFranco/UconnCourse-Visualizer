@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5271",
+    "dept_code": "PSYC",
+    "id_number": "5271",
+    "title": "Special Topics in Behavioral Neuroscience",
+    "description": "May be repeated for credit with a change in topic. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

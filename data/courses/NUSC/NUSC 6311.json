@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 6311",
+    "dept_code": "NUSC",
+    "id_number": "6311",
+    "title": "Regulation of Food Intake and Energy Balance",
+    "description": "Central and peripheral regulation of energy balance and how this affects body weight and risk for chronic disease. Relative contribution of genetic and metabolic factors, diet, and exercise on the pathophysiology of obesity.",
+    "credits": "3",
+    "requirement_description": "NUSC 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

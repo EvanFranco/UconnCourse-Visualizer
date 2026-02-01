@@ -1,0 +1,16 @@
+{
+    "name": "HCMI 5243",
+    "dept_code": "HCMI",
+    "id_number": "5243",
+    "title": "Health Care Economics",
+    "description": "Demonstrates how various economic theories can be used to think about health care issues and takes a macro or industry perspective of various health care problems and policy questions. Students are provided with a set of economic tools to evaluate a theoretical or empirical argument relating to health or medical care. Culminates with an in-depth analysis of the structure, conduct, and performance of the markets for medical insurance, physician services, hospital services, pharmaceutical products, and long-term care. Health care reform is also discussed.",
+    "credits": "3",
+    "requirement_description": "HCMI 5240 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

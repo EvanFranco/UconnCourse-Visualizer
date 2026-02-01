@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3214",
+    "dept_code": "CHEM",
+    "id_number": "3214",
+    "title": "Intermediate Inorganic Chemistry",
+    "description": "A systematic presentation of bonding, structure, properties, and reactions of inorganic compounds.",
+    "credits": "3",
+    "requirement_description": "CHEM 3210. Recommended preparation: CHEM 3564.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

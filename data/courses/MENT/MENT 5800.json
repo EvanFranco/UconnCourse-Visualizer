@@ -1,0 +1,16 @@
+{
+    "name": "MENT 5800",
+    "dept_code": "MENT",
+    "id_number": "5800",
+    "title": "Strategic Management",
+    "description": "Course dealing with the two major aspects of strategy: formulation and implementation. Strategy formulation examines such issues as environmental threats and opportunities, the values and priorities of management and societal stakeholders, and the strengths of company resources and competencies relative to principal competitors. Strategy implementation covers such topics as strategic leadership, organizational structure, resource allocation, and building a strategy-supportive culture. Uses cases and readings to develop the knowledge and skills necessary to prepare students to deal with strategic issues.",
+    "credits": "3",
+    "requirement_description": "MENT 5138. Open to MBA students, others with permission. Not open to students who have passed MENT 5184.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

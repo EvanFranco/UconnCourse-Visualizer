@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 4740",
+    "dept_code": "PHYS",
+    "id_number": "4740",
+    "title": "Advanced Methods in Astrophysics",
+    "description": "Basic principles and techniques of observational and computational astrophysics. Statistical techniques for data analysis and interpretation of astronomical data. Data mining, visualization, and numerical techniques in simulations of astrophysical systems. Includes short research projects using data from observations and/or simulations.",
+    "credits": "3",
+    "requirement_description": "PHYS 2701 and PHYS 2702.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "COMM 2700",
+    "dept_code": "COMM",
+    "id_number": "2700",
+    "title": "Fundamentals of Digital Production",
+    "description": "Fundamentals associated with the production of digital video, audio, and images to communicate with various audiences. Students rotate through various roles of pre-production, production, and post-production processes in the creation of multimedia projects.",
+    "credits": "3",
+    "requirement_description": "COMM 1000. May not be taken out of sequence after passing COMM 4710 or 4720.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

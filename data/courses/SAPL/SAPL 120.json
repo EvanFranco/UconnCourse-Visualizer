@@ -1,0 +1,16 @@
+{
+    "name": "SAPL 120",
+    "dept_code": "SAPL",
+    "id_number": "120",
+    "title": "Introduction to Plant Science",
+    "description": "A general course designed to give students a broad view of the field of horticulture as well as a working knowledge of the fundamentals of plant growth.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

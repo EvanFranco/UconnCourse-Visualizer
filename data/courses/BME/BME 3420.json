@@ -1,0 +1,16 @@
+{
+    "name": "BME 3420",
+    "dept_code": "BME",
+    "id_number": "3420",
+    "title": "Stem Cells for Regenerative Medicine",
+    "description": "Introduces the fundamental concept and translational application of regenerative medicine such as stem cells, gene therapy, cell and tissue therapy. Topics include tissue-specific stem cells, embryonic stem cells, induced pluripotent stem cells and their potential therapeutic applications for musculoskeletal, cardiovascular and nervous systems.",
+    "credits": "3",
+    "requirement_description": "Open only to BME majors, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

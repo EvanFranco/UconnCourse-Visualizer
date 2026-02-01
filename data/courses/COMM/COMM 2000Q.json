@@ -1,0 +1,22 @@
+{
+    "name": "COMM 2000Q",
+    "dept_code": "COMM",
+    "id_number": "2000Q",
+    "title": "Research Methods in Communication",
+    "description": "The scientific approach as it specifically applies to communication. CA 3.",
+    "credits": "3",
+    "requirement_description": "COMM 1000. Recommended preparation: MATH 1011Q or equivalent.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

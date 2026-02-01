@@ -1,0 +1,18 @@
+{
+    "name": "SOCI 2305W",
+    "dept_code": "SOCI",
+    "id_number": "2305W",
+    "title": "Deviant Behavior",
+    "description": "How society defines a behavior as deviant, how and why members of society react to those who act this way, why people engage in deviant behavior, their experiences when labeled as deviants, and how they manage the stigma. May consider extreme body modification, drug abuse, mental illness, prostitution, suicide, and unconventional beliefs within the above context.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

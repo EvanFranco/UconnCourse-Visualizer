@@ -1,0 +1,16 @@
+{
+    "name": "EMBA 5231",
+    "dept_code": "EMBA",
+    "id_number": "5231",
+    "title": "Fundamentals of Financial Management",
+    "description": "Students gain tools and frameworks to analyze financial decisions based on principles of modern financial theory. Covers concepts such as discounted cash flow techniques, and its applications to valuation of common stock and bonds and lease vs. buy decisions. The time value of money is examined for both personal financial planning and business applications, and is used to value financial instruments, including common stock and bonds.",
+    "credits": "1.5",
+    "requirement_description": "Open only to Executive MBA students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

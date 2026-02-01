@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3600",
+    "dept_code": "PSYC",
+    "id_number": "3600",
+    "title": "Social-Organizational Psychology",
+    "description": "Social psychological phenomena in the workplace.  Social perceptions, personality, stress, work-related attitudes, motivation, team decision-making, and effectiveness, leadership and influence, organizational culture.",
+    "credits": "3",
+    "requirement_description": "PSYC 2600. Recommended Preparation: PSYC 2700.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

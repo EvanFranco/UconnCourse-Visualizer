@@ -1,0 +1,16 @@
+{
+    "name": "PNB 1195",
+    "dept_code": "PNB",
+    "id_number": "1195",
+    "title": "Special Topics",
+    "description": "",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

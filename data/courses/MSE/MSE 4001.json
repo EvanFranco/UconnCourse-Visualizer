@@ -1,0 +1,16 @@
+{
+    "name": "MSE 4001",
+    "dept_code": "MSE",
+    "id_number": "4001",
+    "title": "Electrical and Magnetic Properties of Materials",
+    "description": "Principles underlying electrical and magnetic behavior will be applied to the selection and design of materials. Topics covered will include: thermoelectricity, photoelectricity, conductors, semiconductors, superconductors, dielectrics, ferroelectrics, piezoelectricity, pyroelectricity, and magnetism. Device applications.",
+    "credits": "3",
+    "requirement_description": "MSE 2101 or both PHYS 1502Q and MSE 2001.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

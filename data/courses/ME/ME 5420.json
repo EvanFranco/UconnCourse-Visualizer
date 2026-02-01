@@ -1,0 +1,16 @@
+{
+    "name": "ME 5420",
+    "dept_code": "ME",
+    "id_number": "5420",
+    "title": "Mechanical Vibrations I",
+    "description": "Variational principles, Lagrange's equation. Equations of motion for multi-degree of freedom systems. Free vibration eigenvalue problem: modal analysis. Forced solutions: general soltions, resonance, effect of damping, and superposition. Vibrations of continuous systems: vibration frequencies and mode shapes for strings, bars, membranes, beams, and plates. Experimental methods and techniques.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

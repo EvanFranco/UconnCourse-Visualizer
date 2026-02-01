@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5141",
+    "dept_code": "PSYC",
+    "id_number": "5141",
+    "title": "Neuropsychological Assessment",
+    "description": "An introduction to clinical neuropsychological assessment, including review of neuroanatomy and neuropsychological functions, common syndromes of neuropsychological dysfunction, specific tests to measure neuropsychological functions and professional issues for the neuropsychologist.",
+    "credits": "3",
+    "requirement_description": "PSYC 5140.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

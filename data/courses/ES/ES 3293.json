@@ -1,0 +1,16 @@
+{
+    "name": "ES 3293",
+    "dept_code": "ES",
+    "id_number": "3293",
+    "title": "Foreign Study",
+    "description": "Consent of Director required, normally to be  granted prior to the student's departure. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

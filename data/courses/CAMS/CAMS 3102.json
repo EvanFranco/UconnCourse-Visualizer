@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 3102",
+    "dept_code": "CAMS",
+    "id_number": "3102",
+    "title": "Topics in Advanced Latin",
+    "description": "Reading of Latin texts in the original. With a change in content, may be repeated for credit. Involves reading in Latin. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "CAMS 1124 or 3 years or more of high school Latin.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

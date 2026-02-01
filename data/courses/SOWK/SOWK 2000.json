@@ -1,0 +1,21 @@
+{
+    "name": "SOWK 2000",
+    "dept_code": "SOWK",
+    "id_number": "2000",
+    "title": "Social Justice for the Social Work Profession",
+    "description": "Overview of the social work profession and generalist social work practice at micro, mezzo and macro levels. Formerly offered as SOWK 3000. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

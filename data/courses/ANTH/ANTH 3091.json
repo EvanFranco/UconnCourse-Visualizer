@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3091",
+    "dept_code": "ANTH",
+    "id_number": "3091",
+    "title": "Internship in Anthropology: Directed Study",
+    "description": "Directed study, analysis, and reflection on internship experience. May be repeated for a total of 2 credits.",
+    "credits": "1",
+    "requirement_description": "Instructor consent; ANTH 1000 or 1006 or 1500. Corequisite: Must be taken with ANTH 3081.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

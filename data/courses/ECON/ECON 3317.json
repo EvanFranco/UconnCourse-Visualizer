@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3317",
+    "dept_code": "ECON",
+    "id_number": "3317",
+    "title": "Machine Learning for Economists",
+    "description": "Machine learning techniques and causal inference. Applications to economic data.",
+    "credits": "3",
+    "requirement_description": "ECON 2311Q, 2312Q, and 3321. Not open for credit to students who have passed ECON 5317.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

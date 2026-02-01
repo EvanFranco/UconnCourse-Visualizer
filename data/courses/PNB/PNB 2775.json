@@ -1,0 +1,16 @@
+{
+    "name": "PNB 2775",
+    "dept_code": "PNB",
+    "id_number": "2775",
+    "title": "Enhanced Human Physiology and Anatomy II",
+    "description": "Fundamentals of human physiology and anatomy enhanced through discussion. A focus on organ systems, including the cardiovascular, respiratory, lymphatic, digestive, renal, and reproductive systems.",
+    "credits": "4",
+    "requirement_description": "PNB 2774. Not open to students who have passed PNB 2265 or PNB 2275. Repeat restrictions apply; see advising.uconn.edu/repeat-policy for information.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

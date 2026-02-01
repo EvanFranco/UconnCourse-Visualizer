@@ -1,0 +1,16 @@
+{
+    "name": "ARE 3225",
+    "dept_code": "ARE",
+    "id_number": "3225",
+    "title": "Price Analysis and Futures Trading",
+    "description": "Principles and applications of market price determination, with special emphasis on the use of futures markets for profit and price risk management. Includes food and energy case studies, internet applications, and a futures simulation exercise.",
+    "credits": "3",
+    "requirement_description": "ARE 1150 or ECON 1200 or ECON 1201; STAT 1000Q or 1100Q or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

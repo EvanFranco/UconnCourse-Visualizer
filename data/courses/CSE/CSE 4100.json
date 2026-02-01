@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4100",
+    "dept_code": "CSE",
+    "id_number": "4100",
+    "title": "Programming Language Translation",
+    "description": "Introduction to the formal definition of programming language syntax and semantics. Design and realization of programming language processing systems such as assemblers, compilers, and interpreters.",
+    "credits": "3",
+    "requirement_description": "CSE 3502; CSE 2304 or 3666; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

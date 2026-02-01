@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4131",
+    "dept_code": "ECE",
+    "id_number": "4131",
+    "title": "Introduction to Digital Signal Processing",
+    "description": "Discrete-time signals and systems. The z-transform. Digital filters; stability, frequency response, canonic realizations and state equations. Fourier methods for discrete signal representation; Fourier transform of sequences, the discrete Fourier transform, and the FFT. Design of linear digital filters in time and frequency domains. Spectrum analysis and filtering via the FFT.",
+    "credits": "3",
+    "requirement_description": "ECE 3101 or BME 3400; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PT 5418",
+    "dept_code": "PT",
+    "id_number": "5418",
+    "title": "Clinical Pharmacology",
+    "description": "Integrates and summarizes the essentials of medical pharmacology. The main molecular and cellular actions of drugs will be emphasized as well as the principles governing the use and actions of drugs in the treatment of disease.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

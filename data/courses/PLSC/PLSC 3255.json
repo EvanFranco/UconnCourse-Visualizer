@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 3255",
+    "dept_code": "PLSC",
+    "id_number": "3255",
+    "title": "Modern and Traditional Plant Breeding Techniques",
+    "description": "Hands-on experiments for traditional and modern plant breeding techniques, including artificial crossing/hybridization, polyploidy induction, plant tissue culture and transgenic plant production, and radiation- and genome editing-mediate mutagenesis. Formerly offered as SPSS 3255.",
+    "credits": "3",
+    "requirement_description": "One of BIOL 1102, 1108, or 1110; or MCB 2410; or PLSC 3210, 3230, 3245 or 4210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

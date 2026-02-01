@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6619",
+    "dept_code": "EPSY",
+    "id_number": "6619",
+    "title": "Advanced Modeling Using Latent Variable Techniques",
+    "description": "Covers several advanced modeling techniques, including multilevel confirmatory factor analysis, multilevel structural equation modeling, latent class analysis, factor mixture modeling, and growth mixture modeling.  Emphasis will be on specification, application, evaluation, and interpretation of these models.",
+    "credits": "3",
+    "requirement_description": "EPSY 6611 and 6615.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

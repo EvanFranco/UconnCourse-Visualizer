@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5798",
+    "dept_code": "MARN",
+    "id_number": "5798",
+    "title": "Variable Topics in Acoustical Oceanography",
+    "description": "Explores foundational principles of underwater acoustics with applications to ocean systems. Topics may include scattering from water column phenomena (e.g., bubbles, rough surfaces, turbulent microstructure, biota), high frequency signal propagation, sonar systems (single beam, multibeam, side scan sonar), or other subjects based on student need/interest. With a change in content, may be repeated for credit. May be repeated for a total of 12 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

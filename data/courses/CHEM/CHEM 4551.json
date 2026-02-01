@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 4551",
+    "dept_code": "CHEM",
+    "id_number": "4551",
+    "title": "Introduction to Quantum Chemistry",
+    "description": "An introduction to quantum theory and its applications to atomic and molecular structure and spectroscopy.",
+    "credits": "3",
+    "requirement_description": "CHEM 3564.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

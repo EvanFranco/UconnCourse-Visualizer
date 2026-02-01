@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 3170",
+    "dept_code": "SPAN",
+    "id_number": "3170",
+    "title": "Business Spanish",
+    "description": "Introduction to commercial terminology in Spanish. Designed to meet the needs of students desiring to use Spanish as a tool for industry or commerce.",
+    "credits": "3",
+    "requirement_description": "SPAN 1004 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

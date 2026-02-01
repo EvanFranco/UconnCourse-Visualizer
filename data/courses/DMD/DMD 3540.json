@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3540",
+    "dept_code": "DMD",
+    "id_number": "3540",
+    "title": "Multiplayer Game Development",
+    "description": "Students create a multiplayer game experience based in a relevant game engine that adheres to or modifies the core mechanics to create a new multiplayer game experience.",
+    "credits": "3",
+    "requirement_description": "DMD 2500; open to Digital Media and Design majors; others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

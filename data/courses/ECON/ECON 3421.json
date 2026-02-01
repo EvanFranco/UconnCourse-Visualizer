@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3421",
+    "dept_code": "ECON",
+    "id_number": "3421",
+    "title": "International Trade",
+    "description": "Economic basis of international trade, trade policies, and international economic organizations.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q. Recommended preparation: ECON 1200 or 1202; MATH 1071Q or 1110Q or 1121Q or 1131Q or 1151Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

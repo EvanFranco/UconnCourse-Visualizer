@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5101",
+    "dept_code": "ISG",
+    "id_number": "5101",
+    "title": "Principles of Human Embryology and Teratology",
+    "description": "Investigation of fundamental mechanisms underlying normal and abnormal development related to embryogenesis and organogenesis. Relates defects in development to congenital anomalies.",
+    "credits": "3",
+    "requirement_description": "Only open to graduate students currently enrolled in the Clinical Genetics and Genomics certificate, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

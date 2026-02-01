@@ -1,0 +1,16 @@
+{
+    "name": "MSE 3056",
+    "dept_code": "MSE",
+    "id_number": "3056",
+    "title": "Mechanical Behavior Laboratory",
+    "description": "Third semester of a 3-semester MSE laboratory sequence. Introduces methods for the quantification of material deformation, fatigue, and fracture, including tensile, bending, torsion, rheological, cyclic, and/or high temperature testing. Applicable to materials processed by drawing, forging, extrusion, rolling, and hot pressing, and their use in structural applications and design. Incorporates laboratory and computational modelling of thermal and mechanical behavior of materials.",
+    "credits": "2",
+    "requirement_description": "MSE 3004, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

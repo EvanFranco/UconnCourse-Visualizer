@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3267",
+    "dept_code": "EEB",
+    "id_number": "3267",
+    "title": "Field Study of Animal Behavior",
+    "description": "Introduction to animal behavior, focusing on observational methods, collecting techniques, and analysis of behavioral data. Topics include foraging theory, territoriality, navigation, social behavior, communication, mating systems and sexual selection. Field trips required.",
+    "credits": "3",
+    "requirement_description": "BIOL 1108 or consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

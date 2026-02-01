@@ -1,0 +1,16 @@
+{
+    "name": "CE 5164",
+    "dept_code": "CE",
+    "id_number": "5164",
+    "title": "Finite Element Methods in Applied Mechanics I",
+    "description": "(Also offered as ME\u00a05520.) Formulation of finite elements methods for linear static analysis. Development of two and three dimensional continuum elements, axisymmetric elements, plate and shell elements, and heat transfer elements. Evaluation of basic modeling principles including convergence and element distortion. Applications using commercial finite element programs.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed CE 5162.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

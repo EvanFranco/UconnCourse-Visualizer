@@ -1,0 +1,24 @@
+{
+    "name": "URBN 1300W",
+    "dept_code": "URBN",
+    "id_number": "1300W",
+    "title": "Exploring Your Community",
+    "description": "Various aspects of urban and community life emphasizing the interplay of social justice, diversity, individual and social well being. Explores theories, concepts, and methods in community studies. May contain a service learning component. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

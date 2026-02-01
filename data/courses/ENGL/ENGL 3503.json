@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3503",
+    "dept_code": "ENGL",
+    "id_number": "3503",
+    "title": "Shakespeare I",
+    "description": "Romantic comedies and principal tragedies.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. May not be taken out of sequence after passing ENGL 3505.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

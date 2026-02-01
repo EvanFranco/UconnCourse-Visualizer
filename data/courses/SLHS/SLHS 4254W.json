@@ -1,0 +1,18 @@
+{
+    "name": "SLHS 4254W",
+    "dept_code": "SLHS",
+    "id_number": "4254W",
+    "title": "Introduction to Language Disorders in Children",
+    "description": "Development, measurement, and function of language in children. Emphasis on child language disorders and their causes. Assessment and management strategies in settings including public schools and private clinics.",
+    "credits": "4",
+    "requirement_description": "SLHS 2204; ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

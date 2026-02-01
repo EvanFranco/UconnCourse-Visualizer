@@ -1,0 +1,22 @@
+{
+    "name": "CHIN 2360",
+    "dept_code": "CHIN",
+    "id_number": "2360",
+    "title": "Chinese Dishes and Drinks",
+    "description": "Exploration of Chinese culture through the lens of food and drink, examining the intricate connections between cuisine, daily life, and broader historical, social, and cultural contexts. Impact of globalization on Chinese food traditions. Students will develop their own culturally informed restaurant or business concepts.",
+    "credits": "3",
+    "requirement_description": "Recommended Preparation: CHIN 1121.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3146",
+    "dept_code": "MATH",
+    "id_number": "3146",
+    "title": "Introduction to Complex Variables",
+    "description": "Functions of a complex variable, integration in the complex plane, conformal mappings.",
+    "credits": "3",
+    "requirement_description": "MATH 2110Q and 2410Q, or MATH 2420Q or 2144Q. Not open for credit to students who have passed MATH 5046.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4701",
+    "dept_code": "CSE",
+    "id_number": "4701",
+    "title": "Principles of Databases",
+    "description": "Fundamentals of data base design and data indexing techniques. Hierarchical, network, and relational data models. Data base design theory. Query languages, their implementation and optimization. Data base security and concurrent data base operations.",
+    "credits": "3",
+    "requirement_description": "CSE 3500; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

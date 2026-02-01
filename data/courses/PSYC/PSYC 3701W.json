@@ -1,0 +1,18 @@
+{
+    "name": "PSYC 3701W",
+    "dept_code": "PSYC",
+    "id_number": "3701W",
+    "title": "Psychology of the Arts",
+    "description": "The perception, emotion, motivation, cognition and cultural experience of art and artists.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100 and 1101 or 1103; ENGL 1007 or 1010 or 1011; three credits of 2000 or 3000 level Psychological Science coursework.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

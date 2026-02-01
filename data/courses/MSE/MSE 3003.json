@@ -1,0 +1,16 @@
+{
+    "name": "MSE 3003",
+    "dept_code": "MSE",
+    "id_number": "3003",
+    "title": "Phase Transformation Kinetics and Applications",
+    "description": "Principles and applications of phase transformations to control microstructure and materials properties. In depth, quantitative coverage will include vacancies, solid solutions, phase diagrams, diffusion, solidification of metals, nucleation and growth kinetics, and thermal treatments to control microstructure.",
+    "credits": "3",
+    "requirement_description": "MSE 2001 or 2101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

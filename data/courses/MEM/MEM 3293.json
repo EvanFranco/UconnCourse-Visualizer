@@ -1,0 +1,16 @@
+{
+    "name": "MEM 3293",
+    "dept_code": "MEM",
+    "id_number": "3293",
+    "title": "Foreign Study",
+    "description": "These credits must be awarded for regularly scheduled course work at a recognized foreign university in a clearly defined technical area of Business or Engineering. Credits used towards the technical elective credits must be approved by the specific MEM program director from the appropriate school, Business or Engineering. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

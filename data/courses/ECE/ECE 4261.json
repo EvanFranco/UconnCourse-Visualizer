@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4261",
+    "dept_code": "ECE",
+    "id_number": "4261",
+    "title": "Introduction to Memory Device Technologies",
+    "description": "Introduction to current and future digital solid-state memory device technologies including DRAM, SRAM, flash memory, ferroelectric memory, magnetoresistive memory, phase-change memory and resistive memories, with an emphasis on the underlying physical mechanisms.",
+    "credits": "3",
+    "requirement_description": "ECE 3201 or ECE 3421 or ECE 4225. This course and ECE5261 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

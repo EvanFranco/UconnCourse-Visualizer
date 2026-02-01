@@ -1,0 +1,21 @@
+{
+    "name": "HIST 1502",
+    "dept_code": "HIST",
+    "id_number": "1502",
+    "title": "U.S. History Since 1877",
+    "description": "Surveys political, economic, social, and cultural developments in American history from 1877 to the present. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

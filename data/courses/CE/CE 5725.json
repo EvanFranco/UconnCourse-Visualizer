@@ -1,0 +1,16 @@
+{
+    "name": "CE 5725",
+    "dept_code": "CE",
+    "id_number": "5725",
+    "title": "Transportation Safety",
+    "description": "Human factors in traffic safety, economic costs of crashes, crash data collection and database management, elements of statistics and crash count distributions, exploratory analysis of crash count data, regression analysis of crash count data, before-after studies, network screening and diagnosis, roadway and roadside design, crash modification factors.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: CE 2211, 2251 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5110",
+    "dept_code": "EEB",
+    "id_number": "5110",
+    "title": "Writing Research Proposals and Fellowship Applications",
+    "description": "The craft of writing persuasive fellowship applications and funding proposals in ecology, evolutionary biology, systematics, and conservation biology. Students apply for financial support from agencies, foundations, and other sources. Includes peer review. May be repeated for a total of 6 credits.",
+    "credits": "2",
+    "requirement_description": "Open to graduate students in EEB, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

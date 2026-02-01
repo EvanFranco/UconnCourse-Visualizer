@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5160",
+    "dept_code": "MATH",
+    "id_number": "5160",
+    "title": "Probability Theory and Stochastic Processes I",
+    "description": "Convergence of random variables and their probability laws, maximal inequalities, series of independent random variables and laws of large numbers, central limit theorems, martingales, Brownian motion.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

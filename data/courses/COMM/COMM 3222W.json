@@ -1,0 +1,18 @@
+{
+    "name": "COMM 3222W",
+    "dept_code": "COMM",
+    "id_number": "3222W",
+    "title": "People of Color and Interpersonal Communication",
+    "description": "Impact of race, ethnicity, and culture on interpersonal interactions. Surveys key theories and empirical works of past and current race relations in the U.S., negotiation of identity, and ways identity is communicated in various personal relationships.",
+    "credits": "3",
+    "requirement_description": "COMM 2200; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

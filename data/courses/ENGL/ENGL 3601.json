@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3601",
+    "dept_code": "ENGL",
+    "id_number": "3601",
+    "title": "The English Language",
+    "description": "A descriptive study of modern American English: constituent sound (phonology), structure of words (morphology), and syntax, with some attention to lexicography and usage.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

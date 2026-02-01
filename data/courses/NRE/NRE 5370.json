@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5370",
+    "dept_code": "NRE",
+    "id_number": "5370",
+    "title": "Population Dynamics",
+    "description": "How population dynamics models are used in science and in the management of fish and wildlife populations, factors influencing population dynamics. Design, evaluation, and use of a population model. Students will complete activities in the R scripting language. Taught concurrently with NRE\u00a04370.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: STAT 1100Q, MATH 1060Q or higher, and NRE 3345.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

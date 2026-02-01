@@ -1,0 +1,18 @@
+{
+    "name": "MATH 2110Q",
+    "dept_code": "MATH",
+    "id_number": "2110Q",
+    "title": "Multivariable Calculus",
+    "description": "Two- and three-dimensional vector algebra, calculus of functions of several variables, vector differential calculus, line and surface integrals.",
+    "credits": "4",
+    "requirement_description": "MATH 1132Q or MATH 1152Q or a score of 4 or 5 on the AP Calculus BC exam. Recommended preparation: a grade of C- or better in MATH 1132Q. May not be taken for credit after passing MATH 2130Q or MATH 2143Q. May not be taken out of sequence after passing MATH 2720, 3146, 3160, 3330, 3370, 3410, 3412, 3510, or 3610. Repeat restrictions apply; see advising.uconn.edu/repeat-policy.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

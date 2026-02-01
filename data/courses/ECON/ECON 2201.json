@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2201",
+    "dept_code": "ECON",
+    "id_number": "2201",
+    "title": "Intermediate Microeconomic Theory",
+    "description": "Intermediate microeconomic theory, covering demand and supply, exchange and production, pricing, and welfare economics.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or 1201 or ARE 1150; MATH 1071Q or 1110Q or 1120Q or 1125Q or 1131Q or 1151Q or 2141Q. Recommended preparation: ECON 1202. Not open for credit to students who have passed ECON 2211Q or 3441.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

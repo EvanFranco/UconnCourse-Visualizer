@@ -1,0 +1,16 @@
+{
+    "name": "ME 2234",
+    "dept_code": "ME",
+    "id_number": "2234",
+    "title": "Applied Thermodynamics",
+    "description": "Thermodynamic first and second law analysis of vapor and gas cycles, property relations for simple pure substances, properties of ideal gas mixtures, psychrometry, fundamentals of combustion thermodynamics, application of thermodynamics in the design of thermal engineering systems.",
+    "credits": "3",
+    "requirement_description": "ME 2233 or CHEG 2111. May not be taken out of sequence after passing ME 3232 or 3276.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

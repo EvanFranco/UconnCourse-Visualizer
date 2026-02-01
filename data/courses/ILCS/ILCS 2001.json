@@ -1,0 +1,23 @@
+{
+    "name": "ILCS 2001",
+    "dept_code": "ILCS",
+    "id_number": "2001",
+    "title": "Italian-American Voices: Creative Practices and Community Building",
+    "description": "An exploration of what it means to be Italian-American today. From debates about Columbus Day to statue removals, this project-based course explores the complicated question of Italian-American heritage using family memories, community archives, and/or historical sources.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "HIST 1100",
+    "dept_code": "HIST",
+    "id_number": "1100",
+    "title": "The Historian as Detective",
+    "description": "Uses historical documents focusing on a single incident in the past to reconstruct what happened and why.  Emphasizes development of historical research skills such as evaluating evidence, explaining cause and effect, and understanding events in their larger social, political, cultural, and economic contexts. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

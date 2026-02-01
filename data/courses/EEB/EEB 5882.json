@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5882",
+    "dept_code": "EEB",
+    "id_number": "5882",
+    "title": "Environmental Risk Practicum",
+    "description": "Provides an opportunity for students to work together in diverse, interdisciplinary teams to conduct risk assessments for local partners. Student teams apply skills in stakeholder engagement and risk analysis, management, and communication from the Environmental Risk Assessment course to solve real-life problems through a service-learning component. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "EEB 5872; others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

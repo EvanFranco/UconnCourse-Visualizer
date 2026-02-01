@@ -1,0 +1,20 @@
+{
+    "name": "PUBH 1001",
+    "dept_code": "PUBH",
+    "id_number": "1001",
+    "title": "Introduction to Public Health",
+    "description": "A basic foundation in public health principles and practices. Individual and group field assignments required. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

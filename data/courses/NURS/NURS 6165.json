@@ -1,0 +1,16 @@
+{
+    "name": "NURS 6165",
+    "dept_code": "NURS",
+    "id_number": "6165",
+    "title": "Mixed Methods in Nursing Research",
+    "description": "Presents mixed methods as a third paradigm that combines and complements the qualitative and quantitative approaches traditionally used in nursing research. Theoretical, paradigmatic, and programmatic issues, as well as practical application will be discussed.",
+    "credits": "3",
+    "requirement_description": "NURS 6125 and NURS 6160.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

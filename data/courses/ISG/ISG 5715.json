@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5715",
+    "dept_code": "ISG",
+    "id_number": "5715",
+    "title": "Journal Club",
+    "description": "Using knowledge of clinical genetics and genomics, students will evaluate the accuracy, impact, and outcomes of primary research. Producing effective presentations for delivering complex science at an audience-appropriate level. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "Open only to students in the Genetic Counseling and Health Care Genetics master's programs, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

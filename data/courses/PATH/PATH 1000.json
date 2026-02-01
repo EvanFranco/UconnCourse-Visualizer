@@ -1,0 +1,16 @@
+{
+    "name": "PATH 1000",
+    "dept_code": "PATH",
+    "id_number": "1000",
+    "title": "Biomedical Issues in Pathobiology",
+    "description": "This introductory course focuses on current global issues of health and disease to describe fundamental topics in pathobiology. Global biomedical concerns regarding infectious diseases, population, cancer, biotechnology and environmental health will be addressed. Course content will provide examples of the impact of veterinary and human pathology on world health issues.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

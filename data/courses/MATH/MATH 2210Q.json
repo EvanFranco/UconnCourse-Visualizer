@@ -1,0 +1,18 @@
+{
+    "name": "MATH 2210Q",
+    "dept_code": "MATH",
+    "id_number": "2210Q",
+    "title": "Applied Linear Algebra",
+    "description": "Systems of equations, matrices, determinants, linear transformations on vector spaces, characteristic values and vectors, from a computational point of view. The course is an introduction to the techniques of linear algebra with elementary applications.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q or MATH 1152Q or MATH 2142Q. Recommended preparation: a grade of C- or better in MATH 1132Q. May not be taken out of sequence after passing MATH 2144Q, 3210, 3510, or 3710. Repeat restrictions apply. See advising.uconn.edu/repeat-policy for information.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

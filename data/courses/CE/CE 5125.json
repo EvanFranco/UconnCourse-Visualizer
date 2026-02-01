@@ -1,0 +1,16 @@
+{
+    "name": "CE 5125",
+    "dept_code": "CE",
+    "id_number": "5125",
+    "title": "Reliability for Engineers",
+    "description": "Fundamentals of reliability analysis. Load and resistance models, first order reliability methods, and probabilistic simulation techniques. Calibration of design codes. System reliability.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Basic knowledge or course taken on statistics and/or random processes.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

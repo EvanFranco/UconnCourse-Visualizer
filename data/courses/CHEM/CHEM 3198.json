@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3198",
+    "dept_code": "CHEM",
+    "id_number": "3198",
+    "title": "Variable Topics",
+    "description": " May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

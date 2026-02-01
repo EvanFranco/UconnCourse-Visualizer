@@ -1,0 +1,18 @@
+{
+    "name": "GEOG 2100",
+    "dept_code": "GEOG",
+    "id_number": "2100",
+    "title": "Economic Geography",
+    "description": "Examination of the relationship among economic, cultural, and geographic processes which affect the patterns, structure, and growth or decline of economic activities. The global extent of the agricultural, manufacturing, and service sectors is presented with particular emphasis on the interdependency of non-western and western economies. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

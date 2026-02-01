@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4114",
+    "dept_code": "ECE",
+    "id_number": "4114",
+    "title": "Software-Defined Radio Design Laboratory",
+    "description": "Design and experimental evaluation of analog and digital communication systems based on software defined radio platforms. Typical subject areas are amplitude modulation (AM), frequency modulation (FM), amplitude shift keying (ASK), frequency shift keying (FSK), and phase shift keying (PSK), orthogonal frequency division multiplexing (OFDM), channel equalization, wireless local area networks, and ad hoc networks.",
+    "credits": "3",
+    "requirement_description": "ECE 3101, and ECE 4111 or 4112 either of which may be taken concurrently; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

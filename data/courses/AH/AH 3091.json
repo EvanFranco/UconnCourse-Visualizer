@@ -1,0 +1,16 @@
+{
+    "name": "AH 3091",
+    "dept_code": "AH",
+    "id_number": "3091",
+    "title": "Allied Health Sciences Internship",
+    "description": "Provides Allied Health students actual work experience in their area of concentration. Students work with professionals in their concentration to meet objectives consistent with their major. Students may only count a maximum combined credit total of six credits toward the Allied Health major of International Study, Independent Study and Internship credits. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open to Department of Allied Health Sciences students; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

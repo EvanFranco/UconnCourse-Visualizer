@@ -1,0 +1,18 @@
+{
+    "name": "EDCI 4110W",
+    "dept_code": "EDCI",
+    "id_number": "4110W",
+    "title": "Teaching Reading and Writing in the Elementary School",
+    "description": "An introduction to the teaching of reading and writing in the elementary school. Field experiences may be included.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Open only to Elementary Education and Special Education majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

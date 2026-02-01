@@ -1,0 +1,16 @@
+{
+    "name": "CE 3640",
+    "dept_code": "CE",
+    "id_number": "3640",
+    "title": "Design of Reinforced Concrete Structures",
+    "description": "Loads; design philosophies, current design codes to analyze and design reinforced concrete beams, columns, slabs, foundations for flexure, shear, axial loads and torsion; serviceability considerations; applications to buildings, design project.",
+    "credits": "4",
+    "requirement_description": "CE 3110; enrollment in the School of Engineering. Corequisite: CE 3610.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

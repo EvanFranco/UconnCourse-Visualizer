@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2214",
+    "dept_code": "ENGL",
+    "id_number": "2214",
+    "title": "African American Literature",
+    "description": "(Also offered as AFRA\u00a02214.) Critical and historical examination of the literature of African American writers from Phyllis Wheatley to the present. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

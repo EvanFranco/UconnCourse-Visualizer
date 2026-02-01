@@ -1,0 +1,16 @@
+{
+    "name": "BLAW 5660",
+    "dept_code": "BLAW",
+    "id_number": "5660",
+    "title": "International Business Law",
+    "description": "This course examines legal and social norms that impact international business transactions. Students learn about the functioning of the international legal system and how to navigate the legal environment of international trade and foreign investment. Students gain experience in negotiating and drafting international contracts, preventing and resolving international disputes, and how to include international legal and ethical considerations in their business decisions.",
+    "credits": "3",
+    "requirement_description": "Open only to M.B.A and M.S. in Social Responsibility and Impact in Business students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

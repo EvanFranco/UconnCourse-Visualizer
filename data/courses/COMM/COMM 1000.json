@@ -1,0 +1,21 @@
+{
+    "name": "COMM 1000",
+    "dept_code": "COMM",
+    "id_number": "1000",
+    "title": "The Process of Communication",
+    "description": "A study of modern communication theories and principles useful in understanding how people affect and are affected by others through communication. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

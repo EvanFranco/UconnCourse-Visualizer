@@ -1,0 +1,16 @@
+{
+    "name": "DMD 2580",
+    "dept_code": "DMD",
+    "id_number": "2580",
+    "title": "2D Game Art",
+    "description": "Introduction to figure and perspective drawing, character and environmental concept art, pixel art, sprite animation, vector art, game UI design, texture painting, and 2D art for 3D games.",
+    "credits": "3",
+    "requirement_description": "DMD 1002 and 1102; open to Digital Media and Design majors only, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

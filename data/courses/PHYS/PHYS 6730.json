@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 6730",
+    "dept_code": "PHYS",
+    "id_number": "6730",
+    "title": "General Relativity and Cosmology",
+    "description": "Gravity and the problem of motion from the ancient Greeks to Newton to Einstein. Special relativity. General relativity. Curvature. Classic tests of general relativity. Gravitational waves. Black holes. Newtonian cosmology. Big Bang theory. Inflation. Dark matter. Dark energy. Accelerating universe.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed PHYS 4730.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BME 4720",
+    "dept_code": "BME",
+    "id_number": "4720",
+    "title": "Cellular Engineering",
+    "description": "Cellular engineering emphasizes the navigation and understanding of discoveries in stem cell, molecular, and developmental biology from an engineering perspective. Student projects and an active learning approach enable students to practice the complex and open-ended process of synthesizing and translating basic discoveries for the rational design of tissue regeneration therapies.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

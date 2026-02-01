@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 4510",
+    "dept_code": "ERTH",
+    "id_number": "4510",
+    "title": "Applied and Environmental Geophysics",
+    "description": "Principles of imaging the Earth's interior using observations of electric, magnetic, and gravity fields, with applications to environmental problems.",
+    "credits": "3",
+    "requirement_description": "PHYS 1230 or 1402Q or 1502Q or 1602Q, which may be taken concurrently; MATH 1122Q or 1132Q or 1152Q, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

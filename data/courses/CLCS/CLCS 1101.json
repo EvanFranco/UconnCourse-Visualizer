@@ -1,0 +1,23 @@
+{
+    "name": "CLCS 1101",
+    "dept_code": "CLCS",
+    "id_number": "1101",
+    "title": "World Literature I",
+    "description": "Introduction to world literature. Comparative approach to representative works of Africa, Asia, the Mediterranean, the Middle East, the Americas, and Europe, from the earliest written sources to 1600. Taught in English. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

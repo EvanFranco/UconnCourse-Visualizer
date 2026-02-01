@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5515",
+    "dept_code": "PSYC",
+    "id_number": "5515",
+    "title": "Connectionist Models",
+    "description": "Connectionist models in psychology and computational neuroscience. Topics include learning, memory, and language processes in both intact and damaged networks.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

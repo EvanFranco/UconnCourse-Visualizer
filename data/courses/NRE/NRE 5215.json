@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5215",
+    "dept_code": "NRE",
+    "id_number": "5215",
+    "title": "Introduction to Geospatial Analysis with Remote Sensing",
+    "description": "Introduction to collecting, managing, displaying, and analyzing geospatial data. Topics include coordinate systems, finding and using existing sources of geospatial data, analysis of vector and raster data, creating geospatial data with remote sensing, concepts of Global Positioning System (GPS), topographic and landscape analyses, and spatial interpolation.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DMD 2542",
+    "dept_code": "DMD",
+    "id_number": "2542",
+    "title": "Introduction to Game Scripting",
+    "description": "Fundamentals of gameplay scripting utilizing an off-the-shelf video game engine. Scripting concepts and constructs like vector math, classes, raycasting, deltaTime, and other available engine commands.",
+    "credits": "3",
+    "requirement_description": "DMD 1060; open only to Digital Media and Design majors; others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

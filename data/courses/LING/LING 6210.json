@@ -1,0 +1,16 @@
+{
+    "name": "LING 6210",
+    "dept_code": "LING",
+    "id_number": "6210",
+    "title": "Morphology",
+    "description": "Introduction to morphological analysis and to the methods of linguistic segmentation. The Lexicon. The relationships between Phonology and Morphology and between Syntax and Morphology. The nature of clitics.",
+    "credits": "3",
+    "requirement_description": "LING 5310 or 5510.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

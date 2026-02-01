@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5315",
+    "dept_code": "CHEG",
+    "id_number": "5315",
+    "title": "Transfer Operations I",
+    "description": "An advanced study of momentum, heat and mass transfer with application to complex problems. Cartesian tensors, non-Newtonian flow, statistical theory of turbulence. Mass transfer in multicomponent systems and with chemical reaction. Mass transfer in drops and bubbles; two-phase flow and fluidization.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

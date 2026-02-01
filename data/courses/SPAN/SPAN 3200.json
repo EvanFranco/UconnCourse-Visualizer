@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 3200",
+    "dept_code": "SPAN",
+    "id_number": "3200",
+    "title": "Spanish Civilization to the Modern Period",
+    "description": "An interdisciplinary course analyzing the politics, social structures, and cultural life of Spain from its beginnings to the start of the nineteenth century.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: SPAN 3178 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

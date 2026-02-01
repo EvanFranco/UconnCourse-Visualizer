@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5679",
+    "dept_code": "MCB",
+    "id_number": "5679",
+    "title": "Microbial Physiology",
+    "description": "Topics in microbial cell organization, growth, and intermediary metabolism with emphasis on specialized physiological adaptations.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

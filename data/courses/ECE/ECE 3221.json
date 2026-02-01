@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3221",
+    "dept_code": "ECE",
+    "id_number": "3221",
+    "title": "Digital Integrated Circuits",
+    "description": "Switching, timing, wave shaping, and logic circuits to generate waveforms and functions used in pulse systems, instrumentation and computers. Emphasis is on integrated circuits.",
+    "credits": "3",
+    "requirement_description": "ECE 3201; CSE 2300W or 2301; open only to students in the School of Engineering. This course and ECE 3222 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

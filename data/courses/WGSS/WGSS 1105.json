@@ -1,0 +1,22 @@
+{
+    "name": "WGSS 1105",
+    "dept_code": "WGSS",
+    "id_number": "1105",
+    "title": "Gender and Sexuality in Everyday Life",
+    "description": "How gender, sex, and sexuality are woven into systems of difference and stratification that shape everyday life. Examines these processes in the family, education, work, and politics with sensitivity to the diversity of individual experiences across class, racial ethnic groups, cultures, and regions. Provides experience in introductory research methods to analyze the social construction and structural organization of gender and sexuality. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

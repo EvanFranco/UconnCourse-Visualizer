@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3703",
+    "dept_code": "ENGL",
+    "id_number": "3703",
+    "title": "Writing Workshop",
+    "description": "For advanced student writers who wish intensive training in a single creative genre (fiction, poetry, or creative nonfiction). Genres vary by semester. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "ENGL 2701; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

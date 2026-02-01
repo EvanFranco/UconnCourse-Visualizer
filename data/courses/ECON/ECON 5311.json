@@ -1,0 +1,16 @@
+{
+    "name": "ECON 5311",
+    "dept_code": "ECON",
+    "id_number": "5311",
+    "title": "Applied Econometrics I",
+    "description": "Statistical theory and linear regression applied to business and economic problems.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

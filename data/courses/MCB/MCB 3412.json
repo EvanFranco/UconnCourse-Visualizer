@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3412",
+    "dept_code": "MCB",
+    "id_number": "3412",
+    "title": "Genetic Engineering and Functional Genomics",
+    "description": "Methods and applications of genetic engineering, including gene manipulation and transfer techniques in prokaryotes and eukaryotes. Emphasis on applications of recombinant DNA technology in the elucidation of gene function.  Consideration of recent technological developments in molecular genetics, such as cloning, gene therapy, the patenting and release of genetically engineered organisms, and societal issues related to these developments.",
+    "credits": "3",
+    "requirement_description": "MCB 2400 or 2410. Recommended preparation: MCB 2000 or 3010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

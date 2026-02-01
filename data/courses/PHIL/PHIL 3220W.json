@@ -1,0 +1,22 @@
+{
+    "name": "PHIL 3220W",
+    "dept_code": "PHIL",
+    "id_number": "3220W",
+    "title": "Philosophical Foundations of Human Rights",
+    "description": "(Also offered as HRTS\u00a03220W.) Ontology and epistemology of human rights investigated through contemporary and/or historical texts. CA 1.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

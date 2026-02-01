@@ -1,0 +1,16 @@
+{
+    "name": "COMM 4200",
+    "dept_code": "COMM",
+    "id_number": "4200",
+    "title": "Advanced Interpersonal Communication",
+    "description": "An advanced approach to interpersonal communication focusing on theories and their applications. Topics may include affection exchange theory, theories of uncertainty, attachment theory, communication privacy management theory, interpersonal deception theory, and relational dialectics theory.",
+    "credits": "3",
+    "requirement_description": "COMM 2000Q and 2200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

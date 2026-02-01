@@ -1,0 +1,23 @@
+{
+    "name": "HRTS 2170W",
+    "dept_code": "HRTS",
+    "id_number": "2170W",
+    "title": "Bioethics and Human Rights in Cross-Cultural Perspective",
+    "description": "(Also offered as PHIL\u00a02170W.) Philosophical examination of the ethical and human rights implications of recent advances in the life and biomedical sciences from multiple religious and cultural perspectives. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

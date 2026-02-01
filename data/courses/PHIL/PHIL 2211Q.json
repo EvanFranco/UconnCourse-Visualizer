@@ -1,0 +1,18 @@
+{
+    "name": "PHIL 2211Q",
+    "dept_code": "PHIL",
+    "id_number": "2211Q",
+    "title": "Symbolic Logic I",
+    "description": "Systematic analysis of deductive validity; formal languages which mirror the logical structure of portions of English; semantic and syntactic methods of verifying relations of logical consequence for these languages.",
+    "credits": "3",
+    "requirement_description": "At least one of LING 1010, POLS 1002, or one three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "AMST 3699",
+    "dept_code": "AMST",
+    "id_number": "3699",
+    "title": "Independent Study",
+    "description": "Supervised reading and writing on a subject of special interest to the student.  May be repeated for credit with a change of topic. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

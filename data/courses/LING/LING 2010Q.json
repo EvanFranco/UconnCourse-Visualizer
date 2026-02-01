@@ -1,0 +1,22 @@
+{
+    "name": "LING 2010Q",
+    "dept_code": "LING",
+    "id_number": "2010Q",
+    "title": "The Science of Linguistics",
+    "description": "An introduction to the methods and major findings of linguistic research as applied to the sound systems of languages and the structure and meaning of words and sentences. CA 3.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing LING 3110.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

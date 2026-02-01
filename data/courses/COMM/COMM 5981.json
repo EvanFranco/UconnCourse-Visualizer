@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5981",
+    "dept_code": "COMM",
+    "id_number": "5981",
+    "title": "Internship in Communication",
+    "description": "Completion of a departmentally-approved internship. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open to graduate students in Communication, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

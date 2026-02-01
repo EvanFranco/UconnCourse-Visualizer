@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5000",
+    "dept_code": "NUSC",
+    "id_number": "5000",
+    "title": "Nutritional Biochemistry",
+    "description": "Biochemical processes for the metabolism and functions of carbohydrates, proteins, lipids, and vitamins.",
+    "credits": "3",
+    "requirement_description": "Open only to NUSC students. Not open to students who have passed NUSC 4236.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

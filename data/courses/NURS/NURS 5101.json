@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5101",
+    "dept_code": "NURS",
+    "id_number": "5101",
+    "title": "Fundamental Mechanisms of Acute and Chronic Pain",
+    "description": "An exploration of physiological processes involved in pain transmission as well as the psychological, emotional, and cognitive processes that modulate pain perception based on the current literature using both human and nonhuman animal pain models.",
+    "credits": "3",
+    "requirement_description": "Recommended Preparation: Background in nursing or other healthcare-related training recommended but not required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

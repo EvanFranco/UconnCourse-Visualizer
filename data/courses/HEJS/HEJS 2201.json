@@ -1,0 +1,22 @@
+{
+    "name": "HEJS 2201",
+    "dept_code": "HEJS",
+    "id_number": "2201",
+    "title": "Diversity and Inclusion in Israeli Society: A Cinematic View",
+    "description": "Overview of Israeli films with a particular focus on contemporary cultural, social, and political tensions. Topics may include the uneasy relationship between an ancient patriarchal conservative religion and modern western secular society; Jerusalem as a holy city for three monotheistic regions, as a modern metropolis, and as a tourist attraction; the culture of masculinity promoted by the Israeli military; the status of women; attitudes toward the LGBTQ+ community; the treatment of minoritized groups in general, including those based on race or religion; and questions of citizenship and immigration, both legal and illegal. Taught in English.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

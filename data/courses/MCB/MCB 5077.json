@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5077",
+    "dept_code": "MCB",
+    "id_number": "5077",
+    "title": "Practicum in NMR Spectroscopy",
+    "description": "Hands-on training in heteronuclear NMR spectroscopy of biomolecules. Topics include protein folding, protein dynamics, binding of ligands to proteins, and protein structure determination.",
+    "credits": "1",
+    "requirement_description": "Instructor consent required. Recommended Preparation: MCB 5076 or MCB 2000 or MCB 3010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

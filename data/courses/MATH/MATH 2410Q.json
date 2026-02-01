@@ -1,0 +1,18 @@
+{
+    "name": "MATH 2410Q",
+    "dept_code": "MATH",
+    "id_number": "2410Q",
+    "title": "Elementary Differential Equations",
+    "description": "Introduction to ordinary differential equations and their applications, linear differential equations, systems of first order linear equations, numerical methods.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q, 1152Q, or 2142Q. Recommended preparation: A grade of C- or better in MATH 1132Q; MATH 2110Q or 2130Q. Cannot be taken after MATH 2144Q, 2420Q, 2720, 3146, 3150, 3410, 3412, 3510, 3710. Repeat restrictions apply; see advising.uconn.edu/repeat-policy.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6194",
+    "dept_code": "EPSY",
+    "id_number": "6194",
+    "title": "Doctoral Seminar",
+    "description": "Cooperative study of developments and problems in the student's area of study. May be repeated for a total of 21 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

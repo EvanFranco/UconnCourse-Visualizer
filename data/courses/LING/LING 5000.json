@@ -1,0 +1,16 @@
+{
+    "name": "LING 5000",
+    "dept_code": "LING",
+    "id_number": "5000",
+    "title": "Introduction to Computational Linguistics",
+    "description": "Computational methods in linguistic analysis and natural language processing. Topics include the use of text corpora and other sources of linguistic data; morphological analysis, parsing and language modeling; applications in areas such as information retrieval and machine translation.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Linguistics and others with consent of Instructor. Recommended preparation: At least one course in Linguistics or Computer Science.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

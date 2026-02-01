@@ -1,0 +1,16 @@
+{
+    "name": "DMD 1102",
+    "dept_code": "DMD",
+    "id_number": "1102",
+    "title": "Design Lab II",
+    "description": "Theory, principles, and practices of digital screen\u00adbased visual communication. Through a multi\u00addisciplinary perspective involving art, design, art history, and media studies, students will address how culture visualizes screen\u00adbased communication through both image and type.",
+    "credits": "3",
+    "requirement_description": "DMD 1000 or DMD 1001, DMD 1101. Open to Digital Media and Design majors only, others by instructor consent. Not open to students who have completed DMD 3020.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

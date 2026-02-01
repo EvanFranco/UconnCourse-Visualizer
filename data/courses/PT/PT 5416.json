@@ -1,0 +1,16 @@
+{
+    "name": "PT 5416",
+    "dept_code": "PT",
+    "id_number": "5416",
+    "title": "Clinical Neuroscience",
+    "description": "Introduction to foundational concepts and vocabulary of neuroanatomy, neurophysiology, and the basic mechanisms of neuropathology, with emphasis on the specific pathologies they are likely to encounter in physical therapist practice. The course will provide an overview of the medical and surgical diagnosis and management of patients with neurologic pathology. Impact of neuromuscular pathology across the lifespan and implications for physical therapy management are introduced.",
+    "credits": "5",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

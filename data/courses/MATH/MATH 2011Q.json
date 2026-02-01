@@ -1,0 +1,18 @@
+{
+    "name": "MATH 2011Q",
+    "dept_code": "MATH",
+    "id_number": "2011Q",
+    "title": "Fundamentals of Algebra and Geometry",
+    "description": "A continuation of MATH\u00a02010Q, furthering the treatment of elementary number theory and analytic geometry.",
+    "credits": "3",
+    "requirement_description": "MATH 2010Q. May not be counted in any of the major groups described in the Mathematics Departmental listing.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

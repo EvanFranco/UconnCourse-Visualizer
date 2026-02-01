@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 1199",
+    "dept_code": "CHEM",
+    "id_number": "1199",
+    "title": "Independent Study",
+    "description": "With a change of content this course may be repeated for credit. May be repeated for a total of 1 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

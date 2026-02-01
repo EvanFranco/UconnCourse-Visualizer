@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3794",
+    "dept_code": "MATH",
+    "id_number": "3794",
+    "title": "Problem Seminar",
+    "description": "Problem sequences selected from algebra, geometry, calculus, combinatorics, and other branches of mathematics, designed to introduce mathematical concepts and to give experience in problem solving. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "MATH 1122Q or 1132Q or 1152Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

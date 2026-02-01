@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 5306",
+    "dept_code": "ANTH",
+    "id_number": "5306",
+    "title": "Human Behavioral Ecology",
+    "description": "Applies the theory of natural selection to the study of human behavior in an ecological setting, with particular focus on the adaptive features and biological design of human behavior.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

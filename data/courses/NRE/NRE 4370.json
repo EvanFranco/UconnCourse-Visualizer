@@ -1,0 +1,16 @@
+{
+    "name": "NRE 4370",
+    "dept_code": "NRE",
+    "id_number": "4370",
+    "title": "Population Dynamics",
+    "description": "How population dynamics models are used in science and in the management of fish and wildlife populations, factors influencing population dynamics. Design, evaluation, and use of a population model.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher. Advanced sophomores (above 50 credits) may be considered. Recommended preparation: STAT 1100Q, MATH 1060Q, and MATH 1110Q or higher, and NRE 3345.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

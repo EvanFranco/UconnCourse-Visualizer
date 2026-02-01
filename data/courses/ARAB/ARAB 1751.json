@@ -1,0 +1,23 @@
+{
+    "name": "ARAB 1751",
+    "dept_code": "ARAB",
+    "id_number": "1751",
+    "title": "Traditional Arab Literatures, Cultures, and Civilizations",
+    "description": "Representative works from the cultures of the Arab world. Pre-Islamic poets to later writers and thinkers. Relation of literary and artistic forms to their historical contexts. Taught in English. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

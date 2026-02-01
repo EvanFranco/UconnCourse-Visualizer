@@ -1,0 +1,19 @@
+{
+    "name": "ENGL 3319",
+    "dept_code": "ENGL",
+    "id_number": "3319",
+    "title": "Topics in Postcolonial Studies",
+    "description": "Intensive studies in particular topics pertaining to colonialism, empire, and the postcolonial. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

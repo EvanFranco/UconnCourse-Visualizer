@@ -1,0 +1,16 @@
+{
+    "name": "AHNR 3099",
+    "dept_code": "AHNR",
+    "id_number": "3099",
+    "title": "Independent Study",
+    "description": "A course designed for the student who wishes to pursue an investigation of specific problems related to domestic and foreign agriculture with particular emphasis on current problems in instruction, extension education, and research. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open only to students with Independent Study Authorization.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

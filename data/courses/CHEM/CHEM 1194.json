@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 1194",
+    "dept_code": "CHEM",
+    "id_number": "1194",
+    "title": "The Science of Chemistry",
+    "description": "Readings, lectures, films and field trips exploring the field of chemistry and its scientific and social implications.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 1003",
+    "dept_code": "ENGL",
+    "id_number": "1003",
+    "title": "Academic Literacies for Multilingual Students",
+    "description": "Instruction in rhetorical, reading, and writing skills essential to university work. Intended primarily for international students.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

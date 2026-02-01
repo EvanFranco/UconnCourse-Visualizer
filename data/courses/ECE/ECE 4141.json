@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4141",
+    "dept_code": "ECE",
+    "id_number": "4141",
+    "title": "Introduction to RF/Microwave Wireless Systems",
+    "description": "An introduction to the general hardware components, system parameters, and architectures of radio-frequency (RF) and microwave wireless systems. Practical examples will be drawn from communication as well as radar/sensor systems.",
+    "credits": "3",
+    "requirement_description": "ECE 3001; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

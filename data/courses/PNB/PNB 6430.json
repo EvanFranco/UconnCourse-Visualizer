@@ -1,0 +1,16 @@
+{
+    "name": "PNB 6430",
+    "dept_code": "PNB",
+    "id_number": "6430",
+    "title": "Cells, Synapses, and Circuits",
+    "description": "Cellular neurophysiology and circuit neuroscience in multiple systems. Emphasis on applying basic principles of neurophysiology to the study of neural circuit function. Topics covered may include classical and cutting-edge methodologies for deciphering neuronal cell type diversity, cellular and synaptic electrophysiology, neuroanatomy, circuit function and behavior. Student work may include engaging in lectures, critical readings of primary literature, group discussions and presentations.",
+    "credits": "3",
+    "requirement_description": "PNB 5001 or PNB 5002 or instructor consent. Not open for credit to students who have passed PNB 5395 when offered as \"Cells, Synapses, and Circuits.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

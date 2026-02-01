@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 3991",
+    "dept_code": "SOCI",
+    "id_number": "3991",
+    "title": "Internship: Research Paper",
+    "description": "Research paper based on Field Experience. May be repeated for credit.",
+    "credits": "1-2",
+    "requirement_description": "Must be taken with SOCI 3990; open to juniors or higher. May be repeated to a maximum of three credits including SOCI 3991W which may be taken only once.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

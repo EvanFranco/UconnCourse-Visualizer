@@ -1,0 +1,24 @@
+{
+    "name": "WGSS 2255W",
+    "dept_code": "WGSS",
+    "id_number": "2255W",
+    "title": "LGBTQ Sexualities, Activism, and Globalization",
+    "description": "Globalization of LGBTQ identities, cultures and social movement activism, and cultures from a transnational perspective; use, role, and impact of digital media. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

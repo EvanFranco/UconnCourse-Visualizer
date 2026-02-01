@@ -1,0 +1,21 @@
+{
+    "name": "ECON 1201",
+    "dept_code": "ECON",
+    "id_number": "1201",
+    "title": "Principles of Microeconomics",
+    "description": "How the invisible hand of the market functions through the economic decisions of firms and individuals. How prices, wages and profits are determined, resources are allocated and income is distributed. Topical subjects (e.g., energy policy and health care). CA 2.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed or are taking ECON 1200.May be taken before or after ECON 1202. May not be taken out of sequence after passing ECON 2198, 2201, 2211Q, or 2327. Students may not earn credit for both ARE 1150 and ECON 1201.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5",
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

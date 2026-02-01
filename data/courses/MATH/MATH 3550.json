@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3550",
+    "dept_code": "MATH",
+    "id_number": "3550",
+    "title": "Programming for Actuaries",
+    "description": "Design, development, testing and implementation of programs to solve actuarial problems using software such as Microsoft Office Excel with Visual Basic.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

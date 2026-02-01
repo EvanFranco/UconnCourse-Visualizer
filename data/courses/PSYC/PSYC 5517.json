@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5517",
+    "dept_code": "PSYC",
+    "id_number": "5517",
+    "title": "Human Neuroimaging",
+    "description": "Designed to introduce or deepen knowledge of human neuroimaging methodologies including EEG and functional magnetic resonance imaging (fMRI) to explore brain structure and function in relation to behavior and cognition.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

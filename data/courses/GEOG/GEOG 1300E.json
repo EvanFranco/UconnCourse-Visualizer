@@ -1,0 +1,23 @@
+{
+    "name": "GEOG 1300E",
+    "dept_code": "GEOG",
+    "id_number": "1300E",
+    "title": "Climate, Weather, and the Environment",
+    "description": "Interactions between weather and climate and the human and natural environment.  Emphasis on understanding the linkages between natural processes and societal/environmental issues. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

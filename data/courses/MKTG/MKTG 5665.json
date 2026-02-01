@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 5665",
+    "dept_code": "MKTG",
+    "id_number": "5665",
+    "title": "Digital Marketing",
+    "description": "This course provides a framework and tools to develop winning digital marketing strategies. Students learn how to evaluate digital marketing environments, construct and interpret digital analytics, and design social media strategies in pursuit of long and short-range marketing goals. Students gain experience analyzing and developing integrated digital marketing strategies.",
+    "credits": "3",
+    "requirement_description": "MKTG 5115, or MKTG 5181 and MKTG 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

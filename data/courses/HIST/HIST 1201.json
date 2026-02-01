@@ -1,0 +1,21 @@
+{
+    "name": "HIST 1201",
+    "dept_code": "HIST",
+    "id_number": "1201",
+    "title": "Modern World History",
+    "description": "A survey of the historical experiences of the world's major civilizations during recent centuries with particular attention to the modernization of the traditional cultures of Asia, Latin America, and Africa. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

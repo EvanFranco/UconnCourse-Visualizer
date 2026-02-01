@@ -1,0 +1,20 @@
+{
+    "name": "ARE 4462E",
+    "dept_code": "ARE",
+    "id_number": "4462E",
+    "title": "Environmental and Resource Economics",
+    "description": "Natural resource use and environmental quality analysis using economic theory. Reviews of empirical research and relevant policy issues.",
+    "credits": "3",
+    "requirement_description": "ARE 1150 or ECON 1200 or ECON 1201; MATH 1071Q or 1110 or 1120 or 1126 or 1131Q; open to juniors or higher. Credit may not be received for both ARE 4462 and 5462.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

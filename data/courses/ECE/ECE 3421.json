@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3421",
+    "dept_code": "ECE",
+    "id_number": "3421",
+    "title": "Very Large Scale Integrated (VLSI) Design and Simulation",
+    "description": "Design of MOS transistors, including short channel effects in sub-micron devices; scaling laws; design rules. Layout of NMOS and CMOS logic gates; power-delay calculations. Design of static and/or dynamic memories. Laboratory emphasizes schematic capture, simulation, timing analysis and testing; layout of custom IC's; use of VHDL.",
+    "credits": "4",
+    "requirement_description": "CSE 2300W or 2301; ECE 3201; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

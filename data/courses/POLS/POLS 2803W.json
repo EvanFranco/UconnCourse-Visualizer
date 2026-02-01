@@ -1,0 +1,18 @@
+{
+    "name": "POLS 2803W",
+    "dept_code": "POLS",
+    "id_number": "2803W",
+    "title": "Legal Reasoning and Writing",
+    "description": "Simulation of the \"Moot Court\" experience. Students will develop legal writing and oral argumentation skills in relation to hypothetical appellate cases about free speech, religion, rights of the accused, separation of powers, and equal protection claims.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

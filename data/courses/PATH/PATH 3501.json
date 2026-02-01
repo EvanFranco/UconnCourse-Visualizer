@@ -1,0 +1,16 @@
+{
+    "name": "PATH 3501",
+    "dept_code": "PATH",
+    "id_number": "3501",
+    "title": "Diagnostic Techniques for the Biomedical Sciences",
+    "description": "Theoretical basis and practical exposure to modern laboratory methods used in the biomedical sciences for disease diagnosis.",
+    "credits": "2",
+    "requirement_description": "BIOL 1107 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

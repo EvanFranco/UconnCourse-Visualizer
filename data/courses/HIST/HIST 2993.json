@@ -1,0 +1,16 @@
+{
+    "name": "HIST 2993",
+    "dept_code": "HIST",
+    "id_number": "2993",
+    "title": "Foreign Study",
+    "description": "Consent of department head required, normally granted before the student's departure. May count toward the major with consent of advisor. May be repeated for credit.",
+    "credits": "1-12",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

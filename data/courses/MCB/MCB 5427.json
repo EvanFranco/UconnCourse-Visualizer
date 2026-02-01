@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5427",
+    "dept_code": "MCB",
+    "id_number": "5427",
+    "title": "Laboratory Techniques in Functional Genomics",
+    "description": "Molecular biological techniques utilized in gene discovery and in the functional characterization of genes in animal development.  Taught as a series of short modules, each focusing on a different set of techniques.  With a change of content, this course may be repeated for credit. May be repeated for a total of 7 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 7
+}

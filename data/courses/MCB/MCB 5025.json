@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5025",
+    "dept_code": "MCB",
+    "id_number": "5025",
+    "title": "Structure and Function of Biological Membranes",
+    "description": "Overview of cell membrane structure and function based on a foundation of physical and biochemistry principles. Topics include lipid bilayers, vesicles and liposomes, cholesterol, membrane protein structure and function, transport, membrane fusion, receptors, drug/membrane interactions and membranes in cell regulation.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "EVST 1000E",
+    "dept_code": "EVST",
+    "id_number": "1000E",
+    "title": "Introduction to Environmental Studies",
+    "description": "Interdisciplinary survey of relationships between humans and nature; investigation of specific environmental themes and contemporary issues. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

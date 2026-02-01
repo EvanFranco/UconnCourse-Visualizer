@@ -1,0 +1,23 @@
+{
+    "name": "GEOG 2300E",
+    "dept_code": "GEOG",
+    "id_number": "2300E",
+    "title": "Introduction to Physical Geography",
+    "description": "The physical elements and processes of the lithosphere, hydrosphere, atmosphere, and biosphere in relation to one another and to the distribution of the world's environments. Emphasis on the basic concepts and theories of physical geography and relationships between humans and the physical environment they interact with every day. CA 3.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing GEOG 4300.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

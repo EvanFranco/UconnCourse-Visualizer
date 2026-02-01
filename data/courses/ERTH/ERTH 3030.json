@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 3030",
+    "dept_code": "ERTH",
+    "id_number": "3030",
+    "title": "Earth Structure",
+    "description": "Description and interpretation of geological structures; stress and strain; contractional, extensional, and strike-slip tectonics; survey of New England geology; and application of principles of structural geology to environmental issues. One full-day field trip on a weekend may be required.",
+    "credits": "3",
+    "requirement_description": "ERTH 1050 or both ERTH 1052 and one of ERTH 1010 or 1051 or 1055 or 1070 or GEOG 1070.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

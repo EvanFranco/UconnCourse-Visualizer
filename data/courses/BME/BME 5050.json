@@ -1,0 +1,16 @@
+{
+    "name": "BME 5050",
+    "dept_code": "BME",
+    "id_number": "5050",
+    "title": "Engineering Problems in the Hospital",
+    "description": "Covers engineering solutions to problems that are found in the healthcare environment. Includes a wide variety of topics such as electrical power quality of and the reliable operation of high tech medical equipment, electrical safety in the patient care environment, electromagnetic compatibility of various medical devices and electromagnetic interference, radiation shielding and radiation protection, medical gas systems, medical ventilation systems and indoor air quality, fire protection systems required in the hospital, project management, functionality and design implications of emerging technologies, and hospital architecture and the design of patient care facilities.",
+    "credits": "3",
+    "requirement_description": "Instructor consent; open to students in the M.S. Biomedical Engineering Clinical Engineering Internship Program or the M.Eng. Clinical Engineering Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

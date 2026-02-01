@@ -1,0 +1,16 @@
+{
+    "name": "FREN 1101",
+    "dept_code": "FREN",
+    "id_number": "1101",
+    "title": "Elementary French I",
+    "description": "Elementary French grammar. Emphasis on speaking, listening, reading, and writing skills. Cultural and social content reinforces the linguistic skills taught in every class.",
+    "credits": "4",
+    "requirement_description": "Not open to students who have had three or more years of high school French. May not be taken out of sequence after passing FREN 1102, 1103, 1104, 1174, 1175, or any 2000 level or higher course taught in French.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

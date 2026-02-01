@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 2607",
+    "dept_code": "ENGL",
+    "id_number": "2607",
+    "title": "Literature and Science",
+    "description": "Introduction to literary writings about the sciences, including literary and scientific approaches to language and knowledge. May focus on a specific literary genre and/or scientific field. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

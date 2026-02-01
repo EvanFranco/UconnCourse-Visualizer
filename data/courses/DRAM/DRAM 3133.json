@@ -1,0 +1,20 @@
+{
+    "name": "DRAM 3133",
+    "dept_code": "DRAM",
+    "id_number": "3133",
+    "title": "Latina/o Theatre",
+    "description": "A study of Latina/o theatre and performance in the U.S. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

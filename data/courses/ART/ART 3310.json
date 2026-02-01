@@ -1,0 +1,16 @@
+{
+    "name": "ART 3310",
+    "dept_code": "ART",
+    "id_number": "3310",
+    "title": "Intermediate Painting",
+    "description": "Conceptually-oriented painting projects. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "ART 2310.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

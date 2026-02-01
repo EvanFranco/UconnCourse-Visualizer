@@ -1,0 +1,21 @@
+{
+    "name": "PSYC 2701",
+    "dept_code": "PSYC",
+    "id_number": "2701",
+    "title": "Social Psychology of Multiculturalism",
+    "description": "Introduction to theoretical perspectives and behavioral research that seek to explain the nature and mechanisms of intergroup relations and the psychology of culture, prejudice, and biased behavior. CA 4.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100; PSYC 1101 or 1103. Recommended preparation: PSYC 2700.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5440",
+    "dept_code": "MATH",
+    "id_number": "5440",
+    "title": "Partial Differential Equations",
+    "description": "Cauchy Kowalewsky Theorem, classification of second-order equations, systems of hyperbolic equations, the wave equation, the potential equation, the heat equation in Rn.",
+    "credits": "3",
+    "requirement_description": "MATH 5110. Recommended preparation: MATH 5111 and 5410.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

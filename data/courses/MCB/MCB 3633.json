@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3633",
+    "dept_code": "MCB",
+    "id_number": "3633",
+    "title": "Pathogenic Microbiology",
+    "description": "Descriptions of infectious diseases caused by bacteria, viruses, and protozoans in relation to the affected human organ systems and discussions of the underlying virulence factors, molecular mechanisms, and epidemiological data. Modern techniques are used in the laboratory to identify and characterize pathogenic bacteria.",
+    "credits": "4",
+    "requirement_description": "MCB 2610.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

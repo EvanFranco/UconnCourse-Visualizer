@@ -1,0 +1,16 @@
+{
+    "name": "ART 5383",
+    "dept_code": "ART",
+    "id_number": "5383",
+    "title": "Special Topics in Studio Art",
+    "description": "Seminar focused on special, limited topic relating to practices in studio art. The content will vary from semester to semester. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

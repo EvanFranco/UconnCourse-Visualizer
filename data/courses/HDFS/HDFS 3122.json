@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 3122",
+    "dept_code": "HDFS",
+    "id_number": "3122",
+    "title": "Integrated Curriculum Methods and Materials for Infants and Toddlers",
+    "description": "Integration of child development theory with best teaching practices for developmentally appropriate learning for children from birth to three years in specific domains including arts, sensory motor, social/emotional, and physical development.",
+    "credits": "3",
+    "requirement_description": "HDFS 2120.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5535",
+    "dept_code": "NRE",
+    "id_number": "5535",
+    "title": "Remote Sensing Image Processing",
+    "description": "A variety of related topics that include the physical processes involved in remote sensing and various image processing methods. The labs will be primarily focused on how to use image processing software (e.g., ENVI) to analyze satellite imagery.",
+    "credits": "3",
+    "requirement_description": "A course in remote sensing of the environment.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

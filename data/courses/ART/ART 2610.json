@@ -1,0 +1,16 @@
+{
+    "name": "ART 2610",
+    "dept_code": "ART",
+    "id_number": "2610",
+    "title": "Basic Studio, Sculpture",
+    "description": "Introduction to principles and techniques of sculpture.",
+    "credits": "3",
+    "requirement_description": "ART 1010 and 1030. May not be taken out of sequence after passing ART 3610, 3620, 3625, 3630, 3640, 3650, 3655, 3660, 3670.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

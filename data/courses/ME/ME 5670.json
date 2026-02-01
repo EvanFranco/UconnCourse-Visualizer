@@ -1,0 +1,16 @@
+{
+    "name": "ME 5670",
+    "dept_code": "ME",
+    "id_number": "5670",
+    "title": "Applied Structural Optimization",
+    "description": "Application of mathematical optimization techniques to the design of structures modeled via the finite element method, including size, shape and topology optimization. Mathematical derivation and computational implementation aspects of material and shape sensitivities used for shape and topology optimization, including direct and adjoint sensitivity analysis, and finite difference sensitivities. Size optimization of discrete systems and of distributed parameter systems. Optimization techniques for structural optimization, including fully-stressed design, optimality criterion methods and gradient-based nonlinear programming methods. Topology optimization of discrete systems and of continua, including density-based and level-set-based methods. Shape optimization techniques.",
+    "credits": "3",
+    "requirement_description": "Open only to Master of Engineering students. Recommended preparation: ENGR 5314; previous knowledge in principles of optimum design and in finite element analysis. knowledge in linear algebra, principles of optimum design, and in finite element analysis.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "SOCI 3525",
+    "dept_code": "SOCI",
+    "id_number": "3525",
+    "title": "Latino Sociology",
+    "description": "(Also offered as LLAS\u00a03525.) The economic, social, political, and cultural experiences of Latinos in the United States. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

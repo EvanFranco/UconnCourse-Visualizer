@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 3806",
+    "dept_code": "OPIM",
+    "id_number": "3806",
+    "title": "Introduction to Cryptocurrency and Blockchain Technology",
+    "description": "This course explores the fundamental knowledge of blockchain technology, its practical applications and impact in industries. The course discusses the popular cryptocurrencies on the market, their operating mechanisms, and related decentralized applications including Defi, NFTs, DAOs, and Web 3.0. The course will also evaluate the ethical, legal, social, and environmental impacts of Blockchain technology.",
+    "credits": "3",
+    "requirement_description": "OPIM 3103; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

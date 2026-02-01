@@ -1,0 +1,16 @@
+{
+    "name": "SAAS 111",
+    "dept_code": "SAAS",
+    "id_number": "111",
+    "title": "Anatomy and Physiology of Domestic Animals",
+    "description": "A study of the anatomy and physiology of the animal body including characteristics that impact animal production systems. The physiology of reproduction and digestion will receive emphasis. Management practices and techniques used to maximize production efficiency will be included.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

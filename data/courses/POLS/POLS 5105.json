@@ -1,0 +1,16 @@
+{
+    "name": "POLS 5105",
+    "dept_code": "POLS",
+    "id_number": "5105",
+    "title": "Political Theory",
+    "description": "Historical and conceptual analysis of selected political ideas such as justice, liberty, rights, political obligation, or the state; including an examination of one or more major schools or bodies of political thought from ancient to contemporary times. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

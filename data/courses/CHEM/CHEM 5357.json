@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5357",
+    "dept_code": "CHEM",
+    "id_number": "5357",
+    "title": "Surface Science",
+    "description": "A study of the fundamentals of surfaces, crystals, adsorbates, and surface analysis techniques. Application of general, physical, and analytical chemistry concepts in surface science.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed CHEM 5393 when offered as \"Surface Science.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

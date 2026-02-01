@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 1095",
+    "dept_code": "HDFS",
+    "id_number": "1095",
+    "title": "Special Topics Lecture",
+    "description": "Credits, prerequisites and hours as determined by the Senate Curricula and Course Committee. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Prerequisites and recommended preparation vary.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

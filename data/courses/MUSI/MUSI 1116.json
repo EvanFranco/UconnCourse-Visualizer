@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 1116",
+    "dept_code": "MUSI",
+    "id_number": "1116",
+    "title": "Small Ensemble",
+    "description": "Small ensemble music under the direction of a conductor. Preparation and presentation of concerts. Students may register for two or more sections concurrently with consent of instructors. As a requirement for credit, the student must participate in MUSI\u00a01110, 1111, or 1112. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "MUSI 1110 or MUSI 1111 or MUSI 1112 must be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

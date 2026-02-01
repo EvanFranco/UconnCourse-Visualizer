@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4302",
+    "dept_code": "CSE",
+    "id_number": "4302",
+    "title": "Computer Organization and Architecture",
+    "description": "Organization and architecture of modern computer systems. Emphasis is on alternatives and advances to the basic Von Neumann architecture: topics such as pipelining, memory hierarchy and management, multiprocessor and alternative architectures, reconfigurable hardware, and other techniques for performance enhancement.",
+    "credits": "3",
+    "requirement_description": "CSE 2304 or 3666; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

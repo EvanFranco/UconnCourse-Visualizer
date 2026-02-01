@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3315",
+    "dept_code": "ECON",
+    "id_number": "3315",
+    "title": "Financial Econometrics",
+    "description": "Introduction to the mathematics of finance. Theoretical reasoning (proofs), modeling, useful simplifying approximations, and computing. Students will write basic programs in R.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q; ECON 2202 or 2212Q; ECON 2311Q; ECON 2312Q; STAT 1000Q or 1100Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "POLS 3406W",
+    "dept_code": "POLS",
+    "id_number": "3406W",
+    "title": "Globalization and Political Change",
+    "description": "Origins and contested definitions of globalization, and its impact on national, regional and international institutions and political processes. Designed for upper-level undergraduate students with a solid grounding in comparative politics and international relations.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

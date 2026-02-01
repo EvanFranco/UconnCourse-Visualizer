@@ -1,0 +1,16 @@
+{
+    "name": "POLS 5315",
+    "dept_code": "POLS",
+    "id_number": "5315",
+    "title": "International Security",
+    "description": "Political and military issues as they intersect at the international level, such as war, terrorism, alliances, and intervention.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5660",
+    "dept_code": "MATH",
+    "id_number": "5660",
+    "title": "Advanced Financial Mathematics",
+    "description": "An introduction to the standard models of modern financial  mathematics including martingales, the binomial asset pricing  model, Brownian motion, stochastic integrals, stochastic differential equations, continuous time financial models, completeness of the financial market, the Black-Scholes formula, the fundamental theorem of finance, American options, and term structure models.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

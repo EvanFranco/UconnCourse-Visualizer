@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3321",
+    "dept_code": "MUSI",
+    "id_number": "3321",
+    "title": "Form and Analysis I",
+    "description": "Aspects of musical structure and style in works from the 17th through the 19th centuries. Application of a variety of approaches to analysis.",
+    "credits": "3",
+    "requirement_description": "MUSI 3314.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

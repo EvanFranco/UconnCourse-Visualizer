@@ -1,0 +1,16 @@
+{
+    "name": "CSE 2500",
+    "dept_code": "CSE",
+    "id_number": "2500",
+    "title": "Introduction to Discrete Systems",
+    "description": "Introduction to formal mathematical thinking including discrete systems and proofs. Discrete system topics include logic, set theory, basic number theory, basic combinatorics, functions, relations, sequences, sums, products, recurrence, and countability. Proof topics include direct proof, including proof by cases and induction, and indirect proof, including proof by contrapositive and contradiction.",
+    "credits": "3",
+    "requirement_description": "CSE 1010 or 1729.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

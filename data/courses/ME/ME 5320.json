@@ -1,0 +1,16 @@
+{
+    "name": "ME 5320",
+    "dept_code": "ME",
+    "id_number": "5320",
+    "title": "Flow of Compressible Fluids I",
+    "description": "Equations of motion of a compressible fluid. Quasi-one-dimensional flow including effects of friction, heat addition, and normal shocks. Two and three dimensional flows. Velocity potential and stream function. Small perturbation theory. Subsonic pressure correction formulas. Kelvin and Crocco Theorems. Method of characteristics for steady and unsteady, rotational and irrotational flows. Curved and oblique shock waves. Shock tube theory.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5900",
+    "dept_code": "ERTH",
+    "id_number": "5900",
+    "title": "Environmental Geochemistry",
+    "description": "Introduction to geochemistry of terrestrial and aqueous environmental systems. Chemical weathering and water-rock interactions; geochemistry of natural waters; chemical systems of the geosphere, biosphere and atmosphere; and geochemistry and climate.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed ERTH 4720.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

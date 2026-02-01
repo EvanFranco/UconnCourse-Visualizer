@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3341",
+    "dept_code": "MUSI",
+    "id_number": "3341",
+    "title": "Introduction to Electronic Composition",
+    "description": "Composition by synthesizer and computer.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

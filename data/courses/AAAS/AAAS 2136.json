@@ -1,0 +1,22 @@
+{
+    "name": "AAAS 2136",
+    "dept_code": "AAAS",
+    "id_number": "2136",
+    "title": "Asian Theatre and Performance",
+    "description": "(Also offered as DRAM\u00a02136.) Asian theatre, opera, dance, and other performance forms and their elaboration, reworking, and dissolution in modern and contemporary times, examined in relation to changes in society, politics, religion, and culture. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

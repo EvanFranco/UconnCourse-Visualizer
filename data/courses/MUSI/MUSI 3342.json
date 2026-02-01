@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3342",
+    "dept_code": "MUSI",
+    "id_number": "3342",
+    "title": "Arranging for Music Educators",
+    "description": "Through in-class instrument presentations and score study, students will be exposed to concepts and techniques of adapting and scoring music for small and large instrumental and vocal ensembles.",
+    "credits": "2",
+    "requirement_description": "MUSI 3312 and 3314.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

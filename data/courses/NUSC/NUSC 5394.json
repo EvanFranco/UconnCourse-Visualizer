@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5394",
+    "dept_code": "NUSC",
+    "id_number": "5394",
+    "title": "Seminar",
+    "description": "Students develop the skills required for the analysis and presentation of current literature and research problems. May be repeated for a total of 4 credits.",
+    "credits": "1",
+    "requirement_description": "NUSC 5100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

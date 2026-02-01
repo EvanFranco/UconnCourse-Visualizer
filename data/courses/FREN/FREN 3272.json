@@ -1,0 +1,19 @@
+{
+    "name": "FREN 3272",
+    "dept_code": "FREN",
+    "id_number": "3272",
+    "title": "French Philosophy",
+    "description": "Introduction to the French philosophical tradition from the Enlightenment to the post-structuralist revolution. Topics include theories of freedom, knowledge, power, language, subjectivity, sexuality, and the mind/body dialectic. Critical practice applied to literature, film, and other genres. Taught in English. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

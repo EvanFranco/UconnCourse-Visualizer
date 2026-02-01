@@ -1,0 +1,21 @@
+{
+    "name": "MAST 2300E",
+    "dept_code": "MAST",
+    "id_number": "2300E",
+    "title": "Marine Environmental Policy",
+    "description": "Introduction to historical and contemporary issues associated with the governance of marine and coastal environments and resources at the international, national, state, and local levels. Topics may include fisheries management, aquaculture, biodiversity, ocean energy resources, pollution, international ocean governance, and anthropogenic climate change. Designed for students with diverse departmental affiliations. Field trips are required.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MARN/MAST 1001.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

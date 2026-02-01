@@ -1,0 +1,16 @@
+{
+    "name": "CE 3610",
+    "dept_code": "CE",
+    "id_number": "3610",
+    "title": "Introduction to Structural Analysis and Design",
+    "description": "Structural loads and load combinations; analysis and design philosophies; analysis of statically determinate structures; influence lines; deflection of trusses, beams, and frames; introduction to indeterminate analysis; matrix analysis of structures; structural analysis and design software.",
+    "credits": "3",
+    "requirement_description": "CE 3110, which may be taken concurrently; enrollment in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

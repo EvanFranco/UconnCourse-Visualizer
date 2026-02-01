@@ -1,0 +1,16 @@
+{
+    "name": "COMM 4982",
+    "dept_code": "COMM",
+    "id_number": "4982",
+    "title": "Research Practicum in Communication",
+    "description": "Participation in supervised research activities in communication. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for a total of 6 credits.",
+    "credits": "1-3",
+    "requirement_description": "At least 12 credits of 2000-level or above Communication courses which must include COMM 2000Q; open to juniors or higher. May be repeated once for a total of six credits.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

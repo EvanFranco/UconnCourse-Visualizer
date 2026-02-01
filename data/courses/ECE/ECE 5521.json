@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5521",
+    "dept_code": "ECE",
+    "id_number": "5521",
+    "title": "Grid Connection of Renewable Energy Sources",
+    "description": "Modeling and control of a grid connected inverter.",
+    "credits": "3",
+    "requirement_description": "ECE 3211 or power electronics related course work. Instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

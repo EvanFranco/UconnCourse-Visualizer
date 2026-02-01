@@ -1,0 +1,18 @@
+{
+    "name": "MCB 3842W",
+    "dept_code": "MCB",
+    "id_number": "3842W",
+    "title": "Current Investigations in Cancer Cell Biology",
+    "description": "Mechanisms involved in cancer initiation, promotion, and progression: cancer genomes, epigenetic regulation of gene expression and reprogramming, cancer stem cells, alterations in cell signaling networks, cancer cell bioenergetics, environmental exposures and xenobiotic metabolism, development of resistance to therapeutics.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; MCB 2000 or 2210 or 3010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

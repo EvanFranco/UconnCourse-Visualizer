@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5300",
+    "dept_code": "CSE",
+    "id_number": "5300",
+    "title": "Advanced Computer Networks",
+    "description": "Advanced fundamental principles of computer networks. Topics include network design and optimization, protocol design and implementation, network algorithms, advanced network architectures, network simulation, performance evaluation, and network measurement.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 3300 or the equivalent. This course and ECE 6431 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

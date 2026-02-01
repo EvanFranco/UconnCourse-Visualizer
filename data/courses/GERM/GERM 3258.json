@@ -1,0 +1,20 @@
+{
+    "name": "GERM 3258",
+    "dept_code": "GERM",
+    "id_number": "3258",
+    "title": "Germans in Africa, Blacks in German-Speaking Countries, Colonial and Post-Colonial Perspectives",
+    "description": "Interdisciplinary study of former German colonialism in Africa and Blacks in German-speaking societies, past and present. Construction of intercultural and interracial power and dialog in historical perspective. Diversity of black and white experiences and perspectives across class, racial-ethnic groups, gender, cultures, religions, and national borders. Discussion of selected literary and non-fictional readings, films, other visual images, and recordings. Taught in English. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "AMST 2201",
+    "dept_code": "AMST",
+    "id_number": "2201",
+    "title": "Introduction to Asian American Studies",
+    "description": "(Also offered as AAAS\u00a02201.) A multidisciplinary and interdisciplinary introduction to major themes in Asian American Studies. Concepts of identity and community, migration and labor histories, Asians and the law, representations of Asians in visual and popular culture, gender issues, interracial and interethnic relations, and human rights. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

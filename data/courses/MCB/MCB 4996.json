@@ -1,0 +1,16 @@
+{
+    "name": "MCB 4996",
+    "dept_code": "MCB",
+    "id_number": "4996",
+    "title": "Honors Undergraduate Research",
+    "description": "Laboratory research project carried on by the student under the guidance of a faculty member. The student is required to submit a brief report on the research findings at the end of the semester. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open only to honors students with consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5330",
+    "dept_code": "MSE",
+    "id_number": "5330",
+    "title": "Classical Atomic-level Simulations in Materials Science and Engineering",
+    "description": "Introduction to several classical atomic-level simulation techniques (molecular dynamics, Monte Carlo methods) with an emphasis on learning the art of designing simulations and analyzing data generated. The capabilities of the methods to investigate properties and response of materials and the current limitations of materials at the atomic scales will be covered.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

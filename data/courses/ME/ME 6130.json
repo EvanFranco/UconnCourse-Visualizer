@@ -1,0 +1,16 @@
+{
+    "name": "ME 6130",
+    "dept_code": "ME",
+    "id_number": "6130",
+    "title": "Advanced Thermo-Fluids II",
+    "description": "Review of governing flow equations, instability and transition, Reynolds averaging and closure approximations, Algebraic turbulence models, Two-equation turbulence models, Large eddy simulations, Turbulence statistics: probability density function and power spectral densities, Energy cascade and intermittency, Turbulent boundary layers including heat transfer, Turbulent free shear flows, Turbulent internal flows (pipes and channels) including heat transfer, Natural convection.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

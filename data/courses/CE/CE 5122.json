@@ -1,0 +1,16 @@
+{
+    "name": "CE 5122",
+    "dept_code": "CE",
+    "id_number": "5122",
+    "title": "Advanced Mechanics of Materials",
+    "description": "Stress and strain, combined stress, and theories of failure. Torsion of non-circular sections. Shear center, unsymmetrical bending, curved flexural members, and beams on elastic foundations. Energy methods. Plane theory of elasticity, plate bending, and pressurized cylinders.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

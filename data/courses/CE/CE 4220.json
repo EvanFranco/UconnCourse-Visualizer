@@ -1,0 +1,16 @@
+{
+    "name": "CE 4220",
+    "dept_code": "CE",
+    "id_number": "4220",
+    "title": "Principles of Construction II",
+    "description": "Time, cost, productivity, decision-making, and sustainability challenges in the construction industry. Advanced scheduling, construction sequencing, economic analysis, financial management, construction equipment and methods, risk management, and sustainability issues.",
+    "credits": "3",
+    "requirement_description": "CE 2211 and 3220.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 2222",
+    "dept_code": "PHIL",
+    "id_number": "2222",
+    "title": "Early Modern European Philosophy",
+    "description": "Central philosophical issues as discussed by philosophers such as Descartes, Locke, Berkeley, Hume and Kant.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

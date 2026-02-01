@@ -1,0 +1,20 @@
+{
+    "name": "HDFS 3520",
+    "dept_code": "HDFS",
+    "id_number": "3520",
+    "title": "Legal Aspects of Family Life",
+    "description": "Overview of historical roots and key aspects of family law.  The case method is used to analyze the causes and effects of contemporary trends.  Topics include: the regulation of marriage, separation, and divorce; procreation and abortion; adoption; child custody and support; and, end-of-life issues.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,25 @@
+{
+    "name": "MARN 1003E",
+    "dept_code": "MARN",
+    "id_number": "1003E",
+    "title": "Introduction to Oceanography with Laboratory",
+    "description": "Processes governing the geology, circulation, chemistry, and biological productivity of the world's oceans. Emphasis on the interactions and interrelationships of humans and the physical, chemical, biological, and geological processes that contribute to both the stability and the variability of the marine environment. Laboratory experiments, hands-on exercises, and field observations. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Recommended preparation: A background in secondary school physics, chemistry, or biology. Not open to students who have passed MARN 1002, 2002, or 3001.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MISI 1102",
+    "dept_code": "MISI",
+    "id_number": "1102",
+    "title": "General Military Science Ib",
+    "description": "Leadership attributes and professional ethics; Army rank, structure, and military duties; professional communications; land navigation and small-unit tactics.",
+    "credits": "1",
+    "requirement_description": "May not be taken out of sequence after passing MISI 2201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,24 @@
+{
+    "name": "POLS 2208WE",
+    "dept_code": "POLS",
+    "id_number": "2208WE",
+    "title": "Politics of Oil",
+    "description": "Historical and contemporary role of oil in comparative politics and international relations. CA 2.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; Recommended preparation: POLS 1202 or 1207.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W",
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

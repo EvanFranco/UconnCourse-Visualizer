@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 4306",
+    "dept_code": "FNCE",
+    "id_number": "4306",
+    "title": "Financial Services",
+    "description": "Study of the role of financial services companies in the  money and capital markets, funds acquisitions, investment and credit extension.",
+    "credits": "3",
+    "requirement_description": "FNCE 3101 (BUSN majors) or MATH 3650 (Mathematics Actuarial Science Finance majors); open only to Business and Mathematics Actuarial Science Finance majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

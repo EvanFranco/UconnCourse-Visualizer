@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3453",
+    "dept_code": "ANSC",
+    "id_number": "3453",
+    "title": "Pleasure Horse Appreciation and Use",
+    "description": "Open to all University students interested in pleasure horses. The principles of horse management and horsemanship.",
+    "credits": "1",
+    "requirement_description": "Not open to students who have passed ANSC 3456.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

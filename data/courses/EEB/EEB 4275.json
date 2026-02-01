@@ -1,0 +1,16 @@
+{
+    "name": "EEB 4275",
+    "dept_code": "EEB",
+    "id_number": "4275",
+    "title": "Invertebrate Zoology",
+    "description": "Body organization, functional morphology and evolution compared among major invertebrate phyla. Field trips required.",
+    "credits": "4",
+    "requirement_description": "Six credits of introductory biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

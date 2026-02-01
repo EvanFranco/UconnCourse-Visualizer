@@ -1,0 +1,16 @@
+{
+    "name": "MISI 1101",
+    "dept_code": "MISI",
+    "id_number": "1101",
+    "title": "General Military Science Ia",
+    "description": "Effective leadership competencies, basic soldier and life skills; critical thinking; goal setting; physical fitness; time management; stress management.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

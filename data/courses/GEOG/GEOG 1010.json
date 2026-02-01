@@ -1,0 +1,20 @@
+{
+    "name": "GEOG 1010",
+    "dept_code": "GEOG",
+    "id_number": "1010",
+    "title": "New Digital Worlds of Geographic Information Science",
+    "description": "An overview of geospatial data and emerging technologies that are common in our everyday lives and how they are shaping society. Topics include the use of geospatial technologies like GPS, Google Earth, Satellite Imagery, and GIS, and how these technologies address environmental, societal, and political issues. Discussion of career opportunities in GIScience. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

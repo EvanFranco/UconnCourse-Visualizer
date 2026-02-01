@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 6202",
+    "dept_code": "FNCE",
+    "id_number": "6202",
+    "title": "Corporate and Institutional Finance",
+    "description": "Topics include: information asymmetry, agency, internal capital markets, governance, market microstructure, moral hazard / adverse selection. Concepts are applied in both corporate and financial institution settings.",
+    "credits": "3",
+    "requirement_description": "FNCE 5508.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

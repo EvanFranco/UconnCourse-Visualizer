@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5312",
+    "dept_code": "ISG",
+    "id_number": "5312",
+    "title": "Genomic Data Analysis in Practice II",
+    "description": "Practical instruction in how to accomplish various genomic workflows including genome assembly, variant detection, differential expression using RNA-seq.",
+    "credits": "4",
+    "requirement_description": "ISG 5301 and 5311. Corequisite: ISG 5302. Recommended preparation: Undergraduate degree in biology or related discipline. Background in genetics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

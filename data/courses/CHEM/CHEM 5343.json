@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5343",
+    "dept_code": "CHEM",
+    "id_number": "5343",
+    "title": "Organic Reactions",
+    "description": "Nomenclature. Classes of compounds. A focus upon those reactions in which C-C bonds are formed. Emphasis on the fundamentals of each reaction, their utility and applications. A background of functional group exchanges; reaction control by steric, electronic, and topological considerations.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

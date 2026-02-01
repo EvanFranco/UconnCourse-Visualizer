@@ -1,0 +1,16 @@
+{
+    "name": "ME 5180",
+    "dept_code": "ME",
+    "id_number": "5180",
+    "title": "Dynamics",
+    "description": "Three-dimensional particle and rigid-body mechanics. Particle kinematics. Newton's laws, energy and momentum principles. Systems of particles. Rigid body kinematics, coordinate transformations. Rigid body dynamics, Euler's equations. Gyroscopic motion. Lagrange's equations.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

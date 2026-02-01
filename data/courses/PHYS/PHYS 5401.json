@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 5401",
+    "dept_code": "PHYS",
+    "id_number": "5401",
+    "title": "Quantum Mechanics I",
+    "description": "Mathematical formulation and interpretation of quantum mechanics. Illustrative examples. Hydrogen atom. Dirac ket and bra vectors, matrix methods. Scattering theory.",
+    "credits": "3",
+    "requirement_description": "PHYS 5101 and 5201 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3090",
+    "dept_code": "ANTH",
+    "id_number": "3090",
+    "title": "Directed Field Research in Anthropology",
+    "description": "The investigation of a sociocultural and/or archaeological problem in some domestic or foreign field location. May be repeated for a maximum of 12 credits. May be repeated for a total of 12 credits.",
+    "credits": "1-12",
+    "requirement_description": "ANTH 3003 or consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

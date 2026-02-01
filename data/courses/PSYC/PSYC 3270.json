@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3270",
+    "dept_code": "PSYC",
+    "id_number": "3270",
+    "title": "Current Topics in Behavioral Neuroscience",
+    "description": "Selected topics vary with each offering (e.g., The Neurobiology of Memory and Decision-Making, Sensory Coding and Decoding, Animal Models of Basal Ganglia Dysfunction, Animal Models of Developmental Disorders). May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

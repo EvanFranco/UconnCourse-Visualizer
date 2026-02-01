@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3250",
+    "dept_code": "CSE",
+    "id_number": "3250",
+    "title": "Introduction to Cloud Computing",
+    "description": "Introduction to the design and implementation of applications that take full advantage of the cloud-delivery model. Lectures will be a mix between topics, discussion, and in-class demonstrations. Weekly hands-on coding assignments will be given utilizing a modern cloud platform. Coding will be done using modern programming languages, such as Python, Javascript, and GOLang.",
+    "credits": "3",
+    "requirement_description": "CSE 2050; open only to students in the College of Engineering or declared Computer Science minors. Recommended preparation: CSE 2102.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

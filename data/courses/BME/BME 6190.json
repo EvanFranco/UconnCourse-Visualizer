@@ -1,0 +1,16 @@
+{
+    "name": "BME 6190",
+    "dept_code": "BME",
+    "id_number": "6190",
+    "title": "Bioelectrical Signals in Neuronal Tissues",
+    "description": "Neuronal tissues react to trigger signals such as electrical, mechanical, or chemical energy by generating action potentials, i.e., depolarization and repolarization of their membrane electrical potentials within ~1/1000 second. What underlies this rapid electrical event is the intricate timing of the opening and closing of ion channels, i.e., pore-forming transmembrane proteins that allow charged ions to pass through the lipid bilayer membrane. The overarching objective of this course is to help engineering students establish a top-down theoretical understanding of the nervous system, which are targets for biomedical devices like neuromodulators and stimulators to manage disease conditions. This course teaches the fundamentals of neuronal tissues by introducing the experimental observations and the integration of experimental evidence with quantitative modeling. The course is designed for BME seniors and for graduate students with a generic background in neuroscience and neurophysiology. Students are expected to demonstrate the ability to apply basic bioelectrical theories to solving relevant biomedical problems via engineering design and analysis.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q, 2410Q, or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 3281",
+    "dept_code": "ENGR",
+    "id_number": "3281",
+    "title": "Engineering Internship",
+    "description": "Provides an opportunity for students to participate in a work environment to gain practical experience and to exercise problem solving skills. Students taking this course will be assigned a grade of S (satisfactory) or U (unsatisfactory). May be repeated for credit.",
+    "credits": "0",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

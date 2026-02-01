@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5500",
+    "dept_code": "PSYC",
+    "id_number": "5500",
+    "title": "Research Seminar in Language and Cognition",
+    "description": "May be repeated for up to 12 credits. May be repeated for a total of 12 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

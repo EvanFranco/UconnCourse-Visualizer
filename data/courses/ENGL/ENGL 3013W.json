@@ -1,0 +1,18 @@
+{
+    "name": "ENGL 3013W",
+    "dept_code": "ENGL",
+    "id_number": "3013W",
+    "title": "Media Publishing",
+    "description": "Publishing and writing for publication in the Information Age. Topics include desktop publishing, web-page design, and the presentation of materials on the Internet. No previous experience with computers is required.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher. Cannot be taken for credit after passing ENGL 3011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

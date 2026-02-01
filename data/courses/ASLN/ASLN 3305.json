@@ -1,0 +1,16 @@
+{
+    "name": "ASLN 3305",
+    "dept_code": "ASLN",
+    "id_number": "3305",
+    "title": "Advanced American Sign Language",
+    "description": "Advanced study of American Sign Language and Deaf culture.",
+    "credits": "3",
+    "requirement_description": "ASLN 1104",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "EVST 4000W",
+    "dept_code": "EVST",
+    "id_number": "4000W",
+    "title": "Environmental Studies Capstone Research Project",
+    "description": "Individual student research projects integrate knowledge and perspectives on environmental issues. Extensive reading, research, written work and presentation/oral communication required.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 3201",
+    "dept_code": "ENGR",
+    "id_number": "3201",
+    "title": "Undergraduate Teaching, Mentoring, and Leadership Seminar",
+    "description": "Discussion of learning styles, time management, goal setting, ethical behavior, mentoring, and qualities of effective leadership. Students enrolled in this course act as a mentors for students in lower-level engineering coursework, further enhancing their own understanding of the material. Significant student contact with mentees is expected as part of the course. This course is only open to students participating in the Undergraduate Teaching Assistant Program.",
+    "credits": "3",
+    "requirement_description": "Open only to junior or higher School of Engineering students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 4740",
+    "dept_code": "ERTH",
+    "id_number": "4740",
+    "title": "Energy Resources: Past, Present, and Future",
+    "description": "Overview of energy resources, both fossil fuel and renewable, underground fluid storage, and greenhouse gas sequestration. Subsurface geoscientific exploration and extraction methods.",
+    "credits": "3",
+    "requirement_description": "ERTH 1050 or both ERTH 1052 and one of ERTH 1010 or 1051 or 1055 or ERTH/GEOG 1070. Recommended preparation: 12 credits of ERTH at the 3000 level or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

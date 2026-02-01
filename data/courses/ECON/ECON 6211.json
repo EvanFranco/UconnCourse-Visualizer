@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6211",
+    "dept_code": "ECON",
+    "id_number": "6211",
+    "title": "Microeconomic Theory II",
+    "description": "Game theory, information, and related topics.",
+    "credits": "3",
+    "requirement_description": "A grade of B- or better in ECON 6201.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

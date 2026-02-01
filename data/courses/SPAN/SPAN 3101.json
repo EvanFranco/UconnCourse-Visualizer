@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 3101",
+    "dept_code": "SPAN",
+    "id_number": "3101",
+    "title": "Spanish for Engineering I",
+    "description": "This course provides dual-degree Spanish and Engineering students with the technical and scientific vocabulary needed to discuss a wide variety of topics in engineering.",
+    "credits": "1",
+    "requirement_description": "SPAN 1002 or equivalent; open to sophomore or higher dual-degree Spanish and Engineering students. Not open for credit to students who have passed SPAN 3171.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

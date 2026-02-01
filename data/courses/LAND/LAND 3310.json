@@ -1,0 +1,16 @@
+{
+    "name": "LAND 3310",
+    "dept_code": "LAND",
+    "id_number": "3310",
+    "title": "Landscape Architecture: Construction I - Site Engineering",
+    "description": "Theory and practice in manipulating landform in landscape architecture.  Earthwork computation, drainage systems, sedimentation and erosion control, roadway design and low-impact design.",
+    "credits": "4",
+    "requirement_description": "LAND 2120; open only to Landscape Architecture majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

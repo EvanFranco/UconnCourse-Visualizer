@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5261",
+    "dept_code": "ECE",
+    "id_number": "5261",
+    "title": "Memory Device Technologies",
+    "description": "Current and future digital solid-state memory device technologies including DRAM, SRAM, flash memory, ferroelectric memory, magnetoresistive memory, phase-change memory and resistive memory, with an emphasis on the underlying physical mechanisms.",
+    "credits": "3",
+    "requirement_description": "This course and ECE 4261 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

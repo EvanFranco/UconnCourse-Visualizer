@@ -1,0 +1,16 @@
+{
+    "name": "HIST 5102",
+    "dept_code": "HIST",
+    "id_number": "5102",
+    "title": "Historical Research and Writing",
+    "description": "A research seminar for students in the M.A. and Ph.D. programs in history. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "History students in M.A. and Ph.D. programs.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

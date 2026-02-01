@@ -1,0 +1,16 @@
+{
+    "name": "BME 6120",
+    "dept_code": "BME",
+    "id_number": "6120",
+    "title": "Neuronal Information Processing and Sensory Coding",
+    "description": "Processing, transmission, and storage of information in the central and peripheral nervous systems. Mechanisms of signal generation, transmission and coding by neurons and dendrites. Analysis of invertebrate and vertebrate visual and auditory systems, including: mechanisms of neurosensory transduction, coding, and signal-to-noise ratio enhancement. Neural spatio-temporal filters for feature extraction and pattern recognition. Information theoretic analysis of signal encoding and transmission in the nervous system. This course assumes a background in linear systems and feedback control system.",
+    "credits": "3",
+    "requirement_description": "BME 5100. This course and ECE 6311 may not both be taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

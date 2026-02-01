@@ -1,0 +1,20 @@
+{
+    "name": "ANTH 3202W",
+    "dept_code": "ANTH",
+    "id_number": "3202W",
+    "title": "Illness and Curing",
+    "description": "Cross-cultural analysis of ethnomedicine, major medical systems, alternative medical systems, curing and healing illness and social control, gender and healing, and the role of traditional and cosmopolitan medical systems in international health. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

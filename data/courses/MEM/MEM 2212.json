@@ -1,0 +1,16 @@
+{
+    "name": "MEM 2212",
+    "dept_code": "MEM",
+    "id_number": "2212",
+    "title": "Introduction to Manufacturing Systems Lab",
+    "description": "Introduction to the steps required for manufacturing. Students will move from a part sketch, to an engineering drawing, to a drawing using state-of-the-art CAD software. Students will build both a prototype and an improved final model of the part, which are required to be of different materials. One or more site visits are included as parts of this laboratory, for students to gain exposure to operational manufacturing facilities.",
+    "credits": "1",
+    "requirement_description": "MEM 2211, which may be taken concurrently; enrollment restricted to Management and Engineering for Manufacturing majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

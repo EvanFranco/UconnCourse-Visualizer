@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 4582",
+    "dept_code": "ENGR",
+    "id_number": "4582",
+    "title": "Shop Safety Practicum",
+    "description": "Safety, operating procedures and normal practices of the equipment in the School of Engineering Machine Shop so that students can make and assemble their capstone senior design project and to fabricate equipment to support research. Students taking this course will be assigned a grade of S (satisfactory) or U (unsatisfactory).",
+    "credits": "0",
+    "requirement_description": "To enroll in the course students must be engaged in their capstone senior desing project or in research.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

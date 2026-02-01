@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 5331",
+    "dept_code": "PHIL",
+    "id_number": "5331",
+    "title": "Seminar in Philosophy of Mind",
+    "description": "A critical study of recent treatments of the problem of mind. Issues such as the mind-body problem, our knowledge of the existence of other minds, the existence of private languages, will be dealt with in detail. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Philosophy, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

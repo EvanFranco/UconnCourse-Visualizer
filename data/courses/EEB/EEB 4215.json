@@ -1,0 +1,16 @@
+{
+    "name": "EEB 4215",
+    "dept_code": "EEB",
+    "id_number": "4215",
+    "title": "Physiological Ecology of Animals",
+    "description": "Physiology of animals in an evolutionary context: how individuals cope and how species adapt to natural environments.  Lectures, student-led presentations, and critical discussions of current journal articles.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107 and 1108.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

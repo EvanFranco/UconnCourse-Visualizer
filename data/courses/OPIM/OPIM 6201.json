@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 6201",
+    "dept_code": "OPIM",
+    "id_number": "6201",
+    "title": "Research Methods for Operations and Information Management",
+    "description": "Several advanced analytical methods that are relevant to students' areas of research will be studied in depth in this seminar. Topics may include special mathematical programming; complex decision making; linear models; advanced statistical analysis; and stochastic processes. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5378",
+    "dept_code": "MEDS",
+    "id_number": "5378",
+    "title": "Computational Neuroscience",
+    "description": "Students study the function of single neurons and neural systems by the use of simulations on a computer. Combines lectures and classroom discussions with conducting computer simulations. The simulations will include exercises and a term project. Each student will complete a term project of neural simulation to be developed during the second half of the semester. The topic of the term project should be approved by the instructors by the middle of the semester. The grade will be based on the exercises and the term project. Course includes: analysis of electrical circuits modeling neuronal cell membrane and the related differential equations; the Hodgkin-Huxley model of voltage- and time-dependent sodium and potassium conductances in the squid axon; voltage-clamp and current-clamp; the relationship between two rate constants versus the steady-state value and time constant underlying each conductance; neuronal response properties that are related to voltage-dependent and calcium-dependent ion channels; single- and multi-compartment models with ionic conductances simulating specific neuronal response properties described in the literature; excitatory and inhibitory postsynaptic currents and underlying ligand-gated ion channels; dendritic electrotonus and synaptic integration; temporal and spatial interactions of synaptic inputs to the dendritic tree and the cell body; action potential propagation in axons; neural circuits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

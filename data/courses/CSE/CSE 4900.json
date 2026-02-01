@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4900",
+    "dept_code": "CSE",
+    "id_number": "4900",
+    "title": "Independent Design Laboratory",
+    "description": "Experimental design project undertaken by the student by special arrangement with a faculty member of the Department of Computer Science and Engineering. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "CSE 2102; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

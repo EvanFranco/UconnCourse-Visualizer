@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 4010",
+    "dept_code": "EDCI",
+    "id_number": "4010",
+    "title": "Teaching Reading and Writing in the Content Areas",
+    "description": "A study of the role of reading and writing in the learning of the content areas taught in secondary schools.",
+    "credits": "2",
+    "requirement_description": "Open only to students in the Integrated Bachelor's/Master's Teacher Preparation Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

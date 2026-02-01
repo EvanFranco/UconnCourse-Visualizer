@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3417",
+    "dept_code": "MCB",
+    "id_number": "3417",
+    "title": "The Molecular Genetics of Inherited Human Disease",
+    "description": "An overview of the genetic basis for inherited human disease and how changes in protein structure due to mutations produce disease phenotypes.",
+    "credits": "2",
+    "requirement_description": "MCB 2400 or 2410. Recommended preparation: MCB 2000.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

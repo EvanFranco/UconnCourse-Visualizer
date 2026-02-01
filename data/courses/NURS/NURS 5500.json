@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5500",
+    "dept_code": "NURS",
+    "id_number": "5500",
+    "title": "Advanced Diagnosis for APN Practice",
+    "description": "Grounded in theory and evidence, this didactic course focuses on application of critical thinking skills necessary to achieve advanced practice nursing core competencies and domains. The emphasis is on developing differential diagnosis skills, assessment, and management of common and chronic health problems. Students will also be introduced to developing differential diagnosis utilizing imaging technologies and laboratory data,  including but not limited to radiographs, CT imaging, laboratory values and other pertinent diagnostic testing.",
+    "credits": "3",
+    "requirement_description": "NURS 5060, 5590, 5562; open only to graduate students in the Adult Gerontology Acute Care Nurse Practitioner concentration. Corequisite: NURS 5550, NURS 5559.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

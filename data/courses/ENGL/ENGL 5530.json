@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 5530",
+    "dept_code": "ENGL",
+    "id_number": "5530",
+    "title": "World Literature in English",
+    "description": "Selected works of colonial and post-colonial literature from Africa, South Asia, the Caribbean, Australia, New Zealand, Canada, etc.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

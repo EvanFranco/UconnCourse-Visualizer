@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5570",
+    "dept_code": "PSYC",
+    "id_number": "5570",
+    "title": "Current Topics in Cognitive Science",
+    "description": "Special topics in cognitive systems theory are reviewed with particular emphasis on techniques for the intrinsic measurement of systems behavior including information processing capacities and goal achievements. Students are required to apply the techniques discussed to an ongoing research topic of their own choosing. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

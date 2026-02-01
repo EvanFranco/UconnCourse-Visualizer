@@ -1,0 +1,23 @@
+{
+    "name": "ARAB 1741",
+    "dept_code": "ARAB",
+    "id_number": "1741",
+    "title": "Arabic Songs and Lyrics",
+    "description": "Study of 20th- and 21st-century Arab culture through exploration of songs, lyrics, music, and poetry. No background in music or Arabic language required. Taught in English.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

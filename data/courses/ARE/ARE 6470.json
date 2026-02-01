@@ -1,0 +1,16 @@
+{
+    "name": "ARE 6470",
+    "dept_code": "ARE",
+    "id_number": "6470",
+    "title": "Applied Research in Environmental Economics",
+    "description": "Designed for second year PhD students. Develops a broad perspective on the literature concerning the frontier areas of contemporary environmental economics, with an emphasis on empirical strategies for establishing causal relationships. Topics include: valuation of environmental quality and assets, evaluations of both private and public solutions to environmental problems, trade and the environment, environmental economics in developing countries, economics of climate change, and economics of automobile industry. Students will develop critical thinking skills evaluating published studies and identifying gaps in methodology and knowledge for future research.",
+    "credits": "3",
+    "requirement_description": "ARE 5201 or ECON 5201 or ECON 6201; ARE 6311 or ECON 6310; ARE 6313 or ECON 6311.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

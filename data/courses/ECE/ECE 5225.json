@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5225",
+    "dept_code": "ECE",
+    "id_number": "5225",
+    "title": "Electron Device Design and Characterization",
+    "description": "Design and evaluation of micro/nano electronic devices using state-of-the-art computer simulation tools, experimental electrical characterization of semiconductor devices and overview of modern electronic devices such as high-performance MOSFETs, TFTs, solar cells, non-volatile memories, CCDs, thermoelectric power generators. The electronic device (such as nanometer scale field effect transistor) design project will involve use of Synopsys tools to simulate the fabrication process, device simulation and performance evaluation.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ECE 4211.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

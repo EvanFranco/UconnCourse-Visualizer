@@ -1,0 +1,16 @@
+{
+    "name": "BIOL 1195",
+    "dept_code": "BIOL",
+    "id_number": "1195",
+    "title": "Special Topics",
+    "description": "Credits, prerequisites and hours as determined by the Senate Curricula and Course Committee.  May be repeated for credit with a change in topic.",
+    "credits": "1-6",
+    "requirement_description": "Credits, prerequisites, and hours as determined by the Senate Curricula and Courses Committee.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

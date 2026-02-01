@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 2660",
+    "dept_code": "SOCI",
+    "id_number": "2660",
+    "title": "Sociology of Health",
+    "description": "Social factors related to health, illness, and health-care systems.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

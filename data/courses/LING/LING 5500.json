@@ -1,0 +1,16 @@
+{
+    "name": "LING 5500",
+    "dept_code": "LING",
+    "id_number": "5500",
+    "title": "Advanced Introduction to Syntax",
+    "description": "Concepts and tools of current syntactic theory. Syntactic features, lexical and functional categories, representation of phrase structure, argument structure, case, movement, locality. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

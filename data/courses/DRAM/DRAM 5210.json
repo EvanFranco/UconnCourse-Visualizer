@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5210",
+    "dept_code": "DRAM",
+    "id_number": "5210",
+    "title": "Properties Construction",
+    "description": "Fabrication of unusual stage properties and study of the application of experimental materials. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

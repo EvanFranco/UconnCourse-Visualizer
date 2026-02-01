@@ -1,0 +1,21 @@
+{
+    "name": "ARTH 3460",
+    "dept_code": "ARTH",
+    "id_number": "3460",
+    "title": "History of Photography: 1839 to World War I",
+    "description": "Topics in the history of photography from 1839 to World War I. CA 1.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

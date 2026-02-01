@@ -1,0 +1,23 @@
+{
+    "name": "NRE 1235E",
+    "dept_code": "NRE",
+    "id_number": "1235E",
+    "title": "Environmental Conservation",
+    "description": "Overview of the history of natural resource use and environmental conservation policy development from prehistoric to present times. Examination of the emergence of the 20th century conservation movement in North America and the transition to the environmental movement is used to highlight recurring environmental issue themes such as: private ownership vs. public trust doctrine; commercial trade in natural resources; development vs. protection; sustainability; and the role of society and governments in regulation. Through selected readings and case studies, students are challenged to begin development of their personal ethics regarding the development, conservation and protection of the environment. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

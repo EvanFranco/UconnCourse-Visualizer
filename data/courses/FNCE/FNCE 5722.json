@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5722",
+    "dept_code": "FNCE",
+    "id_number": "5722",
+    "title": "Algorithmic and High Frequency Trading",
+    "description": "Quantitative trading models implemented on computer systems for automatic execution. Examines popular trading strategies. Emphasizes hands-on experience; students will use Python to write, back test, and refine strategies. Focus on finance machines and automatic bots as essentials part of the current trading infrastructure in the U.S. market. Exposes students to the world of high frequency trading and market making. Intent is to be less theoretical but more practical so that students will experience firsthand some of the issues that high frequency trading system operators have.",
+    "credits": "3",
+    "requirement_description": "FNCE 5710. Open to MS in FinTech students, others with consent. Corequisite: OPIM 5512.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

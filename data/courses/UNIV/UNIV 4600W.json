@@ -1,0 +1,18 @@
+{
+    "name": "UNIV 4600W",
+    "dept_code": "UNIV",
+    "id_number": "4600W",
+    "title": "Capstone Course",
+    "description": "All students with an approved individualized major plan of study who are not earning a double major nor have another capstone course on their plan of study must register for this course during their last academic year. Students will integrate their interdisciplinary major through a capstone paper.",
+    "credits": "3",
+    "requirement_description": "Consent required by instructor and the Individualized Major Program Director; ENGL 1007 or 1010 or 1011; senior standing with an approved individualized major plan of study; and an approved placement, research or project.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

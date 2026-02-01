@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3710",
+    "dept_code": "MATH",
+    "id_number": "3710",
+    "title": "Introduction to Mathematical Modeling",
+    "description": "Theoretical and numerical analysis, using concepts from calculus, differential equations, linear algebra and discrete mathematics, applied to derive and analyze various mathematical models used in other disciplines.",
+    "credits": "3",
+    "requirement_description": "MATH 2144Q or MATH 2420Q; or MATH 2210Q and MATH 2410Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

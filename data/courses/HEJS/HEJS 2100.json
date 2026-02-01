@@ -1,0 +1,23 @@
+{
+    "name": "HEJS 2100",
+    "dept_code": "HEJS",
+    "id_number": "2100",
+    "title": "Antisemitism: Past and Present",
+    "description": "Consideration of Jews as a foil for western, particularly western Christian identities. The role that anti-Judaism and antisemitism have played in western culture from the ancient period to the present day. Representations of Jews, shifting and long-lasting fears and suspicions about Jews, and the impact of anti-Judaism and antisemitism on the development of conceptions of race and difference in western societies.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

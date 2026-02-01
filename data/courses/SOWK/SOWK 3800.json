@@ -1,0 +1,16 @@
+{
+    "name": "SOWK 3800",
+    "dept_code": "SOWK",
+    "id_number": "3800",
+    "title": "Practicum Seminar I",
+    "description": "Concurrent with their practicum placement, students attend practicum seminar. Focus on critical thinking and integrating practicum experiences with theories and evidence-based research, the development of professional identity, self-reflection, cultural competence, and identifying ethical issues.",
+    "credits": "3",
+    "requirement_description": "Open only to Bachelor of Social Work students. Corequisite: SOWK 3700.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

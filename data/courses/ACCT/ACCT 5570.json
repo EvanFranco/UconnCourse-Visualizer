@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5570",
+    "dept_code": "ACCT",
+    "id_number": "5570",
+    "title": "Taxation of Business Entities - Flow Through Entities",
+    "description": "Application of basic tax concepts to business entities, with particular emphasis on flow through entities. At the end of the course, students should be able to identify and address the tax issues faced when forming, operating, and liquidating a flow through entity. May be repeated for a total of 3 credits.",
+    "credits": "3",
+    "requirement_description": "Department consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

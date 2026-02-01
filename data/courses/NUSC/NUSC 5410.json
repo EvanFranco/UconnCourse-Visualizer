@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5410",
+    "dept_code": "NUSC",
+    "id_number": "5410",
+    "title": "Clinical Nutrition",
+    "description": "Application of principles of human nutrition, physiology, and biochemistry to progressive pathology of selected diseases and associated effects on nutritional status, nutritional needs, nutrient intake and utilization in the context of the nutrition care process.",
+    "credits": "3",
+    "requirement_description": "NUSC 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 3340",
+    "dept_code": "GEOG",
+    "id_number": "3340",
+    "title": "Environmental Planning and Management",
+    "description": "The basic elements of the conflict between human environments and natural systems are considered, along with the methods of analysis and resolution of problems caused by that conflict. Emphasis on public policy related to environmental issues.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher. Recommended preparation: GEOG 3410.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

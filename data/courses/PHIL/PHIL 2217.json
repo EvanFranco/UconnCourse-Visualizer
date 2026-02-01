@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 2217",
+    "dept_code": "PHIL",
+    "id_number": "2217",
+    "title": "Social and Political Philosophy",
+    "description": "Conceptual, ontological, and normative issues in political life and thought; political obligation; collective responsibility; justice; liberty; equality; community; the nature of rights; the nature of law; the justification of punishment; related doctrines of classic and contemporary theorists such as Plato, Rousseau, John Rawls.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

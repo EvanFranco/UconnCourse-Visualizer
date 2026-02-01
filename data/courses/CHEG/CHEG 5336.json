@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5336",
+    "dept_code": "CHEG",
+    "id_number": "5336",
+    "title": "Optimization",
+    "description": "Advanced topics in optimization such as linear and nonlinear programming, mixed-integer linear and nonlinear programming, deterministic and stochastic global optimization, and interval global optimization. Example applications drawn from engineering.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

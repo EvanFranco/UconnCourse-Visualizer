@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 2103",
+    "dept_code": "CHEG",
+    "id_number": "2103",
+    "title": "Introduction to Chemical Engineering",
+    "description": "Application of the principles of chemistry and physics to chemical processes; units, dimensions, and process variables; material balances; equations of state (ideal and real); single component equilibria; energy balances; non reactive and reactive processes; combined mass and energy balances.",
+    "credits": "3",
+    "requirement_description": "CHEM 1128, or CHEM 1125 and 1126; MATH 1132. Recommended preparation: CSE 1010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

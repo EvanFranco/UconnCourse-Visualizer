@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3435",
+    "dept_code": "MATH",
+    "id_number": "3435",
+    "title": "Partial Differential Equations",
+    "description": "Solution of first and second order partial differential equations with applications to engineering and the sciences.",
+    "credits": "3",
+    "requirement_description": "MATH 2110Q and one of MATH 2410Q or 2420Q or 2144Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

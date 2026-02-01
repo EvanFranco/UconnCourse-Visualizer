@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3270",
+    "dept_code": "PNB",
+    "id_number": "3270",
+    "title": "Molecular Endocrinology",
+    "description": "Molecular mechanism(s) of hormone action in vertebrates and invertebrates. Molecular and genetic characterization of hormones, receptors, and signal transduction, and hormone actions at the molecular, cellular, and organismal levels. Includes student presentations on selected papers.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107; open to juniors or higher. Recommended preparation: PNB 3262.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

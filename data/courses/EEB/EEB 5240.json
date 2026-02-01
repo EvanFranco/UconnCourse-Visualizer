@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5240",
+    "dept_code": "EEB",
+    "id_number": "5240",
+    "title": "Biology of Bryophytes and Lichens",
+    "description": "Diversity, evolution, ecology, development and taxonomy of the bryophytes (mosses, liverworts, and hornworts) and lichen-forming fungi.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

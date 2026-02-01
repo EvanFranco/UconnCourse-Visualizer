@@ -1,0 +1,16 @@
+{
+    "name": "HCMI 4250",
+    "dept_code": "HCMI",
+    "id_number": "4250",
+    "title": "Cost-Benefit Analysis for Healthcare Business and Policy",
+    "description": "This course provides students with cost-benefit analysis tools to enhance healthcare business and policy decision making. The following topics will be covered: methods to estimate the monetary equivalence of costs and benefits; interpretation of research findings; simulation methods to derive the aggregate effects of firm and policy interventions; time value of money and discounting; hypothesis testing; cost-effectiveness analysis; causal inference concepts to differentiate descriptive associations from cause-and-effect studies. In addition to course lectures, the instructor will present research articles providing credible input for business- and policy-level cost-benefit analysis.",
+    "credits": "3",
+    "requirement_description": "HCMI 3240; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

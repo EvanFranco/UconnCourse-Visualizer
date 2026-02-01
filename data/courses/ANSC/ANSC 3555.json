@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3555",
+    "dept_code": "ANSC",
+    "id_number": "3555",
+    "title": "Equine Rehabilitation Seminar",
+    "description": "Different modes of therapy, business topics, and management skills related to the equine rehabilitation field.",
+    "credits": "1",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

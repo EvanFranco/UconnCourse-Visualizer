@@ -1,0 +1,18 @@
+{
+    "name": "STAT 3025Q",
+    "dept_code": "STAT",
+    "id_number": "3025Q",
+    "title": "Statistical Methods",
+    "description": "Basic probability distributions, point and interval estimation, tests of hypotheses, correlation and regression, analysis of variance, experimental design, non-parametric procedures.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q or 1152Q; students may not receive more than three credits from STAT 3025 and 3345. May not be taken out of sequence after passing STAT 4190 or STAT 4625.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

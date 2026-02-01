@@ -1,0 +1,16 @@
+{
+    "name": "ME 2016",
+    "dept_code": "ME",
+    "id_number": "2016",
+    "title": "Introduction to Computational Fluid Dynamics",
+    "description": "Basic operation of Computational Fluid Dynamics software. Emphasis on evaluation and analysis of the solutions in the context of practical problems.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

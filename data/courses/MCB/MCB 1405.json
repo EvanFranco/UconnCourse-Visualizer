@@ -1,0 +1,20 @@
+{
+    "name": "MCB 1405",
+    "dept_code": "MCB",
+    "id_number": "1405",
+    "title": "Honors Core: The Genetics Revolution in Contemporary Culture",
+    "description": "Exploration of the use of genetics concepts in popular culture. Topics include genetic analysis, genetic engineering, cloning and DNA forensics as represented in media including news, film, literature and art. Discussion includes influence on society, attitudes towards science, domestic and foreign policy as well as medical practice and law. CA 3.",
+    "credits": "3",
+    "requirement_description": "Open only to freshmen and sophomores in the Honors Program.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

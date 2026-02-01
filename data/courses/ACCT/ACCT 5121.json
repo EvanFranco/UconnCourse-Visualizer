@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5121",
+    "dept_code": "ACCT",
+    "id_number": "5121",
+    "title": "Financial Accounting and Reporting",
+    "description": "The class introduces the financial reporting of public firms in the United States. It covers the basic economic concepts of assets, liabilities, stockholder\u2019s equity, revenues, and expenses used to organize information into a standard set of financial statements. The focus is on accounting conventions, managerial judgments, and the resulting reporting prepared for external users such as stockholders and creditors. The class also explores the institutional context in which financial reports are produced.",
+    "credits": "3",
+    "requirement_description": "Open only to MBA students, others with permission. Not open to students who have passed ACCT 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

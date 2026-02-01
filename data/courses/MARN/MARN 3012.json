@@ -1,0 +1,16 @@
+{
+    "name": "MARN 3012",
+    "dept_code": "MARN",
+    "id_number": "3012",
+    "title": "Marine Invertebrate Biology",
+    "description": "Comparative examination of major adaptations and functional responses of marine invertebrates to biotic and abiotic factors in the marine environment. Field trips required.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107 and 1108. Recommended preparation: MARN 1002 or 1003 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

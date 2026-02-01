@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 4701",
+    "dept_code": "DRAM",
+    "id_number": "4701",
+    "title": "Acting V",
+    "description": "The study and practice of techniques associated with acting classical/poetic theatrical works, including, but not limited to Greek and Elizabethan comedies and dramas.",
+    "credits": "3",
+    "requirement_description": "DRAM 2702; open only to Dramatic Arts/Acting majors; cannot be taken for credit after passing DRAM 4702.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

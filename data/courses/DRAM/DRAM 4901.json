@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 4901",
+    "dept_code": "DRAM",
+    "id_number": "4901",
+    "title": "Senior Project",
+    "description": "A capstone project designed to integrate skills and knowledge learned throughout the completion of the degree.",
+    "credits": "1-3",
+    "requirement_description": "Open only to senior Bachelor of Arts Theatre Studies majors, instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

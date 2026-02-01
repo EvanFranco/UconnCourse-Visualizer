@@ -1,0 +1,16 @@
+{
+    "name": "MSE 4034",
+    "dept_code": "MSE",
+    "id_number": "4034",
+    "title": "Corrosion and Materials Protection",
+    "description": "Corrosion and materials protection designed for engineering students. Principles of materials degradation, extensive case histories and practical applications. Selection of metals, alloys, ceramics and polymers for atmospheric, soil, marine and chemical environments. Evaluation methods, protective measures and the techniques of failure analysis.",
+    "credits": "3",
+    "requirement_description": "MSE 2001 or 2101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

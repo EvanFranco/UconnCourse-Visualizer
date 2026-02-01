@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 3602",
+    "dept_code": "OPIM",
+    "id_number": "3602",
+    "title": "Supply Chain Logistics",
+    "description": "(Also offered as BADM\u00a03602.) This course will introduce students to supply chain logistics that manages movement and storage of goods, services, and related information from source to destination along the supply chain. Topics include distribution network design, supply/demand planning, inventory management, transportation planning, warehouse operations. Students will learn quantitative methods and analytics tools and apply them to various decisions in supply chain logistics.",
+    "credits": "3",
+    "requirement_description": "STAT 1000Q or STAT 1100Q or equivalent; open only to business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

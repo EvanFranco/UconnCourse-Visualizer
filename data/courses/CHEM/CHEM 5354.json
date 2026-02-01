@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5354",
+    "dept_code": "CHEM",
+    "id_number": "5354",
+    "title": "Molecular Modeling",
+    "description": "Current topics in molecular simulations and modeling with hands-on computational experiments: molecular mechanics and its implementation via molecular dynamics, modeling of ligand-protein interactions, free energy calculations, molecular orbital theory, ab initio and density functional theory methods, quantum mechanics/molecular mechanics, and computational chemistry software.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

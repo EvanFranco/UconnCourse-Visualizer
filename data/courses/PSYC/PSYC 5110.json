@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5110",
+    "dept_code": "PSYC",
+    "id_number": "5110",
+    "title": "First Year Proseminar",
+    "description": "The departmental proseminar course, designed specifically for all incoming graduate students, includes faculty presentations from each program, departmental poster night, colloquiums, and a skill set presentation.",
+    "credits": "1",
+    "requirement_description": "Not open for credit to students who have passed PSYC 5170 when offered as Departmental Proseminar.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

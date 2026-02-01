@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5061",
+    "dept_code": "MARN",
+    "id_number": "5061",
+    "title": "Advanced Dynamical Oceanography",
+    "description": "Ocean thermodynamics; dynamics of rotating; homogeneous fluids; ocean circulation; western boundary currents; the thermocline, oceanic fronts.",
+    "credits": "3",
+    "requirement_description": "MARN 5060.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

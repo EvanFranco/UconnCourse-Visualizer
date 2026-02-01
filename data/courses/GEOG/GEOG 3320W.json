@@ -1,0 +1,18 @@
+{
+    "name": "GEOG 3320W",
+    "dept_code": "GEOG",
+    "id_number": "3320W",
+    "title": "Environmental Evaluation and Assessment",
+    "description": "Concepts and methods of environmental analysis in contemporary geography. Emphasis on the ecological impact of human activities and on the evaluation and assessment of existing and future environments.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher. Recommended preparation: GEOG 2300 or 3410.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

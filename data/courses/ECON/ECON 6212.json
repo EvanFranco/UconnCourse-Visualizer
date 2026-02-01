@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6212",
+    "dept_code": "ECON",
+    "id_number": "6212",
+    "title": "Macroeconomic Theory II",
+    "description": "Stochastic modeling, recent developments in the literature, and policy applications. Topics may include real business cycle theory, new classical economics, neo-Keynesian theory and growth models.",
+    "credits": "3",
+    "requirement_description": "A grade of B- or better in ECON 6202.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

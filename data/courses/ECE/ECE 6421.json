@@ -1,0 +1,16 @@
+{
+    "name": "ECE 6421",
+    "dept_code": "ECE",
+    "id_number": "6421",
+    "title": "Advanced VLSI Design",
+    "description": "Advanced concepts of circuit design for digital VLSI components in state of the art MOS technologies. Emphasis is on the circuit design, optimization, RTL design, synthesis, and layout of either very high speed, high density or low power circuits and systems for use in applications such as micro-processors, signal and multimedia processors, memory and periphery. Other topics include challenges facing digital circuit designers today and in the coming decade, such as the impact of scaling, deep submicron effects, interconnect, signal integrity, power distribution and consumption, and timing.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ECE 3421 and ECE 3302 (or equivalent).",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

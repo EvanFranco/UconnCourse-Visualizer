@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3003",
+    "dept_code": "ANTH",
+    "id_number": "3003",
+    "title": "Field Research in Social Settings",
+    "description": "Methods and techniques of field research in social settings, including observational procedures, interviewing, and the construction and use of questionnaires.",
+    "credits": "3",
+    "requirement_description": "ANTH 1000 or 1006.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

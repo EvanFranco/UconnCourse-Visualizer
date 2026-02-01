@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3550",
+    "dept_code": "CSE",
+    "id_number": "3550",
+    "title": "Blockchain Technology",
+    "description": "Introduction to the basics of blockchain technology from a technical/systems security lens. The course will cover the semantics of blockchains, popular examples of cryptocurrencies, types of blockchains and consensus algorithms, threat modeling of blockchain-based systems, formal security notions of consensus and ledgers, privacy and anonymity of payments and smart contracts, the paradigm of blockchain-based distributed services, and some ethical issues with respect to deployments in practice.",
+    "credits": "3",
+    "requirement_description": "CSE 3400; open only to students in the College of Engineering or declared Computer Science minors. Recommended preparation: CSE 3140. Not open for credit to students who have passed CSE 2550.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

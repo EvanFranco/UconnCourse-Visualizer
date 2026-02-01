@@ -1,0 +1,16 @@
+{
+    "name": "CE 3520",
+    "dept_code": "CE",
+    "id_number": "3520",
+    "title": "Civil Engineering Materials Laboratory",
+    "description": "Engineering properties of steel, Sieve and Hydrometer analysis, properties and performance of soil, Portland cement concrete, Bituminous cement concrete, and timber; laboratory measurement of properties; interpretation of results. Written reports.",
+    "credits": "3",
+    "requirement_description": "CE 3110 and CE 3510, which may be taken concurrently; enrollment in School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

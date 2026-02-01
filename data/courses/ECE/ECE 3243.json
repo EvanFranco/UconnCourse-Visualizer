@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3243",
+    "dept_code": "ECE",
+    "id_number": "3243",
+    "title": "Introduction to Nanotechnology",
+    "description": "Basic concepts of nanoscience; new physical properties at these scales (~1-100 nm); different approaches to fabricate, image, characterize and manipulate nanostructures and nanodevices; current and potential applications in areas as diverse as electronics, health and energy; societal impacts of nanotechnology.",
+    "credits": "3",
+    "requirement_description": "Open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

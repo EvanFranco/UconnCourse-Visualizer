@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 3111",
+    "dept_code": "ENVE",
+    "id_number": "3111",
+    "title": "Brownfield Practicum",
+    "description": "This is a service learning course in which students will work with Connecticut communities to assist them with the process of investigating, cleaning up and putting back into use abandoned sites with suspected contamination, also known as brownfields.",
+    "credits": "3",
+    "requirement_description": "ENVE 3110E or ENVS 3110E or EVST 3110E.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

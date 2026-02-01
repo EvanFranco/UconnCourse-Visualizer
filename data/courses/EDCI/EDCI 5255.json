@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5255",
+    "dept_code": "EDCI",
+    "id_number": "5255",
+    "title": "Teaching Composition (7-12)",
+    "description": "A study of composition theory, with an emphasis on implications for the teaching of writing and research on the teaching of writing.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3793",
+    "dept_code": "MATH",
+    "id_number": "3793",
+    "title": "Foreign Study",
+    "description": "May be repeated for credit (to a maximum of 15 for MATH\u00a01793 and 3793 together). Consent of the Department Head or Undergraduate Coordinator required, normally before the student's departure. May count toward the major with consent of the Advisor and either the Department Head or Undergraduate Coordinator. May be repeated for a total of 15 credits.",
+    "credits": "1-15",
+    "requirement_description": "May be repeated for credit to a maximum of 15 for MATH 1793, MATH 2793, and MATH 3793 together.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

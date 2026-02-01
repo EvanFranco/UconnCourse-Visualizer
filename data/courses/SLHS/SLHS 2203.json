@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 2203",
+    "dept_code": "SLHS",
+    "id_number": "2203",
+    "title": "Anatomy and Physiology of Speech, Hearing, and Swallowing",
+    "description": "Anatomical, neurological and physiological principles fundamental to the understanding of speech, hearing, and swallowing.",
+    "credits": "3",
+    "requirement_description": "Open to soph or higher. No open for credit for students who have passed SLHS 3247.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

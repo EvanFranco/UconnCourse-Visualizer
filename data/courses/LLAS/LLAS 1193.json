@@ -1,0 +1,16 @@
+{
+    "name": "LLAS 1193",
+    "dept_code": "LLAS",
+    "id_number": "1193",
+    "title": "Foreign Study",
+    "description": "Course work undertaken within approved Study Abroad programs, usually focusing on the history, culture, and society of a particular Latin American or Carribean country or countries. Consent of Director of Latin American and Caribbean Studies required before departure. May be repeated for a total of 15 credits.",
+    "credits": "1-15",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

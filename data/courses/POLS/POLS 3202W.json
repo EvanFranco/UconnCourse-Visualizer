@@ -1,0 +1,18 @@
+{
+    "name": "POLS 3202W",
+    "dept_code": "POLS",
+    "id_number": "3202W",
+    "title": "Comparative Political Parties and Electoral Systems",
+    "description": "A focus on political party and electoral systems around the world, including advanced industrial nations, transitional nations, and less developed nations. Issues such as the relationship between electoral and party systems, democratic reform, voting behavior, and organization of political parties are examined.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

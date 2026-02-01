@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5630",
+    "dept_code": "MATH",
+    "id_number": "5630",
+    "title": "Long-Term Actuarial Mathematics I",
+    "description": "Long-term insurance products, survival and longevity models, life tables, life insurance, life annuities, premium calculations, reserves.",
+    "credits": "4",
+    "requirement_description": "MATH 2620 or MATH 5620, which may be taken concurrently. Not open to students who have passed MATH 3630.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

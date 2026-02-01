@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5293",
+    "dept_code": "PHAR",
+    "id_number": "5293",
+    "title": "Seminar in Pharmaceutics",
+    "description": "Reports and discussions. May be repeated for a total of 4 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

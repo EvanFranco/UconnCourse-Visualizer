@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 1172",
+    "dept_code": "CAMS",
+    "id_number": "1172",
+    "title": "Intensive Intermediate Ancient Greek",
+    "description": "Transition to classical Greek through selections from Xenophon, reading of Plato's Apology complete.",
+    "credits": "4",
+    "requirement_description": "CAMS 1171. Not open to students who have had three or more years of high school Greek. May not be taken out of sequence after passing CAMS 3101.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

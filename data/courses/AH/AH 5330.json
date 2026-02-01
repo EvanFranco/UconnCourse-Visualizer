@@ -1,0 +1,21 @@
+{
+    "name": "AH 5330",
+    "dept_code": "AH",
+    "id_number": "5330",
+    "title": "Italy's Mediterranean Food and Our Health",
+    "description": "Production and processing of the characteristic foods of Italy. Summary of the Italian Mediterranean diet: definitions, culture, history, food consumption patterns, nutrient composition and potential health benefits. Emphasis on the difference in diet between Italians and Americans in relation to the health differences between the two populations. May not be counted toward the Allied Health Sciences major's group A or science elective requirements. Taught concurrently with AH\u00a02330. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Open to NUSC and DIET majors, others by consent of instructor. Not open for credit if previously passed AH 2330.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

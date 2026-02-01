@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4095",
+    "dept_code": "CSE",
+    "id_number": "4095",
+    "title": "Special Topics in Computer Science and Engineering",
+    "description": "Classroom course in special topics as announced in advance for each semester. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Prerequisites and recommended preparation vary. Open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

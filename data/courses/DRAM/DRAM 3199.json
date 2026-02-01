@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 3199",
+    "dept_code": "DRAM",
+    "id_number": "3199",
+    "title": "Independent Study",
+    "description": "A reading or project course under the direction of an appropriate staff member. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open to sophomores or higher; open only with consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

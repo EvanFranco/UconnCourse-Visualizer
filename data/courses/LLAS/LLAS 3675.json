@@ -1,0 +1,22 @@
+{
+    "name": "LLAS 3675",
+    "dept_code": "LLAS",
+    "id_number": "3675",
+    "title": "Latina History and Biography",
+    "description": "(Also offered as HIST\u00a03675, WGSS\u00a03675.) Examination of the history of Latinas in the US with a focus on women, gender, and sexuality. Students will consider how historians use oral histories, life histories, memoirs, biographies, and testimonials as sources to restore Latinas to histories from which they were previously omitted. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

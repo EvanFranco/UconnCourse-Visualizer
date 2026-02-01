@@ -1,0 +1,22 @@
+{
+    "name": "PHYS 1030Q",
+    "dept_code": "PHYS",
+    "id_number": "1030Q",
+    "title": "Physics of the Environment",
+    "description": "Concepts of physics applied to current problems of the physical environment: energy, transportation, pollution. No previous knowledge of physics is assumed. Not applicable to any requirement that specifies a course in \"general physics.\" CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

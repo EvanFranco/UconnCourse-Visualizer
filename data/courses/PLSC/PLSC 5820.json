@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 5820",
+    "dept_code": "PLSC",
+    "id_number": "5820",
+    "title": "Ecology and Control of Weeds",
+    "description": "Weed identification. Weed origin and classification. Losses caused by weeds. Weed competition. Weed seed production, dormancy, and germination. Weed growth and development. Weed biology and life cycles. Cultural, mechanical, and biological weed control methods based on ecological principles. Overview of chemical weed control practices and associated environmental and ecological risks.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed PLSC 3820.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

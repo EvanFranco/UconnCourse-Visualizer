@@ -1,0 +1,16 @@
+{
+    "name": "SAAG 693",
+    "dept_code": "SAAG",
+    "id_number": "693",
+    "title": "Foreign Study",
+    "description": "Courses taken in agriculture, natural resources, and related areas as part of approved Education Abroad programs. Credits and topics must be approved by department head and director of Ratcliffe Hicks School of Agriculture. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

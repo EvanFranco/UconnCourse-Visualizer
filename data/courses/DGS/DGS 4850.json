@@ -1,0 +1,16 @@
+{
+    "name": "DGS 4850",
+    "dept_code": "DGS",
+    "id_number": "4850",
+    "title": "Investigative Topics in Laboratory Genetics",
+    "description": "Exploration of an area of individual interest in laboratory or clinical genetics.",
+    "credits": "1",
+    "requirement_description": "A grade of \"C\" or better in DGS 4234 or 4234W, 4235, and 4236; open only to Diagnostic Genetic Sciences majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

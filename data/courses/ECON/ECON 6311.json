@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6311",
+    "dept_code": "ECON",
+    "id_number": "6311",
+    "title": "Econometrics II",
+    "description": "Large sample linear regression, time series analysis, maximum likelihood, GMM, and qualitative choice models.",
+    "credits": "3",
+    "requirement_description": "ECON 6310.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

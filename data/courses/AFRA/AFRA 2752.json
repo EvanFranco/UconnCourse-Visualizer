@@ -1,0 +1,23 @@
+{
+    "name": "AFRA 2752",
+    "dept_code": "AFRA",
+    "id_number": "2752",
+    "title": "Africa in Global History",
+    "description": "(Also offered as HIST\u00a02752.) Broad historical survey of civilizations in Africa, including origins of human life in Africa, economic livelihoods, socio-economic and political structures, state formation, trade, commerce, urbanization, and indigenous systems of belief and world religions. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

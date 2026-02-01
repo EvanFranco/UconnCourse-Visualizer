@@ -1,0 +1,21 @@
+{
+    "name": "URBN 1600",
+    "dept_code": "URBN",
+    "id_number": "1600",
+    "title": "Cities of Imagination",
+    "description": "Introduction to planned cities. Topics may include concepts in urban planning, past and present planned cities, considerations of ethics and inclusion in planning. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

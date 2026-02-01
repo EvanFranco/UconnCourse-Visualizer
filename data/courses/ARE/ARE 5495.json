@@ -1,0 +1,16 @@
+{
+    "name": "ARE 5495",
+    "dept_code": "ARE",
+    "id_number": "5495",
+    "title": "Special Topics",
+    "description": "Topics and credits to be published prior to the registration period preceding the semester offerings. May be repeated for a total of 12 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BADM 3402",
+    "dept_code": "BADM",
+    "id_number": "3402",
+    "title": "Mobile Application Development",
+    "description": "(Also offered as OPIM\u00a03402.) This course will show students how to develop cross-platform mobile applications for both iOS and Android systems. Students will learn how to plan and create their own mobile applications. Graphical User Interface (GUI) design skills as well as programming logics will be taught and emphasized throughout the course. Upon completion of this course, students should be able to use the programming skills they learn to develop user-friendly mobile apps for both iPhones and Android devices. Formerly offered as OPIM 3224.",
+    "credits": "3",
+    "requirement_description": "Open only to non-business majors of junior or higher status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

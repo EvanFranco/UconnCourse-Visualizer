@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5801",
+    "dept_code": "MCB",
+    "id_number": "5801",
+    "title": "Scientific Writing and Project Development for MCB Graduate Students",
+    "description": "Instruction in the practice of scientific writing through group discussions and peer review during preparation of an application to the NSF Graduate Research Fellowship Program. Group discussions in related aspects of graduate student project development.",
+    "credits": "2",
+    "requirement_description": "Open only to Molecular and Cell Biology Ph.D. students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

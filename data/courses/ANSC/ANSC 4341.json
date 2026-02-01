@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 4341",
+    "dept_code": "ANSC",
+    "id_number": "4341",
+    "title": "Food Microbiology and Safety",
+    "description": "Current topics in food safety will be discussed, with special emphasis on microbial and chemical contamination of food. Specific topics including the safety of natural versus synthetic chemicals, food additives, irradiation and other practices, basic microbiology and toxicology, current regulatory practices and risk assessment will also be included. The Hazard Analysis Critical Control Points (HACCP) approach to food safety will be discussed.",
+    "credits": "3",
+    "requirement_description": "Biology 1107; open to junior or higher. Recommended preparation: A one semester course in organic chemistry.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

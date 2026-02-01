@@ -1,0 +1,18 @@
+{
+    "name": "MCB 3844W",
+    "dept_code": "MCB",
+    "id_number": "3844W",
+    "title": "Microbiology and the Media",
+    "description": "Analysis and comparison of how contemporary microbiological topics such as food-borne diseases and influenza outbreaks are represented in the scientific literature and in popular media.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; at least two MCB courses at the 2000 level or above; open only to Molecular and Cell Biology and Biological Sciences majors; others by permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

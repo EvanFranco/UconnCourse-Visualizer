@@ -1,0 +1,18 @@
+{
+    "name": "MCB 3849W",
+    "dept_code": "MCB",
+    "id_number": "3849W",
+    "title": "Symbiosis: The Science of Living Together",
+    "description": "All animals and plants enter into lifelong associations with beneficial microorganisms that have a profound impact on host development and health. Readings from the scientific literature will explore the molecular mechanisms by which these complex associations are established and maintained in various model systems.",
+    "credits": "3",
+    "requirement_description": "MCB 2610 and ENGL 1007 or 1010 or 1011. Recommended preparation: any additional 2000-level MCB course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

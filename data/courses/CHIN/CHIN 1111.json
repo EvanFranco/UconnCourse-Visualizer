@@ -1,0 +1,16 @@
+{
+    "name": "CHIN 1111",
+    "dept_code": "CHIN",
+    "id_number": "1111",
+    "title": "Elementary Chinese I",
+    "description": "Development of ability to communicate in Chinese, orally and in writing.",
+    "credits": "4",
+    "requirement_description": "Not open to students with three or more years of Chinese in high school; students with prior studies should contact the instructor or the program coordinator prior to registration. Cannot be taken for credit after passing CHIN 1101, 1112, 1113, or 1114.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

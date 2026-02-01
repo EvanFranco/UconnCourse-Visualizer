@@ -1,0 +1,16 @@
+{
+    "name": "BUSN 4896",
+    "dept_code": "BUSN",
+    "id_number": "4896",
+    "title": "Business Research Methods",
+    "description": "This course equips students with the skills to develop and undertake an honors research project. It provides the theoretical and practical preparation for business research, covering how to do library research in all business subjects; create a literature review, use qualitative and quantitative methods, developing a research proposal, and ethical implications of research.",
+    "credits": "3",
+    "requirement_description": "Open to Juniors or higher; open only to Honors Students with consent of Honors Advisor; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

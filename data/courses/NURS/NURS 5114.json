@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5114",
+    "dept_code": "NURS",
+    "id_number": "5114",
+    "title": "Health Care Innovation Development",
+    "description": "In this course, students will need to identify a problem in the healthcare industry and propose a solution to that problem. Through the course of the semester, the student will have weekly instruction on essential steps necessary to take an idea through to solution development. The capstone project will serve as the culmination of what the students have learned through the program and provide evidence of their competence to take the theories, concepts and applications into their daily practice.",
+    "credits": "3",
+    "requirement_description": "NURS 5111, NURS 5112, and NURS 5113 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

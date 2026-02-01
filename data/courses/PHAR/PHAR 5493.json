@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5493",
+    "dept_code": "PHAR",
+    "id_number": "5493",
+    "title": "Seminar in Pharmacology and Toxicology",
+    "description": "Reports and discussions on journal and review articles and presentation of personal research results. May be repeated for a total of 2 credits.",
+    "credits": "1",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

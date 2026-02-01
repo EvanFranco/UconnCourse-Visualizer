@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5620",
+    "dept_code": "PSYC",
+    "id_number": "5620",
+    "title": "Design and Analysis of Human-Machine Systems",
+    "description": "The basis, in theories of perception and learning, for design of complex human-machine systems.",
+    "credits": "3",
+    "requirement_description": "PSYC 5615.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,25 @@
+{
+    "name": "HRTS 2100W",
+    "dept_code": "HRTS",
+    "id_number": "2100W",
+    "title": "Human Rights and Social Change",
+    "description": "Interdisciplinary exploration of the dynamic intersection between human rights and struggles for social change in a variety of contexts. Emphasis on how history, theory, and practice influence the power dynamics that promote or undermine human rights through social change. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

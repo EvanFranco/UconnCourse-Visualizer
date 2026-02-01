@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5545",
+    "dept_code": "DMD",
+    "id_number": "5545",
+    "title": "Advanced Game Scripting",
+    "description": "Students will be challenged to master gameplay scripting within a commercial game engine. Students gain foundational knowledge on how to develop artificial intelligence models, rendering, and networking for games.",
+    "credits": "3",
+    "requirement_description": "DMD 5542 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

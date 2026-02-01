@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5200",
+    "dept_code": "MARN",
+    "id_number": "5200",
+    "title": "Oceanographic Data Analysis",
+    "description": "Programming, data input/output, and graphing with advanced scientific analysis software. Analysis of temporal and spatial patterns in oceanographic datasets using multivariate regression, harmonic analysis, Fourier and wavelet transforms, empirical orthogonal functions, and three-dimensional mapping.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

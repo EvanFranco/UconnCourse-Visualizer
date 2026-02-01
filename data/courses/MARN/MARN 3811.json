@@ -1,0 +1,16 @@
+{
+    "name": "MARN 3811",
+    "dept_code": "MARN",
+    "id_number": "3811",
+    "title": "Seminar on Marine Mammals",
+    "description": "Instructors from different areas of expertise discuss the natural history, evolution, anatomy, physiology, husbandry, and conservation of marine mammals. Current research is emphasized. (Special registration: Contact Mystic Aquarium, Mystic, CT 06355. 860-572-5955.)",
+    "credits": "3",
+    "requirement_description": "One year college laboratory biology. Offered at the Mystic Aquarium.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

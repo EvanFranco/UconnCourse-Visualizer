@@ -1,0 +1,22 @@
+{
+    "name": "WGSS 3255",
+    "dept_code": "WGSS",
+    "id_number": "3255",
+    "title": "Sexual Citizenship",
+    "description": "Sexuality as a significant axis of citizenship. How sexual citizenship differs in national, historical, and international contexts. How its different constructions influence such issues as welfare, adoption, marriage, and immigration. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

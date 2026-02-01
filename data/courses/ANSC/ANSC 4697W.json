@@ -1,0 +1,18 @@
+{
+    "name": "ANSC 4697W",
+    "dept_code": "ANSC",
+    "id_number": "4697W",
+    "title": "Undergraduate Honors Thesis Writing in Animal Science",
+    "description": "Writing of a formal thesis based on independent research conducted by the student. Thesis proposal and final thesis must follow guidelines developed by the department.",
+    "credits": "1",
+    "requirement_description": "Three credits of ANSC 2699 or 5692, which may be taken concurrently; ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

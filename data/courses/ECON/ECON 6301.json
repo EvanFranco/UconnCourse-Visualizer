@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6301",
+    "dept_code": "ECON",
+    "id_number": "6301",
+    "title": "Advanced Mathematical Economics I",
+    "description": "An introduction to advanced mathematical topics with applications to economics.  Topics and applications may include set theory, logic, topology, difference and differential equations, game theory, preference theory and matching models.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

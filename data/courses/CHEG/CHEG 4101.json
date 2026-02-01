@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4101",
+    "dept_code": "CHEG",
+    "id_number": "4101",
+    "title": "Chemical Engineering Professional Skills III",
+    "description": "This course will focus on building the professional skills necessary to succeed in chemical engineering industry. The course will cover written and oral technical communication skills and the skills necessary to work on diverse and inclusive teams. The complexity of these skills will build over CHEG\u00a02201, 3201, and 4101.",
+    "credits": "1",
+    "requirement_description": "CHEG 3201 and 3151.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

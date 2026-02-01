@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5201",
+    "dept_code": "DMD",
+    "id_number": "5201",
+    "title": "Advanced Motion Graphics",
+    "description": "Allows digital animators and filmmakers to fully develop advanced skills and large scale/longer format projects, drawing from a combination of techniques including: green screen, 2D particle systems, mattes, rotoscoping, sound sync, 2D character set up and animation, hand-drawn/frame-by-frame, 3D integration, digital cut-out animation, and/or live-action compositing. Relies primarily on After Effects, particularly exploring its 2D/3D/effects capabilities; Maya; Photoshop; Final Cut; Toon Boom and other programs may also be utilized as necessary. Draws upon a canon of films to observe successful techniques that can be applied in computer work, and also to develop sensitivity to the artistry of moving images, cinema and storytelling.",
+    "credits": "3",
+    "requirement_description": "DMD 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

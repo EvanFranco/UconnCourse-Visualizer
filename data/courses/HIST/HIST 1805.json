@@ -1,0 +1,23 @@
+{
+    "name": "HIST 1805",
+    "dept_code": "HIST",
+    "id_number": "1805",
+    "title": "Key Words in East Asian History and Culture",
+    "description": "East Asian history taught through analysis of select \"hanzi\" (Chinese ideographic symbols), focusing on their changing meanings and institutional manifestations in different regions over time. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

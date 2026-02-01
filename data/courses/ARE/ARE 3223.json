@@ -1,0 +1,16 @@
+{
+    "name": "ARE 3223",
+    "dept_code": "ARE",
+    "id_number": "3223",
+    "title": "Business Organization and Labor Markets",
+    "description": "Analytical tools that economists use to evaluate the organizational and hiring decisions of firms. Emphasis on the effect of government policies and programs on how many workers are hired, how much they are paid, and how other forms of compensation are structured. Specific areas of consideration may include: minimum wages, federal income tax, payroll and self-employment taxes, unemployment insurance, immigration, health insurance, retirement account contributions, the use of contractors in place of employees (the so-called \"gig economy\"), legal form of organization, and business liability. Special emphasis on using original sources, including federal statistical agency data products, reports from federal oversight bodies, US Code, and IRS publications.",
+    "credits": "3",
+    "requirement_description": "ARE 2150 or 3150.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

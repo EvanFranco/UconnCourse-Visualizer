@@ -1,0 +1,16 @@
+{
+    "name": "MKTG 5250",
+    "dept_code": "MKTG",
+    "id_number": "5250",
+    "title": "Marketing Research and Intelligence",
+    "description": "This course provides a framework and tools for obtaining and using data to gain marketing insights. Students learn to identify the most appropriate quantitative and qualitative research techniques to answer particular marketing questions, design studies for maximum insight, identify and apply appropriate methods to collect and analyze data, and communicate findings to aid managerial decision making. Students gain practice conducting research, analyzing data, and reporting findings.",
+    "credits": "3",
+    "requirement_description": "MKTG 5115, or MKTG 5181 and 5182.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

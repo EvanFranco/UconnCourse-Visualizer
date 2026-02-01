@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5405",
+    "dept_code": "NURS",
+    "id_number": "5405",
+    "title": "EBP for Common and Chronic Health Problems II: Population Specific AGPCNP and FNP",
+    "description": "Grounded in theory and evidence, this didactic clinical course focuses on application of critical thinking skills necessary and evidence-based practice processes to achieve primary care nurse practitioner core competencies and domains and standards of clinical primary care. The emphasis is on health promotion and maintenance, and assessment, diagnosis and management of common and chronic health problems while considering context for populations, including individuals, families, and communities, specific to the adult-gerontology primary care and family nurse practitioners.",
+    "credits": "3",
+    "requirement_description": "NURS 5060, 5062, and 5470; open to MS, BS-DNP, Post-MS Certificate students in the Adult Gerontology Primary Care Nurse Practitioner and Family Nurse Practitioner concentrations. Corequisite: NURS 5400 and 5409.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MEM 4225",
+    "dept_code": "MEM",
+    "id_number": "4225",
+    "title": "Advanced Products and Processes",
+    "description": "Introduction to advanced topics relevant to the design and manufacture of products. Special emphasis on the relationship between manufacturing products and processes. Student projects.",
+    "credits": "3",
+    "requirement_description": "MEM 3221.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

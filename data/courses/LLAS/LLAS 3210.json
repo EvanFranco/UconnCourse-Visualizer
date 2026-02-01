@@ -1,0 +1,21 @@
+{
+    "name": "LLAS 3210",
+    "dept_code": "LLAS",
+    "id_number": "3210",
+    "title": "Contemporary Issues in Latino Studies",
+    "description": "Topics in socio-demographic patterns, cultural identity claims, community organization, migration and citizenship issues of Latino groups in post-WWII United States. Emphasis on comparative analysis and on policy implications. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

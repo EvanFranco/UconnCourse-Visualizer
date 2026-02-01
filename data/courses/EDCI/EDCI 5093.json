@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5093",
+    "dept_code": "EDCI",
+    "id_number": "5093",
+    "title": "Advanced Practicum",
+    "description": "The implementation and application of theory in the student's area of specialization. Open primarily to master's and Sixth-Year students.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

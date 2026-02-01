@@ -1,0 +1,16 @@
+{
+    "name": "ART 3530",
+    "dept_code": "ART",
+    "id_number": "3530",
+    "title": "Printmaking Workshop",
+    "description": "Workshop for students to continue developing ideas in a print medium. May be repeated for a total of 18 credits.",
+    "credits": "1-6",
+    "requirement_description": "ART 3510 or 3520.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

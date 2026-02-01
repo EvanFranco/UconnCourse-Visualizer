@@ -1,0 +1,16 @@
+{
+    "name": "SAPL 840",
+    "dept_code": "SAPL",
+    "id_number": "840",
+    "title": "Integrated Pest Management",
+    "description": "Principles of integrated pest management covering insect, disease, and weed problems with emphasis on turfgrass, ornamentals, and greenhouse production. Environmental impacts and pest control strategies will be covered.",
+    "credits": "3",
+    "requirement_description": "SAPL 800 or 810.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

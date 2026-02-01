@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5135",
+    "dept_code": "MSE",
+    "id_number": "5135",
+    "title": "Textile Structural Composite Materials",
+    "description": "Provides an in-depth understanding of textile composites, their fabrication and consolidation processes, applications, characterization techniques, mechanical properties, mechanical property models and fatigue and damage tolerance properties. Focus on both 2D and 3D composites made using the textile technologies of weaving, braiding and stitching. The in-plane mechanical properties and failure mechanisms of these composites under static and fatigue loads will be examined along with their enhanced interlaminar fracture toughness, impact resistance and damage tolerance properties.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Recommended preparation: MSE 5364 or ME 5430.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

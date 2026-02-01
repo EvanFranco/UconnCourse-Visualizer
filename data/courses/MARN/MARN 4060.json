@@ -1,0 +1,16 @@
+{
+    "name": "MARN 4060",
+    "dept_code": "MARN",
+    "id_number": "4060",
+    "title": "Physical Oceanography",
+    "description": "Overview of physical properties and dynamics influencing the oceans and coastal waters. Descriptions of global water property distributions, surface mixed layer, pycnocline, surface heat fluxes, and major ocean currents. Introduction to dynamics of ocean circulation, waves, tides, and coastal circulation.",
+    "credits": "3",
+    "requirement_description": "PHYS 1202Q, 1402Q, 1502Q or 1602Q; MATH 1122Q or 1132Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "KINS 5115",
+    "dept_code": "KINS",
+    "id_number": "5115",
+    "title": "Therapeutic Interventions III",
+    "description": "This course is designed to prepare the entry-level athletic trainer to be versed in strength and conditioning principles and exercise as a means to help prevent and rehabilitate musculoskeletal injuries. Students will learn the physiology behind muscle and bone development related to exercise and strength training and will learn to design targeted strength training programs to treat abnormalities after injury and to optimize performance. May be repeated for a total of 2 credits.",
+    "credits": "2",
+    "requirement_description": "KINS 5103; open to M.S. in Athletic Training students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

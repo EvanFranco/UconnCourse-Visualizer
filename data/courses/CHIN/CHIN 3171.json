@@ -1,0 +1,16 @@
+{
+    "name": "CHIN 3171",
+    "dept_code": "CHIN",
+    "id_number": "3171",
+    "title": "Chinese for Engineers",
+    "description": "Introduction to the fields of engineering in Chinese. Preparation for the engineering and industrial job market in the Chinese-speaking world. Designed to meet the needs of students desiring to use Chinese as a tool for industry or commerce.",
+    "credits": "3",
+    "requirement_description": "CHIN 1114 or four years of Chinese in high school.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

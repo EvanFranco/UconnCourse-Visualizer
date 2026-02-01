@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3661",
+    "dept_code": "CHEM",
+    "id_number": "3661",
+    "title": "Polymeric Materials",
+    "description": "Structure, properties and chemistry of high polymers. Methods of production and applications.",
+    "credits": "3",
+    "requirement_description": "CHEM 2444. Not open to students who have passed CHEG 3156.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

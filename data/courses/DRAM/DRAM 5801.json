@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5801",
+    "dept_code": "DRAM",
+    "id_number": "5801",
+    "title": "Movement for the Actor I",
+    "description": "Exploration of the actor's physical instrument. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

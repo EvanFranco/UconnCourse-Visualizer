@@ -1,0 +1,16 @@
+{
+    "name": "MLSC 4342",
+    "dept_code": "MLSC",
+    "id_number": "4342",
+    "title": "Clinical Microbiology Laboratory",
+    "description": "Application of the theory and techniques learned in MLSC\u00a03333 and MLSC\u00a04341 to the clinical laboratory setting. Understanding work flow, teamwork, evaluation of normal and abnormal results, instrumentation, and quality assurance in the general laboratory environment.",
+    "credits": "4",
+    "requirement_description": "A grade of C or better in MLSC 4341; open only to Medical Laboratory Sciences majors and Medical Laboratory Sciences certificate students; others with consent of Medical Laboratory Sciences Program Director.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

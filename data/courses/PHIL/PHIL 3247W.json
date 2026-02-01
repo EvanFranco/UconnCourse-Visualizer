@@ -1,0 +1,18 @@
+{
+    "name": "PHIL 3247W",
+    "dept_code": "PHIL",
+    "id_number": "3247W",
+    "title": "Philosophy of Psychology",
+    "description": "Conceptual issues in theoretical psychology. Topics may include computational models of mind, the language of thought, connectionism, neuropsychological deficits, and relations between psychological models and the brain.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 2000-level or above; or one three-credit 1000-level course in Philosophy and at least one of COGS 2201, PSYC 2400, 2500, 2501, 3500, 3501, or 3502; or instructor consent; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

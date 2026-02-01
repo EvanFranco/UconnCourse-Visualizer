@@ -1,0 +1,18 @@
+{
+    "name": "DIET 3231W",
+    "dept_code": "DIET",
+    "id_number": "3231W",
+    "title": "Writing for Community Nutrition Research",
+    "description": "Develops critical thinking skills through research and writing in community nutrition.",
+    "credits": "2",
+    "requirement_description": "A \"C\" or better in DIET 3150, 3155; ENGL 1007 or 1010 or 1011; concurrent enrollment in DIET 3230; open only to Dietetics majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

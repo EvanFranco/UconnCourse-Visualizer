@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 2701",
+    "dept_code": "PHYS",
+    "id_number": "2701",
+    "title": "Foundations of Modern Astrophysics",
+    "description": "The conceptual framework describing astronomical objects. Topics include orbits, light, and stars. Concepts of statistical mechanics, quantum mechanics, and relativity as needed for astrophysical topics.",
+    "credits": "3",
+    "requirement_description": "PHYS 1401Q or 1501Q or 1601Q; MATH 1131Q (or 1151Q) and 1132Q (or 1152Q). Prerequisite or corequisite: PHYS 1402Q or 1502Q or 1602Q; MATH 2110Q. May not be taken out of sequence after passing PHYS 2702 or PHYS 4740.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

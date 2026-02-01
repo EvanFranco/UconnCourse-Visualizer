@@ -1,0 +1,16 @@
+{
+    "name": "BME 3640",
+    "dept_code": "BME",
+    "id_number": "3640",
+    "title": "Human Factors Engineering",
+    "description": "This course introduces students to the field of human factors engineering. Topics include user-centered design and the different tools available to anticipate and solve human-use issues.",
+    "credits": "3",
+    "requirement_description": "Open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

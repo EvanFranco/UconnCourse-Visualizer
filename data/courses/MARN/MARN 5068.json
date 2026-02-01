@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5068",
+    "dept_code": "MARN",
+    "id_number": "5068",
+    "title": "Ocean Fluid Dynamics",
+    "description": "Physical processes controlling the circulation and mixing of the ocean focusing on small scale processes with short time scales. Topics include fundamental fluid mechanics, thermodynamics, turbulence, waves, wave-current interactions, and air-sea interaction.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

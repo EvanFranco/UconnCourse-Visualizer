@@ -1,0 +1,16 @@
+{
+    "name": "HEJS 5300",
+    "dept_code": "HEJS",
+    "id_number": "5300",
+    "title": "Topics in Biblical Studies",
+    "description": "Topics in the historical, literary and philosophical study of the Bible with special emphasis on current methodological issues. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

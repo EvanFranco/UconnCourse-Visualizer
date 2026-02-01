@@ -1,0 +1,16 @@
+{
+    "name": "FED 5351",
+    "dept_code": "FED",
+    "id_number": "5351",
+    "title": "Field Education Foundation I",
+    "description": "Teaches students basic skills in social work practice with systems of all sizes including individuals, groups, organizations, and communities.  This field experience course provides the foundation for the development of advanced skills in specific social work methods in advanced field experiences. Required course for students in the M.S.W. program.",
+    "credits": "4",
+    "requirement_description": "Corequisite: BASC 5390, 5391, and FED 5301.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

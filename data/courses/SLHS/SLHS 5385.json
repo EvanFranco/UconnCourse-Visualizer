@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 5385",
+    "dept_code": "SLHS",
+    "id_number": "5385",
+    "title": "Advanced Topics in Medical Speech Pathology",
+    "description": "Advanced practice management in the prevention, assessment and treatment of medically based disorders in the field of Speech-Language Pathology. Integration of content from previous didactic and practicum courses applied in a lifespan approach to emphasize the role of a collaborative health care team in a multidisciplinary context.",
+    "credits": "3",
+    "requirement_description": "SLHS 5302.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

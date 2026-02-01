@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 3230",
+    "dept_code": "SPAN",
+    "id_number": "3230",
+    "title": "Introduction to Literary Study",
+    "description": "Introduction to literary analysis through a variety of critical approaches: readings in poetry, drama, and prose fiction with explanation of terms useful to the study of literature.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: SPAN 3178 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

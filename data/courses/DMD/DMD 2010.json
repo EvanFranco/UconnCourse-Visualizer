@@ -1,0 +1,21 @@
+{
+    "name": "DMD 2010",
+    "dept_code": "DMD",
+    "id_number": "2010",
+    "title": "History of Digital Culture",
+    "description": "Key episodes in the history of digital technology and digital media; values and norms that adhere to digital culture. CA 1. CA 3.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA3"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

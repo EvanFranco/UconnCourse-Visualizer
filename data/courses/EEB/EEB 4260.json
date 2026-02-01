@@ -1,0 +1,16 @@
+{
+    "name": "EEB 4260",
+    "dept_code": "EEB",
+    "id_number": "4260",
+    "title": "Ornithology",
+    "description": "Adaptations, habits, and importance of birds.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 4893",
+    "dept_code": "OPIM",
+    "id_number": "4893",
+    "title": "Foreign Study",
+    "description": "Special topics taken in a foreign study program. Consent of Department Head required, prior to the student's departure. These credits must be awarded for regularly scheduled course work at a recognized foreign university in the field of information systems or in the student's Applications Area; if in the Applications Area the consent of both the Department Head and the Head of the Applications Area is required. Prior to taking the course the student must sign up for the course in advance as a course in that Applications Area. No credits can be counted toward required courses in the Analytics and Information Management (AIM) major. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open to juniors or higher; consent of Department Head required, prior to the student's departure.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

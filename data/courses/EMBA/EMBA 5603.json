@@ -1,0 +1,16 @@
+{
+    "name": "EMBA 5603",
+    "dept_code": "EMBA",
+    "id_number": "5603",
+    "title": "Global Business Issues",
+    "description": "Students become better versed in international business challenges, understand issues related to transnational and cross-cultural management, and examine global issues relative to their company. Students participate in an international trip to gain first-hand experience in the dynamics of international business management, engage with in-country business executives across multiple industries and functional areas, and execute a business challenge project in a foreign country. May be repeated for a total of 4.5 credits.",
+    "credits": "1-4.5",
+    "requirement_description": "Open only to Executive MBA students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 3699",
+    "dept_code": "ENGL",
+    "id_number": "3699",
+    "title": "Independent Study",
+    "description": "Supervised reading and writing on a subject of special interest to the student. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 5395",
+    "dept_code": "ANTH",
+    "id_number": "5395",
+    "title": "Special Topics",
+    "description": "Special topic readings or investigations according to the needs of each student. May be repeated for a total of 48 credits.",
+    "credits": "1-6",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 4
+}

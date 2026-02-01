@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5700",
+    "dept_code": "NUSC",
+    "id_number": "5700",
+    "title": "Precision Nutrition",
+    "description": "Studies the foundation of precision nutrition which encompasses research focusing on the interaction between nutrients and human/microbial genes and identifies genetic backgrounds contributing to individual differences in macro and micronutrient metabolism. Examines the effects of dysregulated nutrient-gene interactions in pathophysiological conditions.",
+    "credits": "3",
+    "requirement_description": "NUSC 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

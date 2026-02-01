@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3100",
+    "dept_code": "CSE",
+    "id_number": "3100",
+    "title": "Systems Programming",
+    "description": "Introduction to system-level programming with an emphasis on C programming, process management and small scale concurrency with multi-threaded programming. Special attention will be devoted to proficiency with memory management and debugging facilities both in a sequential and parallel setting.",
+    "credits": "3",
+    "requirement_description": "CSE 2050 or 2100; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

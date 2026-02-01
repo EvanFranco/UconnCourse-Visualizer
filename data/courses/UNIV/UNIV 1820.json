@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 1820",
+    "dept_code": "UNIV",
+    "id_number": "1820",
+    "title": "First Year Seminar",
+    "description": "Guided research or reading, discussion, and writing on topics of professional interest to the instructor. Course materials promote independent learning and active engagement in the academic life of the university. May be repeated for credit with a change in content. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "Open to First-Year or Sophomore students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

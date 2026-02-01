@@ -1,0 +1,16 @@
+{
+    "name": "ME 5341",
+    "dept_code": "ME",
+    "id_number": "5341",
+    "title": "Radiation Heat Transfer",
+    "description": "Fundamentals of radiative emission (black body behavior and Planck's law), surface properties (emissivity, absorptivity, reflectivity, and transmissivity), electromagnetic theory for prediciton of radiative properties, development of the methods of solution for radiant energy interchange between surfaces and in enclosures with and without absorbing, emitting, and scattering medi present.",
+    "credits": "3",
+    "requirement_description": "ME 5507.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "STAT 3215Q",
+    "dept_code": "STAT",
+    "id_number": "3215Q",
+    "title": "Applied Linear Regression in Data Science",
+    "description": "Applied multiple linear regression analysis in data science, with an emphasis on modern statistical regression methods: simple linear regression and correlation analysis, multiple linear regression, analysis of variance, goodness of fit, comparing regression models through partial and sequential F tests, dummy variables, regression assumptions and diagnostics, model selection and penalized regression, prediction and model validation, principles of design of experiments, one-way and two-way analysis of variance.",
+    "credits": "3",
+    "requirement_description": "STAT 2215Q or 3025Q or instructor consent. Not open for credit to students who have passed STAT 3115Q or 5315.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

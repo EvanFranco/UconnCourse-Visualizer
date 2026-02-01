@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5565",
+    "dept_code": "PSYC",
+    "id_number": "5565",
+    "title": "Computational Approaches to Language and Mind",
+    "description": "Explores the evolution of computational architectures from semantic spaces to transformers, examining how these systems illuminate and challenge theories of human cognition. Considers the ethical and philosophical implications of artificial intelligence for language, intelligence, and mind.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Psychological Sciences, others including undergraduates, with consent. Not open for credit to students who have passed PSYC 5570 when offered as \"Computational Approaches to Language and Mind.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

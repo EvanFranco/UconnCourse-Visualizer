@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5530",
+    "dept_code": "DMD",
+    "id_number": "5530",
+    "title": "3D Virtual World and Simulations",
+    "description": "Students are challenged to design and develop a virtual simulation that will train, educate or replicate a historical, military or scientific event. Participants investigate a selection of different virtual environments, simulations and serious games, explore some of the basic principles of 3D modeling, and examine how game engines can be used to generate a three-dimensional computer-based environment.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

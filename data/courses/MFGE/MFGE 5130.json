@@ -1,0 +1,16 @@
+{
+    "name": "MFGE 5130",
+    "dept_code": "MFGE",
+    "id_number": "5130",
+    "title": "Manufacturing Automation and Industry 4.0",
+    "description": "Theory of automation as related to manufacturing and design integration, including hardware, software, and algorithm issues involved in fast and flexible product development cycles. Topics cover automated manufacturing systems, CAD-CAM and integration, programming and simulation, robotics, reverse engineering virtual reality, and sensor fusion for machine tool monitoring. May be repeated for a total of 3 credits.",
+    "credits": "3",
+    "requirement_description": "Department consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

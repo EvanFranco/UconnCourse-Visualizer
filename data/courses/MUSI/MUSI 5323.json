@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 5323",
+    "dept_code": "MUSI",
+    "id_number": "5323",
+    "title": "Applied Music",
+    "description": "The Applied Music Fee fee is charged all students receiving private instrumental, vocal, or conducting instruction. May be repeated for a total of 30 credits.",
+    "credits": "1-7",
+    "requirement_description": "Open to graduate students in Music, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

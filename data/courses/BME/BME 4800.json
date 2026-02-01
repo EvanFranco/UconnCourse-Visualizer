@@ -1,0 +1,16 @@
+{
+    "name": "BME 4800",
+    "dept_code": "BME",
+    "id_number": "4800",
+    "title": "Bioinformatics",
+    "description": "(Also offered as CSE\u00a03800.) Fundamental mathematical models and computational techniques in bioinformatics. Exact and approximate string matching, suffix trees, pairwise and multiple sequence alignment, Markov chains and hidden Markov models. Applications to sequence analysis, gene finding, database search, phylogenetic tree reconstruction.",
+    "credits": "3",
+    "requirement_description": "CSE 1729 or CSE 2050; STAT 3025Q or 3345Q or 3375Q or MATH 3160; open only to students in the College of Engineering and declared Computer Science minors, others by instructor consent. Recommended preparation: BIOL 1107.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

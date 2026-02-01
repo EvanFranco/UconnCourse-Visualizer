@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 2505",
+    "dept_code": "GEOG",
+    "id_number": "2505",
+    "title": "Applications of Geographic Information Systems",
+    "description": "Applications of geographic information systems. Particular attention to land use planning and resource management.",
+    "credits": "3",
+    "requirement_description": "GEOG 2500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

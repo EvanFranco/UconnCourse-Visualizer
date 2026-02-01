@@ -1,0 +1,21 @@
+{
+    "name": "WGSS 3102",
+    "dept_code": "WGSS",
+    "id_number": "3102",
+    "title": "Psychology of Women",
+    "description": "(Also offered as PSYC\u00a03102.) Gender roles, socialization, women and work, women's relationships, violence against women, and other topics. Theory and research. CA 4.",
+    "credits": "3",
+    "requirement_description": "Three credits of 2000 or 3000 level psychology.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

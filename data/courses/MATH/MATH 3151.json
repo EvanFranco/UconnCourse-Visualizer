@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3151",
+    "dept_code": "MATH",
+    "id_number": "3151",
+    "title": "Analysis II",
+    "description": "Introduction to the theory of functions of several real variables.",
+    "credits": "3",
+    "requirement_description": "MATH 3150 or 4110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

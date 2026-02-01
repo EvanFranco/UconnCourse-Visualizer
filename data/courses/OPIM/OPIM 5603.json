@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5603",
+    "dept_code": "OPIM",
+    "id_number": "5603",
+    "title": "Statistics in Business Analytics",
+    "description": "Advanced level exploration of statistical techniques for data analysis. Students study basic concepts in descriptive and inferential statistics, data organization and visualization, sampling, probability, random variables, sampling distributions, hypothesis testing, linear regression, and logistic regression. Topics will focus on rigorous statistical estimation and testing. Prepares students with the skills needed to work with data using analytics software.",
+    "credits": "3",
+    "requirement_description": "Open only to MBA, MSBAPM, and MS FinTech students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

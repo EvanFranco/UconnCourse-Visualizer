@@ -1,0 +1,16 @@
+{
+    "name": "DIET 3099",
+    "dept_code": "DIET",
+    "id_number": "3099",
+    "title": "Independent Study for Undergraduates",
+    "description": "Designed primarily for students who wish to extend their knowledge in some specialized area in the field of dietetics. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open only to Dietetics majors, others by consent of the Director of Dietetics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

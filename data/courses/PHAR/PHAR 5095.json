@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5095",
+    "dept_code": "PHAR",
+    "id_number": "5095",
+    "title": "Independent Study in Pharmaceutical Sciences",
+    "description": "This course will provide students the opportunity to explore a variety of topics associated with the field of drug development. May be repeated for credit.",
+    "credits": "1-4",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

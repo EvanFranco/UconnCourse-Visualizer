@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5510",
+    "dept_code": "OPIM",
+    "id_number": "5510",
+    "title": "Web Analytics",
+    "description": "Introduction to key concepts, techniques, and tools for analyzing web data to derive actionable customer intelligence, develop digital marketing strategies and evaluate their impacts. Clickstream tracking, search engine analytics, digital experiments, and social analytics.",
+    "credits": "3",
+    "requirement_description": "OPIM 5604; open only to MBA and MSBAPM students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

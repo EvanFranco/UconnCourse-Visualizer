@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5510",
+    "dept_code": "MATH",
+    "id_number": "5510",
+    "title": "Numerical Analysis and Approximation Theory I",
+    "description": "The study of convergence, numerical stability, roundoff error, and discretization error arising from the approximation of differential and integral operators.",
+    "credits": "3",
+    "requirement_description": "MATH 5110, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

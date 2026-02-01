@@ -1,0 +1,16 @@
+{
+    "name": "KINS 5100",
+    "dept_code": "KINS",
+    "id_number": "5100",
+    "title": "Musculoskeletal Examination and Acute Treatment I",
+    "description": "Introduces the common types of orthopedic injuries and/or dysfunctions that occur to the lower extremities during physical activity and/or athletics. Injuries will be discussed from the following viewpoints: etiology and mechanism of injury; pathology; recognition and evaluation techniques; protocols; and prevention. Students will also learn to apply the techniques of orthopedic injury assessment and evaluation as well as the immediate care of those injuries.",
+    "credits": "3",
+    "requirement_description": "KINS 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

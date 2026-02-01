@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5810",
+    "dept_code": "ENVE",
+    "id_number": "5810",
+    "title": "Hydrometeorology",
+    "description": "Global dynamics of aquatic distribution and circulation. Hydrologic cycle, atmospheric circulation, precipitation, interception, storage, infiltration, overland flow, distributed hydrologic modeling, and stream routing.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

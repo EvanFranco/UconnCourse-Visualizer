@@ -1,0 +1,23 @@
+{
+    "name": "HIST 3705",
+    "dept_code": "HIST",
+    "id_number": "3705",
+    "title": "The Modern Middle East from 1700 to the Present",
+    "description": "Tradition, change, modernization and development in the Middle East from the Ottoman decline and rise of successor states to the Arab-Israeli and oil crises. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

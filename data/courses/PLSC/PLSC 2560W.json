@@ -1,0 +1,18 @@
+{
+    "name": "PLSC 2560W",
+    "dept_code": "PLSC",
+    "id_number": "2560W",
+    "title": "Written Communications in Horticulture",
+    "description": "Writing as a component of communicating facts and opinions in the theory and practice of Horticulture. Assignments will reflect forms of writing commonly encountered by professional horticulturists, including descriptive brochures, articles for mass media, extension bulletins, and technical manuals. Formerly offered as SPSS 2560W.",
+    "credits": "1",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to Plant Science, Horticulture, or Turfgrass Science majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ARE 6305",
+    "dept_code": "ARE",
+    "id_number": "6305",
+    "title": "Applied Development Economics",
+    "description": "Overview of the current applied literature on the microeconomics of development in poor countries, as well as examples from the US. Topics include the role of land policies, agriculture, human capital, health, education, the internal structure of households (neoclassical and bargaining) and the functioning of markets.",
+    "credits": "3",
+    "requirement_description": "ARE 5311 or ECON 5311 or equivalent. Recommended preparation: ARE 5201 or ECON 5201 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

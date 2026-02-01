@@ -1,0 +1,18 @@
+{
+    "name": "JOUR 3012W",
+    "dept_code": "JOUR",
+    "id_number": "3012W",
+    "title": "Feature Writing",
+    "description": "Writing and reporting human-interest stories, personality profiles, and other features; developing skills for nonfiction storytelling with scenes, dialogue, and descriptive narrative.",
+    "credits": "3",
+    "requirement_description": "JOUR 2001W; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

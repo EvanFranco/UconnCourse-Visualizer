@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5581",
+    "dept_code": "DMD",
+    "id_number": "5581",
+    "title": "3D Game Art I - Modeling and Texturing",
+    "description": "Basic introduction to all parts of the 3D asset creation pipeline for games including subdivision, surface, and spline modeling for game assets, UV unwrapping, PBR material painting, asset creation for game props, characters, and environments.",
+    "credits": "3",
+    "requirement_description": "Open to DMD graduate students, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

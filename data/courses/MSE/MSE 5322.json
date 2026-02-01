@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5322",
+    "dept_code": "MSE",
+    "id_number": "5322",
+    "title": "Materials Characterization",
+    "description": "A review of the principal experimental methods used to reveal the microstructure and chemistry of materials. Diffraction techniques: x-ray, electron, neutron and proton scattering. Photon probes: photon microscopies, x-ray topography and XPS. Electron probes: SEM, TEM, EDX, EELS, AES. Atom and ion probes: RBS, SIMS, FIM, PIXE. Scanned probe microscopies.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "DMD 2620",
+    "dept_code": "DMD",
+    "id_number": "2620",
+    "title": "Human Development, Digital Media, and Technology",
+    "description": "(Also offered as HDFS\u00a02620.) Social, economic, and cultural influences on youths' interactions with, and use of, technology for formal and informal learning. Examples include media literacy, digital divide, technology in education, cyberbullying, and other issues that have emerged since the rise of the World Wide Web and growth of social media. CA 2. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: HDFS 1070 or DMD 2010.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

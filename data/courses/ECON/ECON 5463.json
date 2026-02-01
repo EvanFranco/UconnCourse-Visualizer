@@ -1,0 +1,16 @@
+{
+    "name": "ECON 5463",
+    "dept_code": "ECON",
+    "id_number": "5463",
+    "title": "The Economics of Organization",
+    "description": "Surveys the modern agency, transaction-cost, and evolutionary theories of organization. Topics include measurement and monitoring costs, asset specificity, incomplete-contracts theory, the dynamic capabilities approach, and alternative organizations.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

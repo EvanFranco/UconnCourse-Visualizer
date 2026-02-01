@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5621",
+    "dept_code": "MCB",
+    "id_number": "5621",
+    "title": "Molecular Biology and Genetics of Prokaryotes",
+    "description": "Molecular genetics of bacteria, archaebacteria, and their viruses. Transcription and replication of DNA, transformation, transduction, conjugation, genetic mapping, mutagenesis, regulation of gene expression, genome organization.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: a course in general microbiology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

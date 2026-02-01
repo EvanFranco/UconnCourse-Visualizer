@@ -1,0 +1,16 @@
+{
+    "name": "PERS 1102",
+    "dept_code": "PERS",
+    "id_number": "1102",
+    "title": "Elementary Persian II",
+    "description": "Continuation of PERS\u00a01101. Development of oral and written skills. Deepening of cultural competence. Taught in English and Persian.",
+    "credits": "4",
+    "requirement_description": "PERS 1101 or comparable proficiency; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SE 5001",
+    "dept_code": "SE",
+    "id_number": "5001",
+    "title": "Model-Based Systems Engineering",
+    "description": "Provides students with the foundations of model-based systems engineering. Students will develop skills in the areas of fundamental logical, behavioral, and physical representations of engineered cyberphysical systems. Topics include software and systems requirements engineering, interface design and modeling, system architecting, system verification and testing, and system simulation. Emphasis is placed on modeling cyberphysical systems using modern MBSE principles, methods, and tools. Examples include a water distiller, a residential security system, an automobile, an elevator, and a geospatial library for the demonstration of the theoretical and practical aspects of systems modeling. Designed for all graduate students pursuing graduate certificates and degrees in an engineering discipline.",
+    "credits": "3",
+    "requirement_description": "Undergraduate degree in engineering or science.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

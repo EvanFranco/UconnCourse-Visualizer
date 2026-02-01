@@ -1,0 +1,22 @@
+{
+    "name": "HIST 3535",
+    "dept_code": "HIST",
+    "id_number": "3535",
+    "title": "The History of American Medicine",
+    "description": "Historical analysis of the interaction between the American people and the health sciences.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

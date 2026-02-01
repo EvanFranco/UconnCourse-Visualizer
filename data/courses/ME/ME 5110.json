@@ -1,0 +1,16 @@
+{
+    "name": "ME 5110",
+    "dept_code": "ME",
+    "id_number": "5110",
+    "title": "Advanced Thermodynamics",
+    "description": "Microscopic view of thermodynamics: probability and statistics of independent events, thermodynamic probabilities and most probable thermodynamic distributions, molecular structure and partition function, Ensemble of microstates describing macroscopic behavior, with ideal gas as an example, Macroscopic descriptions of thermodynamic equilibrium and equilibrium states, Reversible processes, Heat and Work interactions, Mixtures of pure substances and chemical equilibrium, Stability and phase transitions, Irreversible thermodynamics, Onsager reciprocity relations and thermo-electric effects, Kinetic theory of gases.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

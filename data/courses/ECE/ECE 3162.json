@@ -1,0 +1,16 @@
+{
+    "name": "ECE 3162",
+    "dept_code": "ECE",
+    "id_number": "3162",
+    "title": "Robot Motion Planning",
+    "description": "(Also offered as ME\u00a03162.) The fundamentals of motion planning of robots. Topics include sensing systems for obstacle avoidance and environment mapping, robot localization, shortest path planning using potential field-based, grid-based and sampling-based methods, coverage path planning using cellular decomposition, spanning trees and potential fields, deep neural networks and their application to path planning, motion planning under constraints, adaptive planning in changing environments. Course includes project work.",
+    "credits": "3",
+    "requirement_description": "Open only to students in the College of Engineering. Corequisite: MATH 2210Q. Recommended preparation: ECE/ME 3161; ECE 1401, 3411; CSE 2050, 3500; and either ECE 3101 or ME 3253 or 3254.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

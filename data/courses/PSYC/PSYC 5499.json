@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5499",
+    "dept_code": "PSYC",
+    "id_number": "5499",
+    "title": "Research Team in Developmental Psychology",
+    "description": "Planning and execution of both individual and collaborative research projects in developmental psychology. May be repeated for a total of 12 credits.",
+    "credits": "1",
+    "requirement_description": "Open to graduate students in Psychological Sciences, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5311",
+    "dept_code": "ISG",
+    "id_number": "5311",
+    "title": "Genomic Data Analysis in Practice I",
+    "description": "Practical introduction to genomic data analysis. Introduction to coding using Linux/bash, R/tidyverse and SLURM on a high performance computing cluster through the use of real data.",
+    "credits": "4",
+    "requirement_description": "Corequisite: ISG 5301. Recommended preparation: Undergraduate degree in biology or related discipline. Background in genetics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

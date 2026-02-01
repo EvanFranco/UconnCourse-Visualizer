@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6442",
+    "dept_code": "ECON",
+    "id_number": "6442",
+    "title": "Advanced Labor Economics II",
+    "description": "Labor demand and other applied topics in labor economics.",
+    "credits": "3",
+    "requirement_description": "ECON 6211.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

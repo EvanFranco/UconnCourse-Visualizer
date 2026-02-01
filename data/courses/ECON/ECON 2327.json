@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2327",
+    "dept_code": "ECON",
+    "id_number": "2327",
+    "title": "Information Technology for Economics",
+    "description": "The presentation of economic data and testing of economic theory  through the use of appropriate computer based tools. Analysis of macroeconomics concepts such as the consumption function, influence  of the money supply, budget deficits, and interest rates on macroeconomic equilibrium, and the tradeoff between unemployment and inflation. Analysis of microeconomic concepts such as demand, supply, elasticity, the achievement of equilibrium price and quantity, and analysis of several industries and the stock market. Analysis of historical data such as aggregate and specific price levels, sectoral shifts in the economy, and changes in income distribution.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or both ECON 1201 (or ARE 1150) and 1202; STAT 1000Q or 1100Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

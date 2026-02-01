@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 4010",
+    "dept_code": "EPSY",
+    "id_number": "4010",
+    "title": "Assessment of Learning",
+    "description": "Theory and practices of the assessment of learning.",
+    "credits": "2",
+    "requirement_description": "Open only to students in the Integrated Bachelor's/Master's Teacher Preparation Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

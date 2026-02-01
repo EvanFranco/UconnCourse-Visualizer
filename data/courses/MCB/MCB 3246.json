@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3246",
+    "dept_code": "MCB",
+    "id_number": "3246",
+    "title": "Virology",
+    "description": "Biological, biochemical, physical, and genetic characteristics of viruses, with an emphasis on molecular and quantitative aspects of virus-cell interactions.",
+    "credits": "3",
+    "requirement_description": "MCB 2610 and MCB 2210. Recommended preparation: MCB 3201 or 3010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

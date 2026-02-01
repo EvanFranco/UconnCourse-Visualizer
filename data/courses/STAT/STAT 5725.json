@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5725",
+    "dept_code": "STAT",
+    "id_number": "5725",
+    "title": "Linear Models I",
+    "description": "Linear and matrix algebra concepts, generalized inverses of matrices, multivariate normal distribution, distributions of quadratic forms in normal random vectors, least squares estimation for full rank and less than full rank linear models, estimation under linear restrictions, testing linear hypotheses.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Statistics, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

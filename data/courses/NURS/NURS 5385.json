@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5385",
+    "dept_code": "NURS",
+    "id_number": "5385",
+    "title": "Advanced Neonatal Nursing III",
+    "description": "Focuses on the components essential for preparation of students for advanced practice in neonatal nursing.",
+    "credits": "3",
+    "requirement_description": "NURS 5375 and 5379; instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

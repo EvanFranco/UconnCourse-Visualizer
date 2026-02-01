@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3122",
+    "dept_code": "ANSC",
+    "id_number": "3122",
+    "title": "Reproductive Physiology",
+    "description": "A study of the reproductive anatomy and physiology of domestic animals. Laboratory will include macro and micro anatomy, hormone action, and techniques used in reproductive management of domestic animals.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

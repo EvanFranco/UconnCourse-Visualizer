@@ -1,0 +1,16 @@
+{
+    "name": "DMD 2210",
+    "dept_code": "DMD",
+    "id_number": "2210",
+    "title": "Film and Video Editing I",
+    "description": "Introduction to digital editing, project management, working with sound and time-based storytelling.",
+    "credits": "3",
+    "requirement_description": "DMD 1002 and 1102; open only to Digital Media and Design majors; others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

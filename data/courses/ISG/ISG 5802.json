@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5802",
+    "dept_code": "ISG",
+    "id_number": "5802",
+    "title": "Genetic Counseling Capstone Project II",
+    "description": "The second in a series of three courses designed to support student-driven investigation of a capstone project consistent with the student's educational interest, career track and plan of study.",
+    "credits": "1",
+    "requirement_description": "ISG 5801.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

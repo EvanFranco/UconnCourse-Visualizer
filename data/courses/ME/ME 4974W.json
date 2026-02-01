@@ -1,0 +1,18 @@
+{
+    "name": "ME 4974W",
+    "dept_code": "ME",
+    "id_number": "4974W",
+    "title": "Ethics for Engineers",
+    "description": "Ethical decisions that challenge engineers, the impact of engineering decisions at multiple levels, the process and challenges of making ethical decisions, and the argument behind absolute vs relative good and evil. Diversity and inclusion in engineering.",
+    "credits": "1",
+    "requirement_description": "ENGL 1007, 1010, or 1011. Corequisite: ME 4975.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

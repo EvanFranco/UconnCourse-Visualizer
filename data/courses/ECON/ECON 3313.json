@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3313",
+    "dept_code": "ECON",
+    "id_number": "3313",
+    "title": "Elementary Economic Forecasting",
+    "description": "Economic forecasting for macroeconomics and financial economics. Econometric analysis of time-series data.",
+    "credits": "3",
+    "requirement_description": "ECON 2202 or 2212Q; STAT 1000Q or 1100Q; (i) ECON 2311Q and ECON 2312Q, or (ii) STAT 3215Q and STAT 3025Q or STAT 3375Q or MATH 3160; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

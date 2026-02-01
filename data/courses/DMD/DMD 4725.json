@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4725",
+    "dept_code": "DMD",
+    "id_number": "4725",
+    "title": "Advanced Digital Analytics",
+    "description": "A project-based study of advanced digital analytics and social media listening tools and techniques. Students will utilize social listening and media intelligence platforms to conduct market research, analyze campaigns and digital initiatives, develop marketing strategy, and execute ongoing brand listening, crisis management, competitive intelligence, content analysis and reputation management initiatives. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "DMD 3720; open to juniors or higher; open only to Digital Media and Design majors; others by instructor consent. Recommended preparation: 1000 level statistics course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

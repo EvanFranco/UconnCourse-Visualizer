@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5799",
+    "dept_code": "MATH",
+    "id_number": "5799",
+    "title": "Independent Study",
+    "description": "With a change in content, may be repeated for credit. May be repeated for a total of 30 credits.",
+    "credits": "1-6",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

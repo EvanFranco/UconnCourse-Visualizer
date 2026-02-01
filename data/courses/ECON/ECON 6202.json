@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6202",
+    "dept_code": "ECON",
+    "id_number": "6202",
+    "title": "Macroeconomic Theory I",
+    "description": "A rigorous course in dynamic general equilibrium models. Emphasis on analytical techniques and numerical solution methods.",
+    "credits": "3",
+    "requirement_description": "ECON 5202.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ME 3262",
+    "dept_code": "ME",
+    "id_number": "3262",
+    "title": "Applied Measurements and Data Analysis",
+    "description": "Introduction to the design and behavior of common sensors, highlighting their proper use and physical limitations. Hands-on laboratory experiences include measurements in energy conversion, solid mechanics, dynamics, and fluid and thermal sciences, as well as application of statistical methods to analysis of experimental data.",
+    "credits": "3",
+    "requirement_description": "ME 2250; PHYS 1230 or 1402Q or 1502Q or 1602Q; ENGR 3400.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

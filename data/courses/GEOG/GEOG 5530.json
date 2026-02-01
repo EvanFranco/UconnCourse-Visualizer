@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5530",
+    "dept_code": "GEOG",
+    "id_number": "5530",
+    "title": "GIS for Health and Environment",
+    "description": "An exploration of how spatial data and Geographic Information Systems (GIS) can be used to understand and improve human and environmental health.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: GEOG 5500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

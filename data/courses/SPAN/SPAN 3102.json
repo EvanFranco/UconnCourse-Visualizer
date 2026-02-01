@@ -1,0 +1,16 @@
+{
+    "name": "SPAN 3102",
+    "dept_code": "SPAN",
+    "id_number": "3102",
+    "title": "Spanish for Engineering II",
+    "description": "This course provides dual-degree Engineering and Spanish students more advanced vocabulary, methods, and field-specific knowledge. Students will learn to describe scientific processes, to follow scientific presentations in Spanish, and to create preparation and evaluation materials for these presentations.",
+    "credits": "1",
+    "requirement_description": "SPAN 3101 or instructor consent; open to sophomore or higher dual-degree Spanish and Engineering students. Not open for credit to students who have passed SPAN 3171. Recommended preparation: SPAN 1003 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

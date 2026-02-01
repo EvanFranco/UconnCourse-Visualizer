@@ -1,0 +1,16 @@
+{
+    "name": "ART 3100",
+    "dept_code": "ART",
+    "id_number": "3100",
+    "title": "Graphic Design 1: Typography",
+    "description": "Examination of typographic concepts and techniques, emphasizing typography as a powerful medium for complex visual communication and expression. exploring theory, technology, tools, and contemporary design philosophies to analyze and manipulate typographic systems across various print and digital media.",
+    "credits": "3",
+    "requirement_description": "ART 2110; portfolio review; consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

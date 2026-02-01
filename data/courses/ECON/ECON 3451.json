@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3451",
+    "dept_code": "ECON",
+    "id_number": "3451",
+    "title": "Health Economics",
+    "description": "Economic analysis of the health sector: organization and performance of health care delivery systems; economic behavior of patients and providers; markets for health services; health-care finance and insurance; health-care policy; and cost-benefit analysis of health-care programs.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or ECON 2211Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

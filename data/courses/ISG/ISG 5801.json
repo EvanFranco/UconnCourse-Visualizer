@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5801",
+    "dept_code": "ISG",
+    "id_number": "5801",
+    "title": "Genetic Counseling Capstone Project I",
+    "description": "The first in a series of three courses designed to support student-driven investigation of a capstone project consistent with the student's educational interest, career track and plan of study.",
+    "credits": "1",
+    "requirement_description": "Open to graduate genetic counseling professional science master's students who have completed ISG 5146; must complete or have completed CITI, and University training requirements for research compliance (e.g., biosafety and RCR training, per project).",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

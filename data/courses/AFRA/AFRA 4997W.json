@@ -1,0 +1,18 @@
+{
+    "name": "AFRA 4997W",
+    "dept_code": "AFRA",
+    "id_number": "4997W",
+    "title": "Senior Thesis in Africana Studies",
+    "description": "Honors Research and writing in the major with close supervision of multiple drafts.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; AFRA 2211 and 4996; open to students in the Honors Program; instructor consent required; may be open to non-honors students with consent of instructor.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

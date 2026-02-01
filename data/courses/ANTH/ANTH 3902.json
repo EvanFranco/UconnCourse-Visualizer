@@ -1,0 +1,21 @@
+{
+    "name": "ANTH 3902",
+    "dept_code": "ANTH",
+    "id_number": "3902",
+    "title": "North American Prehistory",
+    "description": "Prehistoric cultures of North America from the earliest traces to European contact, with emphasis on the region east of the Mississippi. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CSE 3000",
+    "dept_code": "CSE",
+    "id_number": "3000",
+    "title": "Contemporary Issues in Computer Science and Engineering",
+    "description": "Information management, the global and societal impact of computer science and engineering decisions, professional and ethical responsibility.",
+    "credits": "1",
+    "requirement_description": "CSE 3140; open only to Computer Science and Engineering, Computer Science, and Data Science and Engineering majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 1193",
+    "dept_code": "MUSI",
+    "id_number": "1193",
+    "title": "Foreign Study",
+    "description": "Specific topics taken in a foreign study program. Consent of department head required, normally before the student's departure to study abroad. May be repeated for credit.",
+    "credits": "1-12",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

@@ -1,0 +1,20 @@
+{
+    "name": "MUSI 1001",
+    "dept_code": "MUSI",
+    "id_number": "1001",
+    "title": "Music Appreciation",
+    "description": "An approach toward intelligent listening, illustrated by recordings. Intended primarily for students who are not music majors. No previous training required. CA 1.",
+    "credits": "3",
+    "requirement_description": "Not appropriate for students who have previously passed MUSI 1021 or 1022.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

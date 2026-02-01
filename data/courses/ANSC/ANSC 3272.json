@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 3272",
+    "dept_code": "ANSC",
+    "id_number": "3272",
+    "title": "Laboratory Animal Science",
+    "description": "Principles and practices of laboratory animal care and management in relation to animal characteristics, handling and restraint, animal house design, reproduction and nutrition and legal regulations. Various laboratory animal techniques will be covered.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107. Recommended preparation: BIOL 1108 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

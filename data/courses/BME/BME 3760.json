@@ -1,0 +1,16 @@
+{
+    "name": "BME 3760",
+    "dept_code": "BME",
+    "id_number": "3760",
+    "title": "Microfluidics and Lab-on-Chip",
+    "description": "The course provides a broad overview of microfluidics technology, lab-on-chip, wearable/implantable devices and smartphone-based optical sensing technology, and their biomedical applications. It also covers the fundamentals of micro/nano fabrication technologies and additive manufacturing (e.g., 3D printing). In addition, the basic principles of biology and chemistry, with a focus on how to integrate them into microfluidic devices and biomedical microsystems are introduced and discussed.",
+    "credits": "3",
+    "requirement_description": "Open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

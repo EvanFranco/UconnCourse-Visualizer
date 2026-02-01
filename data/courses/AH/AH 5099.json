@@ -1,0 +1,16 @@
+{
+    "name": "AH 5099",
+    "dept_code": "AH",
+    "id_number": "5099",
+    "title": "Independent Study for Allied Health",
+    "description": "Advanced study, project, or research of intensive, independent investigation in allied health consistent with the student's needs, interests and plan of study. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

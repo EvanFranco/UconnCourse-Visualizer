@@ -1,0 +1,16 @@
+{
+    "name": "AHNR 5095",
+    "dept_code": "AHNR",
+    "id_number": "5095",
+    "title": "Special Topics",
+    "description": "Topics relating to the College of Agriculture, Health and Natural Resources. May be repeated for a total of 12 credits.",
+    "credits": "1-6",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

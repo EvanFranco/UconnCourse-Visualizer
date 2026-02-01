@@ -1,0 +1,21 @@
+{
+    "name": "ILCS 1170",
+    "dept_code": "ILCS",
+    "id_number": "1170",
+    "title": "Introducing Italy through Its Regions",
+    "description": "The diverse culture of Italy, studied through analysis of sociological,  literary, artistic, and cinematic works from and about a single one of the different Italian regions and that region's cultural centers, such as Rome, Naples, Florence, Palermo, or Venice. Taught in English. May not be used to meet the foreign language requirement. CA 1. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

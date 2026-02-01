@@ -1,0 +1,20 @@
+{
+    "name": "PLSC 3230",
+    "dept_code": "PLSC",
+    "id_number": "3230",
+    "title": "Biotechnology - Science, Application, Impact, Perception",
+    "description": "Scientific, legal, and ethical aspects of Biotechnology application in agriculture, health medicine, forensics, and the environment. Designed for students with diverse departmental affiliations. Formerly offered as SPSS 3230.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

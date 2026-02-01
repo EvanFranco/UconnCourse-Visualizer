@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 3240",
+    "dept_code": "CHEG",
+    "id_number": "3240",
+    "title": "Junior Design and Process Safety",
+    "description": "Introduction to the design of chemical engineering processes and/or products. Major topics include comparison of alternative processing steps, cost estimation and economic analysis, safety and environmental concerns in design, and ethical and societal considerations.",
+    "credits": "3",
+    "requirement_description": "Junior standing; CHEG 2103, 2111, 3112 and 3120.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

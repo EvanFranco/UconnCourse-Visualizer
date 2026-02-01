@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 5600",
+    "dept_code": "GEOG",
+    "id_number": "5600",
+    "title": "Spatial Data Analysis",
+    "description": "Univariate statistics focused on the use of spatial statistics, including geostatistics in geographical research. Problems specific to spatial data analysis are addressed.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

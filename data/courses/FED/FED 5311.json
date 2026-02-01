@@ -1,0 +1,16 @@
+{
+    "name": "FED 5311",
+    "dept_code": "FED",
+    "id_number": "5311",
+    "title": "Field Education Seminar IV",
+    "description": "This seminar helps students prepare for and make optimum use of their field education experience. Areas of seminar content include such topics as the roles and responsibilities of the student, field instructor and faculty advisor, exploration and development of the learning contract, and the educational assessment of self as a learner in the profession. Required course for students in the M.S.W. program.",
+    "credits": "1",
+    "requirement_description": "Corequisite: ADMIN 5354 or CORG 5354 or IGFP 5354 or POPR 5354.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

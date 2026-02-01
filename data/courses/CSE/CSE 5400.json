@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5400",
+    "dept_code": "CSE",
+    "id_number": "5400",
+    "title": "Computer Security",
+    "description": "Computer security and the design of secure systems. Cryptographic tools. Operating system security and access control. Network, software and database security. Randomness generation. Malicious software. Anonymity and privacy. Various attacks and countermeasures. Ethical, legal and business aspects.",
+    "credits": "3",
+    "requirement_description": "Department consent; open to graduate students in the Computer Science and Engineering program, others with permission. Not open for credit to students who have passed CSE 4400. Recommended preparation: CSE 3400.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

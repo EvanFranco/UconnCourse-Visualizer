@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 2501",
+    "dept_code": "ANTH",
+    "id_number": "2501",
+    "title": "Introduction to Archaeology",
+    "description": "The concepts, methods and practice of anthropological archaeology.",
+    "credits": "3",
+    "requirement_description": "May not be taken out of sequence after passing ANTH 3521 or 3704.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

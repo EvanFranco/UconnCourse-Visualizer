@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5410",
+    "dept_code": "MATH",
+    "id_number": "5410",
+    "title": "Introduction to Applied Mathematics I",
+    "description": "Banach spaces, linear operator theory and application to differential equations, nonlinear operators, compact sets on Banach spaces, the adjoint operator on Hilbert space, linear compact operators, Fredholm alternative, fixed point theorems and application to differential equations, spectral theory, distributions.",
+    "credits": "3",
+    "requirement_description": "MATH 5110 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

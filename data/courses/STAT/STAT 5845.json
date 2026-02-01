@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5845",
+    "dept_code": "STAT",
+    "id_number": "5845",
+    "title": "Applied Spatio-Temporal Statistics",
+    "description": "Applied statistical methodology and computing for spatio-temporal data, including visualization, models, and inferences. Extreme value analysis in spatio-temporal contexts. Focus on models that account for spatio-temporal dependence and inferences that provide appropriate uncertainty measures, with applications to real-world problems using open-source software.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Statistics, others with permission. Recommended Preparation: STAT 5405 or 5605 or GEOG 5600 or 5610 or ERTH 5150 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

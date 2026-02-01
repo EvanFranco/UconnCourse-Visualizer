@@ -1,0 +1,16 @@
+{
+    "name": "HRTS 5351",
+    "dept_code": "HRTS",
+    "id_number": "5351",
+    "title": "Topics in Human Rights Practice",
+    "description": "Seminar on topics in theoretical and practice-based knowledge and skills related to human rights. Topics vary by semester. May be repeated with a change of topic to a maximum of nine credits. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Students may not receive credit for a topic in HRTS 5351 if they have previously passed HRTS 3540 with the same topic.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

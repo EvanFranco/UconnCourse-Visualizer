@@ -1,0 +1,18 @@
+{
+    "name": "NUSC 2200",
+    "dept_code": "NUSC",
+    "id_number": "2200",
+    "title": "Nutrition and Human Development",
+    "description": "Nutritional needs and consequences of nutritional deficiencies throughout the life cycle: preconception, pregnancy, lactation, infancy, childhood, adolescence, adulthood, and aging. Maternal and child public health issues.",
+    "credits": "3",
+    "requirement_description": "NUSC 1165. May not be taken out of sequence after passing NUSC 4294.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "UNIV 4697W",
+    "dept_code": "UNIV",
+    "id_number": "4697W",
+    "title": "Senior Thesis",
+    "description": "All honors students writing a thesis for their individualized major plan of study must register for this course during their last academic year. Students must present their thesis to the Individualized Major Program. Students must have obtained a thesis advisor and have an approved thesis topic before registration.",
+    "credits": "3-6",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; senior standing with an approved individualized major plan of study; consent required by instructor and the Individualized Major Program director.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

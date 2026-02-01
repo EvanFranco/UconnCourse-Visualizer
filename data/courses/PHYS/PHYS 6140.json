@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 6140",
+    "dept_code": "PHYS",
+    "id_number": "6140",
+    "title": "Principles of Lasers",
+    "description": "The physics of lasers, including optical pumping and stimulated emission, laser rate equations, optical resonators, non-linear optics, the Kerr effect and Faraday rotation. Applications to gas, crystal, glass, liquid, dye, semiconductor, chemical and ultraviolet lasers, Q-switching, mode-locking, and parametric devices.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

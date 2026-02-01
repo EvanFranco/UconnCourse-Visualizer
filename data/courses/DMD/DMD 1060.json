@@ -1,0 +1,16 @@
+{
+    "name": "DMD 1060",
+    "dept_code": "DMD",
+    "id_number": "1060",
+    "title": "Fundamentals of Programming for Game, Web, and Interactive Media Design",
+    "description": "Introduction to programming for artists and designers through a combination of lecture and hands-on studio exercises. Students learn the basic principles of computer programming which set the foundation for future courses in game, web, and interactive media design.",
+    "credits": "3",
+    "requirement_description": "DMD 1001; open only to Digital Media and Design majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

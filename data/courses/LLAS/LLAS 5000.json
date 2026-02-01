@@ -1,0 +1,16 @@
+{
+    "name": "LLAS 5000",
+    "dept_code": "LLAS",
+    "id_number": "5000",
+    "title": "Seminar in Latin American Studies",
+    "description": "Interdisciplinary introduction to graduate level study of Latin America.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

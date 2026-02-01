@@ -1,0 +1,18 @@
+{
+    "name": "PHIL 2212W",
+    "dept_code": "PHIL",
+    "id_number": "2212W",
+    "title": "Philosophy of Science",
+    "description": "Issues concerning the nature and foundations of scientific knowledge, including, for example, issues about scientific objectivity and progress.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

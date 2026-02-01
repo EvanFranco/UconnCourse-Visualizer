@@ -1,0 +1,16 @@
+{
+    "name": "JOUR 3045",
+    "dept_code": "JOUR",
+    "id_number": "3045",
+    "title": "Specialized Journalism",
+    "description": "An introduction to specialized fields such as business, science, education, arts, sports, and entertainment reporting. Students will examine some of the best work in the fields and will consider ethical issues and other problems.",
+    "credits": "3",
+    "requirement_description": "JOUR 2000W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

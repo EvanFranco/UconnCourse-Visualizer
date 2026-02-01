@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 3201",
+    "dept_code": "ENVE",
+    "id_number": "3201",
+    "title": "Environmental Engineering Laboratory I",
+    "description": "Analytical chemistry techniques, adsorption, coagulation/flocculation, chemical and biological oxidation and kinetics. Interpretation of analytical results through written reports.",
+    "credits": "1",
+    "requirement_description": "Corequisite: ENVE 3220 and 4210; enrollment in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

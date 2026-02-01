@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3179",
+    "dept_code": "PNB",
+    "id_number": "3179",
+    "title": "Molecular Physiology in Drosophila Models",
+    "description": "Molecular and cellular techniques used to answer physiology research questions in Drosophila models. Students will gain hands-on laboratory experience measuring lifespan, ovulation, fecundity, tissue remodeling, respiration rate, and metabolic parameters. Assays may include western blotting, immunoprecipitation, immunohistochemistry, spectroscopy, PCR, and mass spectrometry.",
+    "credits": "2",
+    "requirement_description": "PNB 3178; Students with related research experience may enroll with instructor consent. Recommended Preparation: PNB 2275 or 2775 or 2250.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

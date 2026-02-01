@@ -1,0 +1,16 @@
+{
+    "name": "UNIV 1810",
+    "dept_code": "UNIV",
+    "id_number": "1810",
+    "title": "FYE Learning Community Seminar",
+    "description": "An overview of topics relevant to the theme of the Learning Community. May be repeated for a total of 3 credits.",
+    "credits": "1",
+    "requirement_description": "Open to First-Year or Sophomore students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

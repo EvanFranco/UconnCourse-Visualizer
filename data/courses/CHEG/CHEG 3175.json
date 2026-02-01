@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 3175",
+    "dept_code": "CHEG",
+    "id_number": "3175",
+    "title": "Introduction to Computational Biomolecular Engineering",
+    "description": "This course offers students an introduction to the growing field of computational biomolecular engineering, which combines concepts from biology, engineering, and computer science. Students will gain foundational knowledge of relevant topics such as biomolecular modeling, simulation, and design. The course provides a broad overview of key ideas and technologies that are advancing this interdisciplinary area. While being an introductory class, it will equip students with an understanding of current techniques and prepare them for more advanced study at the intersection of these important scientific fields.",
+    "credits": "3",
+    "requirement_description": "Recommended Preparation: CHEG 3151.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

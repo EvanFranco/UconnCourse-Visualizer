@@ -1,0 +1,16 @@
+{
+    "name": "POLS 2235",
+    "dept_code": "POLS",
+    "id_number": "2235",
+    "title": "Latin American Politics",
+    "description": "Theories and institutions of Latin American politics, with emphasis on issues of stability and change. Formerly offered as POLS 3235.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5141",
+    "dept_code": "ISG",
+    "id_number": "5141",
+    "title": "Metabolic and Cardiovascular Genomics",
+    "description": "Focuses on the connections between human development and inherited disease. The course will include core principles of inborn errors of metabolism and cardiovascular genomics.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Recommended preparation: ISG 5100, 5102, 5103, 5140, 5730.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

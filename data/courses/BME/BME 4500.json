@@ -1,0 +1,16 @@
+{
+    "name": "BME 4500",
+    "dept_code": "BME",
+    "id_number": "4500",
+    "title": "Bioinstrumentation",
+    "description": "Modeling, analysis, design, and operation of transducers, sensors, and electrodes, for physiological systems; operational and instrumentation  amplifiers for bioelectric event signal conditioning, interfacing and  processing; A/D converters and hardware and software principles as related to sampling, storing, processing, and display of biosignals and digital computers.",
+    "credits": "3",
+    "requirement_description": "BME 3500; BME 3400 (or ECE3101); open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

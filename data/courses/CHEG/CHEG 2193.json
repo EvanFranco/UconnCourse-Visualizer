@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 2193",
+    "dept_code": "CHEG",
+    "id_number": "2193",
+    "title": "International Study",
+    "description": "Special engineering topics taken in an international study program. May count toward the major with consent of the advisor and approved plan of study. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Consent of Department Head or Designee required, normally to be granted prior to the student's departure.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

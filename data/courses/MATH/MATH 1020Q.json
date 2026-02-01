@@ -1,0 +1,18 @@
+{
+    "name": "MATH 1020Q",
+    "dept_code": "MATH",
+    "id_number": "1020Q",
+    "title": "Problem Solving",
+    "description": "An introduction to the techniques used by mathematicians to solve problems. Skills such as Externalization (pictures and charts), Visualization (associated mental images), Simplification, Trial and Error, and Lateral Thinking learned through the study of mathematical problems. Problems drawn from combinatorics, probability, optimization, cryptology, graph theory, and fractals. Students will be encouraged to work cooperatively and to think independently. Not eligible for course credit by examination.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: MATH 1011Q or equivalent. Not open for credit to students who have passed any math course other than MATH 1010Q, 1011Q, 1020Q, 1030Q, 1040Q, 1050Q, 1060Q, or 1070Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

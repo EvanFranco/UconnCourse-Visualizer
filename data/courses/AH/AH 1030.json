@@ -1,0 +1,20 @@
+{
+    "name": "AH 1030",
+    "dept_code": "AH",
+    "id_number": "1030",
+    "title": "Interdisciplinary Approach to Obesity Prevention",
+    "description": "(Also offered as NUSC\u00a01030.) Explores the biology of obesity including genetic predispositions and behaviors that increase obesity risk (dietary, physical activity, social, psychological), the obesigenic environment, including how communities are physically built, as well as the economic relationship to obesity risk, and policy and ethical implications for obesity prevention. Multi-level obesity prevention approaches that involve the individual, family, organization, community, and policy. CA 3.",
+    "credits": "3",
+    "requirement_description": "Open to freshmen and sophomores in the Honors Program.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

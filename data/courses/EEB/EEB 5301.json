@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5301",
+    "dept_code": "EEB",
+    "id_number": "5301",
+    "title": "Population and Community Ecology",
+    "description": "Overview of population and community ecology, including population regulation and dynamics, metapopulations, species interactions, biodiversity, community structure, and evolutionary ecology. Theoretical and case-history approaches, emphasizing plants, invertebrates, and vertebrates. Lecture, discussion, and exercises in analysis and modeling.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in EEB, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

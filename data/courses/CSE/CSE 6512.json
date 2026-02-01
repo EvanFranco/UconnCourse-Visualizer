@@ -1,0 +1,16 @@
+{
+    "name": "CSE 6512",
+    "dept_code": "CSE",
+    "id_number": "6512",
+    "title": "Randomization in Computing",
+    "description": "Introduction to the theory and practice of randomization and randomized algorithms as a technique for science and engineering problem solving. Topics to be covered include: probability theory, types of randomization, sorting and selection, hashing and skip list, finger-printing, packet routing, geometry and linear programming, graph algorithms, combinatorial optimization, and external memory algorithms.",
+    "credits": "3",
+    "requirement_description": "CSE 5500. Open to graduate students in the CSE program, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 6304",
+    "dept_code": "PSYC",
+    "id_number": "6304",
+    "title": "Practicum in Clinical Supervision",
+    "description": "Supervised training in supervising psycho-diagnostic and psychotherapeutic activities of less advanced clinical psychology students. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "PSYC 5301, 5304, 6301, and 6302; open to students in Clinical Psychology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

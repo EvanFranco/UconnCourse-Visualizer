@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 3090",
+    "dept_code": "HDFS",
+    "id_number": "3090",
+    "title": "Fieldwork in Community Settings",
+    "description": "Supervised participation in settings where purposes and functions are related to the development and welfare of individuals and families. Cannot be repeated for credit. Cannot be used towards meeting major requirements in HDFS nor towards meeting GPA requirements in HDFS. Weekly seminar required. Practicum by arrangement.",
+    "credits": "3",
+    "requirement_description": "HDFS 3080; GPA of 2.5 in HDFS courses and 15 units of 2000 level or above HDFS courses.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

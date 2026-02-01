@@ -1,0 +1,16 @@
+{
+    "name": "PHRX 3014",
+    "dept_code": "PHRX",
+    "id_number": "3014",
+    "title": "Pharmacotherapy Essentials Module",
+    "description": "This course establishes the essentials in pharmacotherapy concepts and serves as the foundation for future therapeutics modules. It provides an introduction to medication therapy considerations across the lifespan (pediatric, pregnancy and lactation, geriatrics).",
+    "credits": "3",
+    "requirement_description": "PHRX 3004, PHRX 3005, PHRX 3030, PHRX 3010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 3151",
+    "dept_code": "CHEG",
+    "id_number": "3151",
+    "title": "Process Kinetics",
+    "description": "Theory of chemical rate; homogeneous, heterogeneous and catalytic systems. Analysis and design of batch and flow reaction systems; analysis of rate data; temperature and catalytic effects in reactor design; mass transport effects; non-ideal reactor design.",
+    "credits": "3",
+    "requirement_description": "CHEG 3112; open only to School of Engineering students. Corequisite: CHEG 3124, 3128.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

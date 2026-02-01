@@ -1,0 +1,16 @@
+{
+    "name": "BIOL 1109",
+    "dept_code": "BIOL",
+    "id_number": "1109",
+    "title": "Topics in Modern Biology",
+    "description": "Readings, lectures, seminars, films and field trips exploring current developments in biology and their social and scientific implications. May be repeated with a change of content. May be repeated for credit.",
+    "credits": "1",
+    "requirement_description": "Concurrent enrollment in BIOL 1107 or 1108 required. Students cannot earn more than 12 credits of 1000 level BIOL.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

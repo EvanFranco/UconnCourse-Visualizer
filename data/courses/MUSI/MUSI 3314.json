@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3314",
+    "dept_code": "MUSI",
+    "id_number": "3314",
+    "title": "Harmony IV",
+    "description": "Continuation of MUSI\u00a03313.",
+    "credits": "3",
+    "requirement_description": "MUSI 3313. May not be taken out of sequence after passing MUSI 3321, 3331, 3342, 3361, or 3371.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

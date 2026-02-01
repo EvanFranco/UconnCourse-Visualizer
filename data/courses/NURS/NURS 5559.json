@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5559",
+    "dept_code": "NURS",
+    "id_number": "5559",
+    "title": "AGNP Acute Care Clinical Practicum I",
+    "description": "The first of three clinical practicum courses in the adult gerontology acute care nurse practitioner curriculum. This course is designed to introduce the role of the adult gerontology acute care nurse practitioner. Using an evidence-based practice framework, the student will assess and manage acute and chronic illnesses in the clinical setting, including demonstration of knowledge of pathophysiology and pharmacologic interventions according to current standards of care for the adult and older adult population in acute care clinical settings.",
+    "credits": "3",
+    "requirement_description": "NURS 5060, 5562 and 5590; open only to graduate students in the Adult Gerontology Acute Care Nurse Practitioner concentration. Corequisite: NURS 5500 and 5550.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

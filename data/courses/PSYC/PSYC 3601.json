@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3601",
+    "dept_code": "PSYC",
+    "id_number": "3601",
+    "title": "Human Factors Design",
+    "description": "Application of information about human abilities and limitations to the design of systems, products, tools, computer interfaces, tasks, jobs, and environments for safe, comfortable and effective human use.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

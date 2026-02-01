@@ -1,0 +1,16 @@
+{
+    "name": "MATH 6030",
+    "dept_code": "MATH",
+    "id_number": "6030",
+    "title": "Seminar in Topology",
+    "description": "",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

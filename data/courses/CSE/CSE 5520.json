@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5520",
+    "dept_code": "CSE",
+    "id_number": "5520",
+    "title": "Data Visualization and Communication",
+    "description": "This course will focus on fundamental theory and practice of data visualization and communication. Topics to be covered include different data types, algorithms for data visualization, design of effective visualization for analysis and communication, exploratory and explanatory data analysis (for discovery of new information, detecting flaws, etc.), using data visualization to convey different messages, existing tools for data visualization, and making presentations with data. Several case studies, such as engineering, economics, or health, will be discussed.",
+    "credits": "3",
+    "requirement_description": "Only open to Computer Science and Engineering graduate students, others with permission. Recommended preparation: knowledge of algorithms, some programming experience required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

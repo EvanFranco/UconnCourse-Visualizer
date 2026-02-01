@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3300",
+    "dept_code": "DMD",
+    "id_number": "3300",
+    "title": "3D Animation II",
+    "description": "Continuation of the core animation principles to explore advanced animation techniques including character animation, deformations, and non-linear animation.",
+    "credits": "3",
+    "requirement_description": "DMD 2300, 2310 and 2320; open to B.F.A Digital Media and Design 3D Animation concentration students, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

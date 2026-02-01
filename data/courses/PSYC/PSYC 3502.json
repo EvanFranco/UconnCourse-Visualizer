@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3502",
+    "dept_code": "PSYC",
+    "id_number": "3502",
+    "title": "Psychology of Consciousness",
+    "description": "The role of consciousness in human cognition is examined by comparing the conscious and unconscious operation of mental faculties including perception, memory, learning, and thought.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100; open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

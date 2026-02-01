@@ -1,0 +1,18 @@
+{
+    "name": "KINS 3099W",
+    "dept_code": "KINS",
+    "id_number": "3099W",
+    "title": "Independent Study for Undergraduates",
+    "description": "Laboratory or library research to expand understanding of a specialized topic in sport, leisure, or exercise sciences. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open only to seniors with consent of the Department Head.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

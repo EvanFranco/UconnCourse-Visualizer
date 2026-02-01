@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 5359",
+    "dept_code": "MUSI",
+    "id_number": "5359",
+    "title": "History of Music Theory",
+    "description": "Speculative pedagogical and analytical thought on the music in theoretical treatises from antiquity to the twentieth century.",
+    "credits": "3",
+    "requirement_description": "MUSI 5302.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

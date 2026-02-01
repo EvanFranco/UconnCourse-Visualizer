@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5332",
+    "dept_code": "CHEM",
+    "id_number": "5332",
+    "title": "Mass Spectrometry-Based Metabolomics",
+    "description": "Introduction to mass spectrometry (MS)-based metabolomics with emphasis on practical applications across chemistry, biochemistry, environmental science, and pharmaceutical research. Topics include MS instrumentation overview, experimental design, MS data acquisition and processing, statistical analysis (both univariate and multivariate), and biological interpretation. Covers current computational methods for analyzing MS data such as molecular networking, machine learning (ML) techniques, and data visualization. Combines theoretical concepts with hands-on data analysis using public datasets.",
+    "credits": "3",
+    "requirement_description": "CHEM 3332. Recommended preparation: Mass spectrometry, separation, and statistics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

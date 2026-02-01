@@ -1,0 +1,16 @@
+{
+    "name": "ME 3276",
+    "dept_code": "ME",
+    "id_number": "3276",
+    "title": "Propulsion",
+    "description": "Physical and chemical concepts of basic importance in modern propulsion systems, including rockets and air-breathing engines. Topics of interest include energy sources of propulsion, performance criteria, one-dimensional gas dynamics, chemical thermodynamics, deflagration, detonation, rocket flight performance, rocket staging, chemical rockets, electric propulsion, turboprop, turbofan, turbojet, ramjet, scramjet, cycle analysis, solar sails, etc.",
+    "credits": "3",
+    "requirement_description": "ME 2234 and 3250.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

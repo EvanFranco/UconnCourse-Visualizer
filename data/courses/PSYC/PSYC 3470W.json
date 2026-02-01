@@ -1,0 +1,18 @@
+{
+    "name": "PSYC 3470W",
+    "dept_code": "PSYC",
+    "id_number": "3470W",
+    "title": "Current Topics in Developmental Psychology",
+    "description": "Selected topics (e.g., infant development, peer relations, cognitive development, and developmental psychobiology) that may vary with each offering. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "PSYC 2400; ENGL 1007, 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

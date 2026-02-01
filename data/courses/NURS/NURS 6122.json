@@ -1,0 +1,16 @@
+{
+    "name": "NURS 6122",
+    "dept_code": "NURS",
+    "id_number": "6122",
+    "title": "Quantitative Methods for Design and Analysis in Nursing Research I",
+    "description": "First course in a three-semester sequence that focuses on the study and application of quantitative research methods from design through statistical analysis for experimental, quasi-experimental, and non-experimental designs in nursing and healthcare. Options for the structures of experimental designs appropriate to research in nursing and healthcare will be emphasized, including a study of theories and methods of instrument development to support such designs. An introduction to methods for multivariate statistical analysis will occur concurrently.",
+    "credits": "3",
+    "requirement_description": "Open to students in the Nursing PhD program; Others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

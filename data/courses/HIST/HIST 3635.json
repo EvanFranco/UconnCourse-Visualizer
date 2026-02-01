@@ -1,0 +1,23 @@
+{
+    "name": "HIST 3635",
+    "dept_code": "HIST",
+    "id_number": "3635",
+    "title": "History of Modern Mexico",
+    "description": "(Also offered as LLAS\u00a03635.) The emergence of modern Mexico from independence to the present with emphasis on the Revolution of 1910. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: HIST 3607.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5895",
+    "dept_code": "MARN",
+    "id_number": "5895",
+    "title": "Special Topics",
+    "description": "A new or pilot course offering in Marine Sciences. May be repeated with a change of topic. May be repeated for a total of 24 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

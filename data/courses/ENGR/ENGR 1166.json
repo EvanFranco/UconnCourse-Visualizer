@@ -1,0 +1,16 @@
+{
+    "name": "ENGR 1166",
+    "dept_code": "ENGR",
+    "id_number": "1166",
+    "title": "Foundations of Engineering",
+    "description": "Introductory topics in a specific engineering major. Topics selected by Department or Program, or Regional Campus faculty. Students to select section based on their selected or intended major. In the context of the discipline, students would develop skills transferable to other engineering disciplines.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to juniors or seniors in the School of Engineering. Not open for credit for students who have passed ENGR 151.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

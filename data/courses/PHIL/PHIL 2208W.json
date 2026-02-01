@@ -1,0 +1,18 @@
+{
+    "name": "PHIL 2208W",
+    "dept_code": "PHIL",
+    "id_number": "2208W",
+    "title": "Epistemology",
+    "description": "Theories of knowledge and justification. Topics may include skepticism, induction, confirmation, perception, memory, testimony, a priori knowledge.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

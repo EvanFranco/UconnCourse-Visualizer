@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5240",
+    "dept_code": "MCB",
+    "id_number": "5240",
+    "title": "Virology",
+    "description": "Biological, biochemical, genetic, and physical characteristics of viruses, with an emphasis on molecular and quantitative aspects of virus-cell interactions.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

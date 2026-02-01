@@ -1,0 +1,16 @@
+{
+    "name": "BME 4401",
+    "dept_code": "BME",
+    "id_number": "4401",
+    "title": "Computational Foundations of Systems Biology",
+    "description": "Introduction to computational systems biology, which focuses on studying the dynamic and intelligent features (e.g., adaptation and robustness) of biological systems. Through a variety of assignments and projects using MATLAB, LabVIEW and C#, students will obtain a deeper understanding of physical and engineering principles and methods (e.g., computational physics, digital signal processing, control engineering, and digital logic) applied to biological systems.",
+    "credits": "3",
+    "requirement_description": "Open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

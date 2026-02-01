@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 6639",
+    "dept_code": "EPSY",
+    "id_number": "6639",
+    "title": "Advanced Techniques for Psychometric Research",
+    "description": "Monte Carlo techniques for psychometric research. Design and carry out research studies for investigating new and existing psychometric and statistical procedures using simulated data. Estimation procedures for linear and nonlinear models for observed and latent variables. Students will develop their own custom computer programs and use existing software packages. Programs will primarily be written in Fortran 90.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

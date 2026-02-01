@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 6950",
+    "dept_code": "GRAD",
+    "id_number": "6950",
+    "title": "Doctoral Dissertation Research",
+    "description": "Associated with the research efforts of students pursuing a doctoral degree, and may be used to meet the fifteen-credit doctoral research requirement. May be repeated for a total of 200 credits.",
+    "credits": "1-9",
+    "requirement_description": "Open only to doctoral students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

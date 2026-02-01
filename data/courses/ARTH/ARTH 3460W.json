@@ -1,0 +1,18 @@
+{
+    "name": "ARTH 3460W",
+    "dept_code": "ARTH",
+    "id_number": "3460W",
+    "title": "History of Photography: 1839 to World War I",
+    "description": "Topics in the history of photography from 1839 to World War I.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

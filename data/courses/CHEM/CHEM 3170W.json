@@ -1,0 +1,18 @@
+{
+    "name": "CHEM 3170W",
+    "dept_code": "CHEM",
+    "id_number": "3170W",
+    "title": "Technical Communications",
+    "description": "Covers various aspects of technical writing and oral presentation of technical reports. The student will be introduced to the broad spectrum of the chemical literature; various approaches to information retrieval, including computer searches, will be demonstrated. Short reports based on chemical literature will include references and bibliographies. A major paper on a technical topic will be evaluated and corrected at each stage of its development. An oral report based on this material will also be required.",
+    "credits": "3",
+    "requirement_description": "CHEM 2443; ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FREN 3257",
+    "dept_code": "FREN",
+    "id_number": "3257",
+    "title": "French Phonetics",
+    "description": "A comprehensive study of the French phonetic system with the goal of helping students to improve their pronunciation. Coverage of prosody (intonation, accent, syllables, rhythm) and the connection between sounds and spelling in a wide array of contexts. Taught in French.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: French 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

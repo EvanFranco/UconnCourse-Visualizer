@@ -1,0 +1,16 @@
+{
+    "name": "MSE 5364",
+    "dept_code": "MSE",
+    "id_number": "5364",
+    "title": "Advanced Composites",
+    "description": "Mechanical properties, analysis and modeling of composite materials. The properties treated include stiffness, strength, fracture toughness, fatigue strength and creep resistance as they relate to fiber, whisker, particulate, and laminated composites.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

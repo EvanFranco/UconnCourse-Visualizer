@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 2241",
+    "dept_code": "CHEM",
+    "id_number": "2241",
+    "title": "Organic Chemistry",
+    "description": "An abridged course in organic chemistry designed to provide a background for related fields in which a general rather than a detailed knowledge of the compounds of carbon is required.",
+    "credits": "3",
+    "requirement_description": "CHEM 1122 or 1124Q or 1127Q or 1137Q or 1147Q. May not be taken out of sequence after passing CHEM 2443.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

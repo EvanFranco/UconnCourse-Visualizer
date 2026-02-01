@@ -1,0 +1,16 @@
+{
+    "name": "MFGE 5110",
+    "dept_code": "MFGE",
+    "id_number": "5110",
+    "title": "Advanced Manufacturing Quality Control",
+    "description": "Concepts and techniques of real time statistical process control. Statistical analysis will primarily be conducted using software like Excel/Minitab/R. Students will be introduced to measurement system analysis and hypothesis testing techniques to obtain and test for quality data. These techniques will be applied using design of experiments. Process optimization methods like the Taguchi method will be implemented and control charts will be studied.",
+    "credits": "3",
+    "requirement_description": "Department consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

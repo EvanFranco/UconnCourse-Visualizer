@@ -1,0 +1,16 @@
+{
+    "name": "STAT 5535",
+    "dept_code": "STAT",
+    "id_number": "5535",
+    "title": "Nonparametric Methods",
+    "description": "Theory and applications of statistical methods for analyzing ordinal, non-normal data: one and multiple sample hypothesis testing, empirical distribution functions and applications, order statistics, rank tests, efficiency, linear and nonlinear regression, classification.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed STAT 4875.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

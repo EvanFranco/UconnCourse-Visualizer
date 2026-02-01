@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 5500",
+    "dept_code": "PHYS",
+    "id_number": "5500",
+    "title": "Statistical Mechanics",
+    "description": "Ensembles, distribution function, partition function. Bose-Einstein and Fermi-Dirac distributions, fluctuations, applications to the properties of solids and liquids and to the kinetic theory of gases.",
+    "credits": "3",
+    "requirement_description": "PHYS 5401 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

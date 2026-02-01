@@ -1,0 +1,20 @@
+{
+    "name": "FREN 3218",
+    "dept_code": "FREN",
+    "id_number": "3218",
+    "title": "Francophone Studies",
+    "description": "The literatures, societies, and cultures of French-speaking countries in North Africa, West Africa, the Caribbean, the Pacific and of Francophone communities of Europe and North America. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: French 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

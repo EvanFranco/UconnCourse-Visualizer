@@ -1,0 +1,22 @@
+{
+    "name": "CLCS 2204",
+    "dept_code": "CLCS",
+    "id_number": "2204",
+    "title": "Jewish Culture in American Film",
+    "description": "(Also offered as AMST\u00a02204, HEJS\u00a02204.) Representations of the diversity of Jewish culture (historical, religious, secular) in American film. Introduction to film analysis and interpretation. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

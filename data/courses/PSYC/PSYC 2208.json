@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 2208",
+    "dept_code": "PSYC",
+    "id_number": "2208",
+    "title": "Sensory Systems Neuroscience",
+    "description": "Cellular, circuit, and neural systems basis of sensation and perception including evolutionary and ecological differences among mammals.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100 or BIOL 1107 or BIOL 1108.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

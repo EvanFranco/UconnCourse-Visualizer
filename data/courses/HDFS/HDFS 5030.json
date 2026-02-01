@@ -1,0 +1,16 @@
+{
+    "name": "HDFS 5030",
+    "dept_code": "HDFS",
+    "id_number": "5030",
+    "title": "Research Practicum",
+    "description": "Supervised research in Human Development and Family Sciences. May be repeated for a maximum of 24 credits. May be repeated for a total of 24 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

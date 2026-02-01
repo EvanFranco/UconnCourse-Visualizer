@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 4230",
+    "dept_code": "FNCE",
+    "id_number": "4230",
+    "title": "FinTech Economics and Business Models",
+    "description": "This course addresses the economics within the Fintech ecosystem, its various business models, and value creation with emphasis on the competitive landscape in Payments, Wealth management, Crowdfunding, and Lending. Topics include economic theories behind fintech business models (game theory, contract theory, etc.), strengths and weaknesses of fintech business models (BaaS, API, POS, etc.), comparisons between fintech business models and traditional business models, issues and regulations in the application of fintech models.",
+    "credits": "3",
+    "requirement_description": "FNCE 3101; open only to business majors of senior status.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3230",
+    "dept_code": "MATH",
+    "id_number": "3230",
+    "title": "Abstract Algebra I",
+    "description": "The fundamental topics of modern algebra including elementary number theory, groups, rings, polynomials and fields.",
+    "credits": "3",
+    "requirement_description": "A grade of C or better in MATH 2710 or 2142Q. Recommended preparation: MATH 2144Q or 2210Q. Cannot be taken after passing MATH 3231.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

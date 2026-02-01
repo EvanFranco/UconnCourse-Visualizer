@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 2205",
+    "dept_code": "PHIL",
+    "id_number": "2205",
+    "title": "Aesthetics",
+    "description": "The fundamentals of aesthetics, including an analysis of aesthetic experience and judgment, and a study of aesthetic types, such as the beautiful, tragic, comic and sublime. Recent systematic and experimental findings in relation to major theories of the aesthetic experience.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

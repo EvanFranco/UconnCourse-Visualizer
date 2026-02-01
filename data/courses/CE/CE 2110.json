@@ -1,0 +1,16 @@
+{
+    "name": "CE 2110",
+    "dept_code": "CE",
+    "id_number": "2110",
+    "title": "Applied Mechanics I",
+    "description": "Fundamentals of statics using vector methods. Resolution and composition of forces; equilibrium of force systems; analysis of forces acting on structures and machines; applications of friction; centroids; moment of inertia.",
+    "credits": "3",
+    "requirement_description": "MATH 1132Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

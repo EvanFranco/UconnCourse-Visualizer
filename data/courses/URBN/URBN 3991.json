@@ -1,0 +1,16 @@
+{
+    "name": "URBN 3991",
+    "dept_code": "URBN",
+    "id_number": "3991",
+    "title": "Internship in Urban Studies: Field Study",
+    "description": "A fieldwork internship program under the direction and supervision of a faculty member affiliated with the Urban Studies faculty. Hours by arrangement with hosting agency, 42 hours per semester per credit. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for a total of 6 credits.",
+    "credits": "1-3",
+    "requirement_description": "Must be taken concurrently with URBN 3981.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

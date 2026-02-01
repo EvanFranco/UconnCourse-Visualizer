@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3522",
+    "dept_code": "ANTH",
+    "id_number": "3522",
+    "title": "Ecological Anthropology Seminar",
+    "description": "Interdisciplinary study of the ecology of humans, integrating ecological and anthropological theory with archaeological, historical, and contemporary case-studies.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

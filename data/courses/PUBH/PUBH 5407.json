@@ -1,0 +1,16 @@
+{
+    "name": "PUBH 5407",
+    "dept_code": "PUBH",
+    "id_number": "5407",
+    "title": "Practicum in Public Health",
+    "description": "Under faculty guidance, students undertake an organized set of activities that responds to an identified need of a public health agency or health-related organization. The activities may involve the policy development, planning, implementation, administration or evaluation of public health services, or a combination of such activities. Students should be appropriately advanced before initiating the practicum. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Four foundational courses from PUBH 5403, 5404, 5405, 5406, 5408, or 5409. Recommended preparation: PUBH 5431.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

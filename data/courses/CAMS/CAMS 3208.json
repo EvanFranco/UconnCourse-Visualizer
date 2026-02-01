@@ -1,0 +1,16 @@
+{
+    "name": "CAMS 3208",
+    "dept_code": "CAMS",
+    "id_number": "3208",
+    "title": "Homer",
+    "description": "Selections from the Iliad or Odyssey. Taught in English.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MCB 6002",
+    "dept_code": "MCB",
+    "id_number": "6002",
+    "title": "MCB Faculty Research",
+    "description": "Department faculty present seminars describing their research interests to help incoming Molecular and Cell Biology Ph.D. graduate students choose laboratories for rotations.",
+    "credits": "1",
+    "requirement_description": "Open to Thesis M.S. and Ph.D. students in Molecular and Cell Biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

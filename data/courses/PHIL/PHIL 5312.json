@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 5312",
+    "dept_code": "PHIL",
+    "id_number": "5312",
+    "title": "Seminar in the Philosophy of Science",
+    "description": "A discussion of selected current, methodological issues in the philosophy of science. Topics may include scientific realism versus nonrealism; theories of scientific explanation; the nature of scientific revolutions; theories of the lawfulness of nature; and feminist theories of science. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Philosophy, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

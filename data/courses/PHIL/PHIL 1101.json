@@ -1,0 +1,20 @@
+{
+    "name": "PHIL 1101",
+    "dept_code": "PHIL",
+    "id_number": "1101",
+    "title": "Problems of Philosophy",
+    "description": "Topics may include skepticism, proofs of God, knowledge of the external world, induction, free-will, the problem of evil, miracles, liberty and equality. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EPSY 5403",
+    "dept_code": "EPSY",
+    "id_number": "5403",
+    "title": "Intellectual Assessment",
+    "description": "Administration of the standard instruments of intellectual assessment and synthesis of the test information into an assessment report.",
+    "credits": "3",
+    "requirement_description": "Enrollment in the School Psychology program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

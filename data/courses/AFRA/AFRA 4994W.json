@@ -1,0 +1,18 @@
+{
+    "name": "AFRA 4994W",
+    "dept_code": "AFRA",
+    "id_number": "4994W",
+    "title": "Senior Seminar",
+    "description": "Critical training and comprehensive examination of African American studies, using primary and secondary sources. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "AFRA 2211; ENGL 1007 or 1010 or 1011; course is required for majors and is generally taken in the senior year.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

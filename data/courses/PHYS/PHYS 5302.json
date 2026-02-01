@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 5302",
+    "dept_code": "PHYS",
+    "id_number": "5302",
+    "title": "Electrodynamics II",
+    "description": "Maxwell's equations with time dependent sources; radiation from relativistic charged particles; dynamical laws for charged particles; diffraction of electromagnetic waves.",
+    "credits": "3",
+    "requirement_description": "PHYS 5201 and 5301 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

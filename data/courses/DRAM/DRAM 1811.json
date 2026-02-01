@@ -1,0 +1,21 @@
+{
+    "name": "DRAM 1811",
+    "dept_code": "DRAM",
+    "id_number": "1811",
+    "title": "Dance Appreciation",
+    "description": "Overview of dance history, technique, and choreography based on lecture, discussion, films and practicum. No previous dance experience required. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

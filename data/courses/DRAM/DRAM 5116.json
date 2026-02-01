@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5116",
+    "dept_code": "DRAM",
+    "id_number": "5116",
+    "title": "Arts Leadership and Cultural Management Studio III",
+    "description": "Seminar-based course. Meets with Arts Leadership and Cultural Management Studio I, II, IV, and V. Case studies, and other forms of research, in arts administration.",
+    "credits": "1",
+    "requirement_description": "DRAM 5115.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

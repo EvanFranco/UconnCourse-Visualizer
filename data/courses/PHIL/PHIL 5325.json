@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 5325",
+    "dept_code": "PHIL",
+    "id_number": "5325",
+    "title": "Topics in Africana Philosophy",
+    "description": "Philosophical problems from across African American philosophy, Afro-Caribbean philosophy, and African philosophy, examined using approaches from Africana analytical, dialectical, existential, feminist, phenomenological, and pragmatist thought. May include a historical focus on ideas from ancient African philosophy. May be repeated for up to nine credits with change in content. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Philosophy and to others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

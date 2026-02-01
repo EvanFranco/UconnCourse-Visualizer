@@ -1,0 +1,21 @@
+{
+    "name": "ENGL 3715E",
+    "dept_code": "ENGL",
+    "id_number": "3715E",
+    "title": "Nature Writing Workshop",
+    "description": "For student writers of proven ability who desire training in techniques of nature writing. May include poetry, fiction, nonfiction, drama, or hybrid genres.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to sophomores or higher; instructor consent required. Recommended preparation: ENGL 2701.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI1",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

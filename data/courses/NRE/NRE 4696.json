@@ -1,0 +1,16 @@
+{
+    "name": "NRE 4696",
+    "dept_code": "NRE",
+    "id_number": "4696",
+    "title": "Undergraduate Research in Natural Resources",
+    "description": "Field or laboratory research performed by the advanced undergraduate student in an area of natural resources under the supervision of a NRE faculty member. A report and/or an oral presentation will be required at the end of the semester. May be repeated for a total of 6 credits.",
+    "credits": "2-6",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

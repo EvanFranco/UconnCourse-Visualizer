@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4401",
+    "dept_code": "ECE",
+    "id_number": "4401",
+    "title": "Digital Design Laboratory",
+    "description": "(Also offered as CSE\u00a03350.) Digital designing with PLA and FPGA, A/D and D/A conversion, floating point processing, ALU design, synchronous and asynchronous controllers, control path; bus master; bus slave; memory interface; I/O interface; logic circuits analysis, testing, and trouble shooting; PCB; design and manufacturing.",
+    "credits": "3",
+    "requirement_description": "CSE 3302 or ECE 3401, which may be taken concurrently; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

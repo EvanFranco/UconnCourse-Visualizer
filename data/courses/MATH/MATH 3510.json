@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3510",
+    "dept_code": "MATH",
+    "id_number": "3510",
+    "title": "Numerical Analysis I",
+    "description": "Analysis of numerical methods associated with linear systems, eigenvalues, inverses of matrices, zeros of non-linear functions and polynomials. Roundoff error and computational speed.",
+    "credits": "3",
+    "requirement_description": "Either (i) MATH 2110Q or 2130Q, and MATH 2410Q, and MATH 2210Q or 3210; or (ii) MATH 2144Q; knowledge of at least one programming language. May not be taken out of sequence after passing MATH 3511.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

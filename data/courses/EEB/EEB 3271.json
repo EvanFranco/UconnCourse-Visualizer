@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3271",
+    "dept_code": "EEB",
+    "id_number": "3271",
+    "title": "Systematic Botany",
+    "description": "Classification, identification, economic importance, evolution and nomenclature of flowering plants. Laboratory compares vegetative and reproductive characters of major families.",
+    "credits": "4",
+    "requirement_description": "BIOL 1108 or 1110 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

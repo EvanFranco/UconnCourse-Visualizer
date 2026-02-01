@@ -1,0 +1,16 @@
+{
+    "name": "CSE 2550",
+    "dept_code": "CSE",
+    "id_number": "2550",
+    "title": "Blockchain Technology I",
+    "description": "Introduction to the basics of blockchain technology. The course will cover the semantics of blockchains, cryptocurrencies, types of blockchains and consensus algorithms, wallet operation, privacy, threat modeling and security aspects of blockchains and cryptocurrencies, the paradigm of decentralized internet, and some ethical and environmental concerns from a technical lens.",
+    "credits": "3",
+    "requirement_description": "CSE 2050. Recommended preparation: CSE 3140.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

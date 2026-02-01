@@ -1,0 +1,16 @@
+{
+    "name": "SSW 6400",
+    "dept_code": "SSW",
+    "id_number": "6400",
+    "title": "Social Work Doctoral Program Independent Study",
+    "description": "Special Social Work topics not included in the Social Work Doctoral Program curriculum may be the subject of an Independent Study.  A proposal must be presented and approved by the Student's advisor and Doctoral Director. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open only to Social Work Doctoral Program students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

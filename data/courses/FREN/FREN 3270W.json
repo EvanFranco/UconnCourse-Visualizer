@@ -1,0 +1,23 @@
+{
+    "name": "FREN 3270W",
+    "dept_code": "FREN",
+    "id_number": "3270W",
+    "title": "French Literature and Civilization in English",
+    "description": "Representative works of French literature, on a particular theme. How literary forms articulate the ideas and values of different periods. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

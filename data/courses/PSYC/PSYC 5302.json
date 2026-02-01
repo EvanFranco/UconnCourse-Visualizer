@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 5302",
+    "dept_code": "PSYC",
+    "id_number": "5302",
+    "title": "Adult Psychopathology",
+    "description": "Theoretical and descriptive overviews of mental disorder that afflict adults, emphasizing etiology, diagnosis, and conceptualization.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Clinical Psychology and others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

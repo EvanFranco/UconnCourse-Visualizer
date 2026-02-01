@@ -1,0 +1,16 @@
+{
+    "name": "PNB 3251",
+    "dept_code": "PNB",
+    "id_number": "3251",
+    "title": "Biology of the Brain",
+    "description": "Brain functions, from molecular and cellular to overall central nervous system organization. Topics of current scientific interest.",
+    "credits": "3",
+    "requirement_description": "One 2000 level course in PNB or consent of instructor; open to juniors or higher. May not be taken out of sequence after passing PNB 3253W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

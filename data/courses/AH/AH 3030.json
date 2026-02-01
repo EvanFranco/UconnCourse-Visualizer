@@ -1,0 +1,16 @@
+{
+    "name": "AH 3030",
+    "dept_code": "AH",
+    "id_number": "3030",
+    "title": "Fundamentals of Brain, Behavior, and Health",
+    "description": "An interdisciplinary overview of the significant impact of brain and behavior conditions on health outcomes. Includes key concepts in brain biology, related mechanisms of behavior, risk factors to mental health, a survey of brain disorders and their impact on society, disparities in mental health care, and strategies to promote better outcomes.",
+    "credits": "3",
+    "requirement_description": "1000 level Biology, Psychology, or Physiology and Neurobiology course or equivalent. Open only to Allied Health majors; sophomores or higher; others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

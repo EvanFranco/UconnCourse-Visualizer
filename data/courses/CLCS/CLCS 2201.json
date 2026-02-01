@@ -1,0 +1,22 @@
+{
+    "name": "CLCS 2201",
+    "dept_code": "CLCS",
+    "id_number": "2201",
+    "title": "Intercultural Competency Towards Global Perspectives",
+    "description": "Introduction to the interdisciplinary and international field of intercultural communication in cultural studies, including culturally determined communicative behaviors, identity, semiotics, multi-disciplinary theories of culture, and stereotypes. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

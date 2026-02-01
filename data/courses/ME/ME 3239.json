@@ -1,0 +1,16 @@
+{
+    "name": "ME 3239",
+    "dept_code": "ME",
+    "id_number": "3239",
+    "title": "Combustion for Energy Conversion",
+    "description": "Introduction to combustion processes and chemical kinetics. Mechanism of the formation of pollutants such as nitrogen oxides, carbon monoxide, soot, and unburned hydrocarbons in stationary and vehicular power plants.",
+    "credits": "3",
+    "requirement_description": "ME 2234.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

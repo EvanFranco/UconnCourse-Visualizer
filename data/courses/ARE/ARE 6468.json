@@ -1,0 +1,16 @@
+{
+    "name": "ARE 6468",
+    "dept_code": "ARE",
+    "id_number": "6468",
+    "title": "Economics of Natural Resources",
+    "description": "Economic concepts and issues related to the allocation of stock resources through time, the use and protection of flow resources, and the role of natural resources in economic growth.",
+    "credits": "3",
+    "requirement_description": "ARE 5201 or ECON 5201 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

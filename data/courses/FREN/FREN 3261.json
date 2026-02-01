@@ -1,0 +1,21 @@
+{
+    "name": "FREN 3261",
+    "dept_code": "FREN",
+    "id_number": "3261",
+    "title": "From the Holy Grail to the Revolution: Introduction to Literature",
+    "description": "Texts from the Middle Ages to the 18th Century, including the Arthurian legend, Renaissance poetry, Classical theater, and the philosophy of the Enlightenment in the cultural context in which they were produced. CA 1.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: French 1104, three years of high school French, or equivalent proficiency level.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

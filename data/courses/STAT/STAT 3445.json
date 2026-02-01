@@ -1,0 +1,16 @@
+{
+    "name": "STAT 3445",
+    "dept_code": "STAT",
+    "id_number": "3445",
+    "title": "Introduction to Mathematical Statistics II",
+    "description": "Sampling distributions and parameter estimation. Neyman-Pearson theory of hypothesis testing, correlation, regression, analysis of variance.",
+    "credits": "3",
+    "requirement_description": "STAT 3375Q. Not open for credit to students who have passed STAT 5685. May not be taken out of sequence after passing STAT 4875.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

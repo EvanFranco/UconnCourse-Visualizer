@@ -1,0 +1,16 @@
+{
+    "name": "CHIN 3220",
+    "dept_code": "CHIN",
+    "id_number": "3220",
+    "title": "Business Chinese",
+    "description": "Introduction to Chinese business culture. Development of advanced Chinese written and oral competency in a business context. Taught in Chinese.",
+    "credits": "3",
+    "requirement_description": "CHIN 3210 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "ERTH 1050",
+    "dept_code": "ERTH",
+    "id_number": "1050",
+    "title": "Earth's Dynamic Environment",
+    "description": "Origin and history of planet Earth, emphasizing how rock, air, water, and life interact at different scales to produce the earth's crust, landforms, life systems, natural resources, catastrophes, and climatic regimes. Provides a scientific context for human-induced global change. CA 3-LAB.",
+    "credits": "4",
+    "requirement_description": "Not open for credit to students who have passed ERTH 1010, 1051, 1055, or 1070.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

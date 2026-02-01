@@ -1,0 +1,23 @@
+{
+    "name": "ENGR 2300E",
+    "dept_code": "ENGR",
+    "id_number": "2300E",
+    "title": "Engineering for Human Rights",
+    "description": "(Also offered as HRTS\u00a02300E.) Foundational concepts of human rights and engineering ethics from a global perspective. Discussions of the role of engineering in society from human rights and different ethical perspectives. Principles of \u201cEngineering for human rights\u201d on distributive justice, participation, consideration of duty bearers, accountability, and indivisibility of rights. Case study analysis of engineering projects for human rights impacts. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

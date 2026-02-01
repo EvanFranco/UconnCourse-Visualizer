@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5381",
+    "dept_code": "CHEM",
+    "id_number": "5381",
+    "title": "Polymer Physical Chemistry",
+    "description": "(Also offered as POLY\u00a05381.) A molecular description of the fundamental physico-chemical aspects of polymer solutions and solids. Considers thermodynamics, chain statistics, dynamics, and structure of polymer molecules.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

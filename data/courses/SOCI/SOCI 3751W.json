@@ -1,0 +1,18 @@
+{
+    "name": "SOCI 3751W",
+    "dept_code": "SOCI",
+    "id_number": "3751W",
+    "title": "Population in a Changing World",
+    "description": "Size, growth, composition and distribution of population; social factors in population change. Formerly offered as SOCI 3971W.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

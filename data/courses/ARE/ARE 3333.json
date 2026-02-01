@@ -1,0 +1,22 @@
+{
+    "name": "ARE 3333",
+    "dept_code": "ARE",
+    "id_number": "3333",
+    "title": "Computational Analysis in Applied Economics",
+    "description": "Learn fundamental concepts of statistics and economics through analysis of economic data using computer spreadsheets. Students should have a laptop computer in class.",
+    "credits": "3",
+    "requirement_description": "STAT 1000Q or STAT 1100Q or similar. Recommended preparation: ECON 1200 or ECON 1201 or ARE 1150.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3",
+        "CA3LAB"
+    ],
+    "tois": [
+        "TOI6",
+        "TOI6L"
+    ],
+    "skill_codes": [],
+    "lab": true,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

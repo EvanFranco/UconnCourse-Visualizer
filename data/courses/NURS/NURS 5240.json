@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5240",
+    "dept_code": "NURS",
+    "id_number": "5240",
+    "title": "Nursing Leadership Foundations",
+    "description": "Introduction to the process of nursing leadership. Emphasis placed on theories of leadership, motivation, organization design and problem solving. May be repeated for a total of 3 credits.",
+    "credits": "3",
+    "requirement_description": "Instructor consent; open to graduate nursing students. May be repeated for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

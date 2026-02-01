@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5322",
+    "dept_code": "MEDS",
+    "id_number": "5322",
+    "title": "Developmental Biology",
+    "description": "History, concepts, and experimental strategies in both classical and modern developmental biology. Topics ranging from early fertilization, to early embryonic development, to the formation of adult structures are considered and compared in a range of model organisms. One hour of lecture by instructors and one hour of literature analysis and discussion by students each week. Course grade will combine results of class participation and a final exam.",
+    "credits": "2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "STAT 4915",
+    "dept_code": "STAT",
+    "id_number": "4915",
+    "title": "Data Science in Action",
+    "description": "Capstone course in data science. Real-world statistical data science in practice: problem formulation; integration of statistics, computing, and domain knowledge; collaboration; communication; reproducibility; project management.",
+    "credits": "3",
+    "requirement_description": "STAT 3255; STAT 3025Q or 3375Q or MATH 3160 or instructor consent. Corequisite: STAT 4916W. Open only to Statistical Data Science majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 5345",
+    "dept_code": "ANTH",
+    "id_number": "5345",
+    "title": "The Neanderthals",
+    "description": "Biological, cultural, technological, and behavioral evolution of Neanderthals as understood through the fields of genetics, physical anthropology, palaeolithic archaeology, human behavioral ecology, hunter-gatherer ethnography, palaeoclimatology, chronometric dating, and geology. Neanderthal-Modern Human interactions and the Middle-Upper Palaeolithic transition are also considered.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

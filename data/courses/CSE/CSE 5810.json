@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5810",
+    "dept_code": "CSE",
+    "id_number": "5810",
+    "title": "Introduction to Biomedical Informatics",
+    "description": "Introduction to biomedical informatics theory and practice with an emphasis on data management for information classification (ontologies), collection, storage, analysis, dissemination, etc., applied to medical, clinical, and public health domains.  Topics include: software architectures, security and privacy, interoperabilty and data exchange, standards and the semantic web, health care systems, clinical decision support, data mining, health care systems, monitoring and sensor devices, and cloud/grid computing.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 4102, CSE 4701 or CSE4300.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

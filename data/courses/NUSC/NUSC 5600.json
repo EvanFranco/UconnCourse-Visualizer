@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5600",
+    "dept_code": "NUSC",
+    "id_number": "5600",
+    "title": "Pathophysiology of Metabolic Diseases",
+    "description": "Biochemical, physiological and molecular aspects of energy metabolism and inflammatory pathways involved in pathogenesis of metabolic diseases; diet and dietary component contribution to pathogenesis.",
+    "credits": "3",
+    "requirement_description": "NUSC 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

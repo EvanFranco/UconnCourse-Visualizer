@@ -1,0 +1,21 @@
+{
+    "name": "ECON 2467E",
+    "dept_code": "ECON",
+    "id_number": "2467E",
+    "title": "Economics of the Oceans",
+    "description": "(Also offered as MAST\u00a02467E.) Economies of industries that use and manage ocean resources. Applications of industrial organization, law and economics, natural resource theory, and environmental economics.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or 1201 or ARE 1150.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

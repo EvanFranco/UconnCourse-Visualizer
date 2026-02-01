@@ -1,0 +1,18 @@
+{
+    "name": "INTD 3584",
+    "dept_code": "INTD",
+    "id_number": "3584",
+    "title": "Seminar in Urban Problems",
+    "description": "Discussions based upon assigned readings and led by faculty and invited speakers from outside and within the University. CA 4.",
+    "credits": "3",
+    "requirement_description": "Must be taken concurrently with INTD 3590 and 3594; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

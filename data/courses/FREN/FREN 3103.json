@@ -1,0 +1,16 @@
+{
+    "name": "FREN 3103",
+    "dept_code": "FREN",
+    "id_number": "3103",
+    "title": "French for Engineering III",
+    "description": "Provides dual-degree Engineering and French students more advanced vocabulary, methods, and field-specific knowledge. Students will learn to describe scientific processes, to follow presentations in French, to do research to create preparation materials for their interviews with engineers. Students will also learn practical job-seeking skills, including practice with French-style CVs, job letters and interviews.",
+    "credits": "1",
+    "requirement_description": "Open only to dual-degree French and Engineering students; instructor consent required. Recommended preparation: FREN 1103 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

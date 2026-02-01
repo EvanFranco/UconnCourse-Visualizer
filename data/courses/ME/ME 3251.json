@@ -1,0 +1,16 @@
+{
+    "name": "ME 3251",
+    "dept_code": "ME",
+    "id_number": "3251",
+    "title": "Fluid Dynamics II",
+    "description": "One-dimensional compressible flow with applications to propulsion systems and gas-dynamic testing devices. Flows with friction and heat addition. Normal and oblique shock waves. Prandtl-Meyer flow. Selected topics in liquid flow.",
+    "credits": "3",
+    "requirement_description": "ME 3250 or CE 3120.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

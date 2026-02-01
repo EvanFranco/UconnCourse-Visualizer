@@ -1,0 +1,22 @@
+{
+    "name": "MARN 3000E",
+    "dept_code": "MARN",
+    "id_number": "3000E",
+    "title": "The Oceans and Global Climate",
+    "description": "Understanding human impacts on the global climate system; the basics of domestic and international climate policy; and strategies for communicating climate-change science to the broader public, with special emphasis on the oceans. Topics include the Earth's energy budget and carbon cycle; the properties of greenhouse gases; historical and future changes in Earth's climate; impacts of global change on the oceans; and the implications of climate change for human behavior and energy usage. CA 3.",
+    "credits": "3",
+    "requirement_description": "CHEM 1127Q; PHYS 1201Q or 1401Q or 1501Q or 1601Q. Recommended preparation: ERTH 1051 and MARN 1002.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

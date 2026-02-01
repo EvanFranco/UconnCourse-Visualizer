@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 5502",
+    "dept_code": "OPIM",
+    "id_number": "5502",
+    "title": "Big Data Analytics with Cloud Computing",
+    "description": "In-depth, hands-on exploration of various cutting-edge information technologies used for big data analytics. The first half focuses on using big data management techniques for ETL (extract-transform-load) operations. The second half focuses on using big data analytics tools for data mining algorithms such as classification, clustering, and collaborative filtering. Extremely hands-on, requiring students to spend significant time working with large datasets. Students are expected to have taken at least one course in data modeling and one course in data mining (please see pre-requisites) or have significant related work experience. Students should expect to become familiar with the Unix operating system, as well as data programming concepts. Students may be required to install some software on their computers on their own, with very little support, if any, from the instructor or anyone else. Students should be willing to troubleshoot any issues during installation, drawing help from Google searches.",
+    "credits": "3",
+    "requirement_description": "OPIM 5604 or BADM 5604; and OPIM 5272.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

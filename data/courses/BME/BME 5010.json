@@ -1,0 +1,16 @@
+{
+    "name": "BME 5010",
+    "dept_code": "BME",
+    "id_number": "5010",
+    "title": "Research Methods in Biomedical Engineering",
+    "description": "Inquiry into the nature of research with emphasis on the spirit, logic, and components of the scientific methods. Health related research literature is used to aid the student in learning to read, understand, and critically analyze published materials. The preparation of research proposals and reports is emphasized.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

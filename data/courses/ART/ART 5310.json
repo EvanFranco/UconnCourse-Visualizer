@@ -1,0 +1,16 @@
+{
+    "name": "ART 5310",
+    "dept_code": "ART",
+    "id_number": "5310",
+    "title": "Graduate Art Seminar",
+    "description": "Discussions, readings, and analyses relating current studio work to contemporary trends in art. May be repeated for a total of 12 credits.",
+    "credits": "3",
+    "requirement_description": "RC Art MFA students only",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

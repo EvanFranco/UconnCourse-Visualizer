@@ -1,0 +1,16 @@
+{
+    "name": "PHYS 6212",
+    "dept_code": "PHYS",
+    "id_number": "6212",
+    "title": "Condensed Matter Physics II",
+    "description": "Crystal structure; lattice vibrations; electronic band structure of solids; transport theory; basic properties of metals, semi-conductors and insulators; magnetism; super-conductivity.",
+    "credits": "3",
+    "requirement_description": "PHYS 6211.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

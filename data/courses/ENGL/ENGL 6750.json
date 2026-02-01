@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 6750",
+    "dept_code": "ENGL",
+    "id_number": "6750",
+    "title": "Seminar in Language and Literature",
+    "description": "This course may be repeated with a change in content. May be repeated for a total of 21 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

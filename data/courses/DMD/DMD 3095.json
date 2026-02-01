@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3095",
+    "dept_code": "DMD",
+    "id_number": "3095",
+    "title": "Special Topics in Digital Media",
+    "description": "Seminar focusing in digital media. Content will vary each semester based upon instructor expertise. May be repeated for a total of 18 credits.",
+    "credits": "1-6",
+    "requirement_description": "Open only to Digital Media and Design majors; others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

@@ -1,0 +1,16 @@
+{
+    "name": "KINS 6520",
+    "dept_code": "KINS",
+    "id_number": "6520",
+    "title": "Thermal Physiology",
+    "description": "Detrimental effects which exercise in the heat and dehydration have on: cardiovascular function, strength, endurance, fluid-electrolyte balance, disposition, and heat tolerance.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

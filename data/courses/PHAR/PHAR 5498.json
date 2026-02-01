@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5498",
+    "dept_code": "PHAR",
+    "id_number": "5498",
+    "title": "Special Topics in Toxicology",
+    "description": "Basic principles of toxicology as emphasized by recent developments in the biochemical toxicology literature. May be repeated for a total of 24 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

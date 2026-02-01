@@ -1,0 +1,16 @@
+{
+    "name": "ME 3120",
+    "dept_code": "ME",
+    "id_number": "3120",
+    "title": "Advanced Dynamics",
+    "description": "The study of moving objects and how they interact. We will explore equations of motion using kinematics: the geometry of motion and kinetics: the study of forces acting on objects. We will compare solving problems analytically and numerically using Newton\u2019s equations of motion and Lagrange\u2019s equations of motion.",
+    "credits": "3",
+    "requirement_description": "CE 2120 or ME 2120. Not open for credit to students who have passed ME 3295 when offered as \"Advanced Dynamics.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

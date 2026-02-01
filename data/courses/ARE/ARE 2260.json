@@ -1,0 +1,16 @@
+{
+    "name": "ARE 2260",
+    "dept_code": "ARE",
+    "id_number": "2260",
+    "title": "Food Policy",
+    "description": "Analysis of food and agricultural policies in the United States and abroad. Designed for students with diverse departmental affiliations.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ARE 1150 or ECON 1200 or 1201; basic skills in Excel.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

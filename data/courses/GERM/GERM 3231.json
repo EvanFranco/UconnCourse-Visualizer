@@ -1,0 +1,16 @@
+{
+    "name": "GERM 3231",
+    "dept_code": "GERM",
+    "id_number": "3231",
+    "title": "German for Professional Use I",
+    "description": "Development of oral and written skills using a content-based methodology and drawing on authentic documents in a variety of formats that convey the language and culture of professional environments in the German-speaking countries. Preparation for the Goethe Institutes's test of German for Professional Purposes (Deutsch f\\r den Beruf).",
+    "credits": "3",
+    "requirement_description": "GERM 1004 or equivalent. Recommended preparation: GERM 3233 - 3234.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

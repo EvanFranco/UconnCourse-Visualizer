@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5869",
+    "dept_code": "NURS",
+    "id_number": "5869",
+    "title": "Doctor of Nursing Practice Residency and Seminar I",
+    "description": "The first of three residency and seminar courses, this course requires the student to complete a nursing practicum in the specialty area of their choice with hours as necessary for total of 1,000 post-BSN. Students must complete a doctoral residency and participate in seminars. Students develop individual objectives to support their identified DNP project, and, in collaboration with the agency, preceptor and DNP project committee, plan their DNP project. May be repeated for a total of 6 credits.",
+    "credits": "3-5",
+    "requirement_description": "NURS 5845, 5850, 5855 and 5895.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

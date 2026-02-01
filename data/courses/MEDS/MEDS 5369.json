@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5369",
+    "dept_code": "MEDS",
+    "id_number": "5369",
+    "title": "Advanced Genetics and Molecular Biology",
+    "description": "An advanced course emphasizing approaches to the genetic analysis of eukaryotic systems including yeast, fungi, Drosophila, mice, and humans. Topics include genome organization, DNA replication, regulation of gene expression, development, and differentiation.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

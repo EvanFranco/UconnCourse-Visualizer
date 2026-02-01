@@ -1,0 +1,24 @@
+{
+    "name": "HIST 3846W",
+    "dept_code": "HIST",
+    "id_number": "3846W",
+    "title": "Genocide and Mass Killings in Asia",
+    "description": "(Also offered as AAAS\u00a03846W, HRTS\u00a03846W.) Case studies of historical and/or contemporary genocide and mass killings in Asia. May focus on any time period and any part of the continent. CA4-INT.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

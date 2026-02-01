@@ -1,0 +1,21 @@
+{
+    "name": "NUSC 1167",
+    "dept_code": "NUSC",
+    "id_number": "1167",
+    "title": "Food, Culture and Society",
+    "description": "Social, cultural, and economic factors affecting food intake and nutritional status. Includes contemporary topics such as world food problems, hunger in the United States, dieting and eating disorders, health foods and vegetarianism. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

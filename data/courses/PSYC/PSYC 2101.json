@@ -1,0 +1,21 @@
+{
+    "name": "PSYC 2101",
+    "dept_code": "PSYC",
+    "id_number": "2101",
+    "title": "Introduction to Multicultural Psychology",
+    "description": "General introduction to cross-cultural and multicultural issues and the role psychology has played in understanding the experiences of diverse groups. CA 4.",
+    "credits": "3",
+    "requirement_description": "PSYC 1100; PSYC 1101 or 1103.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI3",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "COMM 2500",
+    "dept_code": "COMM",
+    "id_number": "2500",
+    "title": "Persuasion",
+    "description": "Introduction to theories of attitude formation, change and reinforcement. Research is used to evaluate past and present models of persuasion.",
+    "credits": "3",
+    "requirement_description": "COMM 1000.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

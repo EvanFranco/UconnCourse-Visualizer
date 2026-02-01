@@ -1,0 +1,16 @@
+{
+    "name": "ECE 6121",
+    "dept_code": "ECE",
+    "id_number": "6121",
+    "title": "Information Theory",
+    "description": "Basic concepts: entropy, mutual information, transmission rate and channel capacity. Coding for noiseless and noisy transmission. Universal and robust codes. Information-theoretic aspects of multiple-access communication systems. Source encoding, rate distortion approach.",
+    "credits": "3",
+    "requirement_description": "ECE 6111.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

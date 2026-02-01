@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5375",
+    "dept_code": "CHEG",
+    "id_number": "5375",
+    "title": "Fermentation and Separation Technology Laboratory",
+    "description": "Introduction to techniques used for industrial mass culture of prokaryotic and eukaryotic cells, and methods used to extract useful products from these cultures. Metabolic processes, energentics, growth kinetics and nutrition of microorganisms. Synthesis of cellular material and end products. Heat exchange, oxygen transfer, pH control, sterilization and design of fermentors. Culture of eukaryotic cell mass. Immobilized enzyme and cell reactors. Product recovery methods of precipitation centrifugation, extraction filtration and chromatography. Formerly CHEG 384. Also offered as MCB 384.",
+    "credits": "3",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

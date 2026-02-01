@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3552",
+    "dept_code": "PSYC",
+    "id_number": "3552",
+    "title": "Laboratory in Sensation and Perception",
+    "description": "Techniques for the study of sensory capacities and perceptual processes.",
+    "credits": "3",
+    "requirement_description": "PSYC 2100Q; PSYC 3501, which may be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

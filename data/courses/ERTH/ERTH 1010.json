@@ -1,0 +1,20 @@
+{
+    "name": "ERTH 1010",
+    "dept_code": "ERTH",
+    "id_number": "1010",
+    "title": "Dinosaurs, Extinctions, and Environmental Catastrophes",
+    "description": "A reconstruction of the Mesozoic world of the dinosaurs based on paleontological and geological evidence. Past and present environmental catastrophes leading to mass extinctions and changes in biodiversity. Fundamental concepts of geology, stratigraphy, historical geology, and paleoclimatology. CA 3.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed ERTH 1050, 1051, 1055, or 1070.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

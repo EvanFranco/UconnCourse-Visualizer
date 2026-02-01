@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5321",
+    "dept_code": "FNCE",
+    "id_number": "5321",
+    "title": "Financial Time Series and Volatility Modeling",
+    "description": "This course aims to provide the participants a solid background to identify various risks in the financial markets using advanced financial models and to acquire the analytical and programming abilities to analyze related risks in different financial settings. The course covers the following topics: (i) financial time series, volatility models, and risk estimation; (ii) modeling risk exposures with value at risk and expected shortfall; (iii) multivariate risk models; (iv) introduction to simulation methods (Monte Carlo simulation, historical simulation);  (v) backtesting and stress testing.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

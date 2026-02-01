@@ -1,0 +1,23 @@
+{
+    "name": "AAAS 1001",
+    "dept_code": "AAAS",
+    "id_number": "1001",
+    "title": "Pathways to Asian Studies",
+    "description": "Keywords, themes, and career paths in Asian Studies. Topics may include geography, languages, international relations, intercultural communication, and geopolitics. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

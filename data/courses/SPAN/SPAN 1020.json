@@ -1,0 +1,23 @@
+{
+    "name": "SPAN 1020",
+    "dept_code": "SPAN",
+    "id_number": "1020",
+    "title": "Intersections of Art, Fashion, Film, and Music in Modern Spain",
+    "description": "Critical overview of the works of Spanish film directors, artists, and designers and the struggle to define modern Spain. Topics may include personal and collective identity, national unity and diversity, youth culture in Spain and in the U.S., high versus low culture, the local and the global. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

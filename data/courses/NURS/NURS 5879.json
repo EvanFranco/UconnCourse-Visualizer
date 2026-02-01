@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5879",
+    "dept_code": "NURS",
+    "id_number": "5879",
+    "title": "Doctor of Nursing Practice Residency and Seminar II",
+    "description": "The second of three residency and seminar courses. Students complete a doctoral residency and participate in seminars. Students implement their identified DNP project in collaboration with the agency and preceptor. May be repeated for a total of 6 credits.",
+    "credits": "3-5",
+    "requirement_description": "NURS 5869.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

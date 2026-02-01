@@ -1,0 +1,16 @@
+{
+    "name": "GERM 1003",
+    "dept_code": "GERM",
+    "id_number": "1003",
+    "title": "Intermediate German I",
+    "description": "Further development of communicative abilities and intercultural competence by investigating topics such as contemporary politics, the environment, history, film, music, fine arts, literature, and technology.",
+    "credits": "4",
+    "requirement_description": "GERM 1002 or two years of high school German. May not be taken out of sequence after passing GERM 1004. May not be taken for credit after passing any 2000-level or above course taught in German.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

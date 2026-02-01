@@ -1,0 +1,16 @@
+{
+    "name": "CSE 2301",
+    "dept_code": "CSE",
+    "id_number": "2301",
+    "title": "Principles and Practice of Digital Logic Design",
+    "description": "Representation of digital information. Analysis, design, and evaluation of combinational and sequential logic circuits. Debugging techniques. Use of computer facilities for circuit simulation, CAD, and report preparation and presentation. Introduction to structure and operation of digital computers. Design projects. Written reports with revisions are required for each project.",
+    "credits": "4",
+    "requirement_description": "CSE 1010. Not open for credit to students who have passed CSE 2300W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

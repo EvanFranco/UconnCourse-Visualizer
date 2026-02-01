@@ -1,0 +1,16 @@
+{
+    "name": "ARIS 3000",
+    "dept_code": "ARIS",
+    "id_number": "3000",
+    "title": "Classical Arabic",
+    "description": "Review of Arabic grammar through Qur'an and literary texts. Practice in translation and composition leading to command of idioms and vocabulary. Taught in English and Arabic.",
+    "credits": "3",
+    "requirement_description": "ARAB 1114 or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

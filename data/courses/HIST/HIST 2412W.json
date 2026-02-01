@@ -1,0 +1,23 @@
+{
+    "name": "HIST 2412W",
+    "dept_code": "HIST",
+    "id_number": "2412W",
+    "title": "From Revolution to Nihilism: Ideas and Ideologies in Nineteenth-Century Europe",
+    "description": "An examination of nineteenth-century European thinkers and their ideas in their social contexts. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

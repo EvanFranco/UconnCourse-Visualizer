@@ -1,0 +1,16 @@
+{
+    "name": "MGRK 1102",
+    "dept_code": "MGRK",
+    "id_number": "1102",
+    "title": "Elementary Modern Greek II",
+    "description": "More elements of introductory Modern Greek emphasizing speaking, understanding, reading and writing using simple examples from contemporary media and culture.",
+    "credits": "4",
+    "requirement_description": "MGRK 1101. Not open for credit to students with three or more years of high school Greek. May not be taken out of sequence after passing MGRK 1103 or 1104.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "POLS 3022W",
+    "dept_code": "POLS",
+    "id_number": "3022W",
+    "title": "Western Marxist Tradition",
+    "description": "Exploration of the social and political theories of Marx and Engels, and of later interpretations and modifications of their ideas.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

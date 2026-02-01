@@ -1,0 +1,22 @@
+{
+    "name": "WGSS 2204",
+    "dept_code": "WGSS",
+    "id_number": "2204",
+    "title": "Feminisms and the Arts",
+    "description": "Interdisciplinary exploration of drama, the visual arts, music, literature, social action art, and/or film through feminist, queer, and trans theory. Includes creative projects and activities. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

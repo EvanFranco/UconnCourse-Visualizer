@@ -1,0 +1,16 @@
+{
+    "name": "BME 4985",
+    "dept_code": "BME",
+    "id_number": "4985",
+    "title": "Special Topics in Biomedical Engineering",
+    "description": "Classroom and/or laboratory courses in special topics as announced for each semester.  With a change of topic, this course may be repeated for credit. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "Open only to BME majors. Prerequisites and/or consent announced separately for each topic.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

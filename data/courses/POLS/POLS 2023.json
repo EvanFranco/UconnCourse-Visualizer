@@ -1,0 +1,20 @@
+{
+    "name": "POLS 2023",
+    "dept_code": "POLS",
+    "id_number": "2023",
+    "title": "Political Theory in Film",
+    "description": "Exploration of political theoretical questions through essays and films. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: POLS 1002.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

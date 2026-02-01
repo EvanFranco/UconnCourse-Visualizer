@@ -1,0 +1,25 @@
+{
+    "name": "GEOG 2350E",
+    "dept_code": "GEOG",
+    "id_number": "2350E",
+    "title": "Geography of Energy for Sustainability",
+    "description": "Introduction to energy solutions for global sustainability. Topics may include the geographic context of global and local energy use, energy transition, renewable energy, solar, offshore wind, and energy justice. CA 2. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

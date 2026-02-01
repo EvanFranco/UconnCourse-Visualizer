@@ -1,0 +1,16 @@
+{
+    "name": "MATH 4310",
+    "dept_code": "MATH",
+    "id_number": "4310",
+    "title": "Introduction to Geometry and Topology",
+    "description": "Topological spaces, connectedness, compactness, separation axioms, Tychonoff theorem, compact-open topology, fundamental group, covering spaces, simplicial complexes, differentiable manifolds, homology theory and the De Rham theory, intrinsic Riemannian geometry of surfaces.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed MATH 5310.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

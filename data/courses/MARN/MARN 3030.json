@@ -1,0 +1,16 @@
+{
+    "name": "MARN 3030",
+    "dept_code": "MARN",
+    "id_number": "3030",
+    "title": "Coastal Pollution and Bioremediation",
+    "description": "Overview of processes and compounds leading to pollution in the nearshore marine environment. The impact of pollution on the marine foodweb and its response is emphasized. Alleviation of pollution through metabolism of organisms, including bacteria, seagrasses, and salt marshes.",
+    "credits": "3",
+    "requirement_description": "BIOL 1107 and 1108 ; CHEM 1127Q and 1128Q, or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

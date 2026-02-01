@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 4897",
+    "dept_code": "ENGL",
+    "id_number": "4897",
+    "title": "Honors VIII: Honors Thesis",
+    "description": "All Honors students writing an Honors Thesis must register for this course in their last semester after consultation with the director of their thesis and the English department advisor to  Honors Students, who is the instructor of record.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; open to juniors or higher; open only to Honors students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EEB 2245",
+    "dept_code": "EEB",
+    "id_number": "2245",
+    "title": "Evolutionary Biology",
+    "description": "Introduction to evolutionary mechanisms, biogeography, and the history of major groups of plants and animals.",
+    "credits": "3",
+    "requirement_description": "Six credits of college biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

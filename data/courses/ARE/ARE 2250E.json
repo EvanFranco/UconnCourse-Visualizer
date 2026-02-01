@@ -1,0 +1,23 @@
+{
+    "name": "ARE 2250E",
+    "dept_code": "ARE",
+    "id_number": "2250E",
+    "title": "Energy Economics: Sustainable Transitions",
+    "description": "Application of economics theory, methods and concepts to focus on electricity markets, electricity generation, financing of the power transmission grid, regulation, policies and the welfare effects of policies within the current generation and implications for future generations. Topics include energy demand and supply, energy pricing, the environmental consequences of energy consumption and production, the regulation and design of energy systems and markets, and economics of policies designed to facilitate transitions to carbon neutrality, such as carbon credits, offsets, and renewable portfolio standards. Lectures, computer applications with data, analysis of current events, and class discussions. CA 2.",
+    "credits": "3",
+    "requirement_description": "ARE 1150 or ECON 1200 or ECON 1201.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

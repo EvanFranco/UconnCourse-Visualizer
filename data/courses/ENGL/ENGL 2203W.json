@@ -1,0 +1,23 @@
+{
+    "name": "ENGL 2203W",
+    "dept_code": "ENGL",
+    "id_number": "2203W",
+    "title": "American Literature Since 1880",
+    "description": "Modern and contemporary American literature: May include such writers as James, Wharton, Dreiser, Cather, Frost, Hemingway, Fitzgerald, Faulkner, Morrison, and others. This course is strongly recommended for English majors. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

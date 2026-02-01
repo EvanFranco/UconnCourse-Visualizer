@@ -1,0 +1,16 @@
+{
+    "name": "ECON 5318",
+    "dept_code": "ECON",
+    "id_number": "5318",
+    "title": "Panel Data Econometrics",
+    "description": "Standard panel-data models, which apply to datasets that follow cross-sections of individuals through time. Emphasis on determining when causal relationships can be inferred from panel data.",
+    "credits": "3",
+    "requirement_description": "ECON 5312; open to students in the Master of Science in Quantitative Economics, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

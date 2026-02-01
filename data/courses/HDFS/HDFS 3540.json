@@ -1,0 +1,20 @@
+{
+    "name": "HDFS 3540",
+    "dept_code": "HDFS",
+    "id_number": "3540",
+    "title": "Child Welfare, Law and Social Policy",
+    "description": "Examines the methods through which empirical social science research can affect law and public policy affecting children and families. CA 2.",
+    "credits": "3",
+    "requirement_description": "HDFS 2100 or PSYC 2400; HDFS 2004 or PSYC 2100Q; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

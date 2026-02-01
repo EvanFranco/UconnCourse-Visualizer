@@ -1,0 +1,16 @@
+{
+    "name": "DMD 5021",
+    "dept_code": "DMD",
+    "id_number": "5021",
+    "title": "Design Lab",
+    "description": "The theory, principles and practices of digital screen-based visual communication. Through a multi-disciplinary  perspective involving art, design, art history, and media studies, students will address how culture visualizes screen-based communication through both image and type.",
+    "credits": "3",
+    "requirement_description": "Open only to Digital Media and Design majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

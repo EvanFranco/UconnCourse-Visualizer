@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 3264",
+    "dept_code": "PHIL",
+    "id_number": "3264",
+    "title": "Classical Chinese Philosophy and Culture",
+    "description": "Classical Chinese philosophy, including such works as The Analects of Confucius and the works of Chuang Tzu, and their influence on Chinese culture.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

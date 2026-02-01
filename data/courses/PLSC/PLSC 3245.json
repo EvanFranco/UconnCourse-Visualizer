@@ -1,0 +1,16 @@
+{
+    "name": "PLSC 3245",
+    "dept_code": "PLSC",
+    "id_number": "3245",
+    "title": "Plant Breeding and Biotechnology",
+    "description": "Principles and applications, economic, social and environmental impacts, advantages, potentials and limitations of major traditional and modern plant breeding technologies including crossing/hybridization, mutagenesis, genetic engineering and genome editing. Formerly offered as SPSS 3245.",
+    "credits": "3",
+    "requirement_description": "One of BIOL 1102, 1108, or 1110; or MCB 2410; or PLSC 3210, 3230, or 4210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

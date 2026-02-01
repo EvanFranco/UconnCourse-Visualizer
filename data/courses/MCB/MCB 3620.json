@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3620",
+    "dept_code": "MCB",
+    "id_number": "3620",
+    "title": "Host-Associated Microbiomes",
+    "description": "Current research on microbial communities associated with living hosts, with a focus on evolution, ecology, immunology and human health.",
+    "credits": "3",
+    "requirement_description": "MCB 2610 or 2612.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

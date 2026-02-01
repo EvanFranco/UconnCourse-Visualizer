@@ -1,0 +1,16 @@
+{
+    "name": "NRE 4535",
+    "dept_code": "NRE",
+    "id_number": "4535",
+    "title": "Remote Sensing Image Processing",
+    "description": "The principles of quantitative remote sensing, image processing and pattern recognition will be studied. Computer-assisted data analysis techniques will be used.",
+    "credits": "3",
+    "requirement_description": "NRE 2000 or 3535; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

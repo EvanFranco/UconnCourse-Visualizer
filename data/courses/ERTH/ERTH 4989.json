@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 4989",
+    "dept_code": "ERTH",
+    "id_number": "4989",
+    "title": "Undergraduate Research in Geoscience",
+    "description": "Independent research for the advanced undergraduate student interested in investigating a special problem involving field and/or laboratory observations in geoscience. The student is required to give an oral presentation in a departmental seminar at the end of the semester.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

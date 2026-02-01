@@ -1,0 +1,16 @@
+{
+    "name": "NRE 5340",
+    "dept_code": "NRE",
+    "id_number": "5340",
+    "title": "Ecotoxicology",
+    "description": "Introduction to the current state of environmental toxicology knowledge and research. Relevant concepts in ecosystem science, toxicology, and public health are taught within the framing of historic and current case studies of environmental contamination problems. Term paper and presentation are required.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: prior coursework in ecology or environmental biology, and environmental chemistry.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

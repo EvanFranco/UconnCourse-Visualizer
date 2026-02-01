@@ -1,0 +1,16 @@
+{
+    "name": "EEB 5347",
+    "dept_code": "EEB",
+    "id_number": "5347",
+    "title": "Principles and Methods of Systematic Biology",
+    "description": "Basic concepts and modern procedures employed in systematic biology: literature retrieval, species description, phylogenetic inference, nomenclature, and current conceptual issues. Laboratories include computer techniques in phylogenetic analysis.",
+    "credits": "4",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

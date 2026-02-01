@@ -1,0 +1,16 @@
+{
+    "name": "ECON 2481",
+    "dept_code": "ECON",
+    "id_number": "2481",
+    "title": "Internship Field Study",
+    "description": "Supervised fieldwork relevant to some area of economics, with a business firm, government agency or non-profit organization. Evaluation by the field supervisor and by  the  instructor (based on a detailed written report submitted by the student). Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory.) Does not count toward the economics major. Students must secure a satisfactory intern position before the end of the second week of the semester of enrollment in this course; they should begin consultation with the instructor several months in advance. May be repeated for a total of 15 credits.",
+    "credits": "1-6",
+    "requirement_description": "Nine credits of 2000 level or above ECON (6 of which may be taken concurrently). Must be 6th semester and have a min CGPA of 2.25 or a min of 2.5 in 2000-level or above ECON. Must secure satisfactory intern position before end of 2nd week of semester.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

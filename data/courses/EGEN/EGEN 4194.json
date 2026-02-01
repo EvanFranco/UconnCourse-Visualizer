@@ -1,0 +1,16 @@
+{
+    "name": "EGEN 4194",
+    "dept_code": "EGEN",
+    "id_number": "4194",
+    "title": "Honors Seminar",
+    "description": "Students must be accepted by the School of Education Honors Committee as candidates for Degrees with Distinction, Honors Scholars, or University Scholars. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "Students must be accepted by the School of Education Honors Committee as candidates for Honors Scholars or University Scholars.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": null
+}

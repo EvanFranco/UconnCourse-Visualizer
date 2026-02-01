@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3550",
+    "dept_code": "EEB",
+    "id_number": "3550",
+    "title": "Tropical Biology",
+    "description": "Explores the ecology and evolution of tropical organisms. Examines the physical and biological processes that shape tropical forests with a focus on paleobiology, geography, species interactions, and adaptations. Emphasizes the link between theory and environmental challenges, and the opportunities for conservation of tropical ecosystems.",
+    "credits": "3",
+    "requirement_description": "BIOL 1108 or BIOL 1110. Not open for credit to students who have passed EEB 3895 when offered as Tropical Ecology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

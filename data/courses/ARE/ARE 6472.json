@@ -1,0 +1,16 @@
+{
+    "name": "ARE 6472",
+    "dept_code": "ARE",
+    "id_number": "6472",
+    "title": "Microeconomic Applications to Food Markets",
+    "description": "Trains students in applied microeconomics, with particular emphasis on food markets and public policy. The course is divided into three broad areas: production economics, economics of consumer behavior, and market analysis. Particular emphasis is placed on quantitative tools using empirical models and welfare economics. Students design and undertake an individualized project in their area of interest.",
+    "credits": "3",
+    "requirement_description": "ARE 5201 or ECON 5201 and ARE 5311 or ECON 5311.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

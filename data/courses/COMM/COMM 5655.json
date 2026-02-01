@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5655",
+    "dept_code": "COMM",
+    "id_number": "5655",
+    "title": "Human Computer Interaction",
+    "description": "Evaluation of human computer interaction including issues in the design of technology people use. Methods and theories for design that consider unique needs, capabilities, and limitations of users. Techniques for evaluating user-centered systems based on the latest research.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students, others with instructor consent. Recommended preparation: A social science or computer science course in research methods.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

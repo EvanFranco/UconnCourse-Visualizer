@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 5324",
+    "dept_code": "MUSI",
+    "id_number": "5324",
+    "title": "Graduate Chamber Ensemble",
+    "description": "Study and performance of chamber music for various ensembles. May be repeated for a total of 8 credits.",
+    "credits": "1",
+    "requirement_description": "Open to graduate students in Music, others with permission.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 8
+}

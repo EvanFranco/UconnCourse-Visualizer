@@ -1,0 +1,16 @@
+{
+    "name": "IMS 5304",
+    "dept_code": "IMS",
+    "id_number": "5304",
+    "title": "Surface and Interfacial Analysis",
+    "description": "(Also offered as CHEM\u00a05304.) Lecture on sample preparation and analyses for surfaces and interfaces, including scanning Auger microscopy, secondary ion mass spectrometry, X-ray photoelectron spectroscopy, contact angle measurements, and temperature program methods.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

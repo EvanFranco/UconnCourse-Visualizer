@@ -1,0 +1,16 @@
+{
+    "name": "EDCI 5160",
+    "dept_code": "EDCI",
+    "id_number": "5160",
+    "title": "Design, Management, and Supervision of Reading Programs",
+    "description": "Designing, supervising and evaluating reading programs on a school and systemwide basis.",
+    "credits": "3",
+    "requirement_description": "EDCI 5150 and EDCI 5155.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

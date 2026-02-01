@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5999",
+    "dept_code": "GRAD",
+    "id_number": "5999",
+    "title": "Thesis Preparation",
+    "description": "This is a non-credit course to be used by Plan A master's students who have completed their coursework and who are not registered for any other credit-bearing course but are actively working on their master's theses. May be repeated. May be repeated for a total of 0 credits.",
+    "credits": "0",
+    "requirement_description": "Open only to graduate students enrolled in a Plan A Master's Degree Program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

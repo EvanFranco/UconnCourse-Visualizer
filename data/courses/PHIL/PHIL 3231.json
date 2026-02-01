@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 3231",
+    "dept_code": "PHIL",
+    "id_number": "3231",
+    "title": "Philosophy of Religion",
+    "description": "Various religious absolutes, their meaning and validity, existentialism and religion, the post-modern religious quest.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

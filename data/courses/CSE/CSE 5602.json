@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5602",
+    "dept_code": "CSE",
+    "id_number": "5602",
+    "title": "Machine Learning for Physical Sciences and Systems",
+    "description": "(Also offered as SE\u00a05602.) Foundational knowledge in applied aspects of machine learning, including methods for handling uncertain, small, and imbalanced data; feature selection and representation learning; and model selection and assessment. Students will also gain exposure to state-of-the-art research on interpretability of machine learning models, stability of machine learning algorithms, and meta-learning. Topics will be discussed in the context of recent advances in machine learning for materials, chemistry, and physics applications, with an emphasis on the unique opportunities and challenges at the intersection of machine learning and these fields.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Computer Science and Engineering, MEng in Advanced Systems Engineering, and MEng in Data Science, others with department consent. Recommended prep: Basic concepts in machine learning, linear algebra, optimization, statistics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

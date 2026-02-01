@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 1210",
+    "dept_code": "DRAM",
+    "id_number": "1210",
+    "title": "Computer Rendering for the Theatre",
+    "description": "Computer rendering for theatre design in 2-D and 3-D format.",
+    "credits": "3",
+    "requirement_description": "Requires one or more of the Adobe Creative Cloud software programs; students are responsible for purchasing the latest version of Adobe's Creative Cloud for education apps and installing it on their personal computer.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

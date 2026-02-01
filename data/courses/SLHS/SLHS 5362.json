@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 5362",
+    "dept_code": "SLHS",
+    "id_number": "5362",
+    "title": "Advanced Speech Science II",
+    "description": "A continuation of SLHS\u00a05361.",
+    "credits": "3",
+    "requirement_description": "SLHS 5361.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

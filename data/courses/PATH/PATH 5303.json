@@ -1,0 +1,16 @@
+{
+    "name": "PATH 5303",
+    "dept_code": "PATH",
+    "id_number": "5303",
+    "title": "Veterinary Pathology Lecture Series",
+    "description": "Lectures on veterinary and comparative anatomic pathology organized by animal species or disease classification utilizing lectures on electronic media in the context of a prescribed plan of study.  May be repeated for credit with change in content. May be repeated for a total of 9 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

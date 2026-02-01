@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 5333",
+    "dept_code": "CHEG",
+    "id_number": "5333",
+    "title": "Computer Simulation in Chemical Engineering",
+    "description": "Learning and applying modern tools for computer simulation of chemical engineering processes. Covers the basic equations required to simulate generic types of processes and interactive Computer Labs where we solve examples from the course textbook. You will integrate theory with modeling, determine other solutions and find bugs, and identify inaccuracies or problems in the proposed solution. Short introductions to the Interface of each Software (Aspen Plus, Matlab, Comsol) will be given. The Computer Labs structure will be based on a step-by-step solution of chemical engineering problems. Will work with PowerPoint slides to perform a step for a simulation, while working with the instructor to ensure understanding before proceeding to the next slide.",
+    "credits": "3",
+    "requirement_description": "Instructor consent. Recommended preparation: CHEG 5001 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

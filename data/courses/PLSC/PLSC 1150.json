@@ -1,0 +1,21 @@
+{
+    "name": "PLSC 1150",
+    "dept_code": "PLSC",
+    "id_number": "1150",
+    "title": "Agricultural Technology and Society",
+    "description": "Development of agricultural systems and technologies and their influence on societies. Topics include plant and animal domestication, food and industrial crops and centers of production, environmental issues, and agricultural ethics. CA 3. Formerly offered as SPSS 1150.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

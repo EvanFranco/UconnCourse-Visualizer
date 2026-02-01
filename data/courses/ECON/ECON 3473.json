@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3473",
+    "dept_code": "ECON",
+    "id_number": "3473",
+    "title": "Economic Development",
+    "description": "Economics of problems facing developing nations: theories of development, and stategies and policies to promote economic development.",
+    "credits": "3",
+    "requirement_description": "ECON 1200 or 1202; ECON 2201 or 2211Q. Recommended preparation: MATH 1071, 1110, 1121, 1131 or 1151.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

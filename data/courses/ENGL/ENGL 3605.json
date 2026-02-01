@@ -1,0 +1,20 @@
+{
+    "name": "ENGL 3605",
+    "dept_code": "ENGL",
+    "id_number": "3605",
+    "title": "Latina/o Literature",
+    "description": "(Also offered as LLAS\u00a03232.) Extensive readings in Latina/o literature from the late nineteenth century to the present. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011, or instructor consent; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "CHEM 4196W",
+    "dept_code": "CHEM",
+    "id_number": "4196W",
+    "title": "Thesis for Undergraduate Chemistry Majors",
+    "description": "A formal thesis is required, based on original investigation carried on by the student.",
+    "credits": "3",
+    "requirement_description": "Minimum of 3 credits in CHEM 3189 or 3199; ENGL 1007 or 1010 or 1011; open only to Honors students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

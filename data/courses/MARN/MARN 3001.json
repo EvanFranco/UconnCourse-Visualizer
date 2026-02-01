@@ -1,0 +1,16 @@
+{
+    "name": "MARN 3001",
+    "dept_code": "MARN",
+    "id_number": "3001",
+    "title": "Foundations of Marine Sciences",
+    "description": "Biological, chemical, physical and geological structure and function of coastal systems; with a special focus on field observations in three important coastal habitats: beaches and rocky shores, marshes, and estuaries.",
+    "credits": "4",
+    "requirement_description": "MARN 1002 or 1003; MATH 1110Q or 1071Q or 1131Q; BIOL 1107 and 1108; CHEM 1127Q and 1128Q; and PHYS 1201Q or 1401Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "AFRA 3132",
+    "dept_code": "AFRA",
+    "id_number": "3132",
+    "title": "African-American Women Playwrights, 1900 to the present",
+    "description": "(Also offered as DRAM\u00a03132.) African American women's playwriting in relationship to social, historical, and political contexts. CA 1. CA 4.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: AFRA/DRAM 3131.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

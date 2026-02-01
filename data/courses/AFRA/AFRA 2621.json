@@ -1,0 +1,23 @@
+{
+    "name": "AFRA 2621",
+    "dept_code": "AFRA",
+    "id_number": "2621",
+    "title": "Cuba in Local and Global Perspective",
+    "description": "(Also offered as HIST\u00a02621, LLAS\u00a02621.) Major themes in Cuban politics and culture. Local and global perspective. Key topics include race, gender, class, cultural movements and practices, slavery, political economy and movements, nationalism. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 4510",
+    "dept_code": "ANTH",
+    "id_number": "4510",
+    "title": "The Neanderthals",
+    "description": "An interdisciplinary consideration of the biological, cultural, technological, and behavioral evolution of the Neanderthals and their societies.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ANTH 1500 or 2501 or 2502.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

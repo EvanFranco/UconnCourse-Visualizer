@@ -1,0 +1,16 @@
+{
+    "name": "MSE 3055",
+    "dept_code": "MSE",
+    "id_number": "3055",
+    "title": "Materials Processing and Microstructures Laboratory",
+    "description": "Second semester of a 3-semester MSE laboratory sequence. Application of advanced characterization techniques, including x-ray diffraction, electron microscopy, differential scanning calorimetry, thermogravimetric analysis and Fourier-transform infrared spectroscopy, to all major classes of materials. Analysis of complex data sets. Culminates in a junior design project.",
+    "credits": "2",
+    "requirement_description": "MSE 2053. Departmental consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "HIND 1104",
+    "dept_code": "HIND",
+    "id_number": "1104",
+    "title": "Intermediate Hindi II",
+    "description": "Further development of understanding, speaking, reading, and writing skills in Hindi within a cultural setting. Readings to enhance cultural awareness of the Hindi-speaking world.",
+    "credits": "4",
+    "requirement_description": "HIND 1103 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

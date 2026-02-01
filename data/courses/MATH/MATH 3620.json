@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3620",
+    "dept_code": "MATH",
+    "id_number": "3620",
+    "title": "Foundations of Actuarial Science",
+    "description": "The foundations of actuarial science, the role of the actuary, external forces that influence actuarial work, and the framework and processes used in actuarial work.",
+    "credits": "3",
+    "requirement_description": "MATH 2620. Not open for credit to students who have passed MATH 2610 or FNCE 3221 or HCMI 3221. Repeat restrictions apply; see advising.uconn.edu/repeat-policy for details.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

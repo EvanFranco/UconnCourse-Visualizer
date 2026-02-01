@@ -1,0 +1,18 @@
+{
+    "name": "EDLR 3300W",
+    "dept_code": "EDLR",
+    "id_number": "3300W",
+    "title": "Sport in Society",
+    "description": "Sport as an institution. Sociological issues involving gender, race, and intercollegiate, professional, and children's sports.",
+    "credits": "3",
+    "requirement_description": "SOCI 1001 or 1251; ENGL 1007 or 1010 or 1011; open to Sports Management majors only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

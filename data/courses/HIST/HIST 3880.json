@@ -1,0 +1,16 @@
+{
+    "name": "HIST 3880",
+    "dept_code": "HIST",
+    "id_number": "3880",
+    "title": "Field Experience",
+    "description": "Supervised field work within the historical profession such as in archives, historical societies, research libraries and/or museums. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). Formerly offered as HIST 3890. May be repeated for a total of 6 credits.",
+    "credits": "1-6",
+    "requirement_description": "Instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

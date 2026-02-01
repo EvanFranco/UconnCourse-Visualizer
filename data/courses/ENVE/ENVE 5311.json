@@ -1,0 +1,16 @@
+{
+    "name": "ENVE 5311",
+    "dept_code": "ENVE",
+    "id_number": "5311",
+    "title": "Environmental Biochemical Processes",
+    "description": "Major biochemical reactions; stoichiometric and kinetic description; suspended and attached growth modeling; engineered biotreatment systems for contaminant removal from aqueous, gaseous, and solid streams; process design.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

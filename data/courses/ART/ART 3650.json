@@ -1,0 +1,16 @@
+{
+    "name": "ART 3650",
+    "dept_code": "ART",
+    "id_number": "3650",
+    "title": "Sculpture: Mold Making and Casting",
+    "description": "Investigation of sculptural mold making and casting principles, techniques, and processes. The course covers rigid and flexible mold making for casting in a variety of materials, emphasizing technical skill, formal design, and conceptual invention using cast forms for the creation of mixed media sculpture and installation art. May be repeated for a total of 9 credits.",
+    "credits": "3",
+    "requirement_description": "ART 2610; open only to Art majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

@@ -1,0 +1,18 @@
+{
+    "name": "ENGL 4203W",
+    "dept_code": "ENGL",
+    "id_number": "4203W",
+    "title": "Advanced Study: Ethnic Literature",
+    "description": "Intensive study of particular topics in British or American literature written by ethnic writers. May be repeated for credit.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011; at least 12 credits of 2000-level or above English courses or consent of instructor; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

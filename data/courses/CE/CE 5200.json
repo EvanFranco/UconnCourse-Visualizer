@@ -1,0 +1,16 @@
+{
+    "name": "CE 5200",
+    "dept_code": "CE",
+    "id_number": "5200",
+    "title": "Operations Research in Civil and Environmental Engineering",
+    "description": "Resource allocation subject to constraints. Facility location problems. Simplex method for linear programming. Introduction to integer programming and network flow problems.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: CE 2251 or equivalent. May not be taken for credit after passing CE 4210.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

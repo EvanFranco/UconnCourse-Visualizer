@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 4340",
+    "dept_code": "GEOG",
+    "id_number": "4340",
+    "title": "Biogeography",
+    "description": "An examination of how physical environments, historical processes, and human activities shape current biogeographical patterns and influence future changes.",
+    "credits": "3",
+    "requirement_description": "GEOG 1000 or GEOG 2300E or EEB 2244E or EEB 2245 or NRE 1000E.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

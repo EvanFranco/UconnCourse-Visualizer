@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5545",
+    "dept_code": "ACCT",
+    "id_number": "5545",
+    "title": "Business Law, Business Ethics, and Public Accounting",
+    "description": "Covers the major legal and ethical issues in business and their significance for the accounting profession and related stakeholders. Included among the topics are the tension between profit and the public interest, corporate responsibility to society, environmental concerns, consumer and employee relations, confidentiality, whistle blowing, advertising and hiring practices.",
+    "credits": "3",
+    "requirement_description": "This course may not be taken by MBA students, who should instead take BLAW 5175.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

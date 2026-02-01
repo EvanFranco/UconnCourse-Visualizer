@@ -1,0 +1,16 @@
+{
+    "name": "MUSI 3233",
+    "dept_code": "MUSI",
+    "id_number": "3233",
+    "title": "Instrumental Pedagogy",
+    "description": "Philosophy, methodology, and practical application of pedagogical techniques for applied music instruction. MUSI\u00a03222 must be taken concurrently.",
+    "credits": "2",
+    "requirement_description": "Open to juniors or higher. Corequisite: MUSI 3222 must be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

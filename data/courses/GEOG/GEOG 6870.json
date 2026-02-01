@@ -1,0 +1,16 @@
+{
+    "name": "GEOG 6870",
+    "dept_code": "GEOG",
+    "id_number": "6870",
+    "title": "Seminar on Earth System Science",
+    "description": "This seminar highlights one or more aspects of UConn Geography\u2019s Earth System Science group\u2019s expertise in understanding interactions within and between the atmosphere, hydrosphere, geosphere, and biosphere. Topics may include climate modeling, paleoclimate analysis, and geomorphology with the purpose of understanding the Earth\u2019s climate system and/or the mechanics and evolution of mountains and landscapes around the world. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

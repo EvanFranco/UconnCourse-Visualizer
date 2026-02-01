@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4470",
+    "dept_code": "DMD",
+    "id_number": "4470",
+    "title": "Web 3: Expert Topics in Web Development",
+    "description": "Expert topics in web design and development, including intensive instruction and hands-on development with databases and server-side programming to build web applications.",
+    "credits": "3",
+    "requirement_description": "DMD 3470 and 3475; open to Digital Media and Design majors only, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

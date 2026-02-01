@@ -1,0 +1,16 @@
+{
+    "name": "EMBA 5901",
+    "dept_code": "EMBA",
+    "id_number": "5901",
+    "title": "Executive Project",
+    "description": "Students engage in a new business development opportunity. Students focus on idea inception, conduct a feasibility analysis using a comprehensive assessment framework, and develop implementation strategies. May be repeated for a total of 3 credits.",
+    "credits": "1.5-3",
+    "requirement_description": "Open only to Executive MBA students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

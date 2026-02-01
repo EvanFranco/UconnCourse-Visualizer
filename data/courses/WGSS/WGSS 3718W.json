@@ -1,0 +1,23 @@
+{
+    "name": "WGSS 3718W",
+    "dept_code": "WGSS",
+    "id_number": "3718W",
+    "title": "Feminism and Science Fiction",
+    "description": "Feminist approaches to science fiction. Human and non-human embodiments - humans, aliens, and cyborgs - and the social issues their interactions raise: reproduction and colonization; racial, sexual, and gender apartheid; \"human\" rights and the rule of law. CA 4.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

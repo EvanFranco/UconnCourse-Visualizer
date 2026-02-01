@@ -1,0 +1,20 @@
+{
+    "name": "DMD 2030",
+    "dept_code": "DMD",
+    "id_number": "2030",
+    "title": "Generative AI for Creative Minds: The Future of Work",
+    "description": "This course delves into key developments in generative AI, investigating how these platforms are reshaping the boundaries of creativity and innovation.",
+    "credits": "3",
+    "requirement_description": "Students must have completed 15 credits. Recommended preparation: DMD 2010.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

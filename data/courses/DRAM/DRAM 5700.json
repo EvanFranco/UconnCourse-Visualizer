@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 5700",
+    "dept_code": "DRAM",
+    "id_number": "5700",
+    "title": "Studies in Professional Acting",
+    "description": "Topics and skills not taught in DRAM\u00a05701-5706.  May include work with the techniques of specific master acting teachers such as (but not limited to) Sanford Meisner, Stella Adler, Tadashi Suzuki, and Utah Hagan. May be repeated with change of topic. May be repeated for a total of 9 credits.",
+    "credits": "1-3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 9
+}

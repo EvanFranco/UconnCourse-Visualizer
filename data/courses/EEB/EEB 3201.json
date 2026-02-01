@@ -1,0 +1,16 @@
+{
+    "name": "EEB 3201",
+    "dept_code": "EEB",
+    "id_number": "3201",
+    "title": "Animal Behavior",
+    "description": "(Also offered as PSYC\u00a03201.) Principles of animal behavior derived from a review of descriptive and analytic studies in laboratory and field. Sometimes offered in multimedia format.",
+    "credits": "3",
+    "requirement_description": "BIOL 1102 or 1107; PSYC 1100.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

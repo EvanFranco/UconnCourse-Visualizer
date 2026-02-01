@@ -1,0 +1,16 @@
+{
+    "name": "SAPL 211",
+    "dept_code": "SAPL",
+    "id_number": "211",
+    "title": "Landscape Architecture: Graphics I - Design Drawing",
+    "description": "Knowledge and theory of graphic representation, exploration of landscape, design, and materials. Introduction to basic design principles. Application of graphic and design theory through free-hand drawing in a studio environment.",
+    "credits": "4",
+    "requirement_description": "Not open to students who have completed LAND 2110.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

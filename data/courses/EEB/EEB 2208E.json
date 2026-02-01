@@ -1,0 +1,23 @@
+{
+    "name": "EEB 2208E",
+    "dept_code": "EEB",
+    "id_number": "2208E",
+    "title": "Introduction to Conservation Biology",
+    "description": "Patterns of biodiversity and extinction; causes of extinction and population declines; ecological restoration; conservation planning; protection of ecosystem services; implementing conservation actions; conservation economics; conservation law;  effects of global change. CA 3.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: BIOL 1102 or 1108.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

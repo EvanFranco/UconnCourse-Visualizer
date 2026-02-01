@@ -1,0 +1,16 @@
+{
+    "name": "SAPB 495",
+    "dept_code": "SAPB",
+    "id_number": "495",
+    "title": "Special Topics",
+    "description": "Total credits allowed toward graduation requirements are restricted as outlined in Ratcliffe Hicks Section. May be repeated for credit.",
+    "credits": "1-2",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

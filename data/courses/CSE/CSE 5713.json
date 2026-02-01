@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5713",
+    "dept_code": "CSE",
+    "id_number": "5713",
+    "title": "Data Mining",
+    "description": "Introduction to data mining algorithms and their analysis. Application of and experimentation with data mining algorithms on real-world problems and domains, with a dual focus on addressing the solution quality issue and the time efficiency issue.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

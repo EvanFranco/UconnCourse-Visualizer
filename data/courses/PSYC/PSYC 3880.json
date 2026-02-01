@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3880",
+    "dept_code": "PSYC",
+    "id_number": "3880",
+    "title": "Field Experience",
+    "description": "Supervised field work in clinical, community, or organizational settings. Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory.) May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "PSYC 1100; PSYC 1101 or 1103.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

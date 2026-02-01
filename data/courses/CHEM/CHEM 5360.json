@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 5360",
+    "dept_code": "CHEM",
+    "id_number": "5360",
+    "title": "Biological Chemistry I",
+    "description": "Recent advances in understanding the mechanisms of chemical processes in biological systems. Chemical perspectives or problems of biological significance at the interfaces of the various divisions of chemistry.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ARTH 3530",
+    "dept_code": "ARTH",
+    "id_number": "3530",
+    "title": "Contemporary Art",
+    "description": "Topics in the art of the second half of the twentieth century. CA 1.",
+    "credits": "3",
+    "requirement_description": "Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

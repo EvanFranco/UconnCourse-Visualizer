@@ -1,0 +1,16 @@
+{
+    "name": "CE 6735",
+    "dept_code": "CE",
+    "id_number": "6735",
+    "title": "Transportation Network Analysis",
+    "description": "Network modeling and graph theoretical applications to transportation systems. Algorithmic approaches to common network problems. System optimal and user equilibrium traffic assignment modeling and solution techniques.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: CE 4210/5200 and CE 5730 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

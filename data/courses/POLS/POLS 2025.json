@@ -1,0 +1,23 @@
+{
+    "name": "POLS 2025",
+    "dept_code": "POLS",
+    "id_number": "2025",
+    "title": "Theory and Politics of the University",
+    "description": "Examines the role of the university in contemporary U.S. society, an institution deeply interconnected with modern state formation and the political projects of colonialism, imperialism, democratization, militarism, and nationalism.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: POLS 1002. Not open for credit to students who have passed POLS 2998 when offered as \"Theory and Politics of the University.\"",
+    "restrictions": {},
+    "content_areas": [
+        "CA2",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

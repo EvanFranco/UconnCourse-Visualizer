@@ -1,0 +1,16 @@
+{
+    "name": "MEDS 5418",
+    "dept_code": "MEDS",
+    "id_number": "5418",
+    "title": "Stem Cells and Regenerative Biology",
+    "description": "A literature based course on the fundamental aspects of stem cells; their nature, origin, self-renewal and differentiation during embryogenesis and tissue regeneration.  Taught by a team of experts.  Grade based on mid-term tests, class participation and presentation.",
+    "credits": "3",
+    "requirement_description": "MEDS 5322 or MEDS 5327 or MEDS 5380.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

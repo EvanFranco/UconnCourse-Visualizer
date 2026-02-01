@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5707",
+    "dept_code": "CSE",
+    "id_number": "5707",
+    "title": "Discrete Optimization",
+    "description": "Methods and techniques used to solve combinatorial optimization problems with examples drawn from industry such as scheduling, resource allocation, and routing. Features a mix of theory and practice using state-of-the-art tools to solve classic problems.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in the CSE program, others with consent. Recommended preparation: CSE 3500 and MATH 2210Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

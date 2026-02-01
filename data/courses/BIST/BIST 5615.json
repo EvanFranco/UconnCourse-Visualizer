@@ -1,0 +1,16 @@
+{
+    "name": "BIST 5615",
+    "dept_code": "BIST",
+    "id_number": "5615",
+    "title": "Categorical Data Analysis",
+    "description": "Statistical analysis of data on a nominal scale: discrete distributions, contingency tables, odds ratios, interval estimates, goodness of fit tests, logistic/probit/complementary log-log regression, Poisson-related regression.",
+    "credits": "3",
+    "requirement_description": "BIST 5505 and 5605; or instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

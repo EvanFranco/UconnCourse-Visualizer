@@ -1,0 +1,18 @@
+{
+    "name": "PNB 3120W",
+    "dept_code": "PNB",
+    "id_number": "3120W",
+    "title": "Public Communication of Physiology and Neurobiology",
+    "description": "Strategies for effective public communication of science, focusing on accessibly conveying physiological concepts, and considering the role of life scientists as public communicators. Student work may include storytelling, blogging, data visualization, and videography.",
+    "credits": "3",
+    "requirement_description": "One 2000-level course in PNB; ENGL 1007 or 1010 or 1011; open only to Physiology and Neurobiology majors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

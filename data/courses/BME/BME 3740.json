@@ -1,0 +1,16 @@
+{
+    "name": "BME 3740",
+    "dept_code": "BME",
+    "id_number": "3740",
+    "title": "Introduction to Microscopy and Biophotonics",
+    "description": "Basic principles of modern light microscopy and related biophotonics techniques. Matlab will be used to model various imaging platforms. Topics include geometrical optics; image processing in spatial and Fourier domain; lensless microscopy imaging; light scattering and absorption in tissue; wave propagation; coherent and incoherent imaging; lens-based imaging systems; optical aberrations; phase retrieval; brightfield, darkfield, phase-contrast, and confocal microscopy; holographic imaging; light field microscopy; 3D tomographic imaging; autofocusing for whole slide imaging; two-photon imaging; structured illumination and other super-resolution techniques; Fourier ptychographic imaging; detectors and photon transfer curve; image denoising via regularization; optical coherent tomography.",
+    "credits": "3",
+    "requirement_description": "BME 3400 or ECE 3101; open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

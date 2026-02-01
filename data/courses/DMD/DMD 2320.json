@@ -1,0 +1,16 @@
+{
+    "name": "DMD 2320",
+    "dept_code": "DMD",
+    "id_number": "2320",
+    "title": "3D Lighting and Rendering I",
+    "description": "Introduction to dramatic lighting, 3-point lighting, shadows, materials, procedural textures, bump maps, displacement maps, ambient occlusion, ray tracing, and global illumination.",
+    "credits": "3",
+    "requirement_description": "DMD 1002 and 1102; open only to Digital Media and Design majors, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DGS 4235",
+    "dept_code": "DGS",
+    "id_number": "4235",
+    "title": "Laboratory in Molecular Diagnostics",
+    "description": "Nucleic acid isolation, blotting techniques, fluorescencet in situ hybridization, conventional and real-time polymerase chain reaction. Adhering to clinical laboratory quality guidelines, students obtain practical experience with molecular techniques for the detection and diagnosis of disease.",
+    "credits": "2",
+    "requirement_description": "DGS 4234; open only to students enrolled in the DGS and MLS programs, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

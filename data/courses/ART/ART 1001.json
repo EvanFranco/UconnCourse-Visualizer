@@ -1,0 +1,18 @@
+{
+    "name": "ART 1001",
+    "dept_code": "ART",
+    "id_number": "1001",
+    "title": "Exploring Creativity and Visual Art practices",
+    "description": "Explores the creative process, employing methods used by visual artists to design and produce artworks. Previous art experience is not required. CA 1.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI1"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

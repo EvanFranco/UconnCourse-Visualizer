@@ -1,0 +1,16 @@
+{
+    "name": "ECON 3413",
+    "dept_code": "ECON",
+    "id_number": "3413",
+    "title": "Financial Economics",
+    "description": "Basic principles used in investment decisions and their applications to pricing financial assets and to portfolio management. Asset pricing models including the Capital Asset Pricing Model and Arbitrage Pricing Theory. Fixed-income securities. Options and futures.",
+    "credits": "3",
+    "requirement_description": "ECON 2201 or 2211Q; ECON 2202 or 2212Q; STAT 1000Q or 1100Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

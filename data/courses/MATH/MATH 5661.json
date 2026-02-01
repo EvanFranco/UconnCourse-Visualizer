@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5661",
+    "dept_code": "MATH",
+    "id_number": "5661",
+    "title": "Yield Curve Models",
+    "description": "The theory and practice of stochastic models to analyze and value interest rate derivatives, and practical issues in the markets where they are traded.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

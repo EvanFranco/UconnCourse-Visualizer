@@ -1,0 +1,16 @@
+{
+    "name": "GRAD 5100",
+    "dept_code": "GRAD",
+    "id_number": "5100",
+    "title": "Fundamental Skills for Data Science",
+    "description": "Establishes background knowledge in Python and R programming, multivariate calculus and linear algebra, and basic statistics to prepare incoming students for success in the core courses in the M.S. in Data Science Program.",
+    "credits": "3",
+    "requirement_description": "Open only to students in the Data Science M.S. program.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

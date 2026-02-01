@@ -1,0 +1,16 @@
+{
+    "name": "DMD 2200",
+    "dept_code": "DMD",
+    "id_number": "2200",
+    "title": "Motion Design and Animation I",
+    "description": "Introduction to concepts and strategies for creating motion designs, animations, and visual effects.",
+    "credits": "3",
+    "requirement_description": "DMD 1002 and 1102; open to Digital Media and Design majors; others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

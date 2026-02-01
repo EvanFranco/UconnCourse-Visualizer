@@ -1,0 +1,16 @@
+{
+    "name": "DRAM 1218",
+    "dept_code": "DRAM",
+    "id_number": "1218",
+    "title": "Theatre Production: Stagecraft",
+    "description": "Introduction to the technology, tools, and materials used in constructing and rigging theatrical scenery.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

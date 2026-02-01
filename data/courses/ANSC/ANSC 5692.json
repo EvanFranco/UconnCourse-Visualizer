@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 5692",
+    "dept_code": "ANSC",
+    "id_number": "5692",
+    "title": "Research",
+    "description": "Independent research in animal science, livestock production, meats, dairy production, animal nutrition, growth, reproductive physiology, animal breeding, or environmental health. May be repeated for a total of 24 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DMD 3500",
+    "dept_code": "DMD",
+    "id_number": "3500",
+    "title": "Interactive Storytelling",
+    "description": "A project-based exploration of the relationship of story, character, and player in games. Students will develop narrative digital projects, examine a selection of popular storytelling games, and explore ways that games have historically visualized and communicated their stories.",
+    "credits": "3",
+    "requirement_description": "DMD 2500.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

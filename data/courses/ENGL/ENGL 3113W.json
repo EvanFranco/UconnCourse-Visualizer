@@ -1,0 +1,18 @@
+{
+    "name": "ENGL 3113W",
+    "dept_code": "ENGL",
+    "id_number": "3113W",
+    "title": "Renaissance English Literature",
+    "description": "Writers studied include More, Spenser, Shakespeare, Donne, Jonson, and Milton.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

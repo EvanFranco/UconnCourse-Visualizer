@@ -1,0 +1,16 @@
+{
+    "name": "BME 5630",
+    "dept_code": "BME",
+    "id_number": "5630",
+    "title": "Multiphysics Finite Element Analysis",
+    "description": "Fundamentals of the finite element method (FEA) via hands-on experience of solving typical design problems in the multidisciplinary field of biomedical engineering, including mechanical structures, heat transfer, fluid flow and electrical field distribution. Emphasizes basic mathematical and physical principles underlying the FEA, general procedure of identifying and solving engineering problems using COMSOL Multiphysics FEA software, interpretation of FEA analysis results and evaluation of the quality of the numerical solution. Students are expected to demonstrate a basic understanding of the concepts and mathematical formulation of FEA, and possess the ability to apply FEA procedures in biomedical problems and technology development.",
+    "credits": "3",
+    "requirement_description": "BME 3600 or instructor consent. Recommended preparation: Course is designed for BME juniors and seniors who have taken BME 3600, and for graduate students with generic background in mechanics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

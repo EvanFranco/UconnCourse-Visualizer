@@ -1,0 +1,16 @@
+{
+    "name": "AH 5720",
+    "dept_code": "AH",
+    "id_number": "5720",
+    "title": "Theory and Practice of Clinical Genomics",
+    "description": "Theory and practice of diagnostic laboratory methodologies and genomic data analyses for the clinical scientist. Sections are taught in a series of modules and include clinical case scenarios and analyses. With a change of content, this course may be repeated for credit. May be repeated for a total of 18 credits.",
+    "credits": "1-3",
+    "requirement_description": "Instructor consent. Recommended preparation: A course in human genetics.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

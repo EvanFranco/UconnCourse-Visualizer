@@ -1,0 +1,16 @@
+{
+    "name": "MATH 3660",
+    "dept_code": "MATH",
+    "id_number": "3660",
+    "title": "Advanced Financial Mathematics",
+    "description": "Advanced topics in financial mathematics such as single period, multi-period and continuous time financial models; Black-Scholes formula; interest rate models; and immunization theory.",
+    "credits": "3",
+    "requirement_description": "MATH 2620 and 3160.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

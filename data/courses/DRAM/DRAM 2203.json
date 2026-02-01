@@ -1,0 +1,23 @@
+{
+    "name": "DRAM 2203",
+    "dept_code": "DRAM",
+    "id_number": "2203",
+    "title": "The Holocaust in Print, Theater, and Film",
+    "description": "(Also offered as HEJS\u00a02203, HRTS\u00a02203.) Representations of the Holocaust, including first-hand accounts and documentaries; artistic choices in genre, structure, imagery, point of view, and the limits of representation. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MAST 3991",
+    "dept_code": "MAST",
+    "id_number": "3991",
+    "title": "Supervised Internship in Maritime Studies",
+    "description": "Internship with institutions, businesses, or agencies engaged in areas directly related to Maritime Studies. Maritime Studies faculty supervisor, student, and field supervisor of host organization will jointly define a specific project to advance student's educational program as well as mission of the host institution. Grades will be based on performance of the learning contract and a final academic product. May be repeated for credit with change in content and program coordinator's consent. May be repeated for a total of 15 credits.",
+    "credits": "1-3",
+    "requirement_description": "Completion of 9 credits of Maritime Studies core courses, and consent of the program coordinator.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

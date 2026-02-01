@@ -1,0 +1,16 @@
+{
+    "name": "CSE 4702",
+    "dept_code": "CSE",
+    "id_number": "4702",
+    "title": "Introduction to Modern Cryptography",
+    "description": "Covers the foundations of modern cryptography introducing basic topics such as one-way functions, pseudorandom generators, and computational hardness assumptions based on number theory. The course will cover fundamental cryptographic constructions such as hard-core predicates, secure symmetric encryption and message-authentication codes, and public-key cryptography.",
+    "credits": "3",
+    "requirement_description": "CSE 3400 and 3500; and STAT 3025Q or 3345Q or 3375Q or MATH 3160; open only to students in the School of Engineering and declared Computer Science minors.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

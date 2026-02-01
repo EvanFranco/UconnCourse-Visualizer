@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5249",
+    "dept_code": "NURS",
+    "id_number": "5249",
+    "title": "Masters of Science in Nursing Capstone Experience",
+    "description": "Integration of concepts, theories and principles pertinent to the student's specialty track, in an experiential learning setting, demonstrating integration of new knowledge and attainment of program outcomes.",
+    "credits": "3",
+    "requirement_description": "Open to graduate nursing students, instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

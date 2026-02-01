@@ -1,0 +1,21 @@
+{
+    "name": "LLAS 2630",
+    "dept_code": "LLAS",
+    "id_number": "2630",
+    "title": "Role Playing History: The Mexican Revolution",
+    "description": "(Also offered as HIST\u00a02630.) Students study the early history of Mexico as preparation for immersive role-playing its Revolution. Students recreate interactions among figures of the nation\u2019s civil war, and then apply lessons of imaginative dialogue to a historical assessment of the war and its aftermath.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

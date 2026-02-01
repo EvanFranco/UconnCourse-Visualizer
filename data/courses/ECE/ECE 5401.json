@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5401",
+    "dept_code": "ECE",
+    "id_number": "5401",
+    "title": "Advanced Digital Systems Design",
+    "description": "Microarchitecture and design of hardware acceleration for domain-specific applications. Topics include gate-level design, register-transfer-level (RTL) design, microarchitecture, instruction set architecture, compilers, programming languages, and algorithms. Focus on both efficient software for embedded applications and the design of efficient hardware systems for such applications.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: coursework in digital design.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

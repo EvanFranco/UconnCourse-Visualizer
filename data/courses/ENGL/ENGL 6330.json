@@ -1,0 +1,16 @@
+{
+    "name": "ENGL 6330",
+    "dept_code": "ENGL",
+    "id_number": "6330",
+    "title": "Seminar in Eighteenth-Century Literature",
+    "description": "With a change in content, this course may be repeated for a total of six credits. May be repeated for a total of 6 credits.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in English, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 6
+}

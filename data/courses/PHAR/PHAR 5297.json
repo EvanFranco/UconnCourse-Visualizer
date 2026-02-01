@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 5297",
+    "dept_code": "PHAR",
+    "id_number": "5297",
+    "title": "Special Topics in Pharmaceutics",
+    "description": "Includes topics not presently covered in courses which are pertinent to current departmental research and areas of recent development in the literature. May be repeated for a total of 24 credits.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 2
+}

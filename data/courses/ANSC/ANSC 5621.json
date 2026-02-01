@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 5621",
+    "dept_code": "ANSC",
+    "id_number": "5621",
+    "title": "Frontiers in Animal Embryo Biotechnology",
+    "description": "Focuses on the epigenetics and molecular aspects of embryology such as genomic imprinting and X inactivation. Introduces the state of numerous established and emerging embryo biotechnologies such as assisted reproductive technologies; gamete cryopreservation; transgenesis; nuclear transfer (cloning); gene targeting/genome editing; xenotransplantation; embryonic and tissue stem cells, induced pluripotent stem cells and their applications.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "PHYS 1020Q",
+    "dept_code": "PHYS",
+    "id_number": "1020Q",
+    "title": "Introductory Astronomy",
+    "description": "A basic introductory astronomy course without laboratories, including principles of celestial coordinate systems and telescope design; applications of fundamental physical laws to the sun, planets, stars and galaxies; evolution of stars, galaxies and the universe; recent space probe results, modern cosmology, astrobiology. Night observing sessions are an integral part of the course. CA 3.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed PHYS 1025.",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI6"
+    ],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

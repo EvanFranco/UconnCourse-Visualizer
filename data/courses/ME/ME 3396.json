@@ -1,0 +1,16 @@
+{
+    "name": "ME 3396",
+    "dept_code": "ME",
+    "id_number": "3396",
+    "title": "Honors Research",
+    "description": "May be used to convert independent research into course credit that may be applied toward the Honors Program requirements and will count as a technical elective. As part of the course, students will be involved in research programs of their choice in areas of emerging technologies. Research work will be directed by a Mechanical Engineering faculty member who serves as the research advisor for the course. Will typically involve collaborative efforts with graduate students and other researchers, and will provide significant independent problem solving experience to supplement the classroom experience obtained from traditional coursework.",
+    "credits": "1-4",
+    "requirement_description": "Instructor consent; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": true,
+    "max_credit_repeats": 0
+}

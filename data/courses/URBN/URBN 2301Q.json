@@ -1,0 +1,18 @@
+{
+    "name": "URBN 2301Q",
+    "dept_code": "URBN",
+    "id_number": "2301Q",
+    "title": "Research Methods and Analysis in Urban and Community Studies",
+    "description": "Introduction to research methods and analysis techniques useful in understanding urban issues and assessing public and non-profit social programs.",
+    "credits": "3",
+    "requirement_description": "STAT 1000 or 1100. Open to sophomores or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "Q"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CHIN 1113",
+    "dept_code": "CHIN",
+    "id_number": "1113",
+    "title": "Intermediate Chinese I",
+    "description": "Development of ability to communicate in Chinese, orally and in writing.",
+    "credits": "4",
+    "requirement_description": "CHIN 1112. Cannot be taken for credit after passing CHIN 1103, 1104, 1114.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PSYC 3101",
+    "dept_code": "PSYC",
+    "id_number": "3101",
+    "title": "Psychological Testing",
+    "description": "Practical and theoretical interpretation of common personality, industrial, educational, cognitive, and attitude tests. Evaluating utility, test bias, and error. Using tests in clinical, educational, and workplace settings.",
+    "credits": "3",
+    "requirement_description": "PSYC 2100Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

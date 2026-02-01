@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 1001",
+    "dept_code": "ANSC",
+    "id_number": "1001",
+    "title": "Introduction to Animal Science",
+    "description": "The biological, physical, and social factors that influence animal production and utilization.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CE 3510",
+    "dept_code": "CE",
+    "id_number": "3510",
+    "title": "Soil Mechanics",
+    "description": "Fundamentals of soil behavior and its use as a construction material. Effective stress principle, seepage and flow nets, consolidation, shear strength, limit equilibrium analysis. Written reports.",
+    "credits": "3",
+    "requirement_description": "CE 3110, which can be taken concurrently; enrollment in the School of Engineering. Recommended preparation: CE 3120.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ART 3030",
+    "dept_code": "ART",
+    "id_number": "3030",
+    "title": "Experimental Drawing",
+    "description": "Advanced studio course designed to expand the practice of drawing. This may include collaboration, performance, animation, and/or the incorporation of new technologies. A wide range of drawing prompts will allow for personal interpretation and encourage experimentation. Research, reading, writing, discussions, critiques, instructor demonstrations, field trips, and lectures may supplement the course.",
+    "credits": "3",
+    "requirement_description": "ART 1040. Open only to Art majors; open to non-majors by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

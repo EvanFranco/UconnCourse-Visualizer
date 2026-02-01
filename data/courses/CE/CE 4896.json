@@ -1,0 +1,16 @@
+{
+    "name": "CE 4896",
+    "dept_code": "CE",
+    "id_number": "4896",
+    "title": "Thesis in Civil Engineering",
+    "description": "Introduction to research through literature review and preparation of a research proposal, execution of the research proposal, preparation of written report and oral defense. May be repeated for a total of 3 credits.",
+    "credits": "1-3",
+    "requirement_description": "Open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 3
+}

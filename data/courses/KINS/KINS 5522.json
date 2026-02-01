@@ -1,0 +1,16 @@
+{
+    "name": "KINS 5522",
+    "dept_code": "KINS",
+    "id_number": "5522",
+    "title": "Scientific Instrumentation in Human Movement",
+    "description": "A course for graduate exercise science students focusing on the assessment of human movement using advanced instrumentation for data collection within both clinical and research contexts. Students will acquire skills in motion capture technology, transcranial magnetic stimulation, isokinetic testing, electromyography, quantitative sensory testing, and diagnostic ultrasound. Applications will consider diverse patient/client populations.",
+    "credits": "3",
+    "requirement_description": "Open to graduate students in Kinesiology; others by departmental consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

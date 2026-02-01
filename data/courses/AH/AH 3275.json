@@ -1,0 +1,16 @@
+{
+    "name": "AH 3275",
+    "dept_code": "AH",
+    "id_number": "3275",
+    "title": "HAZWOPER",
+    "description": "Provides individuals the necessary knowledge and training to meet the criteria for certification recognized by the Occupational Safety and Health Administration (OSHA) in work activities related to hazardous waste sites and clean up operations involving hazardous substances. Mandatory off-site field exercise required.",
+    "credits": "3",
+    "requirement_description": "Open only to Allied Health Sciences majors, Environmental Sciences majors, Environmental Engineering majors, and OSH Certificate students, others with instructor consent; open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

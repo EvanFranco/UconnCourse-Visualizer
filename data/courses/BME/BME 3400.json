@@ -1,0 +1,16 @@
+{
+    "name": "BME 3400",
+    "dept_code": "BME",
+    "id_number": "3400",
+    "title": "Biosystem Analysis",
+    "description": "A lecture course that covers Fourier analysis, Laplace analysis and Z-transforms. Techniques for generating quantitative mathematical models of physiological control systems; the behavior of physiological control systems using both time and frequency domain methods.",
+    "credits": "3",
+    "requirement_description": "ECE 2001; open only to Biomedical Engineering majors, others by instructor consent. This course and ECE 3101 may not be both taken for credit.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

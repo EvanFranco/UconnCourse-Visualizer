@@ -1,0 +1,16 @@
+{
+    "name": "CHEG 4147",
+    "dept_code": "CHEG",
+    "id_number": "4147",
+    "title": "Process Dynamics and Control",
+    "description": "Chemical process modeling, dynamics, and analysis. Measurement and control of process variables,design, and computer simulation of simple processes and control systems.",
+    "credits": "3",
+    "requirement_description": "CHEG 3112 and 3124 and MATH 2110 and 2410; open only to School of Engineering students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

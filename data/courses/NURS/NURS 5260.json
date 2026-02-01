@@ -1,0 +1,16 @@
+{
+    "name": "NURS 5260",
+    "dept_code": "NURS",
+    "id_number": "5260",
+    "title": "Advanced Theory and Practice in Nursing Education II: Assessment and Evaluation Strategies",
+    "description": "This course will introduce students to important concepts, principles, and practices related to assessment and evaluation in various educational contexts. The appropriate identification, selection, and development of evaluation strategies according to context, learning domain, and level of cognition is emphasized.",
+    "credits": "3",
+    "requirement_description": "NURS 5250, NURS 5259. Instructor consent required. Corequisite: NURS 5269.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

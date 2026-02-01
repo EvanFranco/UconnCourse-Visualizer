@@ -1,0 +1,16 @@
+{
+    "name": "ANSC 2276",
+    "dept_code": "ANSC",
+    "id_number": "2276",
+    "title": "Companion Animal Science",
+    "description": "Basic concepts of nutrition, physiology, health, genetics, and management of companion animals emphasizing cats and dogs, but less common ones will also be discussed. Management will encompass keeping companion animals, and behavioral, and mental health management concerns. Also taught with SAAS\u00a0276.",
+    "credits": "3",
+    "requirement_description": "ANSC 1001 or SAAS 101 and ANSC 1111 or SAAS 113.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ME 5210",
+    "dept_code": "ME",
+    "id_number": "5210",
+    "title": "Intelligent Material Systems and Structures",
+    "description": "Overview of piezoelectric materials and electrostrictive materials, shape memory alloys, magnetostrictive materials, and ER/MR fluids.  Development of adaptive structure integrated with piezoelectric material, actuation and sensing, simultaneous optimal design/control of electromechanical integrated system, nonlinear and robust control.  Design of shape memory alloy system for position control.  Development of semi-active control using ER/MR fluids.  Structural health monitoring and system identification research.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

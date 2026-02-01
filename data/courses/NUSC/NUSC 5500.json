@@ -1,0 +1,16 @@
+{
+    "name": "NUSC 5500",
+    "dept_code": "NUSC",
+    "id_number": "5500",
+    "title": "Food Colloids and Nanotechnology",
+    "description": "Comprehensive study on properties and structures of food colloids, including lipids, proteins and carbohydrates, from nanotechnology perspective. Development of food colloids-based nanoscale systems for applications in the context of food and nutrition.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: NUSC 5200.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MATH 6020",
+    "dept_code": "MATH",
+    "id_number": "6020",
+    "title": "Seminar in Algebra",
+    "description": "",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

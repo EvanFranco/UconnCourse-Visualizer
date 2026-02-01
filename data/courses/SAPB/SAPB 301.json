@@ -1,0 +1,16 @@
+{
+    "name": "SAPB 301",
+    "dept_code": "SAPB",
+    "id_number": "301",
+    "title": "Health and Disease Management of Animals",
+    "description": "Designed for students who plan to own and work with domestic animals. Its purpose is to develop student competence in disease management and to foster an intelligent working relationship with their veterinarian. The course will cover a systematic relationship of infectious and noninfectious diseases of domestic animals from the standpoint of economic and public health.",
+    "credits": "3",
+    "requirement_description": "SAAS 111 and 112 and a college course in biology.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

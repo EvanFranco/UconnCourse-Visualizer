@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3418",
+    "dept_code": "MCB",
+    "id_number": "3418",
+    "title": "Principles of Genome Function",
+    "description": "An exploration of how eukaryotic genetic information is stored, protected, retrieved, and passed on to the next generation, with an emphasis on connecting the principles of genome function to the experimental research that led to their discovery.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

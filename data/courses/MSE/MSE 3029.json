@@ -1,0 +1,16 @@
+{
+    "name": "MSE 3029",
+    "dept_code": "MSE",
+    "id_number": "3029",
+    "title": "Ceramic Materials",
+    "description": "Microstructure of crystalline ceramics and glasses and role of thermodynamics and kinetics on its establishment. Effect of process variables on microstructure and ultimately on mechanical, chemical and physical properties.",
+    "credits": "3",
+    "requirement_description": "MSE 2002; PHYS 1502Q.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ACCT 5584",
+    "dept_code": "ACCT",
+    "id_number": "5584",
+    "title": "Advanced Accounting",
+    "description": "An in-depth study of accounting for business combinations. Coverage also includes contemporary issues in financial accounting, such as multinational entities and partnerships.",
+    "credits": "3",
+    "requirement_description": "Not open to students who have passed ACCT 4203.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

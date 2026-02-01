@@ -1,0 +1,18 @@
+{
+    "name": "NRE 3185W",
+    "dept_code": "NRE",
+    "id_number": "3185W",
+    "title": "Wetland Techniques",
+    "description": "Wetland research techniques and skills associated with wetland delineation. Field, lab, and data analysis techniques commonly used by wetland professionals, including experience in data collection, analysis, interpretation, and written presentation. Field trips to implement field methods used to quantify wetland vegetation, soils, and hydrology.",
+    "credits": "4",
+    "requirement_description": "STAT 1000Q or higher; ENGL 1007 or ENGL 1010 or 1011; NRE 3105.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

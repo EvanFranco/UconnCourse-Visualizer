@@ -1,0 +1,16 @@
+{
+    "name": "COMM 5000",
+    "dept_code": "COMM",
+    "id_number": "5000",
+    "title": "Fundamentals of Theory, Research, and Design",
+    "description": "Introduction to the fundamentals of communication theory, research, and design for incoming graduate students. Overview of the philosophy of science, different research paradigms, and approaches to the study of communication.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: COMM 5001, which should be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

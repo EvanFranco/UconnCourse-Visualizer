@@ -1,0 +1,19 @@
+{
+    "name": "POLS 2035",
+    "dept_code": "POLS",
+    "id_number": "2035",
+    "title": "Native American and Indigenous Theory, Governance, and Politics",
+    "description": "(Also offered as NAIS\u00a02035.) Examines trajectories and concepts in Indigenous theory, politics and governance that may include Indigenous dispossession, settler colonialism, Indigenous feminism, sovereignty, survivance, recognition/reconciliation, resurgence, and refusal.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Introduction to Native American and Indigenous Studies or POLS 1002 or any course in American Politics. Not open to students who have passed POLS 2998 when offered as \"Native American and Indigenous Theory and Politics.\"",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

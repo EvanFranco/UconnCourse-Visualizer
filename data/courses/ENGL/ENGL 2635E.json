@@ -1,0 +1,23 @@
+{
+    "name": "ENGL 2635E",
+    "dept_code": "ENGL",
+    "id_number": "2635E",
+    "title": "Literature and the Environment",
+    "description": "Ecocritical approaches to literary treatment of global environmental issues. CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

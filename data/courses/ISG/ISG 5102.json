@@ -1,0 +1,16 @@
+{
+    "name": "ISG 5102",
+    "dept_code": "ISG",
+    "id_number": "5102",
+    "title": "Clinical Applications of Genetic and Genomic Technologies",
+    "description": "Principles, clinical applications, and interpretation of genetic and genomic testing methods.",
+    "credits": "3",
+    "requirement_description": "Only open to graduate students currently enrolled in the Clinical Genetics and Genomics certificate, others with instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

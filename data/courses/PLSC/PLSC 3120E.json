@@ -1,0 +1,23 @@
+{
+    "name": "PLSC 3120E",
+    "dept_code": "PLSC",
+    "id_number": "3120E",
+    "title": "Fungi, Fire, and Flood: Soil Microbes in a Changing World",
+    "description": "An introduction to soil microorganisms through exploring how a diversity of fungi, bacteria, and other soil microbes behave in natural and extreme habitats across multiple scales of biological organization. We will relate microbial processes to global change drivers emphasizing responses to natural disasters and pollution, as well as discerning effects of microbial processes on mitigating threats and in addressing contemporary issues.",
+    "credits": "3",
+    "requirement_description": "PLSC 2120",
+    "restrictions": {},
+    "content_areas": [
+        "CA3"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI6"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

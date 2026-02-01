@@ -1,0 +1,16 @@
+{
+    "name": "MARN 5060",
+    "dept_code": "MARN",
+    "id_number": "5060",
+    "title": "Dynamic Physical Oceanography",
+    "description": "Introduction to a theoretical and computational understanding of physical processes that control the structure and circulation in the ocean and atmosphere. Topics include the global energy balance, thermodynamics and stability, fundamental geophysical fluid mechanics, surface gravity waves, tides and other long waves.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: Undergraduate courses in Physics and Calculus and elementary computing skills.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

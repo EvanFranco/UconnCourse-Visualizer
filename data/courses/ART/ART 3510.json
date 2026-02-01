@@ -1,0 +1,16 @@
+{
+    "name": "ART 3510",
+    "dept_code": "ART",
+    "id_number": "3510",
+    "title": "Intaglio Printmaking",
+    "description": "Investigation of black-and-white and color intaglio techniques.",
+    "credits": "3",
+    "requirement_description": "ART 2510.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

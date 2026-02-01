@@ -1,0 +1,23 @@
+{
+    "name": "AAAS 2530",
+    "dept_code": "AAAS",
+    "id_number": "2530",
+    "title": "Asian American Experience Since 1850",
+    "description": "(Also offered as HIST\u00a02530.) Survey of Asian American experiences in the United States since 1850. Responses by Asian Americans to both opportunities and discrimination.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

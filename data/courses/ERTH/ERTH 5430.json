@@ -1,0 +1,16 @@
+{
+    "name": "ERTH 5430",
+    "dept_code": "ERTH",
+    "id_number": "5430",
+    "title": "Stable Isotope Biogeochemistry",
+    "description": "Fundamentals of stable isotope biogeochemistry. Origin of elements and stable isotopes; equilibrium and kinetic fractionation; isotope systematics of carbon, nitrogen, hydrogen, oxygen, and sulfur; biogeochemical systems; isotopes as a forensic tracer; and isotopes in paleoclimate and paleoenvironmental research.",
+    "credits": "3",
+    "requirement_description": "Not open for credit to students who have passed ERTH 4430.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

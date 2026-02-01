@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 4209",
+    "dept_code": "FNCE",
+    "id_number": "4209",
+    "title": "Applications in Financial Management",
+    "description": "An intermediate level course using cases i.e., problems faced by actual firms, to teach students how to apply financial management concepts and techniques to real-world situations.",
+    "credits": "3",
+    "requirement_description": "FNCE 3101 (BUSN majors) or MATH 3650 (Mathematics Actuarial Science Finance majors); open only to Business and Mathematics Actuarial Science Finance majors of junior or higher status. Recommended preparation: OPIM 3103.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

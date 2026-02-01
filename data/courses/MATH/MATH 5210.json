@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5210",
+    "dept_code": "MATH",
+    "id_number": "5210",
+    "title": "Abstract Algebra I",
+    "description": "Group theory, ring theory and modules, and universal mapping properties.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

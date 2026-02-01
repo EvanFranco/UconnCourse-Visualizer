@@ -1,0 +1,23 @@
+{
+    "name": "ARAB 3550W",
+    "dept_code": "ARAB",
+    "id_number": "3550W",
+    "title": "Classical Arabic Literature",
+    "description": "Survey of Classical Arabic Literature from pre-Islamic Arabia to the Late Middle Ages, from the Fertile Crescent to the Iberian Peninsula. Recent scholarship and theory in the field of Arabic literature. Taught in English (Arabic readings optional). CA 1.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

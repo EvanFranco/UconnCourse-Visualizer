@@ -1,0 +1,16 @@
+{
+    "name": "FNCE 5209",
+    "dept_code": "FNCE",
+    "id_number": "5209",
+    "title": "Corporate Finance",
+    "description": "A markets-oriented approach to corporate finance issues, especially capital structure and dividend policy. Modern concepts of agency theory and asymmetric information are integrated.",
+    "credits": "3",
+    "requirement_description": "FNCE 5101 or FNCE 5182; open to MBA students, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

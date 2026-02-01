@@ -1,0 +1,16 @@
+{
+    "name": "PHIL 2210",
+    "dept_code": "PHIL",
+    "id_number": "2210",
+    "title": "Metaphysics",
+    "description": "Fundamental questions about the nature of things. Topics may include universals and particulars, parts and wholes, space and time, possibility and necessity, persistence and change, causation, persons, free will.",
+    "credits": "3",
+    "requirement_description": "One three-credit course in Philosophy at the 1100 level.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

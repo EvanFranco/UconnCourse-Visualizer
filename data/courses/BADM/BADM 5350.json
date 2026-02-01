@@ -1,0 +1,16 @@
+{
+    "name": "BADM 5350",
+    "dept_code": "BADM",
+    "id_number": "5350",
+    "title": "Fund Management I",
+    "description": "First part of a two-part Fund Management course. Develops the objectives and goals, the process, and the procedure for execution for management of funds in conformity with the SMF Prospectus. The purpose is to train students in the art of asset allocation, security selection, portfolio construction, risk management, preparing analysts' reports for trade recommendations, monitoring of positions, and preparing reports for presentation to the Investment Advisory Board.",
+    "credits": "3",
+    "requirement_description": "FNCE 5101. Corequisite: FNCE 5202.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

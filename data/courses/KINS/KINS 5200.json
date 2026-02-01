@@ -1,0 +1,16 @@
+{
+    "name": "KINS 5200",
+    "dept_code": "KINS",
+    "id_number": "5200",
+    "title": "Foundations of Athletic Training",
+    "description": "To provide students with an overview of the general concepts and principles related to the profession of athletic training.",
+    "credits": "2",
+    "requirement_description": "Open only to Athletic Training students.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

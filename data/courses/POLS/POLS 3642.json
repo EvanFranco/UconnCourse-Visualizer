@@ -1,0 +1,21 @@
+{
+    "name": "POLS 3642",
+    "dept_code": "POLS",
+    "id_number": "3642",
+    "title": "African-American Politics",
+    "description": "(Also offered as AFRA\u00a03642.) Political behavior, theory, and ideology of African-Americans, with emphasis on contemporary U.S. politics. CA 4.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI3"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PHAR 6285",
+    "dept_code": "PHAR",
+    "id_number": "6285",
+    "title": "Complex Equilibria",
+    "description": "A study of the physico-chemical and mathematical treatment in pharmaceutical systems. Topics center on thermodynamics, activity coefficients, acids and bases, solubility, complexation solubilization and protein binding.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

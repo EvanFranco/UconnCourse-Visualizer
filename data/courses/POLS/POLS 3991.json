@@ -1,0 +1,16 @@
+{
+    "name": "POLS 3991",
+    "dept_code": "POLS",
+    "id_number": "3991",
+    "title": "Supervised Field Work",
+    "description": "Students taking this course will be assigned a final grade of S (satisfactory) or U (unsatisfactory). May be repeated for credit.",
+    "credits": "1-12",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

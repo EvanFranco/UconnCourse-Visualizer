@@ -1,0 +1,16 @@
+{
+    "name": "DMD 4310",
+    "dept_code": "DMD",
+    "id_number": "4310",
+    "title": "3D Rigging",
+    "description": "Concepts of rigging, with emphasis on animated props and characters. Techniques for using and creating bones, constraints, skeletons, skinning and weight painting.",
+    "credits": "3",
+    "requirement_description": "DMD 3350; open to B.F.A Digital Media and Design 3D Animation concentration students, others with instructor consent. Recommended preparation: DMD 3300.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

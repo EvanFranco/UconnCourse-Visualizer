@@ -1,0 +1,16 @@
+{
+    "name": "CSE 5299",
+    "dept_code": "CSE",
+    "id_number": "5299",
+    "title": "Computer Networks and Data Communication",
+    "description": "Introduction to computer networks and data communications. Network types, components and topology, protocol architecture, routing algorithms, and performance. Case studies including LAN and other architectures.",
+    "credits": "3",
+    "requirement_description": "Department consent; open to graduate students in the Computer Science and Engineering program, others with permission. Not open for credit to students who have passed CSE 3300. Recommended preparation: CSE 2304 or 3666.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

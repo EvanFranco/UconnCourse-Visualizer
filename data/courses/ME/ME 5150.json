@@ -1,0 +1,16 @@
+{
+    "name": "ME 5150",
+    "dept_code": "ME",
+    "id_number": "5150",
+    "title": "Analytical and Applied Kinematics",
+    "description": "Analytical methods of coordinate transformation and two and three dimensional motion, analysis of relative motion and relative freedom through kinematics connections, study of finite and instantaneous properties of motion, study of the geometry of single and multi-parameter engineering curves, surfaces and motions. Application in the analysis and design of linkages and mechanisms.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ALDS 5000",
+    "dept_code": "ALDS",
+    "id_number": "5000",
+    "title": "Foundations of Applied Linguistics and Discourse Studies",
+    "description": "Issues in applied linguistics such as second language learning and teaching, curriculum development, language assessment and program evaluation, sociolinguistics, technological application in language learning and teaching, discourse analysis, and cognitive approaches to applied linguistics.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "AMST 2993",
+    "dept_code": "AMST",
+    "id_number": "2993",
+    "title": "International Study",
+    "description": "Special topics taken in an international study program. Consent of department head required, normally to be granted prior to the student's departure. May be repeated for a total of 12 credits.",
+    "credits": "1-9",
+    "requirement_description": "Department consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 1
+}

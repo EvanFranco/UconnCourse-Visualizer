@@ -1,0 +1,16 @@
+{
+    "name": "ASLN 1101",
+    "dept_code": "ASLN",
+    "id_number": "1101",
+    "title": "Elementary American Sign Language I",
+    "description": "Introductory course in ASL designed for students who have little or no previous knowledge of ASL.",
+    "credits": "4",
+    "requirement_description": "May not be taken out of sequence after passing ASLN 1102.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

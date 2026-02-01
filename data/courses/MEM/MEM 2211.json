@@ -1,0 +1,16 @@
+{
+    "name": "MEM 2211",
+    "dept_code": "MEM",
+    "id_number": "2211",
+    "title": "Introduction to Manufacturing Systems",
+    "description": "Fundamental engineering aspects of manufacturing. Students become familiar with common processes in manufacturing such as cutting, casting, and bending and are introduced to advanced techniques such as additive manufacturing. Overview of manufacturing operations management, production optimization, and the systems used in controlling manufacturing enterprises including the concepts of global competition, and manufacturing as a competitive weapon.",
+    "credits": "3",
+    "requirement_description": "STAT 1000Q or STAT 1100Q or STAT 3025Q or STAT 3345Q or STAT 3375Q or CE 2210 or CE 2251 or MATH 3160 or ENGR 3400, any of which may also be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

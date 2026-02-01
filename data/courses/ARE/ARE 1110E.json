@@ -1,0 +1,23 @@
+{
+    "name": "ARE 1110E",
+    "dept_code": "ARE",
+    "id_number": "1110E",
+    "title": "Population, Food, and the Environment",
+    "description": "The role of agriculture in the growth and development of societies throughout the world. Economic, social, and environmental problems of food production and resource needs in developing and advanced societies. CA 2.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI4",
+        "TOI5"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

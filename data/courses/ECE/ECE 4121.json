@@ -1,0 +1,16 @@
+{
+    "name": "ECE 4121",
+    "dept_code": "ECE",
+    "id_number": "4121",
+    "title": "Digital Control Systems",
+    "description": "Analysis and design of control systems incorporating a digital computer as the controlling element. Building blocks of digital control. Measures of control system performance. Frequency domain and state variable methods of control design. Optimal control methods. State variable estimation. Implementation issues. Use of computer-aided software tools for simulation and design.",
+    "credits": "3",
+    "requirement_description": "ECE 3111; open only to students in the School of Engineering.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

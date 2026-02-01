@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5430",
+    "dept_code": "MCB",
+    "id_number": "5430",
+    "title": "Analysis of Eukaryotic Functional Genomic Data",
+    "description": "Construction and implementation of computational pipelines that integrate available bioinformatics tools to perform processing, analysis and quality control of eukaryotic functional genomics datasets from ChIP-seq, RNA-seq and other high throughput sequencing approaches.No programming experience required.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

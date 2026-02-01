@@ -1,0 +1,16 @@
+{
+    "name": "ANTH 3302",
+    "dept_code": "ANTH",
+    "id_number": "3302",
+    "title": "Medical Ecology",
+    "description": "Anthropological perspectives on the interrelationships among culture, biology, environment, and disease. Major topics include ecology and adaptation, population dynamics, nutrition, reproduction, disease in sociological context, health seeking behavior, and the complexity of the interaction of western and non-western medical systems.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: ANTH 3300.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BME 3520",
+    "dept_code": "BME",
+    "id_number": "3520",
+    "title": "Developing Mobile Apps for Healthcare",
+    "description": "Mobile apps are changing the way doctors and patients approach health care. Designed for use by doctors, patients or both, the apps available range from handy databases about drugs and diseases to sophisticated monitors that read a person's physiological signals. Students will learn the basic elements of apps development on Android platforms, including XML, and Java, UI amongst others. Topics include how to handle patient data in the cloud using HIPAA-Compliant web service and how to integrate machine learning models in app development. No previous programming experience is needed.",
+    "credits": "3",
+    "requirement_description": "Open only to BME majors, others with consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

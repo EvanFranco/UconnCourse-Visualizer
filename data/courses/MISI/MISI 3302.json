@@ -1,0 +1,16 @@
+{
+    "name": "MISI 3302",
+    "dept_code": "MISI",
+    "id_number": "3302",
+    "title": "General Military Science III",
+    "description": "Dynamics of small unit tactics, and branches of the Army. One weekend field training exercise.",
+    "credits": "3",
+    "requirement_description": "MISI 3301.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ARE 2434E",
+    "dept_code": "ARE",
+    "id_number": "2434E",
+    "title": "Environmental and Resource Policy",
+    "description": "Emergence of environmental policies from the local, legal, and regulatory angles. Formalization and structure of environmental policy with a focus on the hurdles, design, and implementation of policy, particularly air and water policy. Suitable for all majors.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [
+        "TOI4"
+    ],
+    "skill_codes": [
+        "E"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

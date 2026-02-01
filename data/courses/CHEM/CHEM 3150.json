@@ -1,0 +1,16 @@
+{
+    "name": "CHEM 3150",
+    "dept_code": "CHEM",
+    "id_number": "3150",
+    "title": "Wine Chemistry",
+    "description": "Introduction to natural products chemistry with an interdisciplinary perspective.  Students will explore how chemical structure and composition correlate with physical properties. Case studies analyzing specific varietals and the structure/property correlations that are drawn using both analytical instrumentation and tasting panels.",
+    "credits": "2",
+    "requirement_description": "CHEM 2241 or CHEM 2443, which may be taken concurrently. Instructor consent required.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

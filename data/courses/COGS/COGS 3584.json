@@ -1,0 +1,16 @@
+{
+    "name": "COGS 3584",
+    "dept_code": "COGS",
+    "id_number": "3584",
+    "title": "Seminar in Cognitive Science",
+    "description": "Recent developments in Cognitive Science.",
+    "credits": "1",
+    "requirement_description": "COGS 2201; open only to Cognitive Science majors and minors who are juniors or higher. Recommended preparation: at least two of ANTH 3250, CSE 4705, LING 2010Q, PHIL 3250/W, PSYC 2501, or SLHS 4245/W.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

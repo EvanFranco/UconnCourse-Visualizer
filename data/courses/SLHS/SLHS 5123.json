@@ -1,0 +1,16 @@
+{
+    "name": "SLHS 5123",
+    "dept_code": "SLHS",
+    "id_number": "5123",
+    "title": "Bilingualism in Typical and Atypical Populations: Language and Cognition",
+    "description": "Biological and cognitive factors associated with language acquisition, cognitive reserve, Specific Language Impairment in bilinguals. Emphasis on diagnosis, cognitive factors in language selection, and differences in reading opaque vs. transparent languages.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: A course in phonetics, language development and disorders. Not open to students who have passed SLHS 4123.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

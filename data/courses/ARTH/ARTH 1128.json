@@ -1,0 +1,23 @@
+{
+    "name": "ARTH 1128",
+    "dept_code": "ARTH",
+    "id_number": "1128",
+    "title": "Global Perspectives on Western Art: Renaissance to the Present",
+    "description": "Survey of Western art (15th Century through the present) within a global perspective. Explores transformations in Western art in relation to the West's fundamental interconnection with non-Western societies. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

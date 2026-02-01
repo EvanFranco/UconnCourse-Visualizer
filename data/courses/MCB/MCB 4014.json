@@ -1,0 +1,16 @@
+{
+    "name": "MCB 4014",
+    "dept_code": "MCB",
+    "id_number": "4014",
+    "title": "Structure and Dynamics of Macromolecular Complexes",
+    "description": "Biochemical and biophysical characteristics of macromolecular biological assemblies from atomic to the cellular level. Topics include ribosomes, viruses, polymerases, membrane protein assemblies and ion transporters, examined through lecture, discussion, primary literature and interactive computational modules.",
+    "credits": "3",
+    "requirement_description": "MCB 2000 or 3010.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

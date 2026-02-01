@@ -1,0 +1,20 @@
+{
+    "name": "HDFS 1080",
+    "dept_code": "HDFS",
+    "id_number": "1080",
+    "title": "Science of Individual and Family Health and Wellbeing",
+    "description": "Topics related to the emotional/mental, physical, social, and societal/community well-being of individuals and families across the lifespan, highlighting the interwoven influences that shape resources that address or neglect the needs of both the general population and its diverse subgroups.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA2"
+    ],
+    "tois": [
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

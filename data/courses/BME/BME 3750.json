@@ -1,0 +1,16 @@
+{
+    "name": "BME 3750",
+    "dept_code": "BME",
+    "id_number": "3750",
+    "title": "Tissue Engineering Laboratory",
+    "description": "This is an undergraduate laboratory course designed to provide hands on training in tissue engineering methods and techniques. Students will learn the necessary skills required for culturing and maintaining cells to practice tissue engineering strategies. The students will also learn basic tissue engineering lab techniques and develop assays and staining methods related to the development and evaluation of in vitro tissue engineering products.",
+    "credits": "3",
+    "requirement_description": "BME 3700; open only to Biomedical Engineering majors, others by instructor consent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

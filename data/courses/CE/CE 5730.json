@@ -1,0 +1,16 @@
+{
+    "name": "CE 5730",
+    "dept_code": "CE",
+    "id_number": "5730",
+    "title": "Transportation Planning",
+    "description": "Transportation economics, urban transportation planning process, local area traffic management, evaluation of transportation improvements, land use and transportation interaction.",
+    "credits": "3",
+    "requirement_description": "Recommended preparation: CE 2251 or equivalent, CE 2710 or equivalent. Not open for credit to students who have passed CE 4730.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

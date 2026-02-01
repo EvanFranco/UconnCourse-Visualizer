@@ -1,0 +1,16 @@
+{
+    "name": "AH 3099",
+    "dept_code": "AH",
+    "id_number": "3099",
+    "title": "Independent Study In Allied Health",
+    "description": "Individualized study in a specialized area in the field of allied health. Students may only count a maximum combined credit total of six credits toward the Allied Health major of International Study, Independent Study and Internship credits. May be repeated for credit.",
+    "credits": "1-4",
+    "requirement_description": "Open only with consent of instructor, advisor and department head.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

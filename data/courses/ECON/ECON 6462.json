@@ -1,0 +1,16 @@
+{
+    "name": "ECON 6462",
+    "dept_code": "ECON",
+    "id_number": "6462",
+    "title": "Empirical Industrial Organization",
+    "description": "Advanced treatment of the behavior and performance of firms in imperfectly competitive markets. Topics include empirical estimation of demand and production functions; static models of competition in prices and quantities; empirical models of market entry and exit; single-agent dynamic models; and dynamic games.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

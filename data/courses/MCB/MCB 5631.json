@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5631",
+    "dept_code": "MCB",
+    "id_number": "5631",
+    "title": "Sequence-based Microbial Community Analysis",
+    "description": "Overview of current computational methods for analyzing sequence-based microbial community data including amplicon-based, shotgun metagenomics and metatranscriptomics methods. Students will analyze published data or their own datasets.",
+    "credits": "3",
+    "requirement_description": "MCB graduate students only.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

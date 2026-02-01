@@ -1,0 +1,16 @@
+{
+    "name": "OPIM 3506",
+    "dept_code": "OPIM",
+    "id_number": "3506",
+    "title": "Business Application Programming",
+    "description": "Development of business application software using structured and object-oriented programming techniques. The emphasis is on programming logic, rapid application development techniques and personal productivity tools. Topics include program design techniques, programming constructs, interface development techniques, event driven programming, file and database processing, and object linking and embedding. Cannot be used to fulfill Analytics and Information Management (AIM) major requirements. Offered only at regional campus locations.",
+    "credits": "3",
+    "requirement_description": "OPIM 3103 or equivalent; open only to business majors of junior or higher status, others with consent of OPIM Department Head.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,22 @@
+{
+    "name": "POLS 3040",
+    "dept_code": "POLS",
+    "id_number": "3040",
+    "title": "Power, Politics and Art",
+    "description": "A study of power and politics through a survey of major political ideologies and their expression in art and architecture, in various past and present cultures, both as a means of political socialization and a tool of resistance and protest. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "Open to juniors or higher.",
+    "restrictions": {},
+    "content_areas": [
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

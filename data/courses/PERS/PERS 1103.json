@@ -1,0 +1,16 @@
+{
+    "name": "PERS 1103",
+    "dept_code": "PERS",
+    "id_number": "1103",
+    "title": "Intermediate Persian I",
+    "description": "Further development of listening, speaking, reading, and writing skills in Persian within a cultural setting. Readings to enhance cultural awareness of the Persian-speaking world.",
+    "credits": "4",
+    "requirement_description": "PERS 1102 or equivalent.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

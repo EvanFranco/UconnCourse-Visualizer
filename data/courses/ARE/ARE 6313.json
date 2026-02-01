@@ -1,0 +1,16 @@
+{
+    "name": "ARE 6313",
+    "dept_code": "ARE",
+    "id_number": "6313",
+    "title": "Applied Econometrics II",
+    "description": "An introduction to econometric methods used in contemporary applied economic data analysis. Emphasis on learning how to operationalize different estimation techniques in standard statistical software.",
+    "credits": "3",
+    "requirement_description": "ARE 5311 or ARE 6311. Not open for credit to students who have passed ARE 5313.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

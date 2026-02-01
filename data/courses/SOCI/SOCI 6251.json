@@ -1,0 +1,16 @@
+{
+    "name": "SOCI 6251",
+    "dept_code": "SOCI",
+    "id_number": "6251",
+    "title": "Current Theory and Research",
+    "description": "An examination of current theories. Topics include: consideration of their continuities with classical theories, conceptual and measurement problems in testing and constructing current theories, and the interplay between theory and research.",
+    "credits": "3",
+    "requirement_description": "SOCI 5251.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

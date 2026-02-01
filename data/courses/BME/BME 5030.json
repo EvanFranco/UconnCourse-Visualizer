@@ -1,0 +1,16 @@
+{
+    "name": "BME 5030",
+    "dept_code": "BME",
+    "id_number": "5030",
+    "title": "Human Error and Medical Device Accidents",
+    "description": "Basic principles needed to analyze medical devices, medical device users, medical device environments and medical device accidents. It particularly focuses on human factors engineering as an important step to minimizing human error. The role of medical device manufacturers, medical device regulators and medical device owners are examined to identify their role in reducing medical device use errors and medical device accidents. The nature and types of human error as well as a taxonomy of medical device accidents are presented. Investigative techniques involving root cause analysis and failure modes and effects analysis are taught and applied to industrial and medical device accidents. Operating room fires, electrosurgical and laser burns, anesthesia injuries, infusion device accidents, catheters and electrode failures and tissue injury in the medical environment are in detail. A semester project will require the student to employ these tools and techniques to analyze a medical device accident.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

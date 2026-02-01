@@ -1,0 +1,16 @@
+{
+    "name": "MSE 4801",
+    "dept_code": "MSE",
+    "id_number": "4801",
+    "title": "Materials for Alternative, Renewable Energy",
+    "description": "Overview of energy conversion and storage systems - centralized and distributed generation to stationary and motive batteries; efficiency calculation and thermodynamics; electrochemistry - primary and secondary batteries; fuels - chemistry, processing, impurities; combustion, gasification and electrochemical systems; materials requirements; bulk and surface properties; metals, ceramics and superalloys; gas -metal interactions; gas - liquid -metal interactions; development trend - alloying principles, coatings, claddings; alloy processing and coating techniques.",
+    "credits": "3",
+    "requirement_description": "MSE 3001 and 3002 both of which can be taken concurrently.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

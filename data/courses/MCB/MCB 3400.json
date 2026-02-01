@@ -1,0 +1,16 @@
+{
+    "name": "MCB 3400",
+    "dept_code": "MCB",
+    "id_number": "3400",
+    "title": "Human Evolutionary Genomics",
+    "description": "Principles of evolutionary genomics and their applications in understanding recent human evolutionary history and the origin and distribution of genetic and phenotypic variation, including disease, within and among human populations.",
+    "credits": "3",
+    "requirement_description": "MCB 2400 or 2410. Recommended preparation: EEB 2245.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

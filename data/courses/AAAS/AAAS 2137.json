@@ -1,0 +1,22 @@
+{
+    "name": "AAAS 2137",
+    "dept_code": "AAAS",
+    "id_number": "2137",
+    "title": "Asian American Theatre and Performance",
+    "description": "(Also offered as DRAM\u00a02137.) Study of Asian American history and culture through the lens of theatre and performance, highlighting the medium's strength in expressing complex identities.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4"
+    ],
+    "tois": [
+        "TOI1",
+        "TOI2"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

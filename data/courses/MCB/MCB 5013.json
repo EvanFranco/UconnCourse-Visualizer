@@ -1,0 +1,16 @@
+{
+    "name": "MCB 5013",
+    "dept_code": "MCB",
+    "id_number": "5013",
+    "title": "Structure and Function of Biological Macromolecules",
+    "description": "Fundamentals of protein structure, and the forces that stabilize structure. Recurrent structural motifs, molecular ancestry/homology, and insights into proteins structure evolution. Protein folding and dynamics. Structure-function correlations, and structural basis of regulation. Techniques used to investigate structure: X-ray diffraction, NMR, TEM, AFM, structure prediction, computational simulations. Advanced topics: chaperones; structural genomics; role of misfolded proteins in disease.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ARE 4995",
+    "dept_code": "ARE",
+    "id_number": "4995",
+    "title": "Special Topics",
+    "description": "Topics and credits to be published prior to the registration period preceding the semester offerings. May be repeated for credit.",
+    "credits": "1-6",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": null
+}

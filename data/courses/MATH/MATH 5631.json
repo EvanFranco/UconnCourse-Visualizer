@@ -1,0 +1,16 @@
+{
+    "name": "MATH 5631",
+    "dept_code": "MATH",
+    "id_number": "5631",
+    "title": "Long-Term Actuarial Mathematics II",
+    "description": "A continuation of Long-Term Actuarial Mathematics I. Topics include multiple state models, multiple decrements, multiple lives, profit and loss analysis, pension plans and funding, retirement benefits, long-term health and disability.",
+    "credits": "4",
+    "requirement_description": "MATH 5630. Not open to students who have passed MATH 3631.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

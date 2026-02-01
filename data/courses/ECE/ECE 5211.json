@@ -1,0 +1,16 @@
+{
+    "name": "ECE 5211",
+    "dept_code": "ECE",
+    "id_number": "5211",
+    "title": "Semiconductor Devices and Models",
+    "description": "Band theory, conduction in semiconductors, carrier statistics, deep levels, impurities with multiple charge states, heavy doping effects, non-uniform doping. Non-equilibrium processes, carrier scattering mechanisms, the continuity equation, avalanche multiplication, carrier generation, recombination, and lifetime. P-n junctions, non-abrupt junctions, various injection regimes, and device models. Metal semiconductor junctions, current transport mechanisms, and models. BJT, JFET, MESFET, and MOSFET, and device models.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

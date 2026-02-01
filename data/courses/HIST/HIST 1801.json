@@ -1,0 +1,23 @@
+{
+    "name": "HIST 1801",
+    "dept_code": "HIST",
+    "id_number": "1801",
+    "title": "History of Asia in the World to 1500",
+    "description": "Development and spread of the Indic and Sinitic civilizations to 1500, with attention to cross-cultural contacts and sources of historical knowledge. CA 1. CA 4-INT.",
+    "credits": "3",
+    "requirement_description": "No requirements to take this course.",
+    "restrictions": {},
+    "content_areas": [
+        "CA1",
+        "CA4",
+        "CA4INT"
+    ],
+    "tois": [
+        "TOI2",
+        "TOI5"
+    ],
+    "skill_codes": [],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}

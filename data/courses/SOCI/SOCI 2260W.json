@@ -1,0 +1,18 @@
+{
+    "name": "SOCI 2260W",
+    "dept_code": "SOCI",
+    "id_number": "2260W",
+    "title": "Science, Medicine, and Race",
+    "description": "An introduction to science, medicine, and the construct of race. Employs a variety of scholarly literatures but centers on the social constructionist approach to race. Topics may include colonialism, eugenics, and Darwinism; notions of biology and species; the causes and consequences of health inequities across the color-line; genetic and genomic research; and DNA and ancestry testing.",
+    "credits": "3",
+    "requirement_description": "ENGL 1007 or 1010 or 1011. Recommended preparation: SOCI 1001.",
+    "restrictions": {},
+    "content_areas": [],
+    "tois": [],
+    "skill_codes": [
+        "W"
+    ],
+    "lab": false,
+    "honors_credit": false,
+    "max_credit_repeats": 0
+}
